@@ -1,10 +1,10 @@
 :root {
-    --bg-color: #0b132b; /* Dark blue background */
+    --bg-color: #0b132b; 
     --text-color: #e0e6ed;
     --text-muted: #94a3b8;
-    --card-bg: #1c2541; /* Lighter dark blue for cards */
+    --card-bg: #1c2541; 
     --primary-color: #3a506b;
-    --accent-color: #5bc0be; /* Teal accent */
+    --accent-color: #5bc0be; 
     --accent-hover: #489a98;
     --tag-bg: rgba(91, 192, 190, 0.15);
     --tag-text: #5bc0be;
@@ -26,96 +26,106 @@ body {
     -webkit-font-smoothing: antialiased;
 }
 
+/* HEADER COMPACTO */
 header {
     background-color: var(--card-bg);
     color: #fff;
-    padding: 3rem 1rem 2rem;
-    text-align: center;
-    border-bottom: 4px solid var(--accent-color);
-    box-shadow: 0 4px 20px rgba(0,0,0,0.5);
+    padding: 1rem 2rem;
+    border-bottom: 2px solid var(--accent-color);
+    box-shadow: 0 4px 15px rgba(0,0,0,0.4);
+    position: sticky;
+    top: 0;
+    z-index: 100;
 }
 
 .header-content {
-    max-width: 800px;
+    max-width: 1400px;
     margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 1rem;
+}
+
+.brand {
+    display: flex;
+    flex-direction: column;
 }
 
 header h1 {
     font-family: var(--font-heading);
-    margin-bottom: 0.5rem;
-    font-size: 3rem;
+    font-size: 1.8rem;
     font-weight: 800;
     letter-spacing: -0.5px;
     color: #ffffff;
+    line-height: 1;
 }
 
 .slogan {
     font-style: italic;
     color: var(--accent-color);
-    font-size: 1.2rem;
-    margin-bottom: 1.5rem;
+    font-size: 0.85rem;
     font-weight: 300;
+    margin-top: 0.2rem;
 }
 
-/* SEARCH BAR */
+/* SEARCH BAR SUTIL */
 .search-container {
-    margin-bottom: 1.5rem;
+    flex-grow: 1;
+    max-width: 400px;
+    display: flex;
+    justify-content: flex-end;
 }
 
 #search-input {
     width: 100%;
-    max-width: 600px;
-    padding: 1rem 1.5rem;
-    font-size: 1.1rem;
-    border-radius: 30px;
-    border: 2px solid var(--primary-color);
-    background-color: var(--bg-color);
+    padding: 0.6rem 1rem;
+    font-size: 0.95rem;
+    border-radius: 20px;
+    border: 1px solid var(--primary-color);
+    background-color: rgba(11, 19, 43, 0.6);
     color: var(--text-color);
     transition: all 0.3s ease;
-    box-shadow: inset 0 2px 4px rgba(0,0,0,0.2);
 }
 
 #search-input:focus {
     outline: none;
     border-color: var(--accent-color);
-    box-shadow: 0 0 10px rgba(91, 192, 190, 0.4);
+    background-color: var(--bg-color);
+    box-shadow: 0 0 8px rgba(91, 192, 190, 0.2);
 }
 
 #search-input::placeholder {
     color: var(--text-muted);
 }
 
+/* MAIN LAYOUT */
+main {
+    max-width: 1400px;
+    margin: 1.5rem auto 3rem;
+    padding: 0 1.5rem;
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+}
+
+.last-updated-bar {
+    text-align: right;
+}
 #last-updated {
-    font-size: 0.85rem;
+    font-size: 0.8rem;
     color: var(--text-muted);
 }
 
-main {
-    max-width: 1200px;
-    margin: 3rem auto;
-    padding: 0 1rem;
-    display: flex;
-    flex-direction: column;
-    gap: 3rem;
-}
-
-/* CAROUSEL */
-.carousel-section h2 {
-    font-family: var(--font-heading);
-    margin-bottom: 1.5rem;
-    color: var(--text-color);
-    border-left: 4px solid var(--accent-color);
-    padding-left: 0.8rem;
-    font-size: 1.8rem;
-}
-
+/* CAROUSEL MENOR */
 .carousel {
     position: relative;
     width: 100%;
     overflow: hidden;
-    border-radius: 16px;
+    border-radius: 12px;
     background: var(--card-bg);
-    box-shadow: 0 10px 30px rgba(0,0,0,0.5);
+    box-shadow: 0 8px 20px rgba(0,0,0,0.4);
 }
 
 .carousel-track {
@@ -131,19 +141,19 @@ main {
 
 .carousel-img {
     width: 100%;
-    height: 450px;
+    height: 300px; /* Reduzido de 450px */
     object-fit: cover;
     display: block;
 }
 
 .carousel-img-placeholder {
     width: 100%;
-    height: 450px;
+    height: 300px;
     display: flex;
     align-items: center;
     justify-content: center;
     background: linear-gradient(135deg, var(--card-bg), var(--primary-color));
-    font-size: 2.5rem;
+    font-size: 2rem;
     color: rgba(255,255,255,0.1);
     font-weight: bold;
 }
@@ -153,25 +163,25 @@ main {
     bottom: 0;
     left: 0;
     right: 0;
-    background: linear-gradient(to top, rgba(11, 19, 43, 0.95) 0%, rgba(11, 19, 43, 0.6) 60%, transparent 100%);
-    padding: 4rem 3rem 2rem 3rem;
+    background: linear-gradient(to top, rgba(11, 19, 43, 0.95) 0%, rgba(11, 19, 43, 0.7) 50%, transparent 100%);
+    padding: 3rem 2rem 1.5rem 2rem;
 }
 
 .carousel-source {
     display: inline-block;
     color: var(--bg-color);
     background-color: var(--accent-color);
-    padding: 0.2rem 0.6rem;
-    border-radius: 4px;
-    font-size: 0.8rem;
+    padding: 0.2rem 0.5rem;
+    border-radius: 3px;
+    font-size: 0.75rem;
     font-weight: 700;
-    margin-bottom: 0.8rem;
+    margin-bottom: 0.5rem;
     text-transform: uppercase;
 }
 
 .carousel-caption h3 {
     font-family: var(--font-heading);
-    font-size: 2.2rem;
+    font-size: 1.6rem;
     line-height: 1.2;
     color: #fff;
     text-shadow: 0 2px 4px rgba(0,0,0,0.8);
@@ -181,13 +191,13 @@ main {
     position: absolute;
     top: 50%;
     transform: translateY(-50%);
-    background: rgba(11, 19, 43, 0.6);
+    background: rgba(11, 19, 43, 0.4);
     color: #fff;
-    border: 2px solid transparent;
+    border: none;
     border-radius: 50%;
-    width: 50px;
-    height: 50px;
-    font-size: 2rem;
+    width: 40px;
+    height: 40px;
+    font-size: 1.5rem;
     cursor: pointer;
     z-index: 10;
     display: flex;
@@ -199,22 +209,21 @@ main {
 .carousel-btn:hover {
     background: var(--accent-color);
     color: var(--bg-color);
-    transform: translateY(-50%) scale(1.1);
 }
 
-.carousel-btn.prev { left: 1.5rem; }
-.carousel-btn.next { right: 1.5rem; }
+.carousel-btn.prev { left: 1rem; }
+.carousel-btn.next { right: 1rem; }
 
 .carousel-indicators {
     display: flex;
     justify-content: center;
-    gap: 0.6rem;
-    margin-top: 1.5rem;
+    gap: 0.5rem;
+    margin-top: 1rem;
 }
 
 .dot {
-    width: 10px;
-    height: 10px;
+    width: 8px;
+    height: 8px;
     background: var(--primary-color);
     border-radius: 50%;
     cursor: pointer;
@@ -228,75 +237,76 @@ main {
 /* FILTERS */
 .filters {
     display: flex;
-    gap: 1.5rem;
+    gap: 1rem;
     flex-wrap: wrap;
     background: var(--card-bg);
-    padding: 1.5rem 2rem;
-    border-radius: 12px;
-    box-shadow: 0 8px 24px rgba(0,0,0,0.2);
+    padding: 1rem 1.5rem;
+    border-radius: 8px;
+    box-shadow: 0 4px 15px rgba(0,0,0,0.2);
 }
 
 .filter-group {
     flex: 1;
-    min-width: 220px;
+    min-width: 200px;
 }
 
 .filter-group h3 {
-    font-size: 0.85rem;
-    margin-bottom: 0.6rem;
+    font-size: 0.75rem;
+    margin-bottom: 0.4rem;
     color: var(--text-muted);
     text-transform: uppercase;
-    letter-spacing: 1px;
+    letter-spacing: 0.5px;
     font-weight: 600;
 }
 
 select {
     width: 100%;
-    padding: 0.8rem 1rem;
+    padding: 0.6rem 0.8rem;
     background-color: var(--bg-color);
     color: var(--text-color);
     border: 1px solid var(--primary-color);
-    border-radius: 8px;
-    font-size: 1rem;
+    border-radius: 6px;
+    font-size: 0.9rem;
     cursor: pointer;
-    transition: border-color 0.3s;
     appearance: none;
     background-image: url("data:image/svg+xml;charset=US-ASCII,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22292.4%22%20height%3D%22292.4%22%3E%3Cpath%20fill%3D%22%235bc0be%22%20d%3D%22M287%2069.4a17.6%2017.6%200%200%200-13-5.4H18.4c-5%200-9.3%201.8-12.9%205.4A17.6%2017.6%200%200%200%200%2082.2c0%205%201.8%209.3%205.4%2012.9l128%20127.9c3.6%203.6%207.8%205.4%2012.8%205.4s9.2-1.8%2012.8-5.4L287%2095c3.5-3.5%205.4-7.8%205.4-12.8%200-5-1.9-9.2-5.5-12.8z%22%2F%3E%3C%2Fsvg%3E");
     background-repeat: no-repeat;
-    background-position: right 1rem top 50%;
-    background-size: 0.65rem auto;
+    background-position: right 0.8rem top 50%;
+    background-size: 0.6rem auto;
 }
 select:focus {
     outline: none;
     border-color: var(--accent-color);
 }
 
-/* NEWS GRID */
+/* NEWS GRID - HORIZONTAL CARDS */
 .news-grid {
     display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(340px, 1fr));
-    gap: 2.5rem;
+    grid-template-columns: repeat(auto-fill, minmax(450px, 1fr));
+    gap: 1.5rem;
 }
 
 .card {
     background: var(--card-bg);
-    border-radius: 16px;
+    border-radius: 12px;
     overflow: hidden;
-    box-shadow: 0 8px 20px rgba(0,0,0,0.3);
+    box-shadow: 0 4px 12px rgba(0,0,0,0.2);
     display: flex;
-    flex-direction: column;
-    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    flex-direction: row;
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
     border: 1px solid rgba(255,255,255,0.02);
+    height: 220px;
 }
 .card:hover {
-    transform: translateY(-8px);
-    box-shadow: 0 15px 30px rgba(0,0,0,0.5);
-    border-color: rgba(91, 192, 190, 0.3);
+    transform: translateY(-4px);
+    box-shadow: 0 10px 25px rgba(0,0,0,0.4);
+    border-color: rgba(91, 192, 190, 0.2);
 }
 
 .card-img-container {
-    width: 100%;
-    height: 220px;
+    width: 200px;
+    min-width: 200px;
+    height: 100%;
     overflow: hidden;
     background: var(--primary-color);
     position: relative;
@@ -321,24 +331,26 @@ select:focus {
     background: linear-gradient(135deg, var(--card-bg), var(--primary-color));
     color: rgba(255,255,255,0.1);
     font-weight: bold;
-    font-size: 2rem;
+    font-size: 1.2rem;
     text-transform: uppercase;
+    text-align: center;
 }
 
 .card-content {
-    padding: 1.8rem;
+    padding: 1.2rem;
     display: flex;
     flex-direction: column;
     flex-grow: 1;
+    overflow: hidden;
 }
 
 .card-meta {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    font-size: 0.85rem;
+    font-size: 0.75rem;
     color: var(--text-muted);
-    margin-bottom: 1rem;
+    margin-bottom: 0.5rem;
 }
 
 .card-meta .source {
@@ -350,35 +362,44 @@ select:focus {
 
 .card-title {
     font-family: var(--font-heading);
-    font-size: 1.35rem;
+    font-size: 1.15rem;
     font-weight: 700;
-    margin-bottom: 1rem;
+    margin-bottom: 0.5rem;
     color: #fff;
-    line-height: 1.4;
+    line-height: 1.3;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;  
+    overflow: hidden;
 }
 
 .card-desc {
-    font-size: 0.95rem;
+    font-size: 0.85rem;
     color: var(--text-muted);
-    margin-bottom: 1.5rem;
-    line-height: 1.6;
+    line-height: 1.4;
     flex-grow: 1;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;  
+    overflow: hidden;
 }
 
 .card-tags {
     display: flex;
-    gap: 0.6rem;
-    margin-bottom: 1.5rem;
+    gap: 0.4rem;
+    margin-bottom: 0.8rem;
     flex-wrap: wrap;
+    margin-top: auto;
 }
 
 .tag {
     background: var(--tag-bg);
-    padding: 0.4rem 0.8rem;
-    border-radius: 20px;
-    font-size: 0.75rem;
+    padding: 0.2rem 0.6rem;
+    border-radius: 12px;
+    font-size: 0.7rem;
     color: var(--tag-text);
     font-weight: 600;
+    white-space: nowrap;
 }
 
 .card-link {
@@ -387,11 +408,11 @@ select:focus {
     background: var(--primary-color);
     color: #fff;
     text-decoration: none;
-    padding: 1rem;
-    border-radius: 8px;
+    padding: 0.6rem;
+    border-radius: 6px;
+    font-size: 0.85rem;
     font-weight: 700;
     transition: background 0.3s, color 0.3s;
-    margin-top: auto;
 }
 
 .card-link:hover {
@@ -401,32 +422,43 @@ select:focus {
 
 .no-results {
     text-align: center;
-    padding: 4rem 2rem;
+    padding: 3rem 1.5rem;
     background: var(--card-bg);
     border-radius: 12px;
     color: var(--text-muted);
-    font-size: 1.2rem;
+    font-size: 1.1rem;
     border: 2px dashed var(--primary-color);
 }
 .no-results strong {
     color: var(--accent-color);
 }
 
-@media (max-width: 768px) {
-    header h1 {
-        font-size: 2.2rem;
-    }
-    .filters {
+@media (max-width: 900px) {
+    .header-content {
         flex-direction: column;
-        padding: 1.5rem;
+        align-items: center;
+        text-align: center;
     }
-    .carousel-img, .carousel-img-placeholder {
-        height: 300px;
+    .search-container {
+        max-width: 100%;
+        justify-content: center;
     }
-    .carousel-caption {
-        padding: 2rem 1.5rem 1.5rem;
+    .news-grid {
+        grid-template-columns: 1fr;
     }
-    .carousel-caption h3 {
-        font-size: 1.5rem;
+    .card {
+        flex-direction: column;
+        height: auto;
+    }
+    .card-img-container {
+        width: 100%;
+        height: 200px;
+    }
+    .card-title {
+        -webkit-line-clamp: 3;
+    }
+    .card-desc {
+        -webkit-line-clamp: 3;
+        margin-bottom: 1rem;
     }
 }
