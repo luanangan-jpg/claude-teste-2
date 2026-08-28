@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Informare - Curadoria Inteligente</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Informare</h1>
+        <p class="slogan">Curadoria inteligente em relações internacionais</p>
+        <div id="last-updated">Atualizando...</div>
+    </header>
+
+    <main>
+        <section class="carousel-section">
+            <h2>Destaques do Dia</h2>
+            <div class="carousel" id="carousel">
+                <div class="carousel-track" id="carousel-track">
+                    <!-- Carousel items injected here -->
+                </div>
+                <button class="carousel-btn prev" id="carousel-prev">&lsaquo;</button>
+                <button class="carousel-btn next" id="carousel-next">&rsaquo;</button>
+            </div>
+            <div class="carousel-indicators" id="carousel-indicators"></div>
+        </section>
+
+        <aside class="filters">
+            <div class="filter-group">
+                <h3>Origem</h3>
+                <select id="origin-filter">
+                    <option value="all">Todas as Fontes</option>
+                    <option value="brasil">Fontes Brasileiras</option>
+                    <option value="internacional">Fontes Internacionais</option>
+                </select>
+            </div>
+            
+            <div class="filter-group">
+                <h3>Região da Notícia</h3>
+                <select id="region-filter">
+                    <option value="all">Todas as Regiões</option>
+                    <option value="América do Norte">América do Norte</option>
+                    <option value="América do Sul">América do Sul</option>
+                    <option value="América Central">América Central</option>
+                    <option value="Europa">Europa</option>
+                    <option value="Ásia">Ásia</option>
+                    <option value="Oriente Médio">Oriente Médio</option>
+                    <option value="África">África</option>
+                    <option value="Oceania">Oceania</option>
+                    <option value="Global">Global</option>
+                </select>
+            </div>
+            
+            <div class="filter-group">
+                <h3>Área Temática</h3>
+                <select id="theme-filter">
+                    <option value="all">Todos os Temas</option>
+                    <option value="Geopolítica e Segurança">Geopolítica e Segurança</option>
+                    <option value="Política Internacional">Política Internacional</option>
+                    <option value="Política Brasileira">Política Brasileira</option>
+                    <option value="Economia Internacional">Economia Internacional</option>
+                    <option value="Economia e Política Brasileira">Economia e Política Brasileira</option>
+                    <option value="Comércio e Finanças Globais">Comércio e Finanças Globais</option>
+                    <option value="Meio Ambiente e Clima">Meio Ambiente e Clima</option>
+                    <option value="Ciência, Tecnologia e Inovação">Ciência, Tecnologia e Inovação</option>
+                    <option value="Direitos Humanos, Sociedade e Migrações">Direitos Humanos, Sociedade e Migrações</option>
+                    <option value="Saúde Global">Saúde Global</option>
+                    <option value="Direito Internacional e Instituições">Direito Internacional e Instituições</option>
+                    <option value="Cultura, Mídia e Sociedade">Cultura, Mídia e Sociedade</option>
+                    <option value="Outros / Multitemático">Outros / Multitemático</option>
+                </select>
+            </div>
+        </aside>
+
+        <section class="news-grid" id="news-container">
+            <!-- News cards will be injected here -->
+        </section>
+        
+        <div id="loading-more" class="loading-more">Role para carregar mais...</div>
+    </main>
+
+    <script src="app.js"></script>
+</body>
+</html>

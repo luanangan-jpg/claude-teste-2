@@ -1,0 +1,17 @@
+[
+  { "name": "G1 - Mundo", "url": "https://g1.globo.com/rss/g1/mundo/", "origin": "brasil" },
+  { "name": "Folha de S.Paulo - Mundo", "url": "https://feeds.folha.uol.com.br/mundo/rss091.xml", "origin": "brasil" },
+  { "name": "Estadão - Internacional", "url": "https://www.estadao.com.br/feed/rss/internacional", "origin": "brasil" },
+  { "name": "Agência Brasil", "url": "https://agenciabrasil.ebc.com.br/rss/ultimasnoticias/feed.xml", "origin": "brasil" },
+  { "name": "Poder360", "url": "https://www.poder360.com.br/feed/", "origin": "brasil" },
+  { "name": "CNN Brasil", "url": "https://www.cnnbrasil.com.br/feed/", "origin": "brasil" },
+  { "name": "BBC News Brasil", "url": "https://feeds.bbci.co.uk/portuguese/rss.xml", "origin": "brasil" },
+  { "name": "Reuters World", "url": "https://feeds.reuters.com/reuters/worldNews", "origin": "internacional" },
+  { "name": "BBC News - World", "url": "http://feeds.bbci.co.uk/news/world/rss.xml", "origin": "internacional" },
+  { "name": "Al Jazeera English", "url": "https://www.aljazeera.com/xml/rss/all.xml", "origin": "internacional" },
+  { "name": "The New York Times", "url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml", "origin": "internacional" },
+  { "name": "Deutsche Welle", "url": "https://rss.dw.com/xml/rss-br-all", "origin": "internacional" },
+  { "name": "France 24", "url": "https://www.france24.com/en/rss", "origin": "internacional" },
+  { "name": "UN News", "url": "https://news.un.org/feed/subscribe/en/news/all/rss.xml", "origin": "internacional" },
+  { "name": "El País - Internacional", "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/internacional/portada", "origin": "internacional" }
+]

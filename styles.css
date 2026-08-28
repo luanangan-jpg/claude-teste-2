@@ -1,0 +1,336 @@
+:root {
+    --bg-color: #0b132b; /* Dark blue background */
+    --text-color: #e0e6ed;
+    --card-bg: #1c2541; /* Lighter dark blue for cards */
+    --primary-color: #3a506b;
+    --accent-color: #5bc0be; /* Teal accent */
+    --accent-hover: #489a98;
+    --tag-bg: #2a3c5a;
+    --tag-text: #a8dadc;
+}
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    background-color: var(--bg-color);
+    color: var(--text-color);
+    line-height: 1.6;
+}
+
+header {
+    background-color: var(--card-bg);
+    color: #fff;
+    padding: 2rem 1rem;
+    text-align: center;
+    border-bottom: 3px solid var(--accent-color);
+}
+
+header h1 {
+    margin-bottom: 0.2rem;
+    font-size: 2.5rem;
+    letter-spacing: 1px;
+}
+
+.slogan {
+    font-style: italic;
+    color: var(--accent-color);
+    font-size: 1.1rem;
+}
+
+#last-updated {
+    font-size: 0.85rem;
+    opacity: 0.7;
+    margin-top: 1rem;
+}
+
+main {
+    max-width: 1200px;
+    margin: 2rem auto;
+    padding: 0 1rem;
+    display: flex;
+    flex-direction: column;
+    gap: 2.5rem;
+}
+
+/* CAROUSEL */
+.carousel-section h2 {
+    margin-bottom: 1rem;
+    color: var(--text-color);
+    border-left: 4px solid var(--accent-color);
+    padding-left: 0.5rem;
+}
+
+.carousel {
+    position: relative;
+    width: 100%;
+    overflow: hidden;
+    border-radius: 12px;
+    background: var(--card-bg);
+    box-shadow: 0 4px 15px rgba(0,0,0,0.3);
+}
+
+.carousel-track {
+    display: flex;
+    transition: transform 0.4s ease-in-out;
+}
+
+.carousel-item {
+    min-width: 100%;
+    position: relative;
+    cursor: pointer;
+}
+
+.carousel-img {
+    width: 100%;
+    height: 400px;
+    object-fit: cover;
+    display: block;
+}
+
+.carousel-img-placeholder {
+    width: 100%;
+    height: 400px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: linear-gradient(135deg, var(--card-bg), var(--primary-color));
+    font-size: 2rem;
+    color: rgba(255,255,255,0.2);
+    font-weight: bold;
+}
+
+.carousel-caption {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background: linear-gradient(transparent, rgba(11, 19, 43, 0.95));
+    padding: 3rem 2rem 1.5rem 2rem;
+}
+
+.carousel-caption h3 {
+    font-size: 1.8rem;
+    margin-bottom: 0.5rem;
+    color: #fff;
+    text-shadow: 1px 1px 3px rgba(0,0,0,0.8);
+}
+
+.carousel-caption p {
+    color: var(--accent-color);
+    font-weight: 600;
+}
+
+.carousel-btn {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    background: rgba(0,0,0,0.5);
+    color: #fff;
+    border: none;
+    padding: 1rem;
+    font-size: 2rem;
+    cursor: pointer;
+    z-index: 10;
+    border-radius: 50%;
+    width: 50px;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: background 0.3s;
+}
+
+.carousel-btn:hover {
+    background: var(--accent-color);
+}
+
+.carousel-btn.prev { left: 1rem; }
+.carousel-btn.next { right: 1rem; }
+
+.carousel-indicators {
+    display: flex;
+    justify-content: center;
+    gap: 0.5rem;
+    margin-top: 1rem;
+}
+
+.dot {
+    width: 12px;
+    height: 12px;
+    background: var(--card-bg);
+    border-radius: 50%;
+    cursor: pointer;
+}
+.dot.active {
+    background: var(--accent-color);
+}
+
+
+/* FILTERS */
+.filters {
+    display: flex;
+    gap: 1rem;
+    flex-wrap: wrap;
+    background: var(--card-bg);
+    padding: 1.5rem;
+    border-radius: 8px;
+    box-shadow: 0 4px 15px rgba(0,0,0,0.3);
+}
+
+.filter-group {
+    flex: 1;
+    min-width: 200px;
+}
+
+.filter-group h3 {
+    font-size: 0.9rem;
+    margin-bottom: 0.5rem;
+    color: var(--accent-color);
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+}
+
+select {
+    width: 100%;
+    padding: 0.8rem;
+    background-color: var(--bg-color);
+    color: var(--text-color);
+    border: 1px solid var(--primary-color);
+    border-radius: 4px;
+    font-size: 1rem;
+}
+select:focus {
+    outline: none;
+    border-color: var(--accent-color);
+}
+
+/* NEWS GRID */
+.news-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+    gap: 2rem;
+}
+
+.card {
+    background: var(--card-bg);
+    border-radius: 10px;
+    overflow: hidden;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.2);
+    display: flex;
+    flex-direction: column;
+    transition: transform 0.2s;
+}
+.card:hover {
+    transform: translateY(-5px);
+}
+
+.card-img-container {
+    width: 100%;
+    height: 200px;
+    overflow: hidden;
+    background: var(--primary-color);
+}
+
+.card-img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.card-img-placeholder {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: linear-gradient(135deg, var(--card-bg), var(--primary-color));
+    color: var(--accent-color);
+    font-weight: bold;
+    font-size: 1.5rem;
+    opacity: 0.6;
+}
+
+.card-content {
+    padding: 1.5rem;
+    display: flex;
+    flex-direction: column;
+    flex-grow: 1;
+}
+
+.card-meta {
+    display: flex;
+    justify-content: space-between;
+    font-size: 0.8rem;
+    color: #94a3b8;
+    margin-bottom: 0.8rem;
+    border-bottom: 1px solid var(--primary-color);
+    padding-bottom: 0.5rem;
+}
+
+.card-meta strong {
+    color: var(--accent-color);
+}
+
+.card-title {
+    font-size: 1.2rem;
+    margin-bottom: 1rem;
+    color: #fff;
+    line-height: 1.4;
+}
+
+.card-tags {
+    display: flex;
+    gap: 0.5rem;
+    margin-bottom: 1.5rem;
+    flex-wrap: wrap;
+    margin-top: auto;
+}
+
+.tag {
+    background: var(--tag-bg);
+    padding: 0.3rem 0.6rem;
+    border-radius: 4px;
+    font-size: 0.75rem;
+    color: var(--tag-text);
+}
+
+.card-link {
+    display: block;
+    text-align: center;
+    background: var(--accent-color);
+    color: var(--bg-color);
+    text-decoration: none;
+    padding: 0.8rem 1rem;
+    border-radius: 6px;
+    font-weight: bold;
+    transition: background 0.2s;
+}
+
+.card-link:hover {
+    background: var(--accent-hover);
+}
+
+.loading-more {
+    text-align: center;
+    padding: 2rem;
+    color: var(--accent-color);
+    font-style: italic;
+    display: none;
+}
+
+@media (max-width: 768px) {
+    .filters {
+        flex-direction: column;
+    }
+    .carousel-img, .carousel-img-placeholder {
+        height: 250px;
+    }
+    .carousel-caption h3 {
+        font-size: 1.2rem;
+    }
+}
