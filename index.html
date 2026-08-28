@@ -8,9 +8,16 @@
 </head>
 <body>
     <header>
-        <h1>Informare</h1>
-        <p class="slogan">Curadoria inteligente em relações internacionais</p>
-        <div id="last-updated">Atualizando...</div>
+        <div class="header-content">
+            <h1>Informare</h1>
+            <p class="slogan">Curadoria inteligente em relações internacionais</p>
+            
+            <div class="search-container">
+                <input type="text" id="search-input" placeholder="Buscar notícias por palavra-chave..." aria-label="Buscar notícias">
+            </div>
+            
+            <div id="last-updated">Atualizando...</div>
+        </div>
     </header>
 
     <main>
@@ -77,7 +84,10 @@
             <!-- News cards will be injected here -->
         </section>
         
-        <div id="loading-more" class="loading-more">Role para carregar mais...</div>
+        <div id="no-results-msg" class="no-results" style="display: none;">
+            <!-- Message injected dynamically -->
+        </div>
+
     </main>
 
     <script src="app.js"></script>

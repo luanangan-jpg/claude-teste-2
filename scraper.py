@@ -1,6 +1,8 @@
 import feedparser
 import json
 import re
+import requests
+from bs4 import BeautifulSoup
 from datetime import datetime, timezone
 from dateutil import parser as date_parser
 
@@ -8,10 +10,62 @@ SOURCES_FILE = "sources.json"
 DATA_FILE = "news.json"
 BULLETIN_FILE = "bulletin.json"
 
-def categorize(title, summary, source_name):
-    text = (title + " " + summary).lower()
+# Regras de inclusão e exclusão documentadas para classificação temática precisa
+THEMES_RULES = {
+    "Geopolítica e Segurança": {
+        "include": ["guerra", "war ", "military", "militar", "nato", "otan", "míssil", "missile", "armas", "weapons", "defesa", "defense", "nuclear", "ataque", "attack", "tropas", "troops", "exército", "army", "conflito", "terroris", "refém", "paz", "peace", "fronteira", "border", "espionagem", "rebelde"],
+        "exclude": ["guerra comercial"]
+    },
+    "Política Internacional": {
+        "include": ["eleição", "election", "parlamento", "parliament", "congresso", "congress", "senado", "senate", "primeiro-ministro", "prime minister", "governo", "diplomacia", "embaixador", "onu ", "un ", "votação", "vote", "partido", "party", "candidato", "líder", "leader", "democracia", "ditadura", "ministro", "cúpula"],
+        "exclude": ["brasil", "brazil", "lula", "bolsonaro", "stf", "tse", "planalto"]
+    },
+    "Política Brasileira": {
+        "include": ["eleição", "eleições", "tse", "stf", "congresso", "senado", "câmara", "deputados", "lula", "bolsonaro", "governo federal", "planalto", "ministro", "prefeito", "vereador", "pablo marçal", "boulos", "nunes", "moraes", "pacheco", "lira", "partido"],
+        "exclude": ["biden", "trump", "macron", "putin", "eleições americanas", "eua", "usa"]
+    },
+    "Economia Internacional": {
+        "include": ["economia", "economy", "inflação", "inflation", "mercado", "market", "ações", "stocks", "banco central", "central bank", "juros", "interest rates", "fmi", "imf", "pib", "fed ", "federal reserve", "wall street", "empresas", "business", "desemprego", "petróleo", "oil"],
+        "exclude": ["brasil", "brazil", "ibovespa", "copom", "selic", "haddad"]
+    },
+    "Economia e Política Brasileira": {
+        "include": ["economia", "inflação", "ibovespa", "copom", "selic", "dólar", "real", "fazenda", "haddad", "banco central", "campos neto", "pib", "imposto", "taxação", "tributária", "mercado financeiro"],
+        "exclude": ["fed ", "federal reserve", "wall street"]
+    },
+    "Comércio e Finanças Globais": {
+        "include": ["comércio", "trade", "tarifas", "tariffs", "exportação", "importação", "dólar", "dollar", "euro", "wto", "omc", "cadeia de suprimentos", "supply chain", "investimento"],
+        "exclude": []
+    },
+    "Meio Ambiente e Clima": {
+        "include": ["clima", "climate", "meio ambiente", "environment", "emissão", "emission", "aquecimento", "warming", "amazônia", "amazon", "floresta", "chuvas", "enchentes", "floods", "queimadas", "wildfire", "seca", "drought", "carbon", "carbono", "temperatura", "fumaça", "poluição", "desastre"],
+        "exclude": []
+    },
+    "Ciência, Tecnologia e Inovação": {
+        "include": ["tecnologia", "tech ", "ai ", "artificial intelligence", "inteligência artificial", "espaço", "space", "nasa", "ciência", "science", "apple", "google", "meta", "musk", "spacex", "software", "cibersegurança", "cybersecurity", "internet", "redes sociais", "x ", "twitter", "telegram"],
+        "exclude": ["alienígena"]
+    },
+    "Direitos Humanos, Sociedade e Migrações": {
+        "include": ["direitos", "rights", "migrante", "migrant", "refugiado", "refugee", "asilo", "asylum", "protesto", "protest", "greve", "strike", "lgbt", "mulheres", "women", "racismo", "racism", "desigualdade", "inequality", "indígena", "violência", "crime", "polícia", "assassinato"],
+        "exclude": []
+    },
+    "Saúde Global": {
+        "include": ["saúde", "health", "doença", "disease", "vírus", "virus", "pandemia", "pandemic", "vacina", "vaccine", "oms", "who ", "hospital", "câncer", "cancer", "epidemia", "mpox", "covid", "médico", "pacientes"],
+        "exclude": ["vírus de computador"]
+    },
+    "Direito Internacional e Instituições": {
+        "include": ["tribunal internacional", "international court", "lei", "law", "justiça", "justice", "icc ", "tpi ", "icj", "cij", "tratado", "treaty", "cortes", "direitos humanos un", "prisão", "julgamento"],
+        "exclude": ["stf", "stj"]
+    },
+    "Cultura, Mídia e Sociedade": {
+        "include": ["cultura", "culture", "filme", "movie", "música", "music", "arte", "art", "olimpíadas", "olympics", "esportes", "sports", "futebol", "soccer", "entretenimento", "entertainment", "famosos", "celebrity", "cinema", "oscar", "medalha", "paralimpíada"],
+        "exclude": []
+    }
+}
+
+def categorize(title, summary, source_name, origin):
+    text = f"{title} {summary}".lower()
     
-    # REGION
+    # --- REGION ---
     region = "Global"
     if any(w in text for w in ["usa", "us", "eua", "estados unidos", "biden", "washington", "trump", "kamala", "harris"]):
         region = "América do Norte"
@@ -28,64 +82,73 @@ def categorize(title, summary, source_name):
     elif any(w in text for w in ["australia", "austrália", "nova zelândia", "new zealand", "oceania"]):
         region = "Oceania"
 
-    # THEME (Improved logic to avoid Outros)
-    theme = "Outros / Multitemático"
+    # --- THEME (Scoring System) ---
+    best_theme = "Outros / Multitemático"
+    max_score = 0
     
-    if any(w in text for w in ["war", "guerra", "military", "militar", "nato", "otan", "missile", "míssil", "weapons", "armas", "defense", "defesa", "nuclear", "ataque", "attack", "troops", "tropas"]):
-        theme = "Geopolítica e Segurança"
-    elif any(w in text for w in ["election", "eleição", "eleições", "vote", "voto", "parliament", "parlamento", "congress", "congresso", "senado", "senate", "supreme court", "stf", "ministro", "governo", "presidente", "lawmaker", "campaign", "campanha"]):
-        if region == "América do Sul" and ("brasil" in text or "brazil" in text or "g1" in source_name.lower() or "poder360" in source_name.lower()):
-            theme = "Política Brasileira"
-        else:
-            theme = "Política Internacional"
-    elif any(w in text for w in ["economy", "economia", "inflation", "inflação", "market", "mercado", "stocks", "ações", "bank", "banco", "tax", "imposto", "juros", "interest rates", "trade", "comércio", "tarifas", "tariffs", "pib", "gdp"]):
-        if region == "América do Sul" and ("brasil" in text or "brazil" in text or "g1" in source_name.lower() or "poder360" in source_name.lower()):
-            theme = "Economia e Política Brasileira"
-        else:
-            theme = "Economia Internacional"
-    elif any(w in text for w in ["climate", "clima", "environment", "meio ambiente", "emission", "emissão", "warming", "aquecimento", "amazônia", "amazon", "floresta", "chuvas", "enchentes", "floods", "wildfire", "fogo", "queimadas"]):
-        theme = "Meio Ambiente e Clima"
-    elif any(w in text for w in ["technology", "tecnologia", "tech", "ai", "artificial intelligence", "inteligência artificial", "space", "espaço", "nasa", "science", "ciência", "apple", "google", "meta", "musk", "spacex", "software"]):
-        theme = "Ciência, Tecnologia e Inovação"
-    elif any(w in text for w in ["rights", "direitos", "migrant", "migrante", "refugee", "refugiado", "asylum", "asilo", "protest", "protesto", "strike", "greve", "lgbt", "women", "mulheres", "racism", "racismo"]):
-        theme = "Direitos Humanos, Sociedade e Migrações"
-    elif any(w in text for w in ["health", "saúde", "disease", "doença", "virus", "vírus", "pandemic", "pandemia", "vaccine", "vacina", "who", "oms", "hospital", "cancer", "câncer"]):
-        theme = "Saúde Global"
-    elif any(w in text for w in ["court", "tribunal", "law", "lei", "justice", "justiça", "un", "onu", "icc", "tpi", "icj", "cij", "treaty", "tratado"]):
-        theme = "Direito Internacional e Instituições"
-    elif any(w in text for w in ["culture", "cultura", "movie", "filme", "music", "música", "art", "arte", "olympics", "olimpíadas", "sports", "esportes", "futebol", "soccer", "entertainment", "entretenimento", "celebrity", "famosos"]):
-        theme = "Cultura, Mídia e Sociedade"
-    
-    # Se sobrou, avaliamos um pouco mais amplo para evitar multitemático se tiver palavra de finança global
-    if theme == "Outros / Multitemático":
-        if any(w in text for w in ["dólar", "dollar", "euro", "moeda", "currency", "fmi", "imf", "world bank", "banco mundial"]):
-            theme = "Comércio e Finanças Globais"
+    for theme, rules in THEMES_RULES.items():
+        score = 0
+        # Exclusions cancel the score entirely for this category
+        if any(exc in text for exc in rules["exclude"]):
+            continue
+            
+        # Count occurrences of inclusive words
+        for inc in rules["include"]:
+            if inc in text:
+                # Give higher weight if the word is in the title
+                score += 2 if inc in title.lower() else 1
+                
+        # Handle specific overlap adjustments
+        if theme == "Economia e Política Brasileira" and origin != "brasil" and "brasil" not in text:
+            score = 0 # Only apply if it's actually about Brazil
+        if theme == "Política Brasileira" and origin != "brasil" and "brasil" not in text:
+            score = 0
 
-    return region, theme
+        if score > max_score:
+            max_score = score
+            best_theme = theme
+
+    return region, best_theme
 
 def clean_html(raw_html):
     cleanr = re.compile('<.*?>')
     cleantext = re.sub(cleanr, '', raw_html)
-    return cleantext[:200] + "..." if len(cleantext) > 200 else cleantext
+    return cleantext[:300] + "..." if len(cleantext) > 300 else cleantext
 
-def extract_image(entry, summary_html):
-    # Try media_content
+def get_og_image(url):
+    """Fallback: fetch the article HTML and look for og:image meta tag."""
+    try:
+        headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36'}
+        response = requests.get(url, headers=headers, timeout=4)
+        if response.status_code == 200:
+            soup = BeautifulSoup(response.content, 'html.parser')
+            meta_og = soup.find('meta', property='og:image')
+            if meta_og and meta_og.get('content'):
+                return meta_og['content']
+    except Exception:
+        pass
+    return None
+
+def extract_image(entry, summary_html, article_url):
+    # 1. RSS media:content
     if 'media_content' in entry and len(entry.media_content) > 0:
         return entry.media_content[0].get('url')
-    # Try media_thumbnail
+    # 2. RSS media_thumbnail
     if 'media_thumbnail' in entry and len(entry.media_thumbnail) > 0:
         return entry.media_thumbnail[0].get('url')
-    # Try enclosures
+    # 3. RSS enclosures
     if 'enclosures' in entry and len(entry.enclosures) > 0:
         for enc in entry.enclosures:
             if enc.get('type', '').startswith('image'):
                 return enc.get('href')
-    # Regex from summary
+    # 4. Embedded image in summary
     img_match = re.search(r'<img[^>]+src="([^">]+)"', summary_html)
     if img_match:
         return img_match.group(1)
     
-    return None
+    # 5. Ultimate fallback: scrape original site for og:image
+    og_img = get_og_image(article_url)
+    return og_img
 
 def scrape():
     with open(SOURCES_FILE, "r", encoding="utf-8") as f:
@@ -107,7 +170,9 @@ def scrape():
                 title = entry.title
                 summary_html = entry.get('summary', entry.get('description', ''))
                 summary = clean_html(summary_html)
-                image_url = extract_image(entry, summary_html)
+                
+                # Intelligent image extraction with fallback
+                image_url = extract_image(entry, summary_html, url)
                 
                 try:
                     if 'published' in entry:
@@ -121,7 +186,7 @@ def scrape():
                     
                 dt = dt.astimezone(timezone.utc)
                 
-                region, theme = categorize(title, summary, src['name'])
+                region, theme = categorize(title, summary, src['name'], src['origin'])
                 
                 all_news.append({
                     "title": title,
@@ -138,8 +203,6 @@ def scrape():
             pass
 
     all_news.sort(key=lambda x: x['published_at'], reverse=True)
-    
-    # We want at least 50 if possible, let's just keep up to 150
     all_news = all_news[:150]
     
     output_data = {
@@ -152,7 +215,6 @@ def scrape():
 
     # Carousel top 5-8 highlights (e.g., 6 most recent with images)
     highlights = [n for n in all_news if n['image']][:6]
-    # Fallback if not enough images
     if len(highlights) < 6:
         for n in all_news:
             if n not in highlights:
