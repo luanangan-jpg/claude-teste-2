@@ -16,7 +16,7 @@ document.addEventListener("DOMContentLoaded", () => {
     let carouselItemsCount = 0;
 
     // Fetch News Data
-    fetch('news.json')
+    fetch('news.json?t=' + new Date().getTime())
         .then(response => response.json())
         .then(data => {
             articles = data.articles;
@@ -26,7 +26,7 @@ document.addEventListener("DOMContentLoaded", () => {
         .catch(err => console.error("Error loading news data:", err));
 
     // Fetch Bulletin/Highlights Data
-    fetch('bulletin.json')
+   fetch('bulletin.json?t=' + new Date().getTime())
         .then(response => response.json())
         .then(data => {
             renderCarousel(data.highlights);
