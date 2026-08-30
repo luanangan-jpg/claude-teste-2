@@ -1,16 +1,291 @@
 {
-  "last_updated": "2026-08-30T08:03:31.538553+00:00",
+  "last_updated": "2026-08-30T09:03:27.482001+00:00",
   "articles": [
     {
-      "title": "Iceland rejects EU membership plan in referendum",
-      "url": "https://www.aljazeera.com/news/2026/8/30/iceland-rejects-eu-membership-plan-in-referendum?traffic_source=rss",
-      "summary": "This is a breaking news story.",
+      "title": "Imposto Seletivo: o que é, quando começa e quem vai pagar",
+      "url": "https://www.poder360.com.br/poder-economia/imposto-seletivo-o-que-e-quando-comeca-e-quem-vai-pagar/",
+      "summary": "Criado para desestimular consumo de produtos prejudiciais à saúde ou ao meio ambiente, imposto será cobrado a partir de 2027",
+      "source": "Poder360",
+      "origin": "brasil",
+      "image": "https://static.poder360.com.br/uploads/2026/02/Leao-Receita-Federal.png",
+      "published_at": "2026-08-30T09:00:56+00:00",
+      "region": "América do Sul",
+      "theme": "Economia Brasileira"
+    },
+    {
+      "title": "Conheça Inhotim, o maior museu a céu aberto do mundo",
+      "url": "https://www.poder360.com.br/poder-cultura/conheca-inhotim-o-maior-museu-a-ceu-aberto-do-mundo/",
+      "summary": "Único destino brasileiro na lista de 52 lugares imperdíveis do \"NYT\" comemora 20 anos em outubro",
+      "source": "Poder360",
+      "origin": "brasil",
+      "image": "https://static.poder360.com.br/uploads/2026/08/inhotim-aniversario-nyt-poder370-27.ago_.2026-1200x675.jpeg",
+      "published_at": "2026-08-30T09:00:29+00:00",
+      "region": "América do Sul",
+      "theme": "Direito Internacional e Instituições"
+    },
+    {
+      "title": "French Presidential campaign heats up",
+      "url": "https://www.france24.com/en/french-presidential-campaign-heats-up",
+      "summary": "There are just eight months to go before France’s presidential election, with the first round scheduled for April 18. The campaign is slowly heating up, with several political gatherings taking place this weekend. The Socialist Party wrapped up a two-day gathering on Saturday with a speech from part...",
+      "source": "France 24",
+      "origin": "internacional",
+      "image": "https://s.france24.com/media/display/5bf85d84-a450-11f1-8d69-005056bf30b7/w:1024/p:16x9/france-debat.jpg",
+      "published_at": "2026-08-30T08:55:13+00:00",
+      "region": "América do Norte",
+      "theme": "Política Internacional"
+    },
+    {
+      "title": "Manhunt after shooting at Swiss rave kills woman, 22, and injures five",
+      "url": "https://www.bbc.co.uk/news/articles/c9qr750je1go?at_medium=RSS&at_campaign=rss",
+      "summary": "Five others in their twenties were injured after shots were fired in Aarau, near Zurich overnight.",
+      "source": "BBC News - World",
+      "origin": "internacional",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/19bd/live/73306220-a447-11f1-a751-eff8928911ec.png",
+      "published_at": "2026-08-30T08:54:49+00:00",
+      "region": "Global",
+      "theme": "Outros / Multitemático"
+    },
+    {
+      "title": "Fridges for humans during heatwaves in Japan",
+      "url": "https://www.france24.com/en/fridges-for-humans-during-heatwaves-in-japan",
+      "summary": "A Japanese company has created a human-sized fridge, and workplaces across the country have been testing it out amid Japan’s current heatwave. Caitlin Brown has the story.",
+      "source": "France 24",
+      "origin": "internacional",
+      "image": "https://s.france24.com/media/display/97560de8-a44d-11f1-a9d6-005056bfb2b6/w:1024/p:16x9/EN-20260830-092435-092603-CS.jpg",
+      "published_at": "2026-08-30T08:50:18+00:00",
+      "region": "Ásia",
+      "theme": "Outros / Multitemático"
+    },
+    {
+      "title": "Entenda como fatores genéticos predispõem à depressão em jovens",
+      "url": "https://www.poder360.com.br/poder-saude/entenda-como-fatores-geneticos-predispoem-a-depressao-em-jovens/",
+      "summary": "Feito com estudantes de escolas públicas, estudo desenvolve ferramenta que estima risco de Transtorno Depressivo Maior",
+      "source": "Poder360",
+      "origin": "brasil",
+      "image": "https://static.poder360.com.br/uploads/2026/08/depressao-menina-1200x675.jpg",
+      "published_at": "2026-08-30T08:48:58+00:00",
+      "region": "América do Sul",
+      "theme": "Outros / Multitemático"
+    },
+    {
+      "title": "Netanyahu condemns violence in West Bank",
+      "url": "https://www.france24.com/en/netanyahu-condemns-violence-in-west-bank",
+      "summary": "It was a rare condemnation from what is widely seen as the most religious and ultranationalist government in Israel’s history. Prime Minister Benjamin Netanyahu condemned recent attacks by Israeli settlers on Palestinians in the occupied West Bank, but described the violence as the actions of a “han...",
+      "source": "France 24",
+      "origin": "internacional",
+      "image": "https://s.france24.com/media/display/27abccec-a44f-11f1-958b-005056a90284/w:1024/p:16x9/israeli-settlers.jpg",
+      "published_at": "2026-08-30T08:46:45+00:00",
+      "region": "América do Norte",
+      "theme": "Geopolítica e Segurança"
+    },
+    {
+      "title": "Niger: Junta says back in control after mutiny",
+      "url": "https://www.france24.com/en/niger-junta-says-back-in-control-after-mutiny",
+      "summary": "Gunfire and explosions have been reported in Niger, as mutinying soldiers attempted to storm the presidential palace in the capital, Niamey, in a challenge to the ruling junta. The government said it had regained control after hours of fighting on Saturday. Léo Paichard and Nick Rushworth report.",
+      "source": "France 24",
+      "origin": "internacional",
+      "image": "https://s.france24.com/media/display/6de5a756-a44e-11f1-bda9-005056a97e36/w:1024/p:16x9/Niger-Junta.jpg",
+      "published_at": "2026-08-30T08:41:57+00:00",
+      "region": "América do Norte",
+      "theme": "Outros / Multitemático"
+    },
+    {
+      "title": "Death toll rises as 3,000 remain missing in Nepal, China",
+      "url": "https://www.france24.com/en/death-toll-rises-as-3-000-remain-missing-in-nepal-china",
+      "summary": "Rescue and relief efforts in Nepal and Tibet have been hampered this Sunday by heavy rain and rising river levels. The latest figures following Wednesday’s flash floods put the death toll at 750, while more than 3,000 people remain missing. Nepal’s disaster authorities are urging rescue teams to “ex...",
+      "source": "France 24",
+      "origin": "internacional",
+      "image": "https://s.france24.com/media/display/ca458a7e-a44a-11f1-927b-005056bf30b7/w:1024/p:16x9/EN-20260830-090302-090512-CS.jpg",
+      "published_at": "2026-08-30T08:37:04+00:00",
+      "region": "Ásia",
+      "theme": "Meio Ambiente e Clima"
+    },
+    {
+      "title": "Islândia rejeita plano de adesão à UE, informa emissora pública",
+      "url": "https://www.cnnbrasil.com.br/internacional/islandia-rejeita-plano-de-adesao-a-ue-informa-emissora-publica/",
+      "summary": "Islandeses rejeitaram pressão do governo para reabrir negociações",
+      "source": "CNN Brasil",
+      "origin": "brasil",
+      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/06/GettyImages-2255481832.jpg?w=1200&h=630&crop=1",
+      "published_at": "2026-08-30T08:33:19+00:00",
+      "region": "América do Sul",
+      "theme": "Política Internacional"
+    },
+    {
+      "title": "Saiba quais são as regras para prestação de contas eleitorais",
+      "url": "https://www.poder360.com.br/poder-eleicoes-2026/saiba-quais-sao-as-regras-para-prestacao-de-contas-eleitorais/",
+      "summary": "Norma do TSE reforça a transparência no financiamento de campanhas nas eleições",
+      "source": "Poder360",
+      "origin": "brasil",
+      "image": "https://static.poder360.com.br/uploads/2026/08/tse-sede-eleicoes.jpg",
+      "published_at": "2026-08-30T08:28:52+00:00",
+      "region": "América do Sul",
+      "theme": "Política Brasileira"
+    },
+    {
+      "title": "Governo tem até 31 de agosto para enviar Orçamento de 2027",
+      "url": "https://www.poder360.com.br/poder-governo/governo-tem-ate-31-de-agosto-para-enviar-orcamento-de-2027/",
+      "summary": "Lei Orçamentária Anual estima as receitas e fixa as despesas da União para o ano seguinte",
+      "source": "Poder360",
+      "origin": "brasil",
+      "image": "https://static.poder360.com.br/uploads/2025/12/conteudo-de-marca-ICL-Sergio-Lima-Poder360-2-ago-2025-scaled.jpg",
+      "published_at": "2026-08-30T08:22:10+00:00",
+      "region": "América do Sul",
+      "theme": "Política Internacional"
+    },
+    {
+      "title": "Pogacar to have surgery on broken collarbone after horrific Vuelta crash",
+      "url": "https://www.aljazeera.com/sports/2026/8/30/pogacar-to-have-surgery-on-broken-collarbone-after-horrific-vuelta-crash?traffic_source=rss",
+      "summary": "Pogacar suffered concussion and broke two bones after losing control of his bike when it hit a stone on the road.",
       "source": "Al Jazeera English",
       "origin": "internacional",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/2026-08-27T193346Z_1042637184_RC257NA7S73Y_RTRMADP_3_ICELAND-EU-1787945310.jpg?resize=1920%2C1440",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/reuters_6a93db49-1788074825.jpg?resize=1920%2C1440",
+      "published_at": "2026-08-30T08:19:31+00:00",
+      "region": "América do Norte",
+      "theme": "Outros / Multitemático"
+    },
+    {
+      "title": "De panos no congelador a chá de hortelã na pele: truques desenvolvidos por egípcios ajudam a resfriar ambientes de forma natural",
+      "url": "https://www.cnnbrasil.com.br/curiosidades/de-panos-no-congelador-a-cha-de-hortela-na-pele-truques-desenvolvidos-por-egipcios-ajudam-a-resfriar-ambientes-de-forma-natural/",
+      "summary": "Conheça 11 métodos ancestrais e práticos para manter o ambiente e o corpo fresco",
+      "source": "CNN Brasil",
+      "origin": "brasil",
+      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/07/egito.jpg?w=1200&h=630&crop=1",
+      "published_at": "2026-08-30T08:18:44+00:00",
+      "region": "América do Sul",
+      "theme": "Outros / Multitemático"
+    },
+    {
+      "title": "Iceland on track to reject EU referendum as counting nears end",
+      "url": "https://www.bbc.co.uk/news/articles/c70le8ed1plo?at_medium=RSS&at_campaign=rss",
+      "summary": "Broadcaster RUV reports the nation looks set to reject resuming EU membership talks as the final votes are tallied.",
+      "source": "BBC News - World",
+      "origin": "internacional",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9e0f/live/272509c0-a425-11f1-aed2-8d6da8d75094.jpg",
+      "published_at": "2026-08-30T08:08:30+00:00",
+      "region": "Global",
+      "theme": "Política Internacional"
+    },
+    {
+      "title": "Islandeses votam 'não' e rejeitam negociações de adesão à União Europeia",
+      "url": "https://g1.globo.com/mundo/noticia/2026/08/30/islandeses-votam-nao-e-rejeitam-negociacoes-de-adesao-a-uniao-europeia.ghtml",
+      "summary": "     Bandeiras da Islândia na capital do país, Reykjavik\nLeonhard Foeger/Reuters\nOs islandeses votaram para permanecer fora da União Europeia, informou a emissora RUV neste domingo, rejeitando a pressão do governo para reabrir as negociações de adesão e alinhando-se com aqueles que disseram que as á...",
+      "source": "G1 - Mundo",
+      "origin": "brasil",
+      "image": "https://s2-g1.glbimg.com/V3480cO00rwYNdfMbe0f9Bko83w=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/S/P/KDaK7OTLKwS5JcpjqtYQ/2026-08-27t152409z-952983132-rc217najzwic-rtrmadp-3-iceland-eu.jpg",
+      "published_at": "2026-08-30T08:07:15+00:00",
+      "region": "América do Sul",
+      "theme": "Comércio e Finanças"
+    },
+    {
+      "title": "Como a perda de força muscular é alerta para declínio da mobilidade",
+      "url": "https://www.poder360.com.br/poder-saude/como-a-perda-de-forca-muscular-e-alerta-para-declinio-da-mobilidade/",
+      "summary": "Estudo acompanhou a força do aperto de mão e a velocidade de marcha de 4.541 pessoas com 60 anos ou mais ao longo de 12 anos",
+      "source": "Poder360",
+      "origin": "brasil",
+      "image": "https://static.poder360.com.br/uploads/2026/08/exercicio-idosos-1200x675.jpg",
+      "published_at": "2026-08-30T08:05:37+00:00",
+      "region": "América do Sul",
+      "theme": "Outros / Multitemático"
+    },
+    {
+      "title": "Mega-Sena: quanto rendem R$ 30 milhões na poupança, Tesouro Direto ou CDB",
+      "url": "https://www.cnnbrasil.com.br/economia/seu-bolso/meu-dinheiro/mega-sena-quanto-rendem-r-30-milhoes-na-poupanca-tesouro-direto-ou-cdb-3/",
+      "summary": "Sorteio deste domingo (30) será realizado às 11h; apostas podem ser feitas até 22h de sábado (29)",
+      "source": "CNN Brasil",
+      "origin": "brasil",
+      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2024/04/mega-sena.png?w=873&h=481&crop=1",
+      "published_at": "2026-08-30T08:05:24+00:00",
+      "region": "América do Sul",
+      "theme": "Economia Brasileira"
+    },
+    {
+      "title": "One person killed, five wounded in shooting at rave in Switzerland",
+      "url": "https://www.aljazeera.com/news/2026/8/30/one-person-killed-five-wounded-in-shooting-at-rave-in-switzerland?traffic_source=rss",
+      "summary": "Police said a manhunt is under way following the incident at the annual techno party.",
+      "source": "Al Jazeera English",
+      "origin": "internacional",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/14248517-1788072480.jpg?resize=1920%2C1440",
+      "published_at": "2026-08-30T08:02:35+00:00",
+      "region": "Global",
+      "theme": "Política Internacional"
+    },
+    {
+      "title": "Como um magnata excêntrico que tinha leão como animal de estimação se tornou o homem mais rico do mundo",
+      "url": "https://g1.globo.com/economia/noticia/2026/08/30/como-um-magnata-excentrico-que-tinha-leao-como-animal-de-estimacao-se-tornou-o-homem-mais-rico-do-mundo.ghtml",
+      "summary": "     O magnata fazia suas refeições em uma mesa de quase cinco metros de comprimento, acompanhado apenas por seu cão de guarda\nGetty Images via BBC\nEm julho de 1960, Jean Paul Getty organizou uma festa na qual gastou o equivalente a US$ 400 mil (em valores atuais) em Sutton Place, a mansão em estilo...",
+      "source": "G1 - Mundo",
+      "origin": "brasil",
+      "image": "https://s2-g1.glbimg.com/fPkQ8eTWnkCU5X9VXu_PWKnMJRU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Q/t/lrnAi4RBKO18Woi05BPQ/d401e830-7ada-11f1-9c5e-418249f4ce83.jpg",
+      "published_at": "2026-08-30T08:01:02+00:00",
+      "region": "América do Sul",
+      "theme": "Outros / Multitemático"
+    },
+    {
+      "title": "Chelsea x Brighton: horário e onde assistir à Premier League",
+      "url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/futebol-ingles/chelsea-x-brighton-horario-e-onde-assistir-a-premier-league/",
+      "summary": "Equipes se enfrentam neste domingo (30), às 10h (de Brasília)",
+      "source": "CNN Brasil",
+      "origin": "brasil",
+      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2023/12/estadio_chelsea-e1724328968259.png?w=814&h=458&crop=1",
+      "published_at": "2026-08-30T08:00:57+00:00",
+      "region": "América do Sul",
+      "theme": "Ciência, Tecnologia e Inovação"
+    },
+    {
+      "title": "Por que Trump quer limitar o voto pelo correio se ele próprio usa o recurso? Entenda o que está em jogo",
+      "url": "https://g1.globo.com/mundo/noticia/2026/08/30/por-que-trump-quer-limitar-o-voto-pelo-correio-se-ele-proprio-usa-o-recurso-entenda-o-que-esta-em-jogo.ghtml",
+      "summary": "     Trump obtém vitória na Suprema Corte dos EUA sobre restrições ao voto pelo correio\nO presidente dos Estados Unidos, Donald Trump, tem defendido restrições ao voto pelo correio e afirma que o sistema é suscetível a fraudes. Mas o próprio Trump recorreu à modalidade em diferentes eleições, inclus...",
+      "source": "G1 - Mundo",
+      "origin": "brasil",
+      "image": "https://s2-g1.glbimg.com/tcuM3HgAAOQO3y3hXTl9zYnqZXg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/x/K/CViCZtRDS0C6b0sPpazA/2026-08-21t235515z-340126303-rc2b3na001he-rtrmadp-3-usa-trump.jpg",
+      "published_at": "2026-08-30T08:00:56+00:00",
+      "region": "América do Sul",
+      "theme": "Direito Internacional e Instituições"
+    },
+    {
+      "title": "Grêmio x Chapecoense: horário e onde assistir ao Brasileirão",
+      "url": "https://www.cnnbrasil.com.br/esportes/brasileirao/gremio-x-chapecoense-horario-e-onde-assistir-ao-brasileirao/",
+      "summary": "Equipes se enfrentam neste domingo (30), às 18h30 (de Brasília)",
+      "source": "CNN Brasil",
+      "origin": "brasil",
+      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/05/arena-do-gremio_b65b0c-e1787937695751.jpeg?w=1200&h=630&crop=1",
+      "published_at": "2026-08-30T08:00:22+00:00",
+      "region": "América do Sul",
+      "theme": "Ciência, Tecnologia e Inovação"
+    },
+    {
+      "title": "Avaí x Atlético-GO: horário e onde assistir ao jogo da Série B",
+      "url": "https://www.cnnbrasil.com.br/esportes/brasileirao/avai-x-atletico-go-horario-e-onde-assistir-ao-jogo-da-serie-b-2/",
+      "summary": "Equipes se enfrentam neste domingo (30), no Estádio da Ressacada, pela 25ª rodada da competição",
+      "source": "CNN Brasil",
+      "origin": "brasil",
+      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/04/ressacada-avai-e1776816760307.jpg?w=1200&h=630&crop=1",
+      "published_at": "2026-08-30T08:00:10+00:00",
+      "region": "América do Sul",
+      "theme": "Ciência, Tecnologia e Inovação"
+    },
+    {
+      "title": "Iceland rejects EU-accession talks plan in referendum",
+      "url": "https://www.aljazeera.com/news/2026/8/30/iceland-rejects-eu-membership-plan-in-referendum?traffic_source=rss",
+      "summary": "The &#039;No&#039; camp had 52.5 percent and the &#039;Yes&#039; camp had 47.5 percent with only a few ballots left to count, RUV reports.",
+      "source": "Al Jazeera English",
+      "origin": "internacional",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/AP26241528064042-1788079531.jpg?resize=1920%2C1440",
       "published_at": "2026-08-30T07:57:18+00:00",
       "region": "Global",
       "theme": "Outros / Multitemático"
+    },
+    {
+      "title": "Islandia cierra la puerta a la integración en la Unión Europea",
+      "url": "https://elpais.com/internacional/2026-08-30/islandia-cierra-la-puerta-a-la-integracion-en-la-union-europea.html",
+      "summary": "La población del país nórdico rechaza en un ajustado referéndum reabrir las negociaciones con Bruselas",
+      "source": "El País - Internacional",
+      "origin": "internacional",
+      "image": "https://imagenes.elpais.com/resizer/v2/NG4XSQ4NXJNKRK6FI6622QG4MQ.jpg?auth=e1c1f4be147762c087db3bb3f83048b48eac0444c82913810d72c18d572b460f",
+      "published_at": "2026-08-30T07:55:52+00:00",
+      "region": "América do Norte",
+      "theme": "Política Internacional"
     },
     {
       "title": "Postura retraída pode favorecer estados emocionais negativos",
@@ -134,17 +409,6 @@
       "theme": "Cultura, Mídia e Sociedade"
     },
     {
-      "title": "Manhunt after one killed and five injured in Swiss shooting, police say",
-      "url": "https://www.bbc.co.uk/news/articles/c9qr750je1go?at_medium=RSS&at_campaign=rss",
-      "summary": "A major police operation has been launched after the shooting at an event near Zurich overnight.",
-      "source": "BBC News - World",
-      "origin": "internacional",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fe9b/live/618de8d0-a438-11f1-8b59-3de1e8d7e523.jpg",
-      "published_at": "2026-08-30T07:05:20+00:00",
-      "region": "Global",
-      "theme": "Outros / Multitemático"
-    },
-    {
       "title": "Em setembro, STF julgará licença para mães adotivas e recusa de transfusão",
       "url": "https://www.cnnbrasil.com.br/politica/stf-julga-licenca-para-maes-adotivas-e-recusa-de-transfusao-em-setembro/",
       "summary": "Corte também julga planos de saúde de idosos, gratuidade na Justiça do Trabalho e recusa de tratamento médico",
@@ -211,61 +475,6 @@
       "theme": "Ciência, Tecnologia e Inovação"
     },
     {
-      "title": "Corinthians x Santos: horário e onde assistir ao jogo do Brasileirão",
-      "url": "https://www.cnnbrasil.com.br/esportes/brasileirao/corinthians-x-santos-horario-e-onde-assistir-ao-jogo-do-brasileirao/",
-      "summary": "Equipes vão a campo neste domingo (30), pela 25ª rodada do campeonato nacional",
-      "source": "CNN Brasil",
-      "origin": "brasil",
-      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/07/neo-quimica-arena-e1784839672415.jpeg?w=1024&h=576&crop=1",
-      "published_at": "2026-08-30T07:00:35+00:00",
-      "region": "América do Sul",
-      "theme": "Ciência, Tecnologia e Inovação"
-    },
-    {
-      "title": "Bahia x Internacional: horário e onde assistir ao jogo do Brasileirão",
-      "url": "https://www.cnnbrasil.com.br/esportes/brasileirao/bahia-x-internacional-horario-e-onde-assistir-ao-jogo-do-brasileirao-3/",
-      "summary": "Equipes vão a campo neste domingo (30), pela 25ª rodada da competição",
-      "source": "CNN Brasil",
-      "origin": "brasil",
-      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/04/Inter-Bahia-Fonte-Nova-e1786589889603.jpg?w=1200&h=630&crop=1",
-      "published_at": "2026-08-30T07:00:35+00:00",
-      "region": "América do Sul",
-      "theme": "Ciência, Tecnologia e Inovação"
-    },
-    {
-      "title": "EUA deve anunciar medidas para proteger “carne” americana nesta segunda",
-      "url": "https://www.cnnbrasil.com.br/agro/eua-deve-anunciar-medidas-para-proteger-carne-americana-nesta-segunda/",
-      "summary": "Tabuleiro envolve novos fluxos comerciais, importações de carne pelos EUA, insatisfação dos pecuaristas americanos e eleições",
-      "source": "CNN Brasil",
-      "origin": "brasil",
-      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/08/2026-08-28T180012Z_1_LYNXMPEM7R1JI_RTROPTP_4_USA-TRUMP.jpg?w=1200&h=630&crop=1",
-      "published_at": "2026-08-30T07:00:35+00:00",
-      "region": "América do Sul",
-      "theme": "Economia Internacional"
-    },
-    {
-      "title": "Flamengo x Botafogo: horário e onde assistir ao jogo do Brasileirão",
-      "url": "https://www.cnnbrasil.com.br/esportes/brasileirao/flamengo-x-botafogo-horario-e-onde-assistir-ao-jogo-do-brasileirao-3/",
-      "summary": "Equipes vão a campo neste domingo (30), pela 25ª rodada do campeonato nacional",
-      "source": "CNN Brasil",
-      "origin": "brasil",
-      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/07/maracana2.jpeg?w=1200&h=630&crop=1",
-      "published_at": "2026-08-30T07:00:13+00:00",
-      "region": "América do Sul",
-      "theme": "Ciência, Tecnologia e Inovação"
-    },
-    {
-      "title": "Diretor de “Muito Prazer”, Jorge Furtado diz: “A comédia é  menosprezada”",
-      "url": "https://www.cnnbrasil.com.br/pop/cinema/diretor-de-muito-prazer-jorge-furtado-diz-comedia-e-menosprezada/",
-      "summary": "Com \"Saneamento Básico - O Filme\" e \"Meu Tio Matou um Cara\", diretor fala sobre como a comédia é vista no país",
-      "source": "CNN Brasil",
-      "origin": "brasil",
-      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/08/credito_Fabio-Rebelo_Daniel-de-Oliveira-em-Muito-Prazer.jpg?w=1200&h=630&crop=1",
-      "published_at": "2026-08-30T07:00:08+00:00",
-      "region": "América do Sul",
-      "theme": "Cultura, Mídia e Sociedade"
-    },
-    {
       "title": "Política virou refém da realidade distorcida das redes sociais",
       "url": "https://redir.folha.com.br/redir/online/mundo/rss091/*https://www1.folha.uol.com.br/colunas/ezra-klein/2026/08/politica-virou-refem-da-realidade-distorcida-das-redes-sociais.shtml",
       "summary": "Tenho visto alguns argumentos sobre por que qualquer pessoa que esteja minimamente à esquerda deveria abandonar o X, de Elon Musk. Ned Resnikoff, autor do manifesto YIMBY \"Build or Die\", apresenta uma versão desse argumento.\nLeia mais (08/30/2026 - 04h00)",
@@ -277,20 +486,9 @@
       "theme": "Ciência, Tecnologia e Inovação"
     },
     {
-      "title": "Mirassol x Palmeiras: horário e onde assistir ao jogo do Brasileirão",
-      "url": "https://www.cnnbrasil.com.br/esportes/brasileirao/mirassol-x-palmeiras-horario-e-onde-assistir-ao-jogo-do-brasileirao-2/",
-      "summary": "Equipes vão a campo neste domingo (30), pela 25ª rodada do campeonato nacional",
-      "source": "CNN Brasil",
-      "origin": "brasil",
-      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/05/mirassol-e1746911148401.jpg?w=510&h=288&crop=1",
-      "published_at": "2026-08-30T07:00:00+00:00",
-      "region": "América do Sul",
-      "theme": "Ciência, Tecnologia e Inovação"
-    },
-    {
       "title": "At least one dead, five injured in shooting at rave in Switzerland",
       "url": "https://www.france24.com/en/europe/20260830-one-killed-five-injured-in-shooting-at-rave-in-switzerland",
-      "summary": "One person was killed and five others injured, some seriously, in a shooting at a rave in the northern Swiss city of Aarau, police and local media reported Sunday. A major police operation is underway at the scene, with authorities urging residents to stay away from the area.",
+      "summary": "At least one person was killed and five others injured, some seriously, in a shooting at a rave in the northern Swiss city of Aarau, police and local media reported Sunday. A major police operation is underway at the scene, with authorities urging residents to stay away from the area.",
       "source": "France 24",
       "origin": "internacional",
       "image": "https://s.france24.com/media/display/368e6a4a-a43f-11f1-a6fc-005056a97e36/w:1024/p:16x9/AP26242243077736.jpg",
@@ -308,6 +506,17 @@
       "published_at": "2026-08-30T06:30:04+00:00",
       "region": "América do Sul",
       "theme": "Política Brasileira"
+    },
+    {
+      "title": "China Says 261 Foreigners From 23 Countries Are Missing in Tibet Flood",
+      "url": "https://www.nytimes.com/2026/08/30/world/asia/tibet-nepal-flood-death-toll-china.html",
+      "summary": "The disclosure offered one of the clearest pictures yet of the disaster on the Chinese side of the border, where authorities have released few details.",
+      "source": "The New York Times",
+      "origin": "internacional",
+      "image": "https://static01.nyt.com/images/2026/08/30/multimedia/30int-TIBET-NEPAL-TOLLS-hfvm/30int-TIBET-NEPAL-TOLLS-hfvm-mediumSquareAt3X.jpg",
+      "published_at": "2026-08-30T06:25:52+00:00",
+      "region": "Ásia",
+      "theme": "Geopolítica e Segurança"
     },
     {
       "title": "Número de mortos pelas enchentes no Himalaia sobe para 750; 3 mil estão desaparecidos",
@@ -332,9 +541,9 @@
       "theme": "Saúde"
     },
     {
-      "title": "Putin, Xi set for Central Asia summit as Russia, China seek to counter Western influence",
+      "title": "Putin, Xi set for Central Asia summit as Russia and China seek to counter Western influence",
       "url": "https://www.france24.com/en/asia-pacific/20260830-putin-xi-set-for-central-asia-summit-as-russia-china-seek-to-counter-western-influence",
-      "summary": "Russian President Vladimir Putin and Chinese President Xi Jinping are due in Kyrgyzstan on Monday for a two-day summit, joined by the leaders of Iran and India. The gathering comes as several members face war, sanctions and trade tensions with the West, underlining the bloc’s growing geopolitical we...",
+      "summary": "Russian President Vladimir Putin and Chinese President Xi Jinping are due in Kyrgyzstan on Monday for a two-day summit, joined by the leaders of Iran and India. The gathering comes as the group seeks to project a united front amid wars in Ukraine and Iran and growing tensions with the West.",
       "source": "France 24",
       "origin": "internacional",
       "image": "https://s.france24.com/media/display/32f6bdfa-a436-11f1-a03d-005056a97e36/w:1024/p:16x9/AP26140554039627.jpg",
@@ -354,9 +563,20 @@
       "theme": "Geopolítica e Segurança"
     },
     {
-      "title": "NASA set to launch Roman telescope to map the universe",
+      "title": "The People of Hirosaki, Japan, Try to Move a Castle by Hand",
+      "url": "https://www.nytimes.com/2026/08/30/world/asia/japan-hirosaki-castle-moving.html",
+      "summary": "In Japan, the ancient tradition of hikiya involves moving buildings with ropes and rollers. About 4,000 people teamed up to try it on Hirosaki Castle.",
+      "source": "The New York Times",
+      "origin": "internacional",
+      "image": "https://static01.nyt.com/images/2026/08/28/multimedia/28Hirosaki-Castle-cover-gwfk/28Hirosaki-Castle-cover-gwfk-mediumSquareAt3X.jpg",
+      "published_at": "2026-08-30T05:28:16+00:00",
+      "region": "Ásia",
+      "theme": "Outros / Multitemático"
+    },
+    {
+      "title": "NASA set to launch Roman telescope to provide 'a new atlas of the universe'",
       "url": "https://www.france24.com/en/americas/20260830-nasa-set-to-launch-roman-telescope-to-map-the-universe",
-      "summary": "NASA is preparing to launch its Roman Space Telescope on Sunday aboard a SpaceX Falcon Heavy rocket, beginning a multi-year mission to create a vast new map of the cosmos. With a field of view far wider than Hubble’s, Roman will search for exoplanets and supernovae while probing the nature of dark m...",
+      "summary": "NASA is preparing to launch its Roman Space Telescope on Sunday aboard a SpaceX Falcon Heavy rocket, beginning a multi-year mission to create a vast new map of the cosmos. With a field of view far wider than Hubble’s, Roman will search for exoplanets and supernovae while also probing two of the bigg...",
       "source": "France 24",
       "origin": "internacional",
       "image": "https://s.france24.com/media/display/54b1beee-a432-11f1-8b6d-005056bfb2b6/w:1024/p:16x9/2026-08-29T195602Z-94810877-RC2I8NAYVGKF-RTRMADP-3-SPACE-NASA-TELESCOPE.jpg",
@@ -376,17 +596,6 @@
       "theme": "Geopolítica e Segurança"
     },
     {
-      "title": "Mapping Iran war’s strikes on Gulf energy – and what comes next for oil",
-      "url": "https://www.aljazeera.com/news/2026/8/30/mapping-the-iran-wars-strikes-on-gulf-energy-and-what-comes-next-for-oil?traffic_source=rss",
-      "summary": "US energy companies have reaped billions from rising oil price, but their assets in the region remain at risk.",
-      "source": "Al Jazeera English",
-      "origin": "internacional",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/INTERACTIVE-oil-poster-1788067413.jpg?resize=1200%2C630",
-      "published_at": "2026-08-30T05:09:11+00:00",
-      "region": "América do Norte",
-      "theme": "Economia Internacional"
-    },
-    {
       "title": "WhatsApp chat used to send cash for crime and extremism",
       "url": "https://www.bbc.co.uk/news/articles/cgk57lg7566o?at_medium=RSS&at_campaign=rss",
       "summary": "The WhatsApp money launderers arranged cash transfers in the UK and around the world with no paper trail.",
@@ -398,26 +607,15 @@
       "theme": "Direitos Humanos, Sociedade e Migrações"
     },
     {
-      "title": "Nepal-Tibet floods live: At least 750 dead as rising water levels hamper rescue efforts",
-      "url": "https://www.france24.com/en/asia-pacific/20260830-nepal-tibet-floods-live-at-least-750-dead-as-death-toll-rises",
-      "summary": "At least 750 people have died and more than 3,000 remain missing after devastating floods struck Nepal and Tibet near the Chinese border, local authorities said Sunday. Rescue efforts are entering a fifth day, with heavy overnight rain and rising river waters hampering operations to reach hydropower...",
-      "source": "France 24",
+      "title": "Expedia Faces Off With Cuban Families Over Land Seized Decades Ago",
+      "url": "https://www.nytimes.com/2026/08/30/world/americas/cuba-expedia-lawsuit.html",
+      "summary": "A trial involving claims against the travel company has opened in federal court. Dozens of such lawsuits have been filed since President Trump opened the door to them.",
+      "source": "The New York Times",
       "origin": "internacional",
-      "image": "https://s.france24.com/media/display/8f8c7afc-a42f-11f1-8d90-005056bf30b7/w:1024/p:16x9/2026-08-30T042238Z-510478048-RC2S8NA8WQJJ-RTRMADP-3-NEPAL-FLOODS.jpg",
-      "published_at": "2026-08-30T04:59:36+00:00",
-      "region": "Global",
-      "theme": "Meio Ambiente e Clima"
-    },
-    {
-      "title": "US police officer pulls hair, throws punches during arrest in Arkansas",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/30/us-police-officer-pulls-hair-throws-punches-during-arrest-in-arkansas?traffic_source=rss",
-      "summary": "Footage shows an Arkansas state patrol officer pulling a passenger by his hair and punching him during an arrest.",
-      "source": "Al Jazeera English",
-      "origin": "internacional",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/image-1788065401.jpg?resize=1920%2C1080&quality=80",
-      "published_at": "2026-08-30T04:50:17+00:00",
+      "image": "https://static01.nyt.com/images/2026/08/31/world/31int-cuba-expedia/31int-cuba-expedia-mediumSquareAt3X.jpg",
+      "published_at": "2026-08-30T04:01:20+00:00",
       "region": "América do Norte",
-      "theme": "Outros / Multitemático"
+      "theme": "Direito Internacional e Instituições"
     },
     {
       "title": "Search Continues for 2,400 Missing in Nepal Floods Amid ‘Immense’ Devastation",
@@ -429,17 +627,6 @@
       "published_at": "2026-08-30T03:58:15+00:00",
       "region": "América do Norte",
       "theme": "Meio Ambiente e Clima"
-    },
-    {
-      "title": "Iceland EU referendum on a knife edge as counting continues",
-      "url": "https://www.bbc.co.uk/news/articles/c70le8ed1plo?at_medium=RSS&at_campaign=rss",
-      "summary": "A vote on whether to resume membership talks with the European Union is too close to call.",
-      "source": "BBC News - World",
-      "origin": "internacional",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9e0f/live/272509c0-a425-11f1-aed2-8d6da8d75094.jpg",
-      "published_at": "2026-08-30T03:57:01+00:00",
-      "region": "Europa",
-      "theme": "Política Internacional"
     },
     {
       "title": "China impone la ley del silencio en Tíbet tras la catástrofe del Himalaya",
@@ -464,23 +651,12 @@
       "theme": "Geopolítica e Segurança"
     },
     {
-      "title": "La nueva ruta del Ártico redibuja los mapas de la economía y la geopolítica",
-      "url": "https://elpais.com/internacional/2026-08-30/la-nueva-ruta-del-artico-redibuja-los-mapas-de-la-economia-y-la-geopolitica.html",
-      "summary": "El deshielo abre la puerta a rutas comerciales regulares entre Asia y Europa, pero sitúa a Rusia como árbitro",
-      "source": "El País - Internacional",
-      "origin": "internacional",
-      "image": "https://imagenes.elpais.com/resizer/v2/XC2LHPS2A5JARGDPPPB737W7MU.jpg?auth=c1df84b906d4acbc19bf97b7394432e0c1fefd476512fe894367999ade02a7f4",
-      "published_at": "2026-08-30T03:30:01+00:00",
-      "region": "América do Norte",
-      "theme": "Outros / Multitemático"
-    },
-    {
       "title": "Fin de época en Oriente Próximo",
       "url": "https://elpais.com/internacional/2026-08-30/fin-de-epoca-en-oriente-proximo.html",
       "summary": "El poder ha pasado de manos de la superpotencia americana a las de las potencias regionales: Israel, Irán, Pakistán, Turquía y Arabia Saudí",
       "source": "El País - Internacional",
       "origin": "internacional",
-      "image": "https://loremflickr.com/800/450/news?lock=208",
+      "image": "https://loremflickr.com/800/450/news?lock=540",
       "published_at": "2026-08-30T03:30:01+00:00",
       "region": "Oriente Médio",
       "theme": "Outros / Multitemático"
@@ -508,17 +684,6 @@
       "theme": "Meio Ambiente e Clima"
     },
     {
-      "title": "Dr. Daniel e Hana Ghassan empatam na disputa pelo governo do Pará",
-      "url": "https://www.poder360.com.br/poder-eleicoes-2026/dr-daniel-e-hana-ghassan-empatam-na-disputa-pelo-governo-do-para/",
-      "summary": "Levantamento da Quaest mostra novo empate no 2ª turno entre o candidato do Podemos e a governadora do Estado",
-      "source": "Poder360",
-      "origin": "brasil",
-      "image": "https://static.poder360.com.br/uploads/2026/08/prismada-dr-daniel-hana-ghassan-1200x675.jpg",
-      "published_at": "2026-08-30T02:09:02+00:00",
-      "region": "América do Sul",
-      "theme": "Política Internacional"
-    },
-    {
       "title": "Queria que Lula fosse comigo a Israel, diz CEO de grupo pró-Israel",
       "url": "https://redir.folha.com.br/redir/online/mundo/rss091/*https://www1.folha.uol.com.br/mundo/2026/08/queria-que-lula-fosse-comigo-a-israel-diz-ceo-de-grupo-pro-israel.shtml",
       "summary": "O jornal The Jerusalem Post publica anualmente uma lista dos 50 judeus mais influentes do mundo. Embora o topo costume concentrar membros do governo de Israel -em 2025, o premiê Binyamin Netanyahu ficou em primeiro lugar-, a lista inclui personalidades de diversas áreas e países.\nLeia mais (08/29/20...",
@@ -539,39 +704,6 @@
       "published_at": "2026-08-30T02:00:00+00:00",
       "region": "América do Sul",
       "theme": "Política Internacional"
-    },
-    {
-      "title": "Cury fala em aumentar taxa das bets e criar Ministério da IA",
-      "url": "https://www.poder360.com.br/poder-eleicoes-2026/cury-fala-em-aumentar-taxa-das-bets-e-criar-ministerio-da-ia/",
-      "summary": "Em sabatina da \"TV Globo\", candidato do Avante também propôs que embaixadores sejam treinados como influenciadores",
-      "source": "Poder360",
-      "origin": "brasil",
-      "image": "https://static.poder360.com.br/uploads/2026/08/Augusto-Cury-sabatina-Globo-29-ago-2026-1200x675.png",
-      "published_at": "2026-08-30T01:26:56+00:00",
-      "region": "América do Sul",
-      "theme": "Política Internacional"
-    },
-    {
-      "title": "Ex-comandante da FAB rebate Flávio sobre ele apoiar Lula",
-      "url": "https://www.poder360.com.br/poder-eleicoes-2026/ex-comandante-da-fab-rebate-flavio-sobre-ele-apoiar-lula/",
-      "summary": "Senador do PL disse que fala do militar da reserva sobre risco de golpe em 2022 não era grave por ele não ser parcial",
-      "source": "Poder360",
-      "origin": "brasil",
-      "image": "https://static.poder360.com.br/uploads/2026/08/carlos-baptista-junior-fab-flavio-1200x675.jpg",
-      "published_at": "2026-08-30T01:01:22+00:00",
-      "region": "América do Sul",
-      "theme": "Política Brasileira"
-    },
-    {
-      "title": "Lula é um homem do diálogo, diz Alckmin em propaganda eleitoral",
-      "url": "https://www.poder360.com.br/poder-eleicoes-2026/prelula-e-um-homem-do-dialogo-diz-alckmin-em-propaganda-eleitoral/",
-      "summary": "Vice-presidente citou abertura de mercados e defesa da soberania ao elogiar a atuação do petista",
-      "source": "Poder360",
-      "origin": "brasil",
-      "image": "https://static.poder360.com.br/uploads/2026/08/Geraldo-Alckmin-propaganda-eleitoral-29.ago_.2026-1200x675.png",
-      "published_at": "2026-08-30T00:38:47+00:00",
-      "region": "América do Sul",
-      "theme": "Política Brasileira"
     },
     {
       "title": "Governo Trump não pode deportar estudantes por críticas a Israel, decide juíza",
@@ -596,26 +728,26 @@
       "theme": "Outros / Multitemático"
     },
     {
-      "title": "Correios têm rombo de R$ 5,6 bilhões no 1º semestre de 2026",
-      "url": "https://www.poder360.com.br/poder-governo/correios-tem-rombo-de-r-56-bilhoes-no-1o-semestre-de-2026/",
-      "summary": "Estatal divulgou demonstrações financeiras neste sábado (29.ago); prejuízo no 2º trimestre foi de 2,4 bilhões",
-      "source": "Poder360",
-      "origin": "brasil",
-      "image": "https://static.poder360.com.br/uploads/2025/12/sede-correios-brasilia-2025.jpg",
-      "published_at": "2026-08-30T00:17:16+00:00",
-      "region": "América do Sul",
-      "theme": "Economia Internacional"
+      "title": "Israeli Settlers Attack Palestinians, Drawing Sharp Rebukes",
+      "url": "https://www.nytimes.com/2026/08/29/world/middleeast/israel-settlers-west-bank-attacks-netanyahu-rebuke.html",
+      "summary": "The intensity of Saturday’s assault prompted condemnations from Prime Minister Benjamin Netanyahu of Israel and other officials.",
+      "source": "The New York Times",
+      "origin": "internacional",
+      "image": "https://static01.nyt.com/images/2026/08/29/multimedia/29int-westbank-qusra-tqwg/29int-westbank-qusra-tqwg-mediumSquareAt3X.jpg",
+      "published_at": "2026-08-29T23:13:14+00:00",
+      "region": "Europa",
+      "theme": "Geopolítica e Segurança"
     },
     {
-      "title": "Aviões dão rasante em estádio na África do Sul; assista",
-      "url": "https://www.poder360.com.br/poder-sportsmkt/avioes-dao-rasante-em-estadio-na-africa-do-sul-assista/",
-      "summary": "Jatos da Embraer sobrevoaram o estádio DHL Stadium, na Cidade do Cabo antes de partida de rugby",
-      "source": "Poder360",
-      "origin": "brasil",
-      "image": "https://static.poder360.com.br/uploads/2026/08/cidade-do-cabo-estadio-avioes-1200x675.jpg",
-      "published_at": "2026-08-30T00:05:35+00:00",
+      "title": "‘A New Form of U.S. Colonialism’: Venezuelans Bristle at U.S. Oil Takeover",
+      "url": "https://www.nytimes.com/2026/08/29/world/americas/venezuela-oil-us-takeover.html",
+      "summary": "A deal giving the U.S. majority control of vast Venezuelan reserves strikes at the heart of national identity.",
+      "source": "The New York Times",
+      "origin": "internacional",
+      "image": "https://static01.nyt.com/images/2026/08/29/multimedia/29-int-venezuela-reaction-qkpm/29-int-venezuela-reaction-qkpm-mediumSquareAt3X.jpg",
+      "published_at": "2026-08-29T22:42:38+00:00",
       "region": "América do Sul",
-      "theme": "Cultura, Mídia e Sociedade"
+      "theme": "Economia Internacional"
     },
     {
       "title": "A pequena cidade escocesa que procura migrantes para estancar a queda da população",
@@ -706,17 +838,6 @@
       "theme": "Geopolítica e Segurança"
     },
     {
-      "title": "Missing toll from Nepal, China flood nears 3,000 as race for survivors continues",
-      "url": "https://www.france24.com/en/asia-pacific/20260829-missing-toll-from-nepal-china-flood-nears-3-000-as-race-for-survivors-continues",
-      "summary": "Rescuers in Nepal and China on Saturday continued to search for the nearly 3,000 people missing after devastating flooding along the border with China engulfed entire villages earlier this week. At least 682 bodies were recovered in both countries, including 675 in Nepal and seven in China.",
-      "source": "France 24",
-      "origin": "internacional",
-      "image": "https://s.france24.com/media/display/e22b113e-a3e3-11f1-b707-005056a90284/w:1024/p:16x9/000-C6TD3PQ.jpg",
-      "published_at": "2026-08-29T20:12:45+00:00",
-      "region": "Ásia",
-      "theme": "Geopolítica e Segurança"
-    },
-    {
       "title": "VÍDEO mostra resgate de menina no Nepal dois dias após avalanche destruir casa onde ela estava",
       "url": "https://g1.globo.com/mundo/noticia/2026/08/29/video-mostra-resgate-de-menina-no-nepal-dois-dias-apos-avalanche-destruir-casa-onde-ela-estava.ghtml",
       "summary": "     Criança é resgatada no Nepal dois dias após deslizamento\nA Força Armada Policial do Nepal divulgou neste sábado (29) o resgate de uma menina dos escombros de uma casa após a avalanche que atingiu o país.\n✅ Siga o canal de notícias internacionais do g1 no WhatsApp\nSegundo a postagem da corporaçã...",
@@ -761,17 +882,6 @@
       "theme": "Direito Internacional e Instituições"
     },
     {
-      "title": "Thieves Smash Museum Case for Diamond Necklace Worth Millions in Vienna",
-      "url": "https://www.nytimes.com/2026/08/29/world/europe/diamond-necklace-theft-vienna.html",
-      "summary": "The theft of the precious object, once owned by an Egyptian queen and later sold to satisfy her creditors, was the latest in a string of high-profile museum losses.",
-      "source": "The New York Times",
-      "origin": "internacional",
-      "image": "https://static01.nyt.com/images/2026/08/29/multimedia/29int-vienna-theft-qmpf/29int-vienna-theft-qmpf-mediumSquareAt3X.jpg",
-      "published_at": "2026-08-29T19:49:54+00:00",
-      "region": "América do Norte",
-      "theme": "Outros / Multitemático"
-    },
-    {
       "title": "Mistérios e segredos de textos medievais revelados graças à IA",
       "url": "https://www.bbc.com/portuguese/articles/c36le795lywo?at_medium=RSS&at_campaign=rss",
       "summary": "Em bibliotecas e arquivos de todo o mundo encontram-se mensagens e documentos históricos ocultos por trás de símbolos incompreensíveis - que agora estão sendo decifrados por pesquisadores com a ajuda da IA.",
@@ -805,17 +915,6 @@
       "theme": "Geopolítica e Segurança"
     },
     {
-      "title": "Netanyahu condemns 'criminal acts of violence' by settlers in West Bank villages",
-      "url": "https://www.france24.com/en/middle-east/20260829-netanyahu-condemns-criminal-acts-of-violence-by-settlers-in-west-bank-villages",
-      "summary": "Israeli Prime Minister Benjamin Netanyahu on Saturday condemned what he called \"criminal acts of violence\" perpetrated by Israeli settlers in two Palestinian villages. Earlier in August, a group of settlers blocked supplies from entering Palestinian houses on the outskirts of Qusra and attacked a Pa...",
-      "source": "France 24",
-      "origin": "internacional",
-      "image": "https://s.france24.com/media/display/c2c9d0c8-a3d4-11f1-9dfa-005056a90284/w:1024/p:16x9/000-C6TD3PD.jpg",
-      "published_at": "2026-08-29T18:34:03+00:00",
-      "region": "América do Norte",
-      "theme": "Geopolítica e Segurança"
-    },
-    {
       "title": "Ex-trumpista detido pelo ICE é deportado para o Reino Unido um dia após prisão",
       "url": "https://redir.folha.com.br/redir/online/mundo/rss091/*https://www1.folha.uol.com.br/mundo/2026/08/ex-trumpista-detido-pelo-ice-e-deportado-para-o-reino-unido-um-dia-apos-prisao.shtml",
       "summary": "O agitador britânico de ultradireita Milo Yiannopoulos foi deportado dos Estados Unidos na sexta-feira (28), um dia após ser preso pelo ICE (Serviço de Imigração e Alfândega, na sigla em inglês).\nLeia mais (08/29/2026 - 15h32)",
@@ -835,17 +934,6 @@
       "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/2add/live/70cad1a0-9592-11f1-870d-5d08c49babb2.jpg",
       "published_at": "2026-08-29T18:18:54+00:00",
       "region": "América do Sul",
-      "theme": "Cultura, Mídia e Sociedade"
-    },
-    {
-      "title": "Carney Has Canadians’ Support on Trump. Now Comes the Hard Part.",
-      "url": "https://www.nytimes.com/2026/08/29/world/canada/carney-trump-tariffs-trade.html",
-      "summary": "The U.S.-Canada trade war has galvanized Canadians behind their prime minister’s decision to walk away from negotiations. What happens when the time comes for talks to restart?",
-      "source": "The New York Times",
-      "origin": "internacional",
-      "image": "https://static01.nyt.com/images/2026/08/28/multimedia/28int-canada-carney-assess-bpcm/28int-canada-carney-assess-bpcm-mediumSquareAt3X.jpg",
-      "published_at": "2026-08-29T18:10:38+00:00",
-      "region": "América do Norte",
       "theme": "Cultura, Mídia e Sociedade"
     },
     {
@@ -937,17 +1025,6 @@
       "theme": "Geopolítica e Segurança"
     },
     {
-      "title": "'I am sure of myself': A look back at Dolly Parton's unspoken feminist legacy",
-      "url": "https://www.france24.com/en/americas/20260829-i-am-sure-of-myself-a-look-back-at-dolly-parton-s-unspoken-feminist-legacy",
-      "summary": "Beloved country star Dolly Parton was many things to her fans, including an actor, singer, philanthropist and entrepreneur. But after her death on Tuesday at the age of 80, some admirers are remembering her as something she never overtly claimed: feminist icon.",
-      "source": "France 24",
-      "origin": "internacional",
-      "image": "https://s.france24.com/media/display/da06009a-a3b1-11f1-84a0-005056a90284/w:1024/p:16x9/AP23226848721521.jpg",
-      "published_at": "2026-08-29T15:57:29+00:00",
-      "region": "Global",
-      "theme": "Cultura, Mídia e Sociedade"
-    },
-    {
       "title": "Presidente da Venezuela confirma acordo petrolífero com Estados Unidos",
       "url": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-08/presidente-da-venezuela-confirma-acordo-petrolifero-com-estados-unidos",
       "summary": "\n                    \n\t\t\t\t\"A Venezuela anuncia um acordo histórico com o governo dos Estados Unidos, que terá um impacto significativo no renascimento da nossa nação\", anunciou a presidente interina Delcy Rodríguez, quase nove meses depois do sequestro do presidente Nicolás Maduro pelo exército nort...",
@@ -968,17 +1045,6 @@
       "published_at": "2026-08-29T15:32:00+00:00",
       "region": "América do Sul",
       "theme": "Ciência, Tecnologia e Inovação"
-    },
-    {
-      "title": "Iran war reaches 6-month mark: Conflict cost $1,100 per US taxpayer",
-      "url": "https://www.france24.com/en/iran-war-reaches-6-month-mark-conflict-cost-1-100-per-us-taxpayer",
-      "summary": "After six months of war, Iran’s leadership has coalesced around a hard core of military generals and clerics long entrenched in the ruling theocracy. They are ready for a potentially long confrontation with the US and determined to prevent any unrest at home. It’s a far cry from US President Donald ...",
-      "source": "France 24",
-      "origin": "internacional",
-      "image": "https://s.france24.com/media/display/cce883aa-a3bc-11f1-934a-005056a97e36/w:1024/p:16x9/EN-20260829-170756-171246-CS.jpg",
-      "published_at": "2026-08-29T15:24:38+00:00",
-      "region": "América do Norte",
-      "theme": "Geopolítica e Segurança"
     },
     {
       "title": "Lenín Moreno, ex-presidente do Equador, é condenado a 5 anos de prisão por suborno",
@@ -1168,17 +1234,6 @@
       "theme": "Outros / Multitemático"
     },
     {
-      "title": "Turkey and Israel Vie for Middle East Influence as Tensions Spike",
-      "url": "https://www.nytimes.com/2026/08/29/world/middleeast/turkey-israel-tensions-region.html",
-      "summary": "Israel’s strike on a Syrian base to pre-empt the feared deployment of Turkish forces was part of a growing competition in the Middle East and beyond.",
-      "source": "The New York Times",
-      "origin": "internacional",
-      "image": "https://static01.nyt.com/images/2026/08/29/multimedia/29int-turkey-israel-rivarly-01-qtvg/29int-turkey-israel-rivarly-01-qtvg-mediumSquareAt3X.jpg",
-      "published_at": "2026-08-29T09:03:50+00:00",
-      "region": "Oriente Médio",
-      "theme": "Direitos Humanos, Sociedade e Migrações"
-    },
-    {
       "title": "Quem é Haakon 8º, que assume trono da Noruega após morte do rei Harald 5º",
       "url": "https://redir.folha.com.br/redir/online/mundo/rss091/*https://www1.folha.uol.com.br/mundo/2026/08/quem-e-haakon-8o-que-assume-trono-da-noruega-apos-morte-do-rei-harald-5o.shtml",
       "summary": "Após a morte do rei Harald 5º nesta sexta-feira (28), a Noruega tem um novo rei.\nLeia mais (08/29/2026 - 06h00)",
@@ -1188,61 +1243,6 @@
       "published_at": "2026-08-29T09:00:00+00:00",
       "region": "América do Sul",
       "theme": "Direito Internacional e Instituições"
-    },
-    {
-      "title": "Sobe para 37 o número de mortos em ataque de drones russos na região de Kiev",
-      "url": "https://g1.globo.com/mundo/noticia/2026/08/29/ataque-aereo-russo-mata-ao-menos-27-na-regiao-de-kiev-diz-autoridade-ucraniana.ghtml",
-      "summary": "     Fumaça sobe sob uma área residencial após um ataque de drone russo, em meio ao ataque russo à Ucrânia, na região de Kiev, Ucrânia, 29 de agosto de 2026.\nREUTERS/Alina Smutko\nSubiu para 37 o número de mortos em um ataque de drones russos durante a madrugada deste sábado (29) na região de Kiev, n...",
-      "source": "G1 - Mundo",
-      "origin": "brasil",
-      "image": "https://s2-g1.glbimg.com/0fxZmKyBVFY-gq7stmOskrm3ONY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/X/W/YTGly8RxKWqRIz2dClHg/2026-08-29t084141z-871740166-rc278na2h28y-rtrmadp-3-ukraine-crisis-attack-kyiv-region.jpg",
-      "published_at": "2026-08-29T08:55:49+00:00",
-      "region": "América do Sul",
-      "theme": "Geopolítica e Segurança"
-    },
-    {
-      "title": "Quem é Khalid Sheikh Mohammed, o arquiteto do 11 de Setembro que será julgado 27 anos após o atentado",
-      "url": "https://g1.globo.com/mundo/noticia/2026/08/29/quem-e-khalid-sheikh-mohammed-o-arquiteto-do-11-de-setembro-que-sera-julgado-27-anos-apos-o-atentado.ghtml",
-      "summary": "     Khalid Sheikh Mohammed é apontado como suposto mentor dos ataques de 11 de Setembro\nAP\nA Justiça dos Estados Unidos marcou para junho de 2028 o julgamento de Khalid Sheikh Mohammed, conhecido como KSM. Autoridades americanas o consideram o principal arquiteto dos atentados de 11 de Setembro de ...",
-      "source": "G1 - Mundo",
-      "origin": "brasil",
-      "image": "https://s2-g1.glbimg.com/AFke_mMPZtKkMOmZ5kuaz35In94=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/S/U/6BVmVBQA2hvqLpwtiA3w/fotojet-2026-08-27t113030.872.jpg",
-      "published_at": "2026-08-29T08:00:44+00:00",
-      "region": "América do Sul",
-      "theme": "Direito Internacional e Instituições"
-    },
-    {
-      "title": "Os melhores países para estrangeiros morarem em 2026 (o Brasil está na lista)",
-      "url": "https://g1.globo.com/economia/noticia/2026/08/29/os-melhores-paises-para-estrangeiros-morarem-em-2026-o-brasil-esta-na-lista.ghtml",
-      "summary": "     Reza Motalebpour elogia a facilidade de trabalhar remotamente na Cidade do Panamá\nGetty Images via BBC\nA pesquisa Expat Insider 2026, da InterNations (uma comunidade global de pessoas que moram e trabalham no exterior), avaliou 31 países, em termos de qualidade de vida, facilidade de adaptação,...",
-      "source": "G1 - Mundo",
-      "origin": "brasil",
-      "image": "https://s2-g1.glbimg.com/d2RiQSiVD48mAyzBvnw1fBWY8ew=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/a/A/HPIoWAQTCsVLqXT8RbGg/whatsapp-image-2026-08-12-at-15.18.10.jpeg",
-      "published_at": "2026-08-29T06:00:52+00:00",
-      "region": "América do Sul",
-      "theme": "Outros / Multitemático"
-    },
-    {
-      "title": "Icelanders Are Voting on E.U. Membership Talks. Here’s What to Know.",
-      "url": "https://www.nytimes.com/2026/08/29/world/europe/iceland-eu-referendum-what-to-know.html",
-      "summary": "The Nordic nation is holding a referendum on Saturday on whether to start membership talks with the European Union. Voters are divided.",
-      "source": "The New York Times",
-      "origin": "internacional",
-      "image": "https://static01.nyt.com/images/2026/08/29/multimedia/29iceland-wtk-01-wpvg/29iceland-wtk-01-wpvg-mediumSquareAt3X.jpg",
-      "published_at": "2026-08-29T04:01:14+00:00",
-      "region": "Europa",
-      "theme": "Política Internacional"
-    },
-    {
-      "title": "Modi Is Hedging Against Trump, One Deal at a Time",
-      "url": "https://www.nytimes.com/2026/08/29/world/asia/modi-india-deals-trump.html",
-      "summary": "In a year of globe-trotting, the Indian prime minister has secured deals around the world as the United States becomes less dependable.",
-      "source": "The New York Times",
-      "origin": "internacional",
-      "image": "https://static01.nyt.com/images/2026/08/27/multimedia/00INT-INDIA-MODI-01-ptzm/00INT-INDIA-MODI-01-ptzm-mediumSquareAt3X-v2.jpg",
-      "published_at": "2026-08-29T04:01:07+00:00",
-      "region": "América do Norte",
-      "theme": "Política Internacional"
     },
     {
       "title": "Footage of Tibet floods isn't being shown in China - and we know little about victims there",
