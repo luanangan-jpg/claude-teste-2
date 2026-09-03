@@ -1,104 +1,390 @@
 {
-  "last_updated": "2026-09-03T19:04:58.018915+00:00",
+  "last_updated": "2026-09-03T20:05:42.607822+00:00",
   "articles": [
+    {
+      "title": "Varejo vai à Justiça contra fim da taxa das blusinhas",
+      "url": "https://www.poder360.com.br/poder-economia/varejo-vai-a-justica-contra-fim-da-taxa-das-blusinhas/",
+      "summary": "Instituto para Desenvolvimento do Varejo afirma que texto viola a isonomia tributária e deve ser declarado inconstitucional",
+      "source": "Poder360",
+      "origin": "brasil",
+      "image": "https://static.poder360.com.br/uploads/2026/09/blusas-loja-1200x675.jpg",
+      "published_at": "2026-09-03T19:59:11+00:00",
+      "region": "América do Sul",
+      "theme": "Ciência, Tecnologia e Inovação"
+    },
+    {
+      "title": "Lula tem 68,3% ante 24,4% de Flávio no 2º turno no PI, diz pesquisa",
+      "url": "https://www.poder360.com.br/poder-eleicoes-2026/lula-tem-683-ante-244-de-flavio-no-2o-turno-no-pi-diz-pesquisa/",
+      "summary": "Levantamento AtlasIntel ouviu 1.622 eleitores no Piauí; petista também lidera no 1º turno",
+      "source": "Poder360",
+      "origin": "brasil",
+      "image": "https://static.poder360.com.br/uploads/2026/08/lula-flavio-prismada-1200x675.jpg",
+      "published_at": "2026-09-03T19:53:43+00:00",
+      "region": "América do Sul",
+      "theme": "Política Brasileira"
+    },
+    {
+      "title": "Norway Seizes Russian Research Ship in the High Arctic",
+      "url": "https://www.nytimes.com/2026/09/03/world/europe/norway-russian-research-ship-arctic.html",
+      "summary": "Empowered by an international court order, Norway captured the vessel as part of a global effort to seize Russian assets. The Russians called it “piracy.”",
+      "source": "The New York Times",
+      "origin": "internacional",
+      "image": "https://static01.nyt.com/images/2026/09/03/multimedia/03int-norway-ship-hzjt/03int-norway-ship-hzjt-mediumSquareAt3X.jpg",
+      "published_at": "2026-09-03T19:52:36+00:00",
+      "region": "América do Norte",
+      "theme": "Direito Internacional e Instituições"
+    },
+    {
+      "title": "Riedel tem 57,4% contra 30,7% de Trad no 2º turno ao governo de MS",
+      "url": "https://www.poder360.com.br/poder-eleicoes-2026/riedel-tem-574-contra-307-de-trad-no-2o-turno-ao-governo-de-ms/",
+      "summary": "Pesquisa ouviu 1.204 eleitores do Estado, via recrutamento digital aleatório; pela margem de erro, atual governador pode ser reeleito no 1º turno",
+      "source": "Poder360",
+      "origin": "brasil",
+      "image": "https://static.poder360.com.br/uploads/2026/09/candidatosgovernoMS2026-1200x675.jpg",
+      "published_at": "2026-09-03T19:47:54+00:00",
+      "region": "América do Sul",
+      "theme": "Política Internacional"
+    },
+    {
+      "title": "FIFA blasts UEFA ‘smear campaign,’ fights World Cup plan disclosures",
+      "url": "https://www.aljazeera.com/sports/2026/9/3/fifa-blasts-uefa-smear-campaign-fights-world-cup-plan-disclosures?traffic_source=rss",
+      "summary": "UEFA seeks US testimony, documents for possible lawsuit; FIFA asks US court to defer or let it oppose UEFA&#039;s request.",
+      "source": "Al Jazeera English",
+      "origin": "internacional",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/2026-08-23T194921Z_1473010206_RC2J4NAH3WK1_RTRMADP_3_FRANCE-SAUDI-1788462241.jpg?resize=1920%2C1440",
+      "published_at": "2026-09-03T19:43:07+00:00",
+      "region": "América do Norte",
+      "theme": "Direito Internacional e Instituições"
+    },
+    {
+      "title": "Vorcaro disse à PF que Galípolo incentivou fusão Master-BRB",
+      "url": "https://www.cnnbrasil.com.br/politica/vorcaro-disse-a-pf-que-galipolo-incentivou-fusao-master-brb/",
+      "summary": "Depoimento revelado pelo site Metrópoles foi prestado ao delegado Albert Paulo Sérvio de Moura em 28 de agosto",
+      "source": "CNN Brasil",
+      "origin": "brasil",
+      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/03/BR_CNN_040326_NVD_CLEAN_frame_159449.jpeg?w=1200&h=630&crop=1",
+      "published_at": "2026-09-03T19:40:08+00:00",
+      "region": "América do Sul",
+      "theme": "Outros / Multitemático"
+    },
+    {
+      "title": "VÍDEO: Mulher chora ao reconhecer nome de irmão desaparecido em porta de prisão em mostra sobre regime de Assad, na Síria",
+      "url": "https://g1.globo.com/mundo/noticia/2026/09/03/video-mulher-chora-ao-reconhecer-nome-de-irmao-desaparecido-em-porta-de-prisao-em-mostra-sobre-regime-de-assad-na-siria.ghtml",
+      "summary": "     Mulher chora ao reconhecer nome de irmão desaparecido em exposição sobre prisões de Assad\n\"Vocês podem me dar essa porta, por favor?\", perguntou, emocionada, uma mulher ao funcionário de uma exposição sobre os horrores do regime de Bashar al-Assad em Damasco, na Síria.\nIdentificada como Lama Aw...",
+      "source": "G1 - Mundo",
+      "origin": "brasil",
+      "image": "https://s2-g1.glbimg.com/St0CXiOdUr8qDV3oQvGXivVgnNw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/a/9/oGuhA3QumapwJynLmtUg/captura-de-tela-2026-09-03-163657-1-.jpg",
+      "published_at": "2026-09-03T19:39:25+00:00",
+      "region": "América do Sul",
+      "theme": "Direito Internacional e Instituições"
+    },
+    {
+      "title": "Flávio resgata pautas de costume ao destacar peso de indicações ao STF",
+      "url": "https://www.cnnbrasil.com.br/eleicoes/flavio-resgata-pautas-de-costume-ao-destacar-peso-de-indicacoes-ao-stf/",
+      "summary": "Senado e candidato à Presidência afirmou que indicará \"homens e mulheres\" que sejam contra o aborto e contra as drogas; ainda, que respeitem a propriedade privada e a Constituição",
+      "source": "CNN Brasil",
+      "origin": "brasil",
+      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/Reuters_Direct_Media/BrazilOnlineReportDomesticNews/tagreuters.com2026binary_LYNXMPEM4Q21M-BASEIMAGE.jpg?w=800&h=533&crop=1",
+      "published_at": "2026-09-03T19:36:35+00:00",
+      "region": "América do Sul",
+      "theme": "Política Brasileira"
+    },
+    {
+      "title": "EUA não negociarão enquanto Irã atacar navios comerciais, diz Vance",
+      "url": "https://www.cnnbrasil.com.br/internacional/eua-nao-negociarao-equanto-ira-atacar-navios-comerciais-diz-vance/",
+      "summary": "Declaração foi feita após países quebrarem pausa de um mês nos ataques no último domingo (30)",
+      "source": "CNN Brasil",
+      "origin": "brasil",
+      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/Reuters_Direct_Media/BrazilOnlineReportWorldNews/tagreuters.com2026binary_LYNXMPEM3D1H9-BASEIMAGE.jpg?w=800&h=533&crop=1",
+      "published_at": "2026-09-03T19:35:50+00:00",
+      "region": "América do Sul",
+      "theme": "Geopolítica e Segurança"
+    },
+    {
+      "title": "Equipe de Lula usa pesquisas para modular discurso em caso Vorcaro-Moraes",
+      "url": "https://www.poder360.com.br/poder-eleicoes-2026/equipe-de-lula-usa-pesquisas-para-modular-discurso-em-caso-vorcaro-moraes/",
+      "summary": "Entorno reúne dados para medir impacto da crise envolvendo o STF na campanha; presidente ainda não se pronunciou sobre o tema",
+      "source": "Poder360",
+      "origin": "brasil",
+      "image": "https://static.poder360.com.br/uploads/2026/07/lula-alexandre-de-moraes-29-jul-2026.jpg",
+      "published_at": "2026-09-03T19:33:37+00:00",
+      "region": "América do Sul",
+      "theme": "Outros / Multitemático"
+    },
+    {
+      "title": "Vitória ou derrota da AfD no fim de semana preocupa polícia alemã",
+      "url": "https://redir.folha.com.br/redir/online/mundo/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/vitoria-ou-derrota-da-afd-no-fim-de-semana-preocupa-policia-alema.shtml",
+      "summary": "Com ou sem vitória histórica, a AfD, seus militantes e opositores preocupam a polícia alemã neste fim de semana. No domingo (6), a eleição estadual em Saxônia-Anhalt, no leste do país, pode alçar o partido de extrema direita ao poder, fato inédito no pós-guerra. Autoridades aguardam protestos e não ...",
+      "source": "Folha de S.Paulo - Mundo",
+      "origin": "brasil",
+      "image": "https://f.i.uol.com.br/fotografia/2026/09/02/17883510286a981234d5af3_1788351028_3x2_rt.jpg",
+      "published_at": "2026-09-03T19:33:00+00:00",
+      "region": "América do Sul",
+      "theme": "Direitos Humanos, Sociedade e Migrações"
+    },
+    {
+      "title": "“Quilos Mortais”: veja como está Krystal, que pesava 270 quilos",
+      "url": "https://www.cnnbrasil.com.br/pop/realities/quilos-mortais-veja-como-esta-krystal-que-pesava-270-quilos/",
+      "summary": "Com pressão alta, diabetes e depressão, ela chegou ao limite e buscou ajuda do programa para mudar de vida",
+      "source": "CNN Brasil",
+      "origin": "brasil",
+      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/09/Captura-de-tela-2026-09-03-155612.png?w=1200&h=630&crop=1",
+      "published_at": "2026-09-03T19:29:24+00:00",
+      "region": "América do Sul",
+      "theme": "Outros / Multitemático"
+    },
+    {
+      "title": "Serbia welcomes return of war criminal Mladic’s body with military honours",
+      "url": "https://www.aljazeera.com/news/2026/9/3/serbia-welcomes-return-of-war-criminal-mladics-body-with-military-honours?traffic_source=rss",
+      "summary": "Ratko Mladic received a life sentence from a UN court for committing atrocities during the 1992-1995 Bosnian War.",
+      "source": "Al Jazeera English",
+      "origin": "internacional",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/afp_6a99c00f17c3-1788461071.jpg?resize=1920%2C1440",
+      "published_at": "2026-09-03T19:27:34+00:00",
+      "region": "Global",
+      "theme": "Geopolítica e Segurança"
+    },
+    {
+      "title": "Vice do Irã ameaça economia dos EUA: “Meses sombrios estão por vir”",
+      "url": "https://www.cnnbrasil.com.br/internacional/vice-do-ira-ameaca-economia-dos-eua-meses-sombrios-estao-por-vir/",
+      "summary": "Comentário é feito após troca de ataques entre os dois países e aumento da tensão no Oriente Médio",
+      "source": "CNN Brasil",
+      "origin": "brasil",
+      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/08/Banner-com-uma-foto-do-presidente-dos-EUA-Donald-Trump-ao-lado-de-um-sistema-de-misseis-iraniano-na-Praca-Azadi-em-Teera-Ira.jpg?w=1200&h=630&crop=1",
+      "published_at": "2026-09-03T19:24:40+00:00",
+      "region": "América do Sul",
+      "theme": "Economia Internacional"
+    },
+    {
+      "title": "Gloria Steinem, um ícone do feminismo americano que se infiltrou na Playboy para denunciar as condições de trabalho das mulheres",
+      "url": "https://www.bbc.com/portuguese/articles/c5yjre413e4o?at_medium=RSS&at_campaign=rss",
+      "summary": "Uma das principais líderes na defesa dos direitos das mulheres nos Estados Unidos morreu aos 92 anos.",
+      "source": "BBC News Brasil",
+      "origin": "brasil",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7ffc/live/d30c3760-3d3c-11ef-9e1c-3b4a473456a6.jpg",
+      "published_at": "2026-09-03T19:22:30+00:00",
+      "region": "América do Sul",
+      "theme": "Direitos Humanos, Sociedade e Migrações"
+    },
+    {
+      "title": "Vorcaro diz que serviço a ex-diretor do BC na Disney foi “agrado”",
+      "url": "https://www.poder360.com.br/poder-justica/vorcaro-diz-que-servico-a-ex-diretor-do-bc-na-disney-foi-agrado/",
+      "summary": "Polícia Federal investigou que Paulo Sérgio Neves orientava empresário em assuntos de interesse do Master",
+      "source": "Poder360",
+      "origin": "brasil",
+      "image": "https://static.poder360.com.br/uploads/2026/04/imagem-video-vorcaro-21.jun_.2024.jpg",
+      "published_at": "2026-09-03T19:22:16+00:00",
+      "region": "América do Sul",
+      "theme": "Direitos Humanos, Sociedade e Migrações"
+    },
+    {
+      "title": "Por que a cebola faz chorar? Segredo de 20 minutos no freezer para nunca mais sofrer com ácido nos olhos",
+      "url": "https://www.cnnbrasil.com.br/curiosidades/por-que-a-cebola-faz-chorar-segredo-de-20-minutos-no-freezer-para-nunca-mais-sofrer-com-acido-nos-olhos/",
+      "summary": "Cientistas explicam a reação química por trás do choro na cozinha e apontam métodos práticos para evitar o incômodo",
+      "source": "CNN Brasil",
+      "origin": "brasil",
+      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/09/Por-que-choramos-ao-cortar-cebola.jpg?w=1200&h=630&crop=1",
+      "published_at": "2026-09-03T19:20:45+00:00",
+      "region": "América do Sul",
+      "theme": "Outros / Multitemático"
+    },
+    {
+      "title": "Tarcísio prepara discurso mais ameno para ato de 7 de Setembro",
+      "url": "https://www.cnnbrasil.com.br/politica/tarcisio-prepara-discurso-mais-ameno-para-ato-de-7-de-setembro/",
+      "summary": "Segundo aliados, governador pretende evitar nomes e adotar tom mais institucional na Avenida Paulista",
+      "source": "CNN Brasil",
+      "origin": "brasil",
+      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/01/Tarcisio-2-e1769882526989.jpg?w=1200&h=630&crop=1",
+      "published_at": "2026-09-03T19:19:38+00:00",
+      "region": "América do Sul",
+      "theme": "Outros / Multitemático"
+    },
+    {
+      "title": "Pesquisas sobre assoar o nariz, roubar doces e mictórios sem respingos serão homenageadas no Prêmio Ig Nobel de 2026",
+      "url": "https://www.cnnbrasil.com.br/ciencia/pesquisas-sobre-assoar-o-nariz-roubar-doces-e-mictorios-sem-respingos-serao-homenageadas-no-premio-ig-nobel-de-2026/",
+      "summary": "Apesar do caráter cômico, especialistas defendem que a curiosidade por si só é fundamental para o progresso da ciência",
+      "source": "CNN Brasil",
+      "origin": "brasil",
+      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/09/the-2026-ig-nobel-prize-itself-photo-by-eric-workman-improbable-research.avif?w=1200&h=630&crop=1",
+      "published_at": "2026-09-03T19:19:37+00:00",
+      "region": "América do Sul",
+      "theme": "Ciência, Tecnologia e Inovação"
+    },
+    {
+      "title": "Em vitória de Lula, Câmara aprova fim da taxa das blusinhas",
+      "url": "https://www.poder360.com.br/poder-congresso/camara-aprova-fim-da-taxa-das-blusinhas/",
+      "summary": "Texto vai ao Senado onde será votado ainda nesta 5ª feira (3.set); medida zera o imposto de 20% para compras de até US$ 50",
+      "source": "Poder360",
+      "origin": "brasil",
+      "image": "https://static.poder360.com.br/uploads/2026/09/sessao-camara-plenario-3set2026-1200x675.jpg",
+      "published_at": "2026-09-03T19:19:03+00:00",
+      "region": "América do Sul",
+      "theme": "Política Brasileira"
+    },
+    {
+      "title": "PT pede investigação de Nikolas e Vorcaro por possíveis crimes de corrupção",
+      "url": "https://www.poder360.com.br/poder-congresso/pt-pede-investigacao-de-nikolas-e-vorcaro-por-possiveis-crimes-de-corrupcao/",
+      "summary": "Representação cita custeio de voos por Vorcaro e pedido de Nikolas por ajuda em negócio de mineração",
+      "source": "Poder360",
+      "origin": "brasil",
+      "image": "https://static.poder360.com.br/uploads/2026/03/Nikolas-Jato-Vorcaro-1.png",
+      "published_at": "2026-09-03T19:18:57+00:00",
+      "region": "América do Sul",
+      "theme": "Direitos Humanos, Sociedade e Migrações"
+    },
+    {
+      "title": "Flávio tem 47,4% contra 42,5% de Lula no 2º turno no DF, diz pesquisa",
+      "url": "https://www.poder360.com.br/poder-eleicoes-2026/flavio-tem-474-contra-425-de-lula-no-2o-turno-no-df-diz-pesquisa/",
+      "summary": "Pesquisa da AtlasIntel ouviu 1.193 pessoas na capital brasileira de 27 de agosto a 1 de setembro; margem de erro é de 3 pontos percentuais, para mais ou para menos",
+      "source": "Poder360",
+      "origin": "brasil",
+      "image": "https://static.poder360.com.br/uploads/2026/04/prismada-flavio-lula.jpg",
+      "published_at": "2026-09-03T19:17:37+00:00",
+      "region": "América do Sul",
+      "theme": "Política Brasileira"
+    },
+    {
+      "title": "Nikolas Ferreira admite ter pedido ajuda a Vorcaro mas diz que não recebeu 'nenhum tostão' do banqueiro",
+      "url": "https://www.bbc.com/portuguese/articles/cx2zvgr7pr1o?at_medium=RSS&at_campaign=rss",
+      "summary": "Segundo o ICL Notícias, mensagens mostram que deputado pediu ajuda ao banqueiro para destravar ativos de seu advogado e teria pedido desculpas por publicação que questionava a presença de autoridades em evento patrocinado pelo Master.",
+      "source": "BBC News Brasil",
+      "origin": "brasil",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/4aee/live/15b41220-a7c3-11f1-b5cf-8556ae508a51.jpg",
+      "published_at": "2026-09-03T19:16:46+00:00",
+      "region": "América do Sul",
+      "theme": "Outros / Multitemático"
+    },
+    {
+      "title": "Advocates decry US House vote to defund universities that boycott Israel",
+      "url": "https://www.aljazeera.com/news/2026/9/3/advocates-decry-us-house-vote-to-defund-universities-that-boycott-israel?traffic_source=rss",
+      "summary": "Rights groups say the measure infringes on the freedom of speech of Americans for the benefit of a foreign nation.",
+      "source": "Al Jazeera English",
+      "origin": "internacional",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2024/04/AP24118725773704-1714254283.jpg?resize=1920%2C1440",
+      "published_at": "2026-09-03T19:14:05+00:00",
+      "region": "América do Norte",
+      "theme": "Política Internacional"
+    },
+    {
+      "title": "À PF, Vorcaro negou que funcionário do BC tenha atuado em seu favor",
+      "url": "https://www.poder360.com.br/poder-justica/a-pf-vorcaro-negou-que-funcionario-do-bc-tenha-atuado-em-seu-favor/",
+      "summary": "Paulo Sérgio Neves de Souza é investigado por suposta atuação para beneficiar o Banco Master",
+      "source": "Poder360",
+      "origin": "brasil",
+      "image": "https://static.poder360.com.br/uploads/2026/09/banco-central-sergio-lima-poder360-1200x675.jpg",
+      "published_at": "2026-09-03T19:12:48+00:00",
+      "region": "América do Sul",
+      "theme": "Outros / Multitemático"
+    },
+    {
+      "title": "Futura: para 58,7%, posição da 6×1 não influencia voto para presidente",
+      "url": "https://www.cnnbrasil.com.br/eleicoes/futura-para-587-posicao-da-6x1-nao-influencia-voto-para-presidente/",
+      "summary": "Segundo o levantamento, 67,3% dos brasileiros são favoráveis ao fim da escala 6x1",
+      "source": "CNN Brasil",
+      "origin": "brasil",
+      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/08/palacio-do-planalto-7-e1755081844981.jpg?w=1200&h=630&crop=1",
+      "published_at": "2026-09-03T19:09:26+00:00",
+      "region": "América do Sul",
+      "theme": "Direito Internacional e Instituições"
+    },
+    {
+      "title": "Vorcaro diz ter feito repasse a projeto social de ex-chefe do BC",
+      "url": "https://www.poder360.com.br/poder-justica/vorcaro-diz-ter-feito-repasse-a-projeto-de-ex-chefe-do-bc/",
+      "summary": "Em depoimento prestado na 6ª feira (28.ago), o fundador do Master negou ter recebido qualquer contrapartida ilegal",
+      "source": "Poder360",
+      "origin": "brasil",
+      "image": "https://static.poder360.com.br/uploads/2026/03/daniel-vorcaro-mugshot.jpg",
+      "published_at": "2026-09-03T19:08:21+00:00",
+      "region": "América do Sul",
+      "theme": "Cultura, Mídia e Sociedade"
+    },
+    {
+      "title": "Polícia fecha fábrica clandestina de produtos da WePink em SP",
+      "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/policia-fecha-fabrica-clandestina-de-produtos-da-wepink-em-sp/",
+      "summary": "Foram apreendidas 230 caixas de produtos já prontos para a comercialização, cada uma contendo 48 unidades de perfumes e body splashes, falsificados da marca da influenciadora Virgínia Fonseca",
+      "source": "CNN Brasil",
+      "origin": "brasil",
+      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/09/FABRICA-CLANDESTINA-WEPINK.png?w=1200&h=630&crop=1",
+      "published_at": "2026-09-03T19:07:31+00:00",
+      "region": "América do Sul",
+      "theme": "Direitos Humanos, Sociedade e Migrações"
+    },
+    {
+      "title": "Quadro fiscal segue como maior risco ao sistema financeiro, diz BC",
+      "url": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/quadro-fiscal-segue-como-maior-risco-ao-sistema-financeiro-diz-bc/",
+      "summary": "No mesmo período, também cresceu a proporção de instituições que destacam o risco de inadimplência e atividade como o mais importante",
+      "source": "CNN Brasil",
+      "origin": "brasil",
+      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/Reuters_Direct_Media/BrazilOnlineReportBusinessNews/tagreuters.com2026binary_LYNXMPEM3M1IN-BASEIMAGE.jpg?w=800&h=571&crop=1",
+      "published_at": "2026-09-03T19:05:46+00:00",
+      "region": "América do Sul",
+      "theme": "Outros / Multitemático"
+    },
+    {
+      "title": "Futura: 59,4% desaprovam Congresso, enquanto 52,7% reprovam STF",
+      "url": "https://www.cnnbrasil.com.br/politica/futura-594-desaprovam-congresso-enquanto-527-reprovam-stf/",
+      "summary": "Foram ouvidas 2.000 pessoas entre os dias 27 de agosto e 1º de setembro; margem de erro é 2,2 pontos percentuais, para mais ou para menos, com nível de confiança de 95%",
+      "source": "CNN Brasil",
+      "origin": "brasil",
+      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/Reuters_Direct_Media/BrazilOnlineReportDomesticNews/tagreuters.com2026binary_LYNXMPEM1B1B4-BASEIMAGE.jpg?w=800&h=483&crop=1",
+      "published_at": "2026-09-03T19:04:08+00:00",
+      "region": "América do Sul",
+      "theme": "Política Brasileira"
+    },
+    {
+      "title": "Futura: 48% rejeitam Flávio; 46,8%, Lula",
+      "url": "https://www.cnnbrasil.com.br/eleicoes/futura-48-rejeitam-flavio-468-lula/",
+      "summary": "Foram ouvidas 2.000 pessoas entre os dias 27 de agosto e 1º de setembro; margem de erro é de 2,2 pontos percentuais, para mais ou para menos",
+      "source": "CNN Brasil",
+      "origin": "brasil",
+      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/06/1_b39111.png?w=1200&h=630&crop=1",
+      "published_at": "2026-09-03T19:03:16+00:00",
+      "region": "América do Sul",
+      "theme": "Política Brasileira"
+    },
     {
       "title": "VÍDEO: Alemanha testa míssil balístico em meio a tensão com a Rússia",
       "url": "https://g1.globo.com/mundo/noticia/2026/09/03/video-alemanha-testa-missil-balistico-em-meio-a-tensao-com-a-russia.ghtml",
-      "summary": "A Alemanha está em guerra?\nA Alemanha testou com sucesso um míssil balístico israelense no Atlântico Norte nesta semana durante a madrugada, afirmaram autoridades militares alemãs e da Otan na quarta-feira (2).\n✅ Siga o canal de notícias internacionais do g1 no WhatsApp\nO teste do que as autoridades...",
+      "summary": "     A Alemanha está em guerra?\nA Alemanha testou com sucesso um míssil balístico israelense no Atlântico Norte nesta semana durante a madrugada, afirmaram autoridades militares alemãs e da Otan na quarta-feira (2).\n✅ Siga o canal de notícias internacionais do g1 no WhatsApp\nO teste do que as autori...",
       "source": "G1 - Mundo",
       "origin": "brasil",
-      "image": "https://s2-g1.glbimg.com/46hl-a8OTNIEcw9JbcTdyM77mrQ=/1280x0/filters:format(jpeg)/https://thumbor.globoi.com/unsafe/fit-in/1280x720/s02.video.glbimg.com/deo/vi/17/80/14928017",
+      "image": "https://s2-g1.glbimg.com/R6UpoxgsapGqm8DVTxM7Atnm5GI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/s/A/XckFX0QuO7D8Vmdy542Q/ezgif-3d87c28b77a5c224.gif",
       "published_at": "2026-09-03T19:03:11+00:00",
       "region": "América do Sul",
       "theme": "Geopolítica e Segurança"
     },
     {
-      "title": "Ao vivo: Lula anuncia redução da fila do INSS",
-      "url": "https://www.poder360.com.br/poder-governo/ao-vivo-lula-anuncia-reducao-da-fila-do-inss/",
-      "summary": "A diminuição do tempo de espera para análise de benefícios é uma das principais promessas da atual gestão na área social",
-      "source": "Poder360",
+      "title": "Futura: 50,9% desaprovam Lula; 46,4% aprovam",
+      "url": "https://www.cnnbrasil.com.br/politica/futura-509-desaprovam-lula-464-aprovam/",
+      "summary": "Foram ouvidas 2.000 pessoas entre os dias 27 de agosto e 1º de setembro; margem de erro é de 2,2 pontos percentuais, para mais ou para menos",
+      "source": "CNN Brasil",
       "origin": "brasil",
-      "image": "https://static.poder360.com.br/uploads/2026/09/lula-reuniao-bets-1-set-2026-3.png",
-      "published_at": "2026-09-03T19:02:05+00:00",
+      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/07/presidente-lula.jpg?w=1200&h=630&crop=1",
+      "published_at": "2026-09-03T19:02:55+00:00",
       "region": "América do Sul",
       "theme": "Política Brasileira"
     },
     {
-      "title": "Vorcaro diz que mãe recebeu ameaças de morte após sua prisão",
-      "url": "https://www.poder360.com.br/poder-justica/vorcaro-diz-que-mae-recebeu-ameacas-de-morte-apos-sua-prisao/",
-      "summary": "Empresário disse em depoimento ao STF que também foi alvo de intimidações da PF",
-      "source": "Poder360",
+      "title": "Embraer e SPX criam empresa de cibersegurança de R$ 700 milhões",
+      "url": "https://www.cnnbrasil.com.br/economia/money/negocios/embraer-e-spx-criam-empresa-de-ciberseguranca-de-r-700-milhoes/",
+      "summary": "Negócio não envolve transação financeira, apenas troca de ações",
+      "source": "CNN Brasil",
       "origin": "brasil",
-      "image": "https://static.poder360.com.br/uploads/2026/07/Daniel-Vorcaro-1900x1080-1.jpg",
-      "published_at": "2026-09-03T18:59:27+00:00",
+      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/Reuters_Direct_Media/BrazilOnlineReportBusinessNews/tagreuters.com2026binary_LYNXMPEM0Q1H1-BASEIMAGE.jpg?w=800&h=560&crop=1",
+      "published_at": "2026-09-03T19:02:04+00:00",
       "region": "América do Sul",
-      "theme": "Política Brasileira"
+      "theme": "Ciência, Tecnologia e Inovação"
     },
     {
-      "title": "Fui deixado em caixote por 6 horas, disse Vorcaro em depoimento",
-      "url": "https://www.poder360.com.br/poder-justica/fui-deixado-em-caixote-por-6-horas-disse-vorcaro-em-depoimento/",
-      "summary": "Ao gabinete do ministro André Mendonça, o fundador do Master afirmou que sofreu ameaças na prisão para não fechar acordo de delação",
-      "source": "Poder360",
-      "origin": "brasil",
-      "image": "https://static.poder360.com.br/uploads/2026/07/Daniel-Vorcaro-1900x1080-1.jpg",
-      "published_at": "2026-09-03T18:58:54+00:00",
-      "region": "América do Sul",
-      "theme": "Política Internacional"
-    },
-    {
-      "title": "Flávio tem 50,4% contra 42% de Lula no 2º turno no RS, diz pesquisa",
-      "url": "https://www.poder360.com.br/poder-pesquisas/flavio-tem-504-contra-42-de-lula-no-2o-turno-no-rs-diz-pesquisa/",
-      "summary": "Levantamento AtlasIntel ouviu 1.783 eleitores do Rio Grande do Sul de 27 de agosto a 1º de setembro; margem de erro é de 2 p.p.",
-      "source": "Poder360",
-      "origin": "brasil",
-      "image": "https://static.poder360.com.br/uploads/2026/08/flavio-lula-prismada-1900-1080-1200x675.jpg",
-      "published_at": "2026-09-03T18:53:19+00:00",
-      "region": "América do Sul",
-      "theme": "Política Brasileira"
-    },
-    {
-      "title": "Zucco lidera corrida pelo governo do RS com 44,3%, diz pesquisa",
-      "url": "https://www.poder360.com.br/poder-eleicoes-2026/zucco-lidera-corrida-pelo-governo-do-rs-com-443-diz-pesquisa/",
-      "summary": "Levantamento da AtlasIntel mostra candidato do PL à frente no 1º e no 2º turno; Juliana Brizola aparece em 2º lugar, com 37,5%",
-      "source": "Poder360",
-      "origin": "brasil",
-      "image": "https://static.poder360.com.br/uploads/2025/09/Zucco-1080-1200x675.jpg",
-      "published_at": "2026-09-03T18:53:09+00:00",
-      "region": "América do Sul",
-      "theme": "Política Internacional"
-    },
-    {
-      "title": "Vilela vence em todos os cenários de 2º turno em GO, diz pesquisa",
-      "url": "https://www.poder360.com.br/poder-eleicoes-2026/vilela-vence-em-todos-os-cenarios-de-2o-turno-em-go-diz-pesquisa/",
-      "summary": "Levantamento AtlasIntel ouviu 1.214 eleitores do Estado, de 27 de agosto a 1º de setembro; margem de erro é de 3 pontos percentuais",
-      "source": "Poder360",
-      "origin": "brasil",
-      "image": "https://static.poder360.com.br/uploads/2025/12/Daniel-Vilela-Romullo-Carvalho-Secom.jpg",
-      "published_at": "2026-09-03T18:52:10+00:00",
-      "region": "América do Sul",
-      "theme": "Direito Internacional e Instituições"
-    },
-    {
-      "title": "“Não recebi um tostão de Vorcaro e nem o encontrei”, diz Nikolas",
-      "url": "https://www.poder360.com.br/poder-congresso/nao-recebi-um-tostao-de-vorcaro-e-nem-o-encontrei-diz-nikolas/",
-      "summary": "Deputado diz não fazer parte da \"putaria de Brasília” e chama áudios de “cortina de fumaça”, mas admite contatos com ex-banqueiro",
-      "source": "Poder360",
-      "origin": "brasil",
-      "image": "https://static.poder360.com.br/uploads/2026/09/Design-sem-nome-63-1200x675.jpg",
-      "published_at": "2026-09-03T18:51:14+00:00",
-      "region": "América do Sul",
-      "theme": "Cultura, Mídia e Sociedade"
-    },
-    {
-      "title": "Ao vivo: STF julga concessão de gratuidade na Justiça trabalhista",
-      "url": "https://www.poder360.com.br/poder-justica/ao-vivo-stf-julga-concessao-de-gratuidade-na-justica-trabalhista/",
-      "summary": "Corte analisa regras para trabalhadores que recebem mais de 40% do teto do Regime Geral de Previdência Social",
-      "source": "Poder360",
-      "origin": "brasil",
-      "image": "https://static.poder360.com.br/uploads/2025/07/imagem-stf.jpg",
-      "published_at": "2026-09-03T18:48:43+00:00",
-      "region": "América do Sul",
-      "theme": "Política Brasileira"
+      "title": "Is Nepal leading the battle for climate justice?",
+      "url": "https://www.aljazeera.com/video/inside-story/2026/9/3/is-nepal-leading-the-battle-for-climate-justice?traffic_source=rss",
+      "summary": "Foreign minister demands top three polluting nations compensate Nepal for recent disaster.",
+      "source": "Al Jazeera English",
+      "origin": "internacional",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1788458103.jpg?resize=1920%2C1080&quality=80",
+      "published_at": "2026-09-03T18:58:05+00:00",
+      "region": "América do Norte",
+      "theme": "Meio Ambiente e Clima"
     },
     {
       "title": "Four imprisoned Palestine Action activists appeal ‘terrorism’ sentences",
@@ -121,17 +407,6 @@
       "published_at": "2026-09-03T18:45:37+00:00",
       "region": "África",
       "theme": "Geopolítica e Segurança"
-    },
-    {
-      "title": "Suspeito de usar IA para manipular imagens de abuso infantil é preso no RS",
-      "url": "https://www.cnnbrasil.com.br/nacional/sul/rs/suspeito-de-usar-ia-para-manipular-imagens-de-abuso-infantil-e-preso-no-rs/",
-      "summary": "Conforme a polícia, mais de 1 terabyte de material digital com conteúdo de abuso sexual infantojuvenil foi localizado; essa foi a primeira prisão no estado por essa conduta",
-      "source": "CNN Brasil",
-      "origin": "brasil",
-      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/09/suspeito-preso-rs.jpg?w=1200&h=630&crop=1",
-      "published_at": "2026-09-03T18:44:43+00:00",
-      "region": "América do Sul",
-      "theme": "Direitos Humanos, Sociedade e Migrações"
     },
     {
       "title": "5 dead, dozens missing after migrant boat found after weeks at sea",
@@ -167,17 +442,6 @@
       "theme": "Geopolítica e Segurança"
     },
     {
-      "title": "BTG lidera ranking de projeções fiscais do governo central",
-      "url": "https://www.poder360.com.br/poder-economia/btg-lidera-ranking-de-projecoes-fiscais-do-governo-central/",
-      "summary": "Banco teve menor erro em arrecadação e receita líquida entre fevereiro e julho de 2026; Caixa Asset também ficou bem posicionada em outros 2 indicadores",
-      "source": "Poder360",
-      "origin": "brasil",
-      "image": "https://static.poder360.com.br/uploads/2026/05/BTGPactual.png",
-      "published_at": "2026-09-03T18:40:57+00:00",
-      "region": "América do Sul",
-      "theme": "Política Internacional"
-    },
-    {
       "title": "Spain’s Leader Questions Morocco Border Control During Ceuta Migrant Surge",
       "url": "https://www.nytimes.com/2026/09/03/world/europe/spain-morocco-ceuta-sanchez.html",
       "summary": "Prime Minister Pedro Sánchez of Spain said the role of Moroccan authorities at key moments needed to be “clarified.” But he rejected any suggestion they had planned the crisis.",
@@ -189,94 +453,6 @@
       "theme": "Política Internacional"
     },
     {
-      "title": "Atlas: Zucco tem 48,5% para governo do RS no 2º turno; Juliana, 43,9%",
-      "url": "https://www.cnnbrasil.com.br/eleicoes/atlas-zucco-tem-485-para-governo-do-rs-no-2o-turno-juliana-439/",
-      "summary": "Pesquisa entrevistou 1.783 pessoas, entre os dias 27 de agosto e 1 de setembro; margem de erro é de 2 pontos percentuais, para mais ou para menos, e o índice de confiança é de 95%",
-      "source": "CNN Brasil",
-      "origin": "brasil",
-      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/08/zucco-e-juliana-brizola.png?w=900&h=506&crop=1",
-      "published_at": "2026-09-03T18:30:46+00:00",
-      "region": "América do Sul",
-      "theme": "Política Internacional"
-    },
-    {
-      "title": "Andrew Garfield diz não ter visto “Homem-Aranha 4” e nega retorno à Marvel",
-      "url": "https://www.cnnbrasil.com.br/pop/celebridades/andrew-garfield-diz-nao-ter-visto-homem-aranha-4-e-nega-retorno-a-marvel/",
-      "summary": "Ator reviveu papel como super-herói pela última vez em \"Homem-Aranha: Sem Volta Para Casa\"",
-      "source": "CNN Brasil",
-      "origin": "brasil",
-      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/10/andrew-garfied-homem-aranha.jpg?w=1200&h=630&crop=1",
-      "published_at": "2026-09-03T18:30:36+00:00",
-      "region": "América do Sul",
-      "theme": "Outros / Multitemático"
-    },
-    {
-      "title": "O som do Egito Antigo: a história das trombetas de Tutancâmon que voltaram a tocar após 3 mil anos",
-      "url": "https://www.cnnbrasil.com.br/curiosidades/o-som-do-egito-antigo-a-historia-das-trombetas-de-tutancamon-que-voltaram-a-tocar-apos-3-mil-anos/",
-      "summary": "Encontrados na tumba do rei egípcio, artefatos de metal voltaram a ser tocados em transmissão de rádio de 1939",
-      "source": "CNN Brasil",
-      "origin": "brasil",
-      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/09/trombeta-farao-tutancamon.png?w=1200&h=630&crop=1",
-      "published_at": "2026-09-03T18:30:17+00:00",
-      "region": "América do Sul",
-      "theme": "Cultura, Mídia e Sociedade"
-    },
-    {
-      "title": "Flávio tem 57,1% ante 36,1% de Lula no 2º turno em MS, diz AtlasIntel",
-      "url": "https://www.poder360.com.br/poder-eleicoes-2026/flavio-tem-571-ante-361-de-lula-no-2o-turno-em-ms-diz-atlasintel/",
-      "summary": "Pesquisa ouviu 1.204 eleitores de Mato Grosso do Sul, via recrutamento digital aleatório; no 1º turno, Flávio também lidera",
-      "source": "Poder360",
-      "origin": "brasil",
-      "image": "https://static.poder360.com.br/uploads/2026/07/prismada-flavio-lula.webp",
-      "published_at": "2026-09-03T18:29:01+00:00",
-      "region": "América do Sul",
-      "theme": "Política Brasileira"
-    },
-    {
-      "title": "Discord terá 10 dias para apresentar mudanças para proteger usuários",
-      "url": "https://www.cnnbrasil.com.br/economia/money/tecnologia/discord-tera-10-dias-para-apresentar-mudancas-para-proteger-usuarios/",
-      "summary": "Plataforma deve propor medidas de proteção a mulheres, crianças e adolescentes na internet após ação da AGU",
-      "source": "CNN Brasil",
-      "origin": "brasil",
-      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/02/Discord-contas-adolescentes-1.jpg?w=1200&h=630&crop=1",
-      "published_at": "2026-09-03T18:28:30+00:00",
-      "region": "América do Sul",
-      "theme": "Ciência, Tecnologia e Inovação"
-    },
-    {
-      "title": "Deputados dos EUA aprovam projeto contra boicotes a Israel em universidades",
-      "url": "https://www.cnnbrasil.com.br/internacional/deputados-dos-eua-aprovam-projeto-contra-boicotes-a-israel-em-universidades/",
-      "summary": "Votação pela \"Lei de Proteção à Liberdade Econômica e Acadêmica\" terminou com 237 votos a favor e 169 contra",
-      "source": "CNN Brasil",
-      "origin": "brasil",
-      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/Reuters_Direct_Media/BrazilOnlineReportWorldNews/tagreuters.com2024binary_LYNXNPEK3O12Y-FILEDIMAGE-e1759271571910.jpg?w=1200&h=630&crop=1",
-      "published_at": "2026-09-03T18:26:42+00:00",
-      "region": "América do Sul",
-      "theme": "Política Internacional"
-    },
-    {
-      "title": "Casa funcionava como central de compra de votos no RJ; entenda esquema",
-      "url": "https://www.cnnbrasil.com.br/politica/casa-funcionava-como-central-de-compra-de-votos-no-rj-entenda-esquema/",
-      "summary": "Ricardo Abrão (PSDB-RJ) foi alvo de busca e apreensão em operação que apura esquema de compra de votos nas eleições municipais de 2024; Elijonas Maia detalha",
-      "source": "CNN Brasil",
-      "origin": "brasil",
-      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2024/04/img20230203171109418-e1712794881986.jpg?w=1200&h=630&crop=1",
-      "published_at": "2026-09-03T18:26:14+00:00",
-      "region": "América do Sul",
-      "theme": "Política Brasileira"
-    },
-    {
-      "title": "Nikolas diz que Vorcaro “ajudou” em 2022, mas minimiza conversas vazadas",
-      "url": "https://www.cnnbrasil.com.br/politica/nikolas-diz-que-vorcaro-ajudou-em-2022-mas-minimiza-conversas-vazadas/",
-      "summary": "Deputado assume ter recebido auxílio para viagens da campanha de Jair Bolsonaro, mas chama conversas de \"irrelevantes\"",
-      "source": "CNN Brasil",
-      "origin": "brasil",
-      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/03/nikolas-bh-ato.jpeg?w=1200&h=630&crop=1",
-      "published_at": "2026-09-03T18:25:05+00:00",
-      "region": "América do Sul",
-      "theme": "Política Brasileira"
-    },
-    {
       "title": "Stranded survivors in Nepal cross raging Trishuli River using zip line",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/9/3/stranded-survivors-in-nepal-cross-raging-trishuli-river-using-zip-line?traffic_source=rss",
       "summary": "Survivors in relief camps in Nepal are struggling to get basic commodities like food and medicine",
@@ -286,94 +462,6 @@
       "published_at": "2026-09-03T18:23:38+00:00",
       "region": "América do Norte",
       "theme": "Outros / Multitemático"
-    },
-    {
-      "title": "Lito Sousa sai do hospital e continua cuidados paliativos em casa",
-      "url": "https://www.cnnbrasil.com.br/pop/celebridades/lito-sousa-sai-do-hospital-e-continua-cuidados-paliativos-em-casa/",
-      "summary": "Casa do influenciador foi toda estruturada para recebê-lo após diagnóstico de doença rara",
-      "source": "CNN Brasil",
-      "origin": "brasil",
-      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/08/image-10-3.jpg?w=1152&h=630&crop=1",
-      "published_at": "2026-09-03T18:21:47+00:00",
-      "region": "América do Sul",
-      "theme": "Saúde"
-    },
-    {
-      "title": "Com aumento da violência, Roma declara “zona vermelha” ao redor do Coliseu",
-      "url": "https://www.cnnbrasil.com.br/internacional/com-aumento-da-violencia-roma-declara-zona-vermelha-ao-redor-do-coliseu/",
-      "summary": "Reforço da segurança foi mobilizado, com poderes ampliados para proteger moradores e turistas",
-      "source": "CNN Brasil",
-      "origin": "brasil",
-      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2023/07/coliseu-roma.png?w=995&h=567&crop=1",
-      "published_at": "2026-09-03T18:21:08+00:00",
-      "region": "América do Sul",
-      "theme": "Direitos Humanos, Sociedade e Migrações"
-    },
-    {
-      "title": "“Melhor do que Nos Filmes”: Netflix anuncia elenco; veja quem é quem",
-      "url": "https://www.cnnbrasil.com.br/pop/streaming/melhor-do-que-nos-filmes-netflix-anuncia-elenco-veja-quem-e-quem/",
-      "summary": "Adaptação da história criada por Lynn Painter ainda não possui data de estreia anunciada",
-      "source": "CNN Brasil",
-      "origin": "brasil",
-      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/09/elenco-de-melhor-do-que-nos-filmes.png?w=1200&h=630&crop=1",
-      "published_at": "2026-09-03T18:19:04+00:00",
-      "region": "América do Sul",
-      "theme": "Ciência, Tecnologia e Inovação"
-    },
-    {
-      "title": "Diretoria do Corinthians se reune com o presidente da Conmebol",
-      "url": "https://www.cnnbrasil.com.br/esportes/futebol/corinthians/diretoria-do-corinthians-se-reune-com-o-presidente-da-conmebol/",
-      "summary": "Encontro na sede da confederação continental teve como objetivo estreitar a relação do clube com a instituição",
-      "source": "CNN Brasil",
-      "origin": "brasil",
-      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/09/corinthians-conmebol-e1788458845470.jpg?w=973&h=546&crop=1",
-      "published_at": "2026-09-03T18:18:28+00:00",
-      "region": "América do Sul",
-      "theme": "Outros / Multitemático"
-    },
-    {
-      "title": "Bianca Andrade se pronuncia sobre boatos de romance com Pedro Scooby",
-      "url": "https://www.cnnbrasil.com.br/pop/celebridades/bianca-andrade-se-pronuncia-sobre-boatos-de-romance-com-pedro-scooby/",
-      "summary": "Influenciadora ainda falou sobre Cintia Dicker, que recentemente se divorciou do surfista após 7 anos de casamento",
-      "source": "CNN Brasil",
-      "origin": "brasil",
-      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/09/bianca-e-scooby.png?w=1200&h=630&crop=1",
-      "published_at": "2026-09-03T18:14:14+00:00",
-      "region": "América do Sul",
-      "theme": "Outros / Multitemático"
-    },
-    {
-      "title": "Israel releases Lebanese civilian, says five prisoners will be freed",
-      "url": "https://www.aljazeera.com/news/2026/9/3/israel-releases-lebanese-civilian-says-five-more-will-be-freed?traffic_source=rss",
-      "summary": "The prisoner, identified as Malek Ghazi, is the first Lebanese citizen held by Israel to be set free since talks began.",
-      "source": "Al Jazeera English",
-      "origin": "internacional",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/AP26246520558900-1788452375.jpg?resize=1920%2C1440",
-      "published_at": "2026-09-03T18:13:55+00:00",
-      "region": "Oriente Médio",
-      "theme": "Outros / Multitemático"
-    },
-    {
-      "title": "Mantiqueira investe R$ 565 milhões em expansão e automação",
-      "url": "https://www.cnnbrasil.com.br/agro/mantiqueira-investe-r-565-milhoes-na-ampliacao-da-producao-de-ovos/",
-      "summary": "Empresa planeja chegar a 6 bilhões de ovos anuais até 2028 e aumentar o rebanho de aves em 7 milhões",
-      "source": "CNN Brasil",
-      "origin": "brasil",
-      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/01/ovos.png?w=892&h=499&crop=1",
-      "published_at": "2026-09-03T18:12:04+00:00",
-      "region": "América do Sul",
-      "theme": "Outros / Multitemático"
-    },
-    {
-      "title": "Aos 31 anos, campeão da Copa com a Espanha anuncia aposentadoria da seleção",
-      "url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/futebol-espanhol/aos-31-anos-campeao-da-copa-com-a-espanha-anuncia-aposentadoria-da-selecao/",
-      "summary": "Marcos Llorente postou carta de despedida nas redes sociais",
-      "source": "CNN Brasil",
-      "origin": "brasil",
-      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/07/espanha-campea-copa-2026-e1784558683317.jpg?w=1200&h=630&crop=1",
-      "published_at": "2026-09-03T18:10:54+00:00",
-      "region": "América do Sul",
-      "theme": "Ciência, Tecnologia e Inovação"
     },
     {
       "title": "Lavagem de Madeleine exalta cultura afro-brasileira em Paris",
@@ -409,39 +497,6 @@
       "theme": "Direitos Humanos, Sociedade e Migrações"
     },
     {
-      "title": "Gaza farmers restore seed bank to preserve local crops",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/3/gaza-farmers-restore-seed-bank-to-preserve-local-crops?traffic_source=rss",
-      "summary": "Farmers are rebuilding a seed bank destroyed during Israel’s war on Gaza to preserve local crop varieties",
-      "source": "Al Jazeera English",
-      "origin": "internacional",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1788457836.jpg?resize=1920%2C1080&quality=80",
-      "published_at": "2026-09-03T17:50:48+00:00",
-      "region": "Oriente Médio",
-      "theme": "Geopolítica e Segurança"
-    },
-    {
-      "title": "Kurdish women who fought ISIL seek place in Syria’s new security forces",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/3/09-03-ypj-syrian-army-sv?traffic_source=rss",
-      "summary": "Following the SDF’s dissolution, the Kurdish all-women YPJ is seeking to preserve its combat role in Syria.",
-      "source": "Al Jazeera English",
-      "origin": "internacional",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1788457182.jpg?resize=1920%2C1080&quality=80",
-      "published_at": "2026-09-03T17:42:28+00:00",
-      "region": "Oriente Médio",
-      "theme": "Direitos Humanos, Sociedade e Migrações"
-    },
-    {
-      "title": "Syria begins destroying al-Assad-era chemical weapons materials",
-      "url": "https://www.aljazeera.com/news/2026/9/3/syria-begins-destroying-al-assad-era-chemical-weapons-materials?traffic_source=rss",
-      "summary": "Syrian authorities undertake ⁠first such destruction in over a decade as former government officials face trial.",
-      "source": "Al Jazeera English",
-      "origin": "internacional",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/getty_6a99a625c4-1788454437.jpg?resize=1920%2C1440",
-      "published_at": "2026-09-03T17:40:51+00:00",
-      "region": "Oriente Médio",
-      "theme": "Geopolítica e Segurança"
-    },
-    {
       "title": "Malta sigue sin saber quién ordenó matar a la periodista Daphne Caruana Galizia nueve años después del crimen",
       "url": "https://elpais.com/internacional/2026-09-03/malta-sigue-sin-saber-quien-ordeno-matar-a-la-periodista-daphne-caruana-galizia-nueve-anos-despues-del-crimen.html",
       "summary": "El Instituto de Periodistas Malteses lamenta la absolución de Yorgen Fenech: “Alguien, en algún lugar, ordenó su muerte, y esa persona sigue en libertad”",
@@ -450,17 +505,6 @@
       "image": "https://imagenes.elpais.com/resizer/v2/NZGMI5BS5FLPFIZJTZLNUF2N6Q.jpg?auth=e71d4cda1bfa277f490741d1f3fc337d844e14cd69de6d22c51c567e6514014c",
       "published_at": "2026-09-03T17:31:42+00:00",
       "region": "Global",
-      "theme": "Direitos Humanos, Sociedade e Migrações"
-    },
-    {
-      "title": "Gloria Steinem, um ícone do feminismo americano que se infiltrou na Playboy para denunciar as condições de trabalho das mulheres",
-      "url": "https://www.bbc.com/portuguese/articles/c5yjre413e4o?at_medium=RSS&at_campaign=rss",
-      "summary": "Uma das principais líderes na defesa dos direitos das mulheres nos Estados Unidos morreu aos 92 anos.",
-      "source": "BBC News Brasil",
-      "origin": "brasil",
-      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7ffc/live/d30c3760-3d3c-11ef-9e1c-3b4a473456a6.jpg",
-      "published_at": "2026-09-03T17:30:32+00:00",
-      "region": "América do Sul",
       "theme": "Direitos Humanos, Sociedade e Migrações"
     },
     {
@@ -695,17 +739,6 @@
       "theme": "Ciência, Tecnologia e Inovação"
     },
     {
-      "title": "Trump $1 coin makes him first living president on US currency in a century",
-      "url": "https://www.bbc.co.uk/news/articles/c7507g9v992o?at_medium=RSS&at_campaign=rss",
-      "summary": "The US Mint special edition is stamped with a portrait of Trump alongside the words \"LIBERTY\" and \"IN GOD WE TRUST\"",
-      "source": "BBC News - World",
-      "origin": "internacional",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cb6a/live/cc827800-a72f-11f1-b970-fbb8e613a3a7.jpg",
-      "published_at": "2026-09-03T15:35:47+00:00",
-      "region": "América do Norte",
-      "theme": "Outros / Multitemático"
-    },
-    {
       "title": "Why Ukraine’s drained Kakhovka Dam is strategic for Russia",
       "url": "https://www.france24.com/en/europe/20260903-why-ukraine-drained-kakhovka-dam-strategic-russia",
       "summary": "Small groups of Russian soldiers have been inching forward through the vast, drained Kakhovka reservoir since they blew up the dam in June 2023. Russian forces are infiltrating this “no man’s land” for reconnaissance purposes rather than for a future military offensive, said a military expert.",
@@ -893,17 +926,6 @@
       "theme": "Geopolítica e Segurança"
     },
     {
-      "title": "Porta-aviões dos EUA que atracou na Tailândia após 286 dias em alto mar viraliza por aparentar desgaste; veja VÍDEO e FOTOS",
-      "url": "https://g1.globo.com/mundo/noticia/2026/09/03/porta-avioes-uss-abraham-lincoln-viraliza-tailandia-video-fotos.ghtml",
-      "summary": "     Porta-aviões dos EUA que atracou na Tailândia chama atenção ao aparentar desgaste no casco\nUma cena incomum envolvendo o Exército dos Estados Unidos chamou a atenção do público e viralizou nas redes sociais nesta semana. O porta-aviões USS Abraham Lincoln chegou à Tailândia com diversas manchas...",
-      "source": "G1 - Mundo",
-      "origin": "brasil",
-      "image": "https://s2-g1.glbimg.com/1GpAYPT1wlsYk3S5iQhRfntykiU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/t/k/GSNw1mSnqpMnyvozngxw/2026-09-03t005805z-1984088518-rc2wanajnwhj-rtrmadp-3-iran-crisis-thailand-usa.jpg",
-      "published_at": "2026-09-03T12:48:40+00:00",
-      "region": "América do Sul",
-      "theme": "Geopolítica e Segurança"
-    },
-    {
       "title": "Crise migratória em Ceuta provoca atos em várias cidades da Espanha e amplia pressão sobre Sánchez",
       "url": "https://redir.folha.com.br/redir/online/mundo/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/crise-migratoria-em-ceuta-provoca-atos-em-varias-cidades-da-espanha-e-amplia-pressao-sobre-sanchez.shtml",
       "summary": "Moradores de Ceuta, exclave espanhol no Norte da África, foram às ruas na quarta-feira (2) para protestar contra a forma como Madri está lidando com uma crise migratória provocada após a entrada em massa de imigrantes vindos do Marrocos.\nLeia mais (09/03/2026 - 09h30)",
@@ -913,6 +935,17 @@
       "published_at": "2026-09-03T12:30:00+00:00",
       "region": "América do Sul",
       "theme": "Direitos Humanos, Sociedade e Migrações"
+    },
+    {
+      "title": "Embattled Spanish PM insists there were no prior warnings before Ceuta crisis",
+      "url": "https://www.bbc.co.uk/news/articles/c07lz7rn2mjo?at_medium=RSS&at_campaign=rss",
+      "summary": "Pedro Sánchez tells parliament it is absurd to think the government knew and did nothing, after thousands join protests in Spanish cities.",
+      "source": "BBC News - World",
+      "origin": "internacional",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8fb5/live/4dfc9a20-a792-11f1-b64a-71b1e45ff5c7.jpg",
+      "published_at": "2026-09-03T12:18:07+00:00",
+      "region": "América do Norte",
+      "theme": "Política Internacional"
     },
     {
       "title": "MP denuncia envolvidos em lavagem de dinheiro por meio de bets",
@@ -1102,15 +1135,15 @@
       "theme": "Direitos Humanos, Sociedade e Migrações"
     },
     {
-      "title": "'Compartilhamos a casa com uma família de ursos que toma banho vários dias por semana na nossa piscina'",
-      "url": "https://www.bbc.com/portuguese/articles/c93enjwy7d5o?at_medium=RSS&at_campaign=rss",
-      "summary": "Ursos-negros adoram relaxar na piscina de Brian Gordon e Ricardo Martínez, em Los Angeles. À medida que aumentam encontros, o casal compartilha vídeos de seus visitantes peludos e revela como convive com eles.",
-      "source": "BBC News Brasil",
-      "origin": "brasil",
-      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/3985/live/eb863370-a619-11f1-a291-b542ee92de7c.jpg",
-      "published_at": "2026-09-03T09:11:10+00:00",
-      "region": "América do Sul",
-      "theme": "Cultura, Mídia e Sociedade"
+      "title": "'Beautiful, vibrant' Disney star Carla Jeffery dies aged 33",
+      "url": "https://www.bbc.co.uk/news/articles/ceq8r5gjygno?at_medium=RSS&at_campaign=rss",
+      "summary": "Jeffery was known for playing cheerleader Bree in 2018 Disney Channel movie Zombies and two sequels.",
+      "source": "BBC News - World",
+      "origin": "internacional",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a51b/live/97a35bf0-a76f-11f1-993c-a325009c1935.jpg",
+      "published_at": "2026-09-03T09:37:34+00:00",
+      "region": "Global",
+      "theme": "Política Internacional"
     },
     {
       "title": "How Do You Run for Office in a Gang War?",
@@ -1190,17 +1223,6 @@
       "theme": "Política Internacional"
     },
     {
-      "title": "Channel smuggling gangs resort to 'mega-dinghies' as crackdown limits small boat supply",
-      "url": "https://www.bbc.co.uk/news/articles/ce3rn93de9eo?at_medium=RSS&at_campaign=rss",
-      "summary": "Once-rival criminal groups are being forced to work together because of a shortage of small boats, a BBC investigation has found.",
-      "source": "BBC News - World",
-      "origin": "internacional",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2bb1/live/cf1e6580-a764-11f1-a291-b542ee92de7c.jpg",
-      "published_at": "2026-09-03T05:00:04+00:00",
-      "region": "América do Norte",
-      "theme": "Outros / Multitemático"
-    },
-    {
       "title": "Syrians Want Justice for Assad-Era Killings and Torture",
       "url": "https://www.nytimes.com/2026/09/03/world/middleeast/syria-justice-abuse-assad.html",
       "summary": "Hundreds of thousands were killed and tortured. But prosecuting everyone involved in atrocities could be impractical and risk renewed civil strife.",
@@ -1221,17 +1243,6 @@
       "published_at": "2026-09-03T00:34:12+00:00",
       "region": "América do Sul",
       "theme": "Política Brasileira"
-    },
-    {
-      "title": "In Small Iranian Town, a U.S. Attack Turns a Wedding Into a Tragedy",
-      "url": "https://www.nytimes.com/2026/09/02/video/iran-us-attack-wedding.html",
-      "summary": "The bomb that hit the residential area was American, according to a weapons expert and a visual analysis by The Times. It killed five people and wounded 67 others, the Iranian authorities said.",
-      "source": "The New York Times",
-      "origin": "internacional",
-      "image": "https://loremflickr.com/800/450/military?lock=188",
-      "published_at": "2026-09-03T00:03:44+00:00",
-      "region": "Oriente Médio",
-      "theme": "Geopolítica e Segurança"
     },
     {
       "title": "Após 286 dias no mar, porta-aviões dos EUA chega à Tailândia sob denúncias de más condições",
@@ -1256,20 +1267,9 @@
       "theme": "Geopolítica e Segurança"
     },
     {
-      "title": "Juíza nos EUA suspende novo decreto de Trump que restringe cidadania",
-      "url": "https://redir.folha.com.br/redir/online/mundo/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/juiza-nos-eua-suspende-novo-decreto-de-trump-que-restringe-cidadania.shtml",
-      "summary": "Uma juíza federal suspendeu nesta quarta-feira (2) o decreto publicado em agosto pelo presidente dos Estados Unidos, Donald Trump, restringindo novamente o direito à cidadania americana. A medida foi uma tentativa de driblar uma decisão desfavorável da Suprema Corte americana, que decidiu em junho q...",
-      "source": "Folha de S.Paulo - Mundo",
-      "origin": "brasil",
-      "image": "https://f.i.uol.com.br/fotografia/2026/09/02/17883904736a98ac49d1762_1788390473_3x2_rt.jpg",
-      "published_at": "2026-09-02T23:09:00+00:00",
-      "region": "América do Sul",
-      "theme": "Cultura, Mídia e Sociedade"
-    },
-    {
-      "title": "Pattaya, a 'cidade do pecado' onde 5 mil militares americanos desembarcaram após oito meses em alto mar",
+      "title": "Pattaya, a 'cidade do pecado' da Tailândia onde milhares de militares americanos desembarcaram após 8 meses em alto mar",
       "url": "https://www.bbc.com/portuguese/articles/cwyzg259neno?at_medium=RSS&at_campaign=rss",
-      "summary": "Após 250 dias no mar, o USS Abraham Lincoln atracou perto de Pattaya, cidade conhecida por sua agitada vida noturna e turismo sexual.",
+      "summary": "Após 250 dias no mar, o USS Abraham Lincoln atracou perto da cidade tailandesa conhecida por sua agitada vida noturna e turismo sexual.",
       "source": "BBC News Brasil",
       "origin": "brasil",
       "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/3894/live/fea7bf50-a6af-11f1-b048-153395f36aa1.jpg",
