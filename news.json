@@ -1,93 +1,379 @@
 {
-  "last_updated": "2026-09-04T01:04:56.596039+00:00",
+  "last_updated": "2026-09-04T02:05:50.051665+00:00",
   "articles": [
     {
-      "title": "Revolut obtém licença condicional para operar como banco nos EUA",
-      "url": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/revolut-obtem-licenca-condicional-para-operar-como-banco-nos-eua/",
-      "summary": "Expectativa é de que o processo se estenda até 2027",
-      "source": "CNN Brasil",
+      "title": "ICC leaders condemn efforts to erode international legal order",
+      "url": "https://www.aljazeera.com/news/2026/9/4/icc-leaders-condemn-efforts-to-erode-international-legal-order?traffic_source=rss",
+      "summary": "Efforts to isolate the International Criminal Court aim to undermine the global rule of law, leaders say.",
+      "source": "Al Jazeera English",
+      "origin": "internacional",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/ICC-THUMB-1787109875.jpeg?resize=1920%2C1440",
+      "published_at": "2026-09-04T01:51:34+00:00",
+      "region": "Global",
+      "theme": "Direito Internacional e Instituições"
+    },
+    {
+      "title": "US continues to squeeze Cuban economy with new round of sanctions",
+      "url": "https://www.aljazeera.com/news/2026/9/4/us-continues-to-squeeze-cuban-economy-with-new-round-of-sanctions?traffic_source=rss",
+      "summary": "Cuba announces new pro-market reforms amid threats of military attack from the Trump administration.",
+      "source": "Al Jazeera English",
+      "origin": "internacional",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/afp_6a9a0d1201e0-1788480786.jpg?resize=1920%2C1440",
+      "published_at": "2026-09-04T01:45:56+00:00",
+      "region": "América do Norte",
+      "theme": "Geopolítica e Segurança"
+    },
+    {
+      "title": "Allan dos Santos critica Nikolas após áudios para Vorcaro vazarem",
+      "url": "https://www.poder360.com.br/poder-gente/allan-dos-santos-critica-nikolas-apos-audios-para-vorcaro-vazarem/",
+      "summary": "Jornalista ironizou declaração anterior do deputado e disse que nunca chamou o fundador do Master de “Dani” nem “lindão”",
+      "source": "Poder360",
       "origin": "brasil",
-      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/Reuters_Direct_Media/BrazilOnlineReportBusinessNews/tagreuters.com2026binary_LYNXMPEM0M0OP-BASEIMAGE.jpg?w=800&h=533&crop=1",
-      "published_at": "2026-09-04T00:59:30+00:00",
+      "image": "https://static.poder360.com.br/uploads/2025/02/allan-dos-santos-21-fev-2025-1.png",
+      "published_at": "2026-09-04T01:41:43+00:00",
       "region": "América do Sul",
       "theme": "Outros / Multitemático"
     },
     {
-      "title": "Moraes acusa Mendonça de crime e pede inclusão do colega no inquérito das Fake News; entenda",
+      "title": "Moraes x Mendonça: os bastidores da 'guerra civil' entre ministros do STF",
+      "url": "https://www.bbc.com/portuguese/articles/c305mmn2318o?at_medium=RSS&at_campaign=rss",
+      "summary": "Pedido de Alexandre de Moraes de que André Mendonça seja investigado vem após ministro retirar sigilo de relatório da PF sobre mensagens de banqueiro Daniel Vorcaro supostamente enviadas a Moraes, expondo rivalidade que, até então, vinha sendo percebida de forma silenciosa pelos corredores do STF.",
+      "source": "BBC News Brasil",
+      "origin": "brasil",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/9247/live/a0333b10-a6a6-11f1-b048-153395f36aa1.jpg",
+      "published_at": "2026-09-04T01:41:23+00:00",
+      "region": "América do Sul",
+      "theme": "Política Brasileira"
+    },
+    {
+      "title": "How Do You Run for Office in a Gang War?",
+      "url": "https://www.nytimes.com/2026/09/03/world/americas/haiti-election-gangs.html",
+      "summary": "Haitian election officials have set elections for Dec. 13, but many experts say extreme violence is likely to cause a postponement. Again.",
+      "source": "The New York Times",
+      "origin": "internacional",
+      "image": "https://static01.nyt.com/images/2026/09/02/multimedia/02int-Haiti-election-explainer-gczq/02int-Haiti-election-explainer-gczq-mediumSquareAt3X.jpg",
+      "published_at": "2026-09-04T01:37:33+00:00",
+      "region": "América do Norte",
+      "theme": "Política Internacional"
+    },
+    {
+      "title": "Copa do Brasil: Arena do Grêmio teve recorde histórico de público no GreNal",
+      "url": "https://www.cnnbrasil.com.br/esportes/futebol/gremio/copa-do-brasil-arena-do-gremio-teve-recorde-historico-de-publico-no-grenal/",
+      "summary": "Jogo de volta das quartas de final do torneio aconteceu nesta quinta (3), em Porto Alegre",
+      "source": "CNN Brasil",
+      "origin": "brasil",
+      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/09/Arena_Gre-e1788485687362.jpeg?w=1200&h=630&crop=1",
+      "published_at": "2026-09-04T01:35:48+00:00",
+      "region": "América do Sul",
+      "theme": "Cultura, Mídia e Sociedade"
+    },
+    {
+      "title": "Rodovias e terminais de SP devem ter alto fluxo no feriado",
+      "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/rodovias-e-terminais-de-sp-devem-ter-alto-fluxo-no-feriado/",
+      "summary": "Viagens para o interior e litoral devem movimentar milhões de veículos e passageiros para a Independência do Brasil",
+      "source": "CNN Brasil",
+      "origin": "brasil",
+      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/01/Transito_SP-e1778715404885.webp?w=1170&h=630&crop=1",
+      "published_at": "2026-09-04T01:35:31+00:00",
+      "region": "América do Sul",
+      "theme": "Outros / Multitemático"
+    },
+    {
+      "title": "Leia a íntegra do relatório da PF sobre atuação de André Mendonça",
+      "url": "https://www.poder360.com.br/poder-justica/leia-a-integra-do-relatorio-da-pf-sobre-atuacao-de-andre-mendonca/",
+      "summary": "Documento de inteligência analisa conduta do ministro nas operações Sem Desconto e Compliance Zero e foi enviado a Moraes, que pediu investigação no inquérito das fake news",
+      "source": "Poder360",
+      "origin": "brasil",
+      "image": "https://static.poder360.com.br/uploads/2026/08/andre-mendonca-20ago26-1200x675.jpg",
+      "published_at": "2026-09-04T01:34:17+00:00",
+      "region": "América do Sul",
+      "theme": "Política Brasileira"
+    },
+    {
+      "title": "À CNN, Renan diz que Trump “vem se comportando muito mal nessas eleições”",
+      "url": "https://www.cnnbrasil.com.br/eleicoes/a-cnn-renan-diz-que-trump-vem-se-comportando-muito-mal-nessas-eleicoes/",
+      "summary": "Candidato do Missão afirma que Brasil deve combater garimpo ilegal e defender competitividade do agronegócio nacional diante dos EUA",
+      "source": "CNN Brasil",
+      "origin": "brasil",
+      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/09/BR_CNN_030926_CNN_ELEICOES_SABATINA_RENAN_SANTOS_CLEAN_frame_22371.jpeg?w=1200&h=630&crop=1",
+      "published_at": "2026-09-04T01:33:34+00:00",
+      "region": "América do Sul",
+      "theme": "Direito Internacional e Instituições"
+    },
+    {
+      "title": "Tetris e 'cobrinha': Casa Branca lança jogos em que imigrantes são caçados para deportação",
+      "url": "https://g1.globo.com/mundo/noticia/2026/09/03/tetris-e-cobrinha-casa-branca-lanca-jogos-em-que-imigrantes-sao-cacados-para-deportacao.ghtml",
+      "summary": "     Uma imagem de um site da Casa Branca com jogos de fliperama é exibida na tela de um computador na quinta-feira, 3 de setembro de 2026\nJon Elswick/AP\nO governo dos Estados Unidos lançou nesta quinta-feira (3) jogos que transformam a deportação de imigrantes sem documentos em uma espécie de brinc...",
+      "source": "G1 - Mundo",
+      "origin": "brasil",
+      "image": "https://s2-g1.glbimg.com/YonR5jB60Ma3XnLnLrhoO_PkBrk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Q/n/d2ARQRScagqsTElMBH6A/ezgif-2241c7c8578dd182.gif",
+      "published_at": "2026-09-04T01:32:10+00:00",
+      "region": "América do Sul",
+      "theme": "Direitos Humanos, Sociedade e Migrações"
+    },
+    {
+      "title": "Ghana tightens gold exports in push to keep more value at home",
+      "url": "https://www.aljazeera.com/news/2026/9/4/ghana-tightens-gold-exports-in-push-to-keep-more-value-at-home?traffic_source=rss",
+      "summary": "The move is part of a broader effort to develop Ghana’s gold industry beyond raw exports.",
+      "source": "Al Jazeera English",
+      "origin": "internacional",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/8.jpg-1788441635.jpeg?resize=1920%2C1440",
+      "published_at": "2026-09-04T01:29:48+00:00",
+      "region": "América do Norte",
+      "theme": "Cultura, Mídia e Sociedade"
+    },
+    {
+      "title": "Casamento no Irã foi atingido por projétil dos EUA, indica análise",
+      "url": "https://www.cnnbrasil.com.br/internacional/casamento-no-ira-foi-atingido-por-projetil-dos-eua-indica-analise/",
+      "summary": "Pelo menos cinco pessoas morreram; Washington afirmou que está investigando o caso",
+      "source": "CNN Brasil",
+      "origin": "brasil",
+      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/09/ataque-eua-ira.jpeg-e1788347443451.png?w=799&h=605&crop=1",
+      "published_at": "2026-09-04T01:29:16+00:00",
+      "region": "América do Sul",
+      "theme": "Outros / Multitemático"
+    },
+    {
+      "title": "PF aponta possível rigor maior de Mendonça com Lulinha",
+      "url": "https://www.cnnbrasil.com.br/politica/pf-aponta-possivel-rigor-maior-de-mendonca-com-lulinha/",
+      "summary": "Relatório compara atuação do ministro nos casos envolvendo filho do presidente Lula e ACM Neto",
+      "source": "CNN Brasil",
+      "origin": "brasil",
+      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/08/ministro-andre-mendonca-tse.jpg?w=1200&h=630&crop=1",
+      "published_at": "2026-09-04T01:28:45+00:00",
+      "region": "América do Sul",
+      "theme": "Política Brasileira"
+    },
+    {
+      "title": "À CNN, Renan defende misturar facções rivais na prisão e “punir lá dentro”",
+      "url": "https://www.cnnbrasil.com.br/eleicoes/a-cnn-renan-defende-misturar-faccoes-rivais-na-prisao-e-punir-la-dentro/",
+      "summary": "Plano do candidato inclui cadeias para 30 mil pessoas e custo de até 200 milhões de dólares por unidade",
+      "source": "CNN Brasil",
+      "origin": "brasil",
+      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/09/BR_CNN_030926_CNN_ELEICOES_SABATINA_RENAN_SANTOS_CLEAN_frame_29246.jpeg?w=1200&h=630&crop=1",
+      "published_at": "2026-09-04T01:27:05+00:00",
+      "region": "América do Sul",
+      "theme": "Direito Internacional e Instituições"
+    },
+    {
+      "title": "Pete Hegseth’s Pentagon: A list of controversies that define his tenure",
+      "url": "https://www.aljazeera.com/news/2026/9/4/pete-hegseths-pentagon-a-list-of-controversies-that-define-his-tenure?traffic_source=rss",
+      "summary": "The defence secretary faces renewed scrutiny after a Republican senator called for his removal from the US cabinet.",
+      "source": "Al Jazeera English",
+      "origin": "internacional",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/04/afp_69f24b4c553a-1777486668.jpg?resize=1920%2C1440",
+      "published_at": "2026-09-04T01:26:39+00:00",
+      "region": "América do Norte",
+      "theme": "Geopolítica e Segurança"
+    },
+    {
+      "title": "“Ganhamos no voto”: PF vê articulação por licença da Refit",
+      "url": "https://www.cnnbrasil.com.br/politica/ganhamos-no-voto-pf-ve-articulacao-por-licenca-da-refit/",
+      "summary": "Mensagens analisadas pela PF indicam articulação de aliados de Castro para garantir votos pela renovação da licença ambiental da refinaria",
+      "source": "CNN Brasil",
+      "origin": "brasil",
+      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/11/WhatsApp-Image-2025-11-27-at-07.00.44.jpeg?w=1091&h=630&crop=1",
+      "published_at": "2026-09-04T01:24:11+00:00",
+      "region": "América do Sul",
+      "theme": "Cultura, Mídia e Sociedade"
+    },
+    {
+      "title": "Taxa das blusinhas: avaliação periódica é insuficiente, diz varejo",
+      "url": "https://www.poder360.com.br/poder-economia/taxa-das-blusinhas-avaliacao-periodica-e-insuficiente-diz-varejo/",
+      "summary": "Para o presidente do Instituto de Desenvolvimento do Varejo, alterações na medida provisória foram feitas “só para conseguir aprovar antes das eleições”",
+      "source": "Poder360",
+      "origin": "brasil",
+      "image": "https://static.poder360.com.br/uploads/2026/05/Loja-25-de-Marco.jpeg",
+      "published_at": "2026-09-04T01:23:59+00:00",
+      "region": "América do Sul",
+      "theme": "Política Brasileira"
+    },
+    {
+      "title": "PF produziu relatório paralelo sobre atuação de Mendonça no caso Master",
+      "url": "https://www.poder360.com.br/poder-justica/pf-produziu-relatorio-paralelo-sobre-atuacao-de-mendonca-no-caso-master/",
+      "summary": "Documento foi elaborado antes de decisão contra Moraes e enviado ao ministro, que incorporou material ao inquérito das fake news",
+      "source": "Poder360",
+      "origin": "brasil",
+      "image": "https://static.poder360.com.br/uploads/2026/08/AndreiRodrigues-PoliciaFederal-DiretorGeral-25-1200x675.jpg",
+      "published_at": "2026-09-04T01:22:59+00:00",
+      "region": "América do Sul",
+      "theme": "Política Brasileira"
+    },
+    {
+      "title": "Quem foi Nancy Grace Roman, astrônoma que batiza o novo telescópio espacial da Nasa",
+      "url": "https://www.cnnbrasil.com.br/curiosidades/quem-foi-nancy-grace-roman-astronoma-que-batiza-o-novo-telescopio-espacial-da-nasa/",
+      "summary": "\"Mãe do Hubble\" foi figura central na criação do famoso telescópio espacial Hubble dos EUA",
+      "source": "CNN Brasil",
+      "origin": "brasil",
+      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/09/DraNancyGraceRoman.webp?w=750&h=412&crop=1",
+      "published_at": "2026-09-04T01:22:06+00:00",
+      "region": "América do Sul",
+      "theme": "Ciência, Tecnologia e Inovação"
+    },
+    {
+      "title": "Morre o cantor de jazz Luciano Soul, da banda Jazz Cinnamon",
+      "url": "https://www.cnnbrasil.com.br/pop/celebridades/morre-o-cantor-de-jazz-luciano-soul-da-banda-jazz-cinnamon/",
+      "summary": "Departamento de Cultura da cidade gaúcha lamentou o falecimento do artista, destacando sua importância local",
+      "source": "CNN Brasil",
+      "origin": "brasil",
+      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/09/1-491894940_18360701821183023_8412738802515443658_n.jpg?w=960&h=540&crop=1",
+      "published_at": "2026-09-04T01:21:45+00:00",
+      "region": "América do Sul",
+      "theme": "Cultura, Mídia e Sociedade"
+    },
+    {
+      "title": "Moraes acusa Mendonça de 'motivação política' e pede que colega de STF seja investigado; o que se sabe da crise na Corte",
       "url": "https://www.bbc.com/portuguese/articles/cly457vr0nro?at_medium=RSS&at_campaign=rss",
       "summary": "Em novo capítulo da crise na Corte, o presidente do STF Edson Fachin pediu esclarecimentos aos ministros Alexandre de Moraes e André Mendonça; enquanto isso, Moraes pediu formalmente a inclusão de Mendonça no chamado Inquérito das Fake News.",
       "source": "BBC News Brasil",
       "origin": "brasil",
       "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/6cb6/live/ad40c8d0-a7fb-11f1-98bf-9b84208e6968.jpg",
-      "published_at": "2026-09-04T00:59:08+00:00",
-      "region": "América do Sul",
-      "theme": "Direitos Humanos, Sociedade e Migrações"
-    },
-    {
-      "title": "Grêmio faz três no Inter, despacha o rival e avança na Copa do Brasil",
-      "url": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-brasil/gremio-faz-tres-no-inter-despacha-o-rival-e-avanca-na-copa-do-brasil/",
-      "summary": "Time gremista conquistou a última vaga na semifinal do torneio nacional e agora terá pela frente o Atlético-MG na próxima fase",
-      "source": "CNN Brasil",
-      "origin": "brasil",
-      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/09/gol-carlos-vinicius-gremio-internacional-copa-do-brasil-e1788483001820.jpeg?w=1200&h=630&crop=1",
-      "published_at": "2026-09-04T00:57:33+00:00",
+      "published_at": "2026-09-04T01:21:22+00:00",
       "region": "América do Sul",
       "theme": "Outros / Multitemático"
     },
     {
-      "title": "General russo acusado de ordenar ataque contra hospital infantil na Ucrânia é baleado na cabeça",
-      "url": "https://g1.globo.com/mundo/ucrania-russia/noticia/2026/09/03/general-russo-acusado-de-ordenar-ataque-contra-hospital-infantil-na-ucrania-e-baleado-na-cabeca.ghtml",
-      "summary": "Um general russo apontado por Kiev como responsável por ordenar um ataque contra um hospital infantil na Ucrânia foi baleado na cabeça, informou a imprensa europeia nesta quinta-feira (3). Nikolai Varpakhovich foi socorrido, mas o estado de saúde é desconhecido.\nSegundo o site Euronews, o general fo...",
-      "source": "G1 - Mundo",
+      "title": "Com 51% das intenções de voto, Lula ganharia no 1º turno na Paraíba",
+      "url": "https://www.poder360.com.br/poder-eleicoes-2026/com-51-das-intencoes-de-voto-lula-ganharia-no-1o-turno-na-paraiba/",
+      "summary": "Levantamento da AtlasIntel mostra Flávio Bolsonaro com 28,1% dos votos; margem de erro é de 3 pontos percentuais",
+      "source": "Poder360",
       "origin": "brasil",
-      "image": "None",
-      "published_at": "2026-09-04T00:57:16+00:00",
+      "image": "https://loremflickr.com/800/450/brasil,politics?lock=660",
+      "published_at": "2026-09-04T01:20:03+00:00",
       "region": "América do Sul",
-      "theme": "Saúde"
+      "theme": "Política Brasileira"
     },
     {
-      "title": "Análise: O que representam para o STF as denúncias de Moraes a Mendonça?",
-      "url": "https://www.cnnbrasil.com.br/politica/analise-o-que-representam-para-o-stf-as-denuncias-de-moraes-a-mendonca/",
-      "summary": "Usando o inquérito das Fake News, Alexandre de Moraes pede a Fachin que abra ação contra André Mendonça por três crimes",
-      "source": "CNN Brasil",
+      "title": "Trump pede a Suprema Corte poder para restringir voto por correio",
+      "url": "https://redir.folha.com.br/redir/online/mundo/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/trump-pede-a-suprema-corte-pode-para-restringir-voto-por-correio.shtml",
+      "summary": "O presidente dos Estados Unidos, Donald Trump, pediu nesta quinta-feira (3) à Suprema Corte do país que autorize a aplicação de uma nova regra que torna mais rigorosa o uso de cédulas enviadas pelo correio.\nLeia mais (09/03/2026 - 22h19)",
+      "source": "Folha de S.Paulo - Mundo",
       "origin": "brasil",
-      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/06/fachada-stf-estatua-justica.jpg?w=1200&h=630&crop=1",
-      "published_at": "2026-09-04T00:54:33+00:00",
+      "image": "https://f.i.uol.com.br/fotografia/2026/09/03/17884845106a9a1b9e3f460_1788484510_3x2_rt.jpg",
+      "published_at": "2026-09-04T01:19:00+00:00",
       "region": "América do Sul",
-      "theme": "Direitos Humanos, Sociedade e Migrações"
+      "theme": "Direito Internacional e Instituições"
     },
     {
-      "title": "Juros futuros recuam pela 3ª sessão com exterior e cenário eleitoral",
-      "url": "https://www.cnnbrasil.com.br/economia/money/mercado/juros-futuros-recuam-pela-3a-sessao-com-exterior-e-cenario-eleitoral/",
-      "summary": "Taxa para janeiro de 2027 oscilou de 13,568%, no ajuste da véspera, a 13,575%",
+      "title": "Recuperação extrajudicial avança, mas ainda é restrita a grandes empresas",
+      "url": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/recuperacao-extrajudicial-ganha-forca-mas-ainda-e-restrita-a-grandes-empre/",
+      "summary": "Especialista da Journey Capital explica mudanças na lei e desafios com credores do mercado de capitais",
       "source": "CNN Brasil",
       "origin": "brasil",
-      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/03/pexels-daniel-dan-47825192-7542641.webp?w=1200&h=630&crop=1",
-      "published_at": "2026-09-04T00:51:37+00:00",
+      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/03/ChatGPT-Image-11-de-mar.-de-2026-21_25_34.png?w=1200&h=630&crop=1",
+      "published_at": "2026-09-04T01:18:18+00:00",
       "region": "América do Sul",
       "theme": "Economia Internacional"
     },
     {
-      "title": "À CNN, Renan pede fim de cotas raciais: “Injustas” e atendem “classe média”",
-      "url": "https://www.cnnbrasil.com.br/eleicoes/a-cnn-renan-pede-fim-de-cotas-raciais-injustas-e-atendem-classe-media/",
-      "summary": "O candidato do Missão citou que Paulo Cruz, seu convidado para ser ministro da Educação em um eventual mandato, o ensinou a respeito do tema",
+      "title": "PF insinua que Mendonça atua para mudar correlação de forças no STF",
+      "url": "https://www.cnnbrasil.com.br/politica/pf-insinua-que-mendonca-atua-para-mudar-correlacao-de-forcas-no-stf/",
+      "summary": "Relatório sigiloso, ao qual CNN teve acesso, destaca que ministro não confia em Andrei Rodrigues",
       "source": "CNN Brasil",
       "origin": "brasil",
-      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/09/BR_CNN_030926_CNN_ELEICOES_SABATINA_RENAN_SANTOS_CLEAN_frame_29246.jpeg?w=1200&h=630&crop=1",
-      "published_at": "2026-09-04T00:49:58+00:00",
+      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/09/andre-mendonca-alexandre-de-moraes-plenario-2.jpg?w=1200&h=630&crop=1",
+      "published_at": "2026-09-04T01:17:35+00:00",
       "region": "América do Sul",
-      "theme": "Política Internacional"
+      "theme": "Política Brasileira"
     },
     {
-      "title": "Quem é Krovinović, croata que marcou para o Grêmio no GreNal",
-      "url": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-brasil/quem-e-krovinovic-croata-que-marcou-para-o-gremio-no-grenal/",
-      "summary": "Meio-campista fez seu primeiro gol pelo time gaúcho nas quartas de final da Copa do Brasil",
+      "title": "Ribeiro tem 42,5% contra 30,9% de Efraim no 1º turno na Paraíba",
+      "url": "https://www.poder360.com.br/poder-eleicoes-2026/ribeiro-tem-425-contra-309-de-efraim-no-1o-turno-na-paraiba/",
+      "summary": "Levantamento da AtlasIntel ouviu 1.207 eleitores da Paraíba de 28 de agosto a 2 de setembro; margem de erro é de 3 p.p.",
+      "source": "Poder360",
+      "origin": "brasil",
+      "image": "https://static.poder360.com.br/uploads/2026/05/lucas-ribeiro-1-.jpg",
+      "published_at": "2026-09-04T01:16:06+00:00",
+      "region": "América do Sul",
+      "theme": "Direito Internacional e Instituições"
+    },
+    {
+      "title": "Inteligência da PF vê Mendonça ciente de que investigação atingiria Moraes",
+      "url": "https://www.cnnbrasil.com.br/politica/inteligencia-da-pf-ve-mendonca-ciente-de-que-investigacao-atingiria-moraes/",
+      "summary": "Relatório afirma que ministro já havia perguntado sobre dados de colega extraídos do celular de Vorcaro",
       "source": "CNN Brasil",
       "origin": "brasil",
-      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/09/krovinovic-gol-gremio-internacional-copa-do-brasil-e1788483102592.jpeg?w=900&h=510&crop=1",
-      "published_at": "2026-09-04T00:43:07+00:00",
+      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2024/05/52390120717_74a0d6b9a7_k-e1716949969616.jpg?w=1200&h=630&crop=1",
+      "published_at": "2026-09-04T01:14:17+00:00",
       "region": "América do Sul",
-      "theme": "Cultura, Mídia e Sociedade"
+      "theme": "Política Brasileira"
+    },
+    {
+      "title": "Conflitos societários e juros ajudam a explicar crise de grandes empresas",
+      "url": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/conflitos-societarios-e-juros-ajudam-a-explicar-crise-de-grandes-empresas/",
+      "summary": "Consultor João Nogueira Batista cita casos de Casas Bahia e Braskem e aponta desafios de gestão, sucessão e competitividade",
+      "source": "CNN Brasil",
+      "origin": "brasil",
+      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/06/taxadejuros-freepik.jpg?w=1200&h=630&crop=1",
+      "published_at": "2026-09-04T01:08:24+00:00",
+      "region": "América do Sul",
+      "theme": "Economia Internacional"
+    },
+    {
+      "title": "Waack: Decisão de Moraes põe em xeque o futuro do Supremo",
+      "url": "https://www.cnnbrasil.com.br/politica/waack-decisao-de-moraes-poe-em-xeque-o-futuro-do-supremo/",
+      "summary": "A Corte terá de optar, aos olhos de imensa parcela da sociedade brasileira, se pune quem levantou o sigilo de podres expostos pela Polícia Federal ou se protege quem aparece no meio da podridão de relações promíscuas",
+      "source": "CNN Brasil",
+      "origin": "brasil",
+      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/08/plenario-stf.jpg?w=1200&h=630&crop=1",
+      "published_at": "2026-09-04T01:08:07+00:00",
+      "region": "América do Sul",
+      "theme": "Política Brasileira"
+    },
+    {
+      "title": "Semifinal da Copa do Brasil só começa em novembro; veja datas",
+      "url": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-brasil/semifinal-da-copa-do-brasil-so-comeca-em-novembro-veja-datas/",
+      "summary": "Torneio terá uma pausa de quase dois meses até o início da definição das finais",
+      "source": "CNN Brasil",
+      "origin": "brasil",
+      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/12/trofeu-copa-do-brasil-2025-e1766016110628.jpg?w=1200&h=630&crop=1",
+      "published_at": "2026-09-04T01:06:11+00:00",
+      "region": "América do Sul",
+      "theme": "Outros / Multitemático"
+    },
+    {
+      "title": "Fachin adia sessão sobre Moraes para a 2ª quinzena de setembro",
+      "url": "https://www.poder360.com.br/poder-justica/fachin-adia-sessao-sobre-moraes-para-a-2a-quinzena-de-setembro/",
+      "summary": "Presidente do STF deu 5 dias úteis para envolvidos prestarem esclarecimentos e isso joga possível decisão do plenário só para semana que começa em 14 de setembro",
+      "source": "Poder360",
+      "origin": "brasil",
+      "image": "https://static.poder360.com.br/uploads/2026/03/Ministro-Edson-Fachin-1080.jpg",
+      "published_at": "2026-09-04T01:05:34+00:00",
+      "region": "América do Sul",
+      "theme": "Política Brasileira"
+    },
+    {
+      "title": "Viana aciona o Conselho de Ética do Senado contra Alcolumbre",
+      "url": "https://www.poder360.com.br/poder-congresso/viana-aciona-o-conselho-de-etica-do-senado-contra-alcolumbre/",
+      "summary": "Senador deu prazo para o presidente da Casa dar seguimento aos pedidos de impeachment a Alexandre de Moraes; sem andamento dos pedidos, decidiu pela representação no Conselho de Ética",
+      "source": "Poder360",
+      "origin": "brasil",
+      "image": "https://static.poder360.com.br/uploads/2026/09/viana-e-alcolumbre-3-set-2026-1200x675.jpg",
+      "published_at": "2026-09-04T01:05:18+00:00",
+      "region": "América do Sul",
+      "theme": "Política Brasileira"
+    },
+    {
+      "title": "Feminist trailblazer Gloria Steinem passes away at age 92",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/4/feminist-trailblazer-gloria-steinem-passes-away-at-age-92?traffic_source=rss",
+      "summary": "Women’s rights activist Gloria Steinem has passed away at age 92.",
+      "source": "Al Jazeera English",
+      "origin": "internacional",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1788483797.jpg?resize=1620%2C1080&quality=80",
+      "published_at": "2026-09-04T01:05:07+00:00",
+      "region": "Global",
+      "theme": "Direitos Humanos, Sociedade e Migrações"
+    },
+    {
+      "title": "General russo acusado de ordenar ataque contra hospital infantil na Ucrânia é baleado na cabeça",
+      "url": "https://g1.globo.com/mundo/ucrania-russia/noticia/2026/09/03/general-russo-acusado-de-ordenar-ataque-contra-hospital-infantil-na-ucrania-e-baleado-na-cabeca.ghtml",
+      "summary": "     General Nikolai Varpakhovich foi baleado na cabeça\nExército da Rússia\nUm general russo apontado por Kiev como responsável por ordenar um ataque contra um hospital infantil na Ucrânia foi baleado na cabeça, informou a imprensa europeia nesta quinta-feira (3). Nikolai Varpakhovich foi socorrido, ...",
+      "source": "G1 - Mundo",
+      "origin": "brasil",
+      "image": "https://s2-g1.glbimg.com/iPhdHgjaEpiX0MXiwVy_tUkCDmA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/y/m/YB2e4zSIGBy5BGb5rZiA/general-1200x800-blur.png",
+      "published_at": "2026-09-04T00:57:16+00:00",
+      "region": "América do Sul",
+      "theme": "Geopolítica e Segurança"
     },
     {
       "title": "Haitian government calls for renewal of international anti-gang task force",
@@ -101,50 +387,6 @@
       "theme": "Política Internacional"
     },
     {
-      "title": "Inep divulga os gabaritos do Encceja 2026",
-      "url": "https://www.cnnbrasil.com.br/educacao/inep-divulga-os-gabaritos-do-encceja-2026/",
-      "summary": "Candidatos podem conferir as respostas das provas aplicadas em agosto no portal do instituto",
-      "source": "CNN Brasil",
-      "origin": "brasil",
-      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/06/prova.jpg?w=1200&h=630&crop=1",
-      "published_at": "2026-09-04T00:41:13+00:00",
-      "region": "América do Sul",
-      "theme": "Política Internacional"
-    },
-    {
-      "title": "À CNN, Renan cita Karl Marx ao defender criminalização de música pró-facção",
-      "url": "https://www.cnnbrasil.com.br/eleicoes/a-cnn-renan-cita-karl-marx-ao-defender-criminalizacao-de-musica-pro-faccao/",
-      "summary": "Candidato afirmou que músicas usadas como propaganda por facções não deveriam ser comercializadas livremente e citou obra de Karl Marx para defender a medida",
-      "source": "CNN Brasil",
-      "origin": "brasil",
-      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/09/BR_CNN_030926_CNN_ELEICOES_SABATINA_RENAN_SANTOS_CLEAN_frame_22371.jpeg?w=1200&h=630&crop=1",
-      "published_at": "2026-09-04T00:41:11+00:00",
-      "region": "América do Sul",
-      "theme": "Ciência, Tecnologia e Inovação"
-    },
-    {
-      "title": "Milei anuncia sanções a empresas que exploram petróleo nas Malvinas",
-      "url": "https://www.cnnbrasil.com.br/internacional/milei-anuncia-sancoes-a-empresas-que-exploram-petroleo-nas-malvinas/",
-      "summary": "Pronunciamento ocorre após Donald Trump afirmar que está reavaliando posição dos EUA sobre a disputa",
-      "source": "CNN Brasil",
-      "origin": "brasil",
-      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/09/Presidente-argentino-Javier-Milei-em-pronunciamento-sobre-as-Ilhas-Malvinas.png?w=1200&h=630&crop=1",
-      "published_at": "2026-09-04T00:40:15+00:00",
-      "region": "América do Sul",
-      "theme": "Economia Internacional"
-    },
-    {
-      "title": "PF aponta interferência de Mendonça e suposto direcionamento de alvos",
-      "url": "https://www.cnnbrasil.com.br/politica/pf-aponta-interferencia-de-mendonca-e-suposto-direcionamento-de-alvos/",
-      "summary": "Relatório revelado por Moraes afirma que o resultado prático dessa atuação seria “a atuação do julgador como investigador”",
-      "source": "CNN Brasil",
-      "origin": "brasil",
-      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/05/ministro-alexandre-de-moraes-plenario-stf_2f2d9e.jpg?w=1200&h=630&crop=1",
-      "published_at": "2026-09-04T00:40:10+00:00",
-      "region": "América do Sul",
-      "theme": "Política Brasileira"
-    },
-    {
       "title": "Volkswagen to cut another 50,000 jobs to counter tariffs and Chinese competition",
       "url": "https://www.france24.com/en/technology/20260904-volkswagen-to-cut-another-50-000-jobs-to-counter-tariffs-and-chinese-competition",
       "summary": "Volkswagen announced Thursday that it will cut another 50,000 jobs worldwide under its biggest restructuring in the company's 89-year history, as the German carmaker faces pressure from US tariffs, overcapacity and fierce competition from Chinese rivals. The plan also sets out the future of four Ger...",
@@ -156,26 +398,15 @@
       "theme": "Comércio e Finanças"
     },
     {
-      "title": "Mais de 400 peixes-leão capturados em Porto Seguro; predador ameaça espécies nativas",
-      "url": "https://www.cnnbrasil.com.br/ciencia/mais-de-400-peixes-leao-capturados-em-porto-seguro-predador-ameaca-especies-nativas/",
-      "summary": "Ação faz parte de iniciativa para conter avanço da espécie invasora na costa da Bahia e proteger a biodiversidade marinha",
-      "source": "CNN Brasil",
+      "title": "Moraes encaminha a Fachin pedido de investigação contra Mendonça",
+      "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/moraes-encaminha-fachin-pedido-de-investigacao-contra-mendonca",
+      "summary": "O ministro Alexandre de Moraes, do Supremo Tribunal Federal (STF), retirou nesta quinta-feira (3) o sigilo de decisão que aponta supostas irregularidades na atuação do ministro André Mendonça na relatoria de processos relacionados às operações Sem Desconto e Compliance Zero.\n\nMoraes encaminhou a dec...",
+      "source": "Agência Brasil",
       "origin": "brasil",
-      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/09/Design-sem-nome-11.jpg?w=1200&h=630&crop=1",
-      "published_at": "2026-09-04T00:32:03+00:00",
+      "image": "https://agenciabrasil.ebc.com.br/ebc.png?id=1701507&amp;o=rss",
+      "published_at": "2026-09-04T00:34:00+00:00",
       "region": "América do Sul",
-      "theme": "Cultura, Mídia e Sociedade"
-    },
-    {
-      "title": "Moraes acusa Mendonça de oferecer benefício não previsto em lei por delação",
-      "url": "https://www.cnnbrasil.com.br/politica/moraes-acusa-mendonca-de-oferecer-beneficio-nao-previsto-em-lei-por-delacao/",
-      "summary": "Ministro afirma ainda que colega de STF interferiu em negociações de delação premiada",
-      "source": "CNN Brasil",
-      "origin": "brasil",
-      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/09/andre-mendonca-alexandre-de-moraes-plenario-2.jpg?w=1200&h=630&crop=1",
-      "published_at": "2026-09-04T00:31:50+00:00",
-      "region": "América do Sul",
-      "theme": "Economia Internacional"
+      "theme": "Política Brasileira"
     },
     {
       "title": "Mega-Sena acumula para R$ 48 milhões; confira os números sorteados",
@@ -187,28 +418,6 @@
       "published_at": "2026-09-04T00:28:00+00:00",
       "region": "América do Sul",
       "theme": "Economia Brasileira"
-    },
-    {
-      "title": "Moraes fala em “viés político” de Mendonça em condução de investigações",
-      "url": "https://www.cnnbrasil.com.br/politica/moraes-fala-em-vies-politico-de-mendonca-em-conducao-de-investigacoes/",
-      "summary": "Ministro cita relatório da PF que aponta tratamento diferente do ministro a autoridades e tentativa de direcionar apurações contra Alexandre de Moraes e Davi Alcolumbre",
-      "source": "CNN Brasil",
-      "origin": "brasil",
-      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/09/andre-mendonca-alexandre-de-moraes-plenario-2.jpg?w=1200&h=630&crop=1",
-      "published_at": "2026-09-04T00:26:41+00:00",
-      "region": "América do Sul",
-      "theme": "Política Brasileira"
-    },
-    {
-      "title": "Renan defende à CNN criar nova Constituição: A atual “não tem mais sentido”",
-      "url": "https://www.cnnbrasil.com.br/eleicoes/renan-defende-a-cnn-criar-nova-constituicao-a-atual-nao-tem-mais-sentido/",
-      "summary": "Para o candidato do Missão, o próximo presidente não deveria aceitar decisões dos ministros Dias Toffoli e Alexandre de Moraes",
-      "source": "CNN Brasil",
-      "origin": "brasil",
-      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/09/BR_CNN_030926_CNN_ELEICOES_SABATINA_RENAN_SANTOS_CLEAN_frame_26819.jpeg?w=1200&h=630&crop=1",
-      "published_at": "2026-09-04T00:26:21+00:00",
-      "region": "América do Sul",
-      "theme": "Política Internacional"
     },
     {
       "title": "Congresso aprova PL que viabiliza orçamento do Redata e facilita emendas",
@@ -233,39 +442,6 @@
       "theme": "Política Internacional"
     },
     {
-      "title": "Fazenda estuda crédito para empresas afetadas pelo fim da 6 X 1",
-      "url": "https://www.poder360.com.br/poder-economia/fazenda-estuda-credito-para-empresas-afetadas-pelo-fim-da-6-x-1/",
-      "summary": "Durigan diz que ministério avaliará impacto por setor e poderá oferecer capacitação durante a transição",
-      "source": "Poder360",
-      "origin": "brasil",
-      "image": "https://static.poder360.com.br/uploads/2026/06/Dario-Durigan-Sergio-Lima-19.jun_.2026.jpg",
-      "published_at": "2026-09-04T00:22:54+00:00",
-      "region": "América do Sul",
-      "theme": "Economia Internacional"
-    },
-    {
-      "title": "Leão que foi resgatado do ‘pior zoológico da Europa’ fez sinfonia de rugidos com outros animais",
-      "url": "https://www.cnnbrasil.com.br/curiosidades/leao-que-foi-resgatado-do-pior-zoologico-da-europa-fez-sinfonia-de-rugidos-com-outros-animais/",
-      "summary": "Animal recebeu cuidados de organização após ser retirado de zoológico na Albânia",
-      "source": "CNN Brasil",
-      "origin": "brasil",
-      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/09/Captura-de-tela-2026-09-03-152013.png?w=1143&h=630&crop=1",
-      "published_at": "2026-09-04T00:21:26+00:00",
-      "region": "América do Sul",
-      "theme": "Outros / Multitemático"
-    },
-    {
-      "title": "Volkswagen aprova corte de 50.000 vagas em reestruturação histórica",
-      "url": "https://www.poder360.com.br/poder-internacional/volkswagen-aprova-corte-de-50-000-vagas-em-reestruturacao-historica/",
-      "summary": "Plano tenta conter concorrência chinesa e tarifas de importação; montadora reavalia futuro de 4 fábricas na Alemanha",
-      "source": "Poder360",
-      "origin": "brasil",
-      "image": "https://static.poder360.com.br/uploads/2024/09/fabrica-volkswagen-wolfsburg.jpg",
-      "published_at": "2026-09-04T00:16:54+00:00",
-      "region": "América do Sul",
-      "theme": "Comércio e Finanças"
-    },
-    {
       "title": "Milei sobe o tom contra o Reino Unido e anuncia construção de base naval em meio à disputa pelas Ilhas Malvinas",
       "url": "https://g1.globo.com/mundo/noticia/2026/09/03/milei-anuncia-sancoes-contra-empresas-e-construcao-de-base-naval-por-disputa-nas-ilhas-malvinas.ghtml",
       "summary": "     Trump diz estar reavaliando posição dos EUA sobre as Malvinas\nO presidente da Argentina, Javier Milei, subiu o tom contra o Reino Unido e anunciou nesta quinta-feira (3) a construção de uma base naval na Terra do Fogo em meio à disputa pelas Ilhas Malvinas. Ele também disse que vai punir empres...",
@@ -275,39 +451,6 @@
       "published_at": "2026-09-04T00:14:03+00:00",
       "region": "América do Sul",
       "theme": "Direito Internacional e Instituições"
-    },
-    {
-      "title": "Sem citar Moraes, Lula defende investigação do Master “doa a quem doer”",
-      "url": "https://www.poder360.com.br/poder-eleicoes-2026/sem-citar-moraes-lula-defende-investigacao-do-master-doa-a-quem-doer/",
-      "summary": "Presidente diz haver suspeitas de “políticos e agentes públicos envolvidos” e critica \"vazamentos seletivos\" de inquéritos; cobra que STF e PGR liderem o processo",
-      "source": "Poder360",
-      "origin": "brasil",
-      "image": "https://static.poder360.com.br/uploads/2026/09/INSS-Fila-Lula-WolneyQueiroz-AnaCristinaVianaSilveira-44-1200x675.jpg",
-      "published_at": "2026-09-04T00:13:08+00:00",
-      "region": "América do Sul",
-      "theme": "Política Brasileira"
-    },
-    {
-      "title": "Vorcaro diz que doações a Tarcísio e Bolsonaro foram propina",
-      "url": "https://www.poder360.com.br/poder-justica/vorcaro-diz-que-doacoes-a-tarcisio-e-bolsonaro-foram-propina/",
-      "summary": "Segundo reportagem do \"Uol\", fundador do Banco Master declarou que repasse de R$ 5 mi foi contrapartida negociada com Gilberto Kassab; proposta de delação foi rejeitada",
-      "source": "Poder360",
-      "origin": "brasil",
-      "image": "https://static.poder360.com.br/uploads/2024/03/bolsonaro-e-tarcisio.jpeg",
-      "published_at": "2026-09-04T00:09:27+00:00",
-      "region": "América do Sul",
-      "theme": "Política Brasileira"
-    },
-    {
-      "title": "Senado aprova PL que fortalece seguro rural e permite uso do Proagro",
-      "url": "https://www.poder360.com.br/poder-congresso/senado-aprova-pl-que-fortalece-seguro-rural-e-permite-uso-do-proagro/",
-      "summary": "Texto permite remanejar recursos do programa para subsidiar o seguro rural, desde que a medida não comprometa a execução nem as operações já contratadas",
-      "source": "Poder360",
-      "origin": "brasil",
-      "image": "https://static.poder360.com.br/uploads/2026/06/Agronegocio-Trator-1080-848x477-1.png",
-      "published_at": "2026-09-04T00:08:06+00:00",
-      "region": "América do Sul",
-      "theme": "Política Internacional"
     },
     {
       "title": "TRE indefere candidatura de José Roberto Arruda ao governo do DF",
@@ -332,39 +475,6 @@
       "theme": "Geopolítica e Segurança"
     },
     {
-      "title": "Fachin dá 5 dias úteis para Moraes e Mendonça se manifestarem",
-      "url": "https://www.poder360.com.br/poder-justica/fachin-da-5-dias-para-mendonca-e-moraes-se-manifestar-sobre-caso-master/",
-      "summary": "Presidente do STF também cobra informações de Paulo Gonet e Andrei Rodrigues sobre apuração do caso Master",
-      "source": "Poder360",
-      "origin": "brasil",
-      "image": "https://static.poder360.com.br/uploads/2026/08/fachin-2-semestre-stf.jpg",
-      "published_at": "2026-09-03T23:56:40+00:00",
-      "region": "América do Sul",
-      "theme": "Política Brasileira"
-    },
-    {
-      "title": "Leia decisão em que Moraes pede ação de Fachin contra Mendonça",
-      "url": "https://www.poder360.com.br/poder-justica/leia-a-decisao-de-moraes-que-pede-investigacao-de-mendonca/",
-      "summary": "Ministro cita “fortes indícios” de improbidade administrativa, abuso de autoridade e crime de responsabilidade",
-      "source": "Poder360",
-      "origin": "brasil",
-      "image": "https://static.poder360.com.br/uploads/2026/09/arte-para-post-Andre-Mendonca-Alexandre-de-Moraes-1200x675.png",
-      "published_at": "2026-09-03T23:42:10+00:00",
-      "region": "América do Sul",
-      "theme": "Política Brasileira"
-    },
-    {
-      "title": "Senado votará fim da 6 X 1 após as eleições, diz Alcolumbre",
-      "url": "https://www.poder360.com.br/poder-congresso/senado-votara-fim-da-6-x-1-apos-as-eleicoes-diz-alcolumbre/",
-      "summary": "Presidente não especificou, porém, se votação será depois do 1º ou do 2º turno; Casa fará esforço concentrado a partir de 5 de outubro",
-      "source": "Poder360",
-      "origin": "brasil",
-      "image": "https://static.poder360.com.br/uploads/2026/06/davi-alcolumbre-senado-junho.jpg",
-      "published_at": "2026-09-03T23:40:06+00:00",
-      "region": "América do Sul",
-      "theme": "Política Brasileira"
-    },
-    {
       "title": "Are Trump’s AI videos just memes or psychological warfare?",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/9/3/are-trumps-ai-videos-just-memes-or-psychological-warfare?traffic_source=rss",
       "summary": "Trump’s use of AI generated content has ramped up in recent months, posting videos of fake military strikes.",
@@ -385,28 +495,6 @@
       "published_at": "2026-09-03T23:25:00+00:00",
       "region": "América do Sul",
       "theme": "Ciência, Tecnologia e Inovação"
-    },
-    {
-      "title": "Tunisia’s top court upholds conviction of opposition figures, activists",
-      "url": "https://www.aljazeera.com/news/2026/9/3/tunisias-top-court-upholds-conviction-of-opposition-figures-activists?traffic_source=rss",
-      "summary": "Critics claim Tunisia’s judiciary acts under political pressure, as opposition leaders face lengthy prison terms.",
-      "source": "Al Jazeera English",
-      "origin": "internacional",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/epa_6a99f474d5b8-1788474484.jpg?resize=1920%2C1440",
-      "published_at": "2026-09-03T23:23:26+00:00",
-      "region": "Global",
-      "theme": "Política Internacional"
-    },
-    {
-      "title": "DR Congo joins countries pledging embassy move to Jerusalem",
-      "url": "https://www.aljazeera.com/news/2026/9/3/dr-congo-joins-countries-pledging-embassy-move-to-jerusalem?traffic_source=rss",
-      "summary": "DR Congo has renewed its pledge to move its embassy in Israel from Tel Aviv to Jerusalem.",
-      "source": "Al Jazeera English",
-      "origin": "internacional",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/AFP__20260715__C2AJ6TB__v1__HighRes__ChadWaterEnvironmentDiplomacy-1788472883.jpg?resize=1920%2C1440",
-      "published_at": "2026-09-03T23:05:12+00:00",
-      "region": "América do Norte",
-      "theme": "Outros / Multitemático"
     },
     {
       "title": "Milei exalta ditadura de Pinochet no Chile e diz que região teve inveja do período",
@@ -585,17 +673,6 @@
       "theme": "Política Brasileira"
     },
     {
-      "title": "Why are people calling Venezuela oil deal a new form of US colonialism?",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/3/aje-onl-nf_us-venezuela-oil-deal_colonialism-030926?traffic_source=rss",
-      "summary": "Critics call the US multi-billion-dollar oil deal in Venezuela modern-day colonialism.",
-      "source": "Al Jazeera English",
-      "origin": "internacional",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1788473250.jpg?resize=1920%2C1080&quality=80",
-      "published_at": "2026-09-03T22:08:33+00:00",
-      "region": "América do Norte",
-      "theme": "Economia Internacional"
-    },
-    {
       "title": "Alcolumbre diz que Senado vota fim da escala 6x1 após as eleições",
       "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/alcolumbre-diz-que-senado-vota-fim-da-escala-6x1-apos-eleicoes",
       "summary": "\n                    \n\t\t\t\tO presidente do Senado Federal, Davi Alcolumbre (União-AP), afirmou nesta quinta-feira (3) que a Proposta de Emenda Constitucional (PEC) que prevê o fim da escala 6x1 e a redução da jornada de trabalho de 44 para 40 horas semanais será votada após as eleições.\n\nA declaração...",
@@ -629,17 +706,6 @@
       "theme": "Geopolítica e Segurança"
     },
     {
-      "title": "Burnham, Macron talk border security and stronger Europe-UK ties",
-      "url": "https://www.aljazeera.com/news/2026/9/3/burnham-macron-talk-border-security-and-stronger-europe-uk-ties?traffic_source=rss",
-      "summary": "New UK Prime Minister Andy Burnham discussed shared challenges in his first official meeting with the French president.",
-      "source": "Al Jazeera English",
-      "origin": "internacional",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/2026-09-03T133923Z_1327001305_RC2MBNAX5ATT_RTRMADP_3_BRITAIN-FRANCE-1788466043.jpg?resize=1920%2C1440",
-      "published_at": "2026-09-03T21:40:42+00:00",
-      "region": "América do Norte",
-      "theme": "Geopolítica e Segurança"
-    },
-    {
       "title": "Nvidia to buy Hugging Face for $12.93 billion in major AI expansion",
       "url": "https://www.france24.com/en/technology/20260903-nvidia-to-buy-hugging-face-for-12-93-billion-in-major-ai-expansion",
       "summary": "Nvidia said Thursday it will buy AI developer platform Hugging Face for $12.93 billion, its latest major investment to expand its influence in open-source artificial intelligence. The deal would bring Nvidia closer to developers and broaden its customer base as tech giants develop chips to reduce re...",
@@ -649,28 +715,6 @@
       "published_at": "2026-09-03T21:34:26+00:00",
       "region": "América do Norte",
       "theme": "Ciência, Tecnologia e Inovação"
-    },
-    {
-      "title": "NYC’s AI ban through grade 8 sets stage for rest of US, experts say",
-      "url": "https://www.aljazeera.com/economy/2026/9/3/nycs-ai-ban-through-grade-8-sets-stage-for-rest-of-us-experts-say?traffic_source=rss",
-      "summary": "The ban will last for one year and affect 600,000 students.",
-      "source": "Al Jazeera English",
-      "origin": "internacional",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/2026-09-01T152022Z_1559471517_RC2FANAGTJI9_RTRMADP_3_USA-TRUMP-NEW-YORK-1788456111.jpg?resize=1920%2C1440",
-      "published_at": "2026-09-03T21:32:55+00:00",
-      "region": "América do Norte",
-      "theme": "Ciência, Tecnologia e Inovação"
-    },
-    {
-      "title": "Fila de espera por perícia do INSS é zerada em agosto",
-      "url": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-09/fila-de-espera-por-pericia-do-INSS-e-zerada-em-agosto",
-      "summary": "\n                    \n\t\t\t\tO ministro da Previdência Social, Wolney Queiroz, anunciou, nesta quinta-feira (3), que a fila de atendimentos do Instituto Nacional do Seguro Social (INSS) foi zerada. A marca foi atingida no mês passado. O anúncio foi feito no Palácio do Planalto, com a presença do presid...",
-      "source": "Agência Brasil",
-      "origin": "brasil",
-      "image": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-      "published_at": "2026-09-03T21:32:00+00:00",
-      "region": "América do Sul",
-      "theme": "Política Brasileira"
     },
     {
       "title": "Norway Seizes Russian Ship, Testing Moscow in the High Arctic",
@@ -992,17 +1036,6 @@
       "theme": "Geopolítica e Segurança"
     },
     {
-      "title": "Síria começa a destruir armas químicas da era Bashar al-Assad",
-      "url": "https://g1.globo.com/mundo/noticia/2026/09/03/siria-comeca-a-destruir-armas-quimicas-da-era-bashar-al-assad.ghtml",
-      "summary": "     A Síria começou a destruir os remanescentes de um programa clandestino de armas químicas da era Assad, localizados em maio. É a primeira operação desse tipo no país em uma década, disseram nesta quinta-feira um representante sírio e uma autoridade da ONU.\n📱Favorite o g1 no Google e acompanhe as...",
-      "source": "G1 - Mundo",
-      "origin": "brasil",
-      "image": "https://s2-g1.glbimg.com/LGYLIkNbo5QXTWZtUAt98iM_2Oc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/k/K/KnBlPTTbuuIqrvyAjiTA/afp-20260811-c4dd263-v2-highres-filessyriaconflictjusticeassad.jpg",
-      "published_at": "2026-09-03T16:24:07+00:00",
-      "region": "América do Sul",
-      "theme": "Geopolítica e Segurança"
-    },
-    {
       "title": "Trump hints US would not back UK over Falkland Islands due to lack of Iran war support",
       "url": "https://www.bbc.co.uk/news/articles/c1kx4m70l4yo?at_medium=RSS&at_campaign=rss",
       "summary": "The US president says the UK was not \"there to help me\" in his ongoing war with Iran.",
@@ -1223,47 +1256,14 @@
       "theme": "Política Internacional"
     },
     {
-      "title": "Vídeo mostra mãe e filha serem detidas pelo ICE em hospital após sofrerem acidente nos Estados Unidos",
-      "url": "https://www.bbc.com/portuguese/articles/c158v350n89o?at_medium=RSS&at_campaign=rss",
-      "summary": "Grace Calero, de 39 anos, e Giulianna, de 19, sofreram um acidente. No hospital, Grace foi algemada e detida pela polícica imigratória diante da filha.",
-      "source": "BBC News Brasil",
-      "origin": "brasil",
-      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/bf77/live/bcacb7b0-a789-11f1-8a99-ef82e0557ae4.jpg",
-      "published_at": "2026-09-03T11:42:26+00:00",
-      "region": "América do Sul",
-      "theme": "Saúde"
-    },
-    {
       "title": "For Russia and Ukraine, an Escalating Spiral With No End in Sight",
       "url": "https://www.nytimes.com/2026/09/03/world/europe/russia-ukraine-escalation.html",
       "summary": "Each side is using missiles and drones to try to pound the other into giving up, breeding ceaseless human suffering. But there is no sign that either country’s determination will weaken.",
       "source": "The New York Times",
       "origin": "internacional",
       "image": "https://static01.nyt.com/images/2026/09/03/multimedia/03int-ukraine-russia-escalation-01-klvg/03int-ukraine-russia-escalation-01-klvg-mediumSquareAt3X.jpg",
-      "published_at": "2026-09-03T11:35:44+00:00",
+      "published_at": "2026-09-03T11:35:45+00:00",
       "region": "América do Norte",
-      "theme": "Geopolítica e Segurança"
-    },
-    {
-      "title": "How Do You Run for Office in a Gang War?",
-      "url": "https://www.nytimes.com/2026/09/03/world/americas/haiti-election-gangs.html",
-      "summary": "Haitian election officials have set elections for Dec. 13, but many experts say extreme violence is likely to cause a postponement. Again.",
-      "source": "The New York Times",
-      "origin": "internacional",
-      "image": "https://static01.nyt.com/images/2026/09/02/multimedia/02int-Haiti-election-explainer-gczq/02int-Haiti-election-explainer-gczq-mediumSquareAt3X.jpg",
-      "published_at": "2026-09-03T09:02:36+00:00",
-      "region": "América do Norte",
-      "theme": "Política Internacional"
-    },
-    {
-      "title": "Drones guiados por IA escolhem sozinhos seus alvos na guerra da Ucrânia",
-      "url": "https://redir.folha.com.br/redir/online/mundo/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/drones-guiados-por-ia-escolhem-sozinhos-seus-alvos-na-guerra-da-ucrania.shtml",
-      "summary": "A jovem correu para salvar a própria vida, mas era tarde demais.\nLeia mais (09/03/2026 - 06h00)",
-      "source": "Folha de S.Paulo - Mundo",
-      "origin": "brasil",
-      "image": "https://f.i.uol.com.br/fotografia/2026/09/02/17883964446a98c39cc75e5_1788396444_3x2_rt.jpg",
-      "published_at": "2026-09-03T09:00:00+00:00",
-      "region": "América do Sul",
       "theme": "Geopolítica e Segurança"
     },
     {
