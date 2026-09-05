@@ -1,6 +1,72 @@
 {
-  "last_updated": "2026-09-05T05:05:19.655151+00:00",
+  "last_updated": "2026-09-05T06:06:27.049073+00:00",
   "articles": [
+    {
+      "title": "Formalismo jurídico protege o próprio sistema, diz Eduardo Giannetti",
+      "url": "https://www.cnnbrasil.com.br/politica/formalismo-juridico-protege-o-proprio-sistema-diz-eduardo-giannetti/",
+      "summary": "Ao WW Especial, cientista social e economista afirma que tecnicalidades do Direito, por vezes, são usadas para anular investigações como a Lava Jato, agravando a falta de confiança da sociedade nas instituições",
+      "source": "CNN Brasil",
+      "origin": "brasil",
+      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/09/giannetti.jpeg?w=1200&h=630&crop=1",
+      "published_at": "2026-09-05T06:00:05+00:00",
+      "region": "América do Sul",
+      "theme": "Economia Internacional"
+    },
+    {
+      "title": "At least two dead in blast at Bolivia military barracks",
+      "url": "https://www.bbc.co.uk/news/articles/c3v45xy67g5o?at_medium=RSS&at_campaign=rss",
+      "summary": "Authorities fear the death toll in Viacha will rise and warn people to stay away from the barracks due to a risk of further explosions.",
+      "source": "BBC News - World",
+      "origin": "internacional",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/38c6/live/2c42cd50-a8d2-11f1-a291-b542ee92de7c.jpg",
+      "published_at": "2026-09-05T06:00:05+00:00",
+      "region": "Global",
+      "theme": "Geopolítica e Segurança"
+    },
+    {
+      "title": "EUA alertam para aumento de doenças em Cuba em meio a bloqueio e sanções",
+      "url": "https://www.cnnbrasil.com.br/internacional/eua-alertam-para-aumento-de-doencas-em-cuba-em-meio-a-bloqueio-e-sancoes/",
+      "summary": "Aviso da embaixada cita problemas no abastecimento de água e energia e recomenda cuidado com alimentos armazenados de forma inadequada",
+      "source": "CNN Brasil",
+      "origin": "brasil",
+      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/07/2026-07-21T193405Z_1_LYNXMPEM6K1TE_RTROPTP_4_CUBA-CRISIS-GRID-COLLAPSE.jpg?w=1200&h=630&crop=1",
+      "published_at": "2026-09-05T05:31:37+00:00",
+      "region": "América do Sul",
+      "theme": "Saúde"
+    },
+    {
+      "title": "US imposes sanctions on Turkish bank, prompting legal threat",
+      "url": "https://www.aljazeera.com/news/2026/9/5/us-imposes-sanctions-on-turkish-bank-prompting-legal-threat?traffic_source=rss",
+      "summary": "US sanctions Turkish bank over alleged IRGC ties, accusing it of facilitating millions in transactions for Iran.",
+      "source": "Al Jazeera English",
+      "origin": "internacional",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/afp_6a9b9ba52a81-1788582821.jpg?resize=1920%2C1440",
+      "published_at": "2026-09-05T05:19:05+00:00",
+      "region": "América do Norte",
+      "theme": "Outros / Multitemático"
+    },
+    {
+      "title": "Families of missing Ecuadorian fishermen allege US involvement",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/5/families-of-missing-ecuadorian-fishermen-allege-us-involvement?traffic_source=rss",
+      "summary": "Families of eight Ecuadorian fishermen who vanished after reporting US surveillance at sea are demanding answers.",
+      "source": "Al Jazeera English",
+      "origin": "internacional",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1788584872.jpg?resize=1920%2C1080&quality=80",
+      "published_at": "2026-09-05T05:08:15+00:00",
+      "region": "América do Norte",
+      "theme": "Saúde"
+    },
+    {
+      "title": "Middle East live: Israeli strikes on south and east Lebanon kill three people",
+      "url": "https://www.france24.com/en/middle-east/20260905-middle-east-live-israeli-strikes-on-south-and-east-lebanon-kill-three-people",
+      "summary": "Israeli strikes in southern and eastern Lebanon late on Friday killed at least three people and wounded 23 more despite a ceasefire between Israel and Hezbollah, the Lebanese health ministry said. The ministry said in a statement that strikes hit five locations in the southern Tyre and Nabatieh regi...",
+      "source": "France 24",
+      "origin": "internacional",
+      "image": "https://s.france24.com/media/display/2af33eb8-a8e5-11f1-810f-005056bf30b7/w:1024/p:16x9/000-C7D28HE.jpg",
+      "published_at": "2026-09-05T05:01:24+00:00",
+      "region": "Oriente Médio",
+      "theme": "Direitos Humanos, Sociedade e Migrações"
+    },
     {
       "title": "Deslizamento deixa um morto e 11 desaparecidos em Jiangxi, na China",
       "url": "https://g1.globo.com/mundo/noticia/2026/09/05/deslizamento-jiangxi-china.ghtml",
@@ -145,7 +211,7 @@
       "theme": "Outros / Multitemático"
     },
     {
-      "title": "Rusia usa arrestos y coacciones para lograr mandar más reclutas en el frente con Ucrania",
+      "title": "Rusia usa arrestos y coacciones para lograr mandar más reclutas al frente con Ucrania",
       "url": "https://elpais.com/internacional/2026-09-05/rusia-usa-arrestos-y-coacciones-para-lograr-mandar-mas-reclutas-en-el-frente-con-ucrania.html",
       "summary": "Las ONG denuncian un aumento de los abusos por parte de los reclutadores cuyos objetivos son a menudo personas vulnerables. Según los analistas Moscú registra unas 20.000 bajas al mes",
       "source": "El País - Internacional",
@@ -211,17 +277,6 @@
       "theme": "Outros / Multitemático"
     },
     {
-      "title": "After Pretoria peace deal, old enemies in Ethiopia’s Tigray find new ground",
-      "url": "https://www.aljazeera.com/news/2026/9/5/after-pretoria-peace-deal-old-enemies-in-ethiopias-tigray-find-new-ground?traffic_source=rss",
-      "summary": "The 2022 peace deal ended the war but left key disputes unresolved, giving the TPLF room to regroup as tensions return.",
-      "source": "Al Jazeera English",
-      "origin": "internacional",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/02/ap_69955e3f98750-1771396671.jpg?resize=1920%2C1440",
-      "published_at": "2026-09-05T03:05:28+00:00",
-      "region": "Global",
-      "theme": "Geopolítica e Segurança"
-    },
-    {
       "title": "Manchester City x Coventry City: horário e onde assistir à Premier League",
       "url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/futebol-ingles/manchester-city-x-coventry-city-horario-e-onde-assistir-a-premier-league/",
       "summary": "Equipes se enfrentam neste sábado (5) em partida válida pela 3ª rodada do Campeonato Inglês",
@@ -231,17 +286,6 @@
       "published_at": "2026-09-05T03:05:09+00:00",
       "region": "América do Sul",
       "theme": "Ciência, Tecnologia e Inovação"
-    },
-    {
-      "title": "At least two dead in blast at Bolivia military barracks",
-      "url": "https://www.bbc.co.uk/news/articles/c3v45xy67g5o?at_medium=RSS&at_campaign=rss",
-      "summary": "Authorities fear the death toll in Viacha will rise and warn people to stay away from the barracks due to a risk of further explosions.",
-      "source": "BBC News - World",
-      "origin": "internacional",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/38c6/live/2c42cd50-a8d2-11f1-a291-b542ee92de7c.jpg",
-      "published_at": "2026-09-05T02:59:40+00:00",
-      "region": "Global",
-      "theme": "Geopolítica e Segurança"
     },
     {
       "title": "ONU aprova novo mapa-múndi mais fiel ao tamanho real da África",
@@ -310,15 +354,15 @@
       "theme": "Economia Internacional"
     },
     {
-      "title": "‘To challenge deadly blockade’: New flotilla mission sets sail for Gaza",
-      "url": "https://www.aljazeera.com/news/2026/9/5/to-challenge-deadly-blockade-new-flotilla-mission-sets-sail-for-gaza?traffic_source=rss",
-      "summary": "Human rights advocates call for diplomatic measures to guarantee flotilla safety and end Israel&#039;s deadly Gaza blockade.",
-      "source": "Al Jazeera English",
+      "title": "Trump sends envoys Witkoff and Kushner to Moscow and Kyiv with new plan to 'end the war'",
+      "url": "https://www.france24.com/en/europe/20260905-trump-sends-envoys-to-moscow-and-kyiv-with-new-plan-to-end-the-war",
+      "summary": "US envoys Steve Witkoff and Jared Kushner are travelling to Moscow and Kyiv this weekend with what US President Donald Trump says is a new proposal to end the Russia-Ukraine war. Despite Trump's promises to resolve the conflict, Washington's efforts to broker a peace have so far come to nothing.",
+      "source": "France 24",
       "origin": "internacional",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/getty_6a9b78bdeb-1788573885.jpg?resize=1920%2C1440",
-      "published_at": "2026-09-05T02:43:23+00:00",
-      "region": "Oriente Médio",
-      "theme": "Direitos Humanos, Sociedade e Migrações"
+      "image": "https://s.france24.com/media/display/b52c323c-a8d2-11f1-b408-005056bf30b7/w:1024/p:16x9/df1693a0777bc72c3a2a93753d6aa72dedc662c0.jpg",
+      "published_at": "2026-09-05T02:37:17+00:00",
+      "region": "América do Norte",
+      "theme": "Geopolítica e Segurança"
     },
     {
       "title": "Saiba quem são os 7 governadores que podem ser eleitos no 1º turno",
@@ -420,17 +464,6 @@
       "theme": "Direito Internacional e Instituições"
     },
     {
-      "title": "Três dias quase sem comida ou água: jogador argentino detalha prisão do ICE",
-      "url": "https://www.cnnbrasil.com.br/internacional/tres-dias-quase-sem-comida-ou-agua-jogador-argentino-detalha-prisao-do-ice/",
-      "summary": "Matías Pourrain, atleta do Miami United FC, que disputa a liga semiprofissional dos Estados Unidos, foi preso por agentes em 6 de agosto",
-      "source": "CNN Brasil",
-      "origin": "brasil",
-      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/05/GettyImages-2250546802-e1780345593246.jpg?w=1200&h=630&crop=1",
-      "published_at": "2026-09-05T01:52:04+00:00",
-      "region": "América do Sul",
-      "theme": "Direito Internacional e Instituições"
-    },
-    {
       "title": "Malafaia cita “império do mal” ao criticar Moraes, Lula e Alcolumbre",
       "url": "https://www.poder360.com.br/poder-gente/malafaia-cita-imperio-do-mal-ao-criticar-moraes-lula-e-alcolumbre/",
       "summary": "Pastor sai em defesa de Mendonça no caso Master e convoca ato de 7 de Setembro contra o governo e o STF",
@@ -440,17 +473,6 @@
       "published_at": "2026-09-05T01:46:09+00:00",
       "region": "América do Sul",
       "theme": "Política Brasileira"
-    },
-    {
-      "title": "Viúvo de Isabel Veloso mostra novas fotos do filho, Arthur",
-      "url": "https://www.cnnbrasil.com.br/pop/celebridades/viuvo-de-isabel-veloso-mostra-novas-fotos-do-filho-arthur/",
-      "summary": "Internautas comentam a semelhança do pequeno Arthur com a influenciadora falecida",
-      "source": "CNN Brasil",
-      "origin": "brasil",
-      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/09/isabel-veloso.jpg?w=1200&h=630&crop=1",
-      "published_at": "2026-09-05T01:45:13+00:00",
-      "region": "América do Sul",
-      "theme": "Cultura, Mídia e Sociedade"
     },
     {
       "title": "Aécio Neves declara R$ 21 milhões recebidos em heranças",
@@ -532,7 +554,7 @@
     {
       "title": "Quartel militar explode e deixa ao menos 10 mortos na Bolívia; VÍDEO",
       "url": "https://g1.globo.com/mundo/noticia/2026/09/04/video-quartel-militar-explode-na-bolivia-e-deixa-feridos.ghtml",
-      "summary": "     Quartel explode na Bolívia e deixa dezenas de feridos\nUma explosão em uma instalação militar deixou dois mortos e 59 pessoas feridas nesta sexta-feira (4) em Viacha, na região de La Paz, na Bolívia. Segundo a polícia, sete pessoas estão desaparecidas, e uma diretora lcal de saúde diz que ao men...",
+      "summary": "     Quartel explode na Bolívia e deixa dezenas de feridos\nUma explosão em uma instalação militar deixou dois mortos e 81 pessoas feridas nesta sexta-feira (4) em Viacha, na região de La Paz, na Bolívia. Segundo a polícia, sete pessoas estão desaparecidas, e uma diretora local de saúde diz que ao me...",
       "source": "G1 - Mundo",
       "origin": "brasil",
       "image": "https://s2-g1.glbimg.com/q_7KRav2F29w4ir6RILSdK_jk3U=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/5/U/uO1BPZShWITJKIuoNOpQ/viacha.jpg",
@@ -992,17 +1014,6 @@
       "theme": "Política Brasileira"
     },
     {
-      "title": "US midterms start with North Carolina distributing mail-voting ballots",
-      "url": "https://www.france24.com/en/americas/20260904-us-midterms-begin-with-chaos-over-mail-voting-crackdown",
-      "summary": "North Carolina on Friday became the first state authorised to begin sending out ballots, formally launching the 2026 US midterms as President Donald Trump’s administration fights to impose sweeping restrictions on the practice.",
-      "source": "France 24",
-      "origin": "internacional",
-      "image": "https://s.france24.com/media/display/d11236ee-a662-11f1-9ae7-005056a97e36/w:1024/p:16x9/bb30b5bf37e781f443665b25112221e81b7c2d36.jpg",
-      "published_at": "2026-09-04T15:53:14+00:00",
-      "region": "América do Norte",
-      "theme": "Cultura, Mídia e Sociedade"
-    },
-    {
       "title": "Os gráficos que revelam quem são e quanto ganham os trabalhadores de aplicativos no Brasil",
       "url": "https://www.bbc.com/portuguese/articles/c3d7k452g9xo?at_medium=RSS&at_campaign=rss",
       "summary": "Valor recebido mensalmente se aproxima da média entre os outros empregados do setor privado, mas jornadas são mais extensas e não há direitos trabalhistas.",
@@ -1034,17 +1045,6 @@
       "published_at": "2026-09-04T15:49:00+00:00",
       "region": "América do Sul",
       "theme": "Direitos Humanos, Sociedade e Migrações"
-    },
-    {
-      "title": "'Italian opposition fragmented: No alternative leader, no other possible leader than Giorgia Meloni'",
-      "url": "https://www.france24.com/en/video/20260904-italian-opposition-fragmented-no-alternative-leader-no-other-possible-leader-than-giorgia-meloni-1",
-      "summary": "Alison Sargent is pleased to welcome Political analyst Lorenzo Pregliasco, co-founder of polling agency YouTrend and adjunct professor at the University of Bologna. He argues that Giorgia Meloni’s unusual longevity in office is best understood not simply as a record of political strength, but as the...",
-      "source": "France 24",
-      "origin": "internacional",
-      "image": "https://s.france24.com/media/display/853e8964-a871-11f1-a821-005056a90284/w:1024/p:16x9/EN-20260904-080636-081309-CS.jpg",
-      "published_at": "2026-09-04T15:35:05+00:00",
-      "region": "América do Norte",
-      "theme": "Política Internacional"
     },
     {
       "title": "Enfermeira que matou os 3 filhos: juiz anula julgamento após impasse no júri",
