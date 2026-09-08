@@ -1,27 +1,368 @@
 {
-  "last_updated": "2026-09-08T08:05:57.894109+00:00",
+  "last_updated": "2026-09-08T09:05:47.078268+00:00",
   "articles": [
     {
-      "title": "Presidente da OAB Nacional pede “respostas rápidas e claras” do STF",
-      "url": "https://www.poder360.com.br/poder-justica/presidente-da-oab-nacional-pede-respostas-rapidas-e-claras-do-stf/",
-      "summary": "Beto Simonetti afirma que democracia brasileira precisa de instituições que inspirem respeito",
+      "title": "Adidas veste 12 dos 36 clubes na fase da liga da Champions League",
+      "url": "https://www.poder360.com.br/poder-sportsmkt/adidas-veste-12-dos-36-clubes-na-fase-da-liga-da-champions-league/",
+      "summary": "Inglaterra é o país com mais representantes; Azerbaijão, Eslováquia e Tchéquia têm apenas 1 clube cada",
       "source": "Poder360",
       "origin": "brasil",
-      "image": "https://static.poder360.com.br/uploads/2026/09/beto-simonetti-instagram-oab-1200x675.jpg",
-      "published_at": "2026-09-08T08:04:08+00:00",
+      "image": "https://static.poder360.com.br/uploads/2026/09/Adidas-Champions-League-1080-1200x675.jpg",
+      "published_at": "2026-09-08T09:02:15+00:00",
+      "region": "América do Sul",
+      "theme": "Outros / Multitemático"
+    },
+    {
+      "title": "Clubes da Champions somam 18,68 bi de euros em valor de mercado",
+      "url": "https://www.poder360.com.br/poder-sportsmkt/clubes-da-champions-somam-1868-bi-de-euros-em-valor-de-mercado/",
+      "summary": "Manchester City e Real Madrid lideram lista; 5 clubes concentram 40,5% do valor dos participantes",
+      "source": "Poder360",
+      "origin": "brasil",
+      "image": "https://static.poder360.com.br/uploads/2026/09/champions-league-valor-4-set-2026-thumb-1200x675.jpg",
+      "published_at": "2026-09-08T09:02:13+00:00",
+      "region": "América do Sul",
+      "theme": "Economia Internacional"
+    },
+    {
+      "title": "Setor de bets lidera patrocínio na Champions League 2026/27",
+      "url": "https://www.poder360.com.br/poder-sportsmkt/setor-de-bets-lidera-patrocinio-na-champions-league-2026-27/",
+      "summary": "Sete dos 36 clubes que disputam a atual edição da competição têm uma casa de apostas como patrocinadora máster no uniforme",
+      "source": "Poder360",
+      "origin": "brasil",
+      "image": "https://static.poder360.com.br/uploads/2026/09/Patrocinadores-Champions-League2026-2027-1200x675.jpg",
+      "published_at": "2026-09-08T09:02:12+00:00",
+      "region": "América do Sul",
+      "theme": "Outros / Multitemático"
+    },
+    {
+      "title": "Fiesp prepara manifesto ao STF sobre caso Vorcaro-Moraes",
+      "url": "https://www.poder360.com.br/poder-justica/fiesp-prepara-manifesto-ao-stf-sobre-caso-vorcaro-moraes/",
+      "summary": "Entidades empresariais pedirão à Corte apuração rigorosa e resposta rápida à crise aberta pela revelação de mensagens entre o fundador do Banco Master e o ministro",
+      "source": "Poder360",
+      "origin": "brasil",
+      "image": "https://static.poder360.com.br/uploads/2026/09/manifestacao-paulista-7-set-2026-1-1200x675.jpg",
+      "published_at": "2026-09-08T09:00:48+00:00",
       "region": "América do Sul",
       "theme": "Política Brasileira"
     },
     {
-      "title": "Ingressos do US Open chegam a R$ 25.000 em plataformas de revenda",
-      "url": "https://www.poder360.com.br/poder-sportsmkt/ingressos-do-us-open-chegam-a-r-25-000-em-plataformas-de-revenda/",
-      "summary": "Bilhetes para as quartas de final custam até 5 vezes o valor original nas plataformas on-line",
+      "title": "Fachin quer ouvir ex-presidentes do STF sobre crise na Corte",
+      "url": "https://www.poder360.com.br/poder-justica/fachin-quer-ouvir-ex-presidentes-sobre-crise-no-stf/",
+      "summary": "Supremo vive impasse institucional depois de relação entre Alexandre de Moraes e Daniel Vorcaro ser exposta",
       "source": "Poder360",
       "origin": "brasil",
-      "image": "https://static.poder360.com.br/uploads/2026/08/Aryna-Sabalenka-1-1200x675.png",
-      "published_at": "2026-09-08T07:48:44+00:00",
+      "image": "https://static.poder360.com.br/uploads/2026/09/edson-fachin-plenario-stf-2set2026-1200x675.jpg",
+      "published_at": "2026-09-08T09:00:25+00:00",
+      "region": "América do Sul",
+      "theme": "Política Brasileira"
+    },
+    {
+      "title": "17 presidentes da OAB pediram investigação do caso de Moraes e Vorcaro",
+      "url": "https://www.poder360.com.br/poder-justica/17-presidentes-da-oab-pediram-investigacao-do-caso-de-moraes-e-vorcaro/",
+      "summary": "Representantes da Ordem dos Advogados do Brasil se reúnem na 4ª feira (9.set) para discutir a crise no STF; encontro com Fachin foi cancelado",
+      "source": "Poder360",
+      "origin": "brasil",
+      "image": "https://static.poder360.com.br/uploads/2026/09/capa-oab-manifestacoes-moraes-vorcaro-7set26-1200x675.png",
+      "published_at": "2026-09-08T09:00:11+00:00",
+      "region": "América do Sul",
+      "theme": "Política Brasileira"
+    },
+    {
+      "title": "Crise mostra que Supremo precisa de limites, diz Steven Levitsky",
+      "url": "https://www.poder360.com.br/poder-justica/crise-mostra-que-supremo-precisa-de-limites-diz-steven-levitsky/",
+      "summary": "Cientista político dos EUA afirma que brasileiros devem avaliar se STF é “culpado de atos de corrupção e de abuso de poder”",
+      "source": "Poder360",
+      "origin": "brasil",
+      "image": "https://static.poder360.com.br/uploads/2026/09/steven-levtsky-7set2026-1200x675.jpeg",
+      "published_at": "2026-09-08T09:00:05+00:00",
+      "region": "América do Sul",
+      "theme": "Outros / Multitemático"
+    },
+    {
+      "title": "El Niño ameaça serviços e liga alerta no setor de telecomunicações",
+      "url": "https://www.poder360.com.br/poder-infra/el-nino-ameaca-servicos-e-liga-alerta-no-setor-de-telecomunicacoes/",
+      "summary": "Tempestades, ventanias e queimadas podem danificar cabos, fibras e antenas; provedoras defendem integração entre órgãos",
+      "source": "Poder360",
+      "origin": "brasil",
+      "image": "https://static.poder360.com.br/uploads/2026/09/postes-telecom-1200x675.png",
+      "published_at": "2026-09-08T08:58:23+00:00",
+      "region": "América do Sul",
+      "theme": "Economia Internacional"
+    },
+    {
+      "title": "Lula fará giro por 3 Estados do Sul onde Flávio lidera pesquisas",
+      "url": "https://www.poder360.com.br/poder-eleicoes-2026/lula-intensifica-campanha-no-sul-com-visita-aos-3-estados/",
+      "summary": "Presidente terá comícios no RS, PR e SC, região em que Bolsonaro venceu nos 3 Estados em 2022",
+      "source": "Poder360",
+      "origin": "brasil",
+      "image": "https://static.poder360.com.br/uploads/2026/09/INSS-Fila-Lula-WolneyQueiroz-AnaCristinaVianaSilveira-53-1-1200x675.jpg",
+      "published_at": "2026-09-08T08:50:02+00:00",
+      "region": "América do Sul",
+      "theme": "Política Brasileira"
+    },
+    {
+      "title": "Ladrões invadem museu e roubam obras de Renoir avaliadas em 9 milhões de euros no sul da França",
+      "url": "https://www.bbc.com/portuguese/articles/c0revk5qn0go?at_medium=RSS&at_campaign=rss",
+      "summary": "O nome das obras não foi revelado. Prefeito diz que ladrões, ao serem perseguidos pela polícia, deixaram para trás uma quarta obra.",
+      "source": "BBC News Brasil",
+      "origin": "brasil",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/5930/live/4b6f91e0-ab5c-11f1-aed2-8d6da8d75094.png",
+      "published_at": "2026-09-08T08:49:51+00:00",
+      "region": "América do Sul",
+      "theme": "Política Brasileira"
+    },
+    {
+      "title": "Em carta a Fachin, ministros aposentados manifestam apoio e cobram apuração 'pública' e 'rigorosa' diante de crise no STF",
+      "url": "https://www.bbc.com/portuguese/articles/c39mzex0882o?at_medium=RSS&at_campaign=rss",
+      "summary": "Celso de Mello, Rosa Weber, Joaquim Barbosa e outros 10 ministros aposentados pedem a Fachin uma resposta firme diante do que classificam como a “mais aguda crise” da Corte.",
+      "source": "BBC News Brasil",
+      "origin": "brasil",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/c997/live/84bd85b0-ab5c-11f1-9647-01c7ddc5a2b1.jpg",
+      "published_at": "2026-09-08T08:47:57+00:00",
+      "region": "América do Sul",
+      "theme": "Política Brasileira"
+    },
+    {
+      "title": "Petróleo Brent se aproxima dos US$ 100",
+      "url": "https://www.poder360.com.br/poder-internacional/petroleo-brent-se-aproxima-dos-us-100/",
+      "summary": "Conflito no Oriente Médio impulsiona alta; contratos futuros do petróleo bruto WTI subiram para US$ 94,39 o barril",
+      "source": "Poder360",
+      "origin": "brasil",
+      "image": "https://static.poder360.com.br/uploads/2026/08/barris-de-petroleo-1200x675.jpg",
+      "published_at": "2026-09-08T08:47:21+00:00",
+      "region": "América do Sul",
+      "theme": "Economia Internacional"
+    },
+    {
+      "title": "Houthi attacks on southern Saudi Arabia reportedly injure dozens",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/8/houthi-attacks-on-southern-saudi-arabia-reportedly-injure-dozens?traffic_source=rss",
+      "summary": "Saudi Arabia says a wave of Houthi attacks on the country’s south have injured 73 people, including women and children.",
+      "source": "Al Jazeera English",
+      "origin": "internacional",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1788856888.jpg?resize=1200%2C675",
+      "published_at": "2026-09-08T08:42:42+00:00",
+      "region": "Global",
+      "theme": "Geopolítica e Segurança"
+    },
+    {
+      "title": "Arábia Saudita e países aliados prometem resposta “firme” a ataques Houthi",
+      "url": "https://www.cnnbrasil.com.br/internacional/arabia-saudita-resposta-houthis/",
+      "summary": "Ataques dos rebeldes do Iêmen, apoiados pelo Irã, feriram dezenas de civis e causaram incêndios em instalações de energia no sudoeste da Arábia Saudita",
+      "source": "CNN Brasil",
+      "origin": "brasil",
+      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/09/Fumaca-sobe-de-caminhoes-em-chamas-na-fronteira-entre-o-Iemen-e-a-Arabia-Saudita-aposataque-dos-Houthis-080926.jpg?w=960&h=540&crop=1",
+      "published_at": "2026-09-08T08:39:02+00:00",
+      "region": "América do Sul",
+      "theme": "Geopolítica e Segurança"
+    },
+    {
+      "title": "Thieves steal works of art worth 9 million euros from France's Renoir museum",
+      "url": "https://www.france24.com/en/europe/20260908-thieves-steal-works-of-art-worth-9-million-euros-from-france-s-renoir-museum",
+      "summary": "Two thieves on Tuesday broke into the Renoir Museum in the town of Cagnes-sur-Mer in southern France and stole \"four works of art\", dropping one as they fled, according to the local mayor. Officials estimated the value of the stolen works at 9 million euros.",
+      "source": "France 24",
+      "origin": "internacional",
+      "image": "https://s.france24.com/media/display/a0f4a53a-ab5a-11f1-9878-005056a90284/w:1024/p:16x9/000-C7M64QY.jpg",
+      "published_at": "2026-09-08T08:36:34+00:00",
+      "region": "América do Norte",
+      "theme": "Cultura, Mídia e Sociedade"
+    },
+    {
+      "title": "Rússia retoma ataques contra Kiev após três dias de trégua",
+      "url": "https://redir.folha.com.br/redir/online/mundo/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/russia-retoma-ataques-contra-kiev-apos-tres-dias-de-tregua.shtml",
+      "summary": "A Rússia retomou nesta terça-feira (8) seus ataques aéreos contra Kiev, deixando pelo menos dois mortos e sete feridos, após uma suspensão de três dias por ocasião de uma visita sem precedentes de enviados dos Estados Unidos.\nLeia mais (09/08/2026 - 05h34)",
+      "source": "Folha de S.Paulo - Mundo",
+      "origin": "brasil",
+      "image": "https://f.i.uol.com.br/fotografia/2026/08/01/17855754236a6db7ff78cce_1785575423_3x2_rt.jpg",
+      "published_at": "2026-09-08T08:34:00+00:00",
+      "region": "América do Sul",
+      "theme": "Geopolítica e Segurança"
+    },
+    {
+      "title": "Britain Set to Target Israeli West Bank Settlements With Trade Ban",
+      "url": "https://www.nytimes.com/2026/09/07/world/middleeast/britain-sanctions-israeli-settlers.html",
+      "summary": "The expected move will be announced on Tuesday, officials said, and underscored Israel’s mounting isolation over its policies toward Palestinians following the war in Gaza.",
+      "source": "The New York Times",
+      "origin": "internacional",
+      "image": "https://static01.nyt.com/images/2026/09/07/multimedia/07int-britain-israeli-settlers-jbqh/07int-britain-israeli-settlers-jbqh-mediumSquareAt3X.jpg",
+      "published_at": "2026-09-08T08:32:38+00:00",
+      "region": "Oriente Médio",
+      "theme": "Comércio e Finanças"
+    },
+    {
+      "title": "Nepal cracks down on online abuse against flood survivors",
+      "url": "https://www.bbc.co.uk/news/articles/cq5x3n38308o?at_medium=RSS&at_campaign=rss",
+      "summary": "Authorities will \"show no leniency\" to people who \"belittle\" those who are suffering, the prime minister says.",
+      "source": "BBC News - World",
+      "origin": "internacional",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3fe7/live/28e855b0-ab59-11f1-b471-ff02eb3eac27.jpg",
+      "published_at": "2026-09-08T08:31:01+00:00",
+      "region": "América do Norte",
+      "theme": "Política Internacional"
+    },
+    {
+      "title": "Maroon 5 se apresenta nesta terça-feira (8) em São Paulo; veja detalhes",
+      "url": "https://www.cnnbrasil.com.br/pop/musica/maroon-5-se-apresenta-nesta-terca-feira-8-em-sao-paulo-veja-detalhes/",
+      "summary": "Banda norte-americana sobe ao palco no Nubank Parque antes do show no Rock in Rio no dia 12 de setembro",
+      "source": "CNN Brasil",
+      "origin": "brasil",
+      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/12/GettyImages-2247789950.jpg?w=1200&h=630&crop=1",
+      "published_at": "2026-09-08T08:30:30+00:00",
+      "region": "América do Sul",
+      "theme": "Outros / Multitemático"
+    },
+    {
+      "title": "Club Brugge x Aston Villa: horário e onde assistir à Champions League",
+      "url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/champions-league/club-brugge-x-aston-villa-horario-e-onde-assistir-a-champions-league-2/",
+      "summary": "Equipes se enfrentam nesta terça-feira (8), às 13h45 (de Brasília)",
+      "source": "CNN Brasil",
+      "origin": "brasil",
+      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/01/Jan-Breydel-e1737400715953.jpg?w=1170&h=630&crop=1",
+      "published_at": "2026-09-08T08:30:07+00:00",
+      "region": "América do Sul",
+      "theme": "Ciência, Tecnologia e Inovação"
+    },
+    {
+      "title": "Houthis prometem intensificar ataques à Arábia Saudita após ofensiva",
+      "url": "https://www.cnnbrasil.com.br/internacional/houthis-arabia-saudita-ataques/",
+      "summary": "Pelo menos 73 pessoas ficaram feridas em ofensiva do grupo rebelde do Iêmen contra instalações de petrolíferas da Arábia Saudita",
+      "source": "CNN Brasil",
+      "origin": "brasil",
+      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/09/Os-houthis-do-Iemen-afirmam-ter-atacado-instalacoes-da-Saudi-Aramco-em-uma-ampla-operacao.jpg?w=960&h=540&crop=1",
+      "published_at": "2026-09-08T08:26:59+00:00",
+      "region": "América do Sul",
+      "theme": "Geopolítica e Segurança"
+    },
+    {
+      "title": "As fuel prices rise again, Iran’s government urges citizens to cut back",
+      "url": "https://www.aljazeera.com/news/2026/9/8/as-fuel-prices-rise-again-irans-government-urges-citizens-to-cut-back?traffic_source=rss",
+      "summary": "New fuel pricing targets consumption above 110 litres monthly, doubling costs to 100,000 riyals per litre.",
+      "source": "Al Jazeera English",
+      "origin": "internacional",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/2026-09-07T141659Z_758416862_RC2CENA3ZOWK_RTRMADP_3_IRAN-ECONOMY-FUEL-1788851649.jpg?resize=1920%2C1440",
+      "published_at": "2026-09-08T08:15:29+00:00",
+      "region": "Oriente Médio",
+      "theme": "Outros / Multitemático"
+    },
+    {
+      "title": "Mega-Sena: quanto rendem R$ 70 milhões na poupança, Tesouro Direto ou CDB",
+      "url": "https://www.cnnbrasil.com.br/economia/seu-bolso/meu-dinheiro/mega-sena-quanto-rendem-r-70-milhoes-na-poupanca-tesouro-direto-ou-cdb-2/",
+      "summary": "Sorteio desta terça-feira (8) será realizado às 21h; apostas podem ser feitas até 20h",
+      "source": "CNN Brasil",
+      "origin": "brasil",
+      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2021/09/novos-volantes_18jan18_foto-rodrigo-de-oliveira-30-e1743461439998.jpg?w=1200&h=630&crop=1",
+      "published_at": "2026-09-08T08:05:40+00:00",
+      "region": "América do Sul",
+      "theme": "Economia Brasileira"
+    },
+    {
+      "title": "Indonesia airports reopen after volcanic ash disrupts thousands of flights",
+      "url": "https://www.aljazeera.com/news/2026/9/8/indonesia-airports-reopen-after-volcanic-ash-disrupts-thousands-of-flights?traffic_source=rss",
+      "summary": "Five airports reopen after authorities cleared volcanic ash from critical infrastructure.",
+      "source": "Al Jazeera English",
+      "origin": "internacional",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/2026-09-08T033737Z_1883190086_RC2RENACOZE7_RTRMADP_3_INDONESIA-VOLCANO-1788848483.jpg?resize=1920%2C1440",
+      "published_at": "2026-09-08T08:04:24+00:00",
+      "region": "América do Norte",
+      "theme": "Outros / Multitemático"
+    },
+    {
+      "title": "Fim da Moratória da Soja pode custar US$ 8,2 bilhões ao Brasil, estima WWF",
+      "url": "https://www.cnnbrasil.com.br/agro/fim-da-moratoria-da-soja-pode-custar-us-82-bilhoes-ao-brasil-estima-wwf/",
+      "summary": "Estudo publicado na Science prevê que fim do acordo poderia ampliar desmatamento em 1,4 milhão de hectares e gerar perdas com água, energia e biodiversidade",
+      "source": "CNN Brasil",
+      "origin": "brasil",
+      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/09/moratoria-da-soja_Jacqueline-LisboaWWF-Brasil.jpg?w=1200&h=630&crop=1",
+      "published_at": "2026-09-08T08:02:21+00:00",
+      "region": "América do Sul",
+      "theme": "Ciência, Tecnologia e Inovação"
+    },
+    {
+      "title": "Pequeno partido de esquerda surge como potencial aliado da AfD na Alemanha",
+      "url": "https://www.cnnbrasil.com.br/internacional/pequeno-partido-de-esquerda-surge-como-potencial-aliado-da-afd-na-alemanha/",
+      "summary": "BSW, classificado como extrema-esquerda, compartilha opiniões sobre imigração em massa e afirmou estar aberto ao diálogo",
+      "source": "CNN Brasil",
+      "origin": "brasil",
+      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/09/GettyImages-2293373427.jpg?w=1200&h=630&crop=1",
+      "published_at": "2026-09-08T08:01:21+00:00",
+      "region": "América do Sul",
+      "theme": "Política Internacional"
+    },
+    {
+      "title": "Quartas da Libertadores começam nesta terça (8); veja datas e horários",
+      "url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/libertadores-da-america/quartas-da-libertadores-comecam-nesta-terca-8-veja-datas-e-horarios/",
+      "summary": "Corinthians, Flamengo, Fluminense e Palmeiras são os brasileiros vivos",
+      "source": "CNN Brasil",
+      "origin": "brasil",
+      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/12/Taca-Libertadores-e1766419420865.jpeg?w=1200&h=630&crop=1",
+      "published_at": "2026-09-08T08:01:15+00:00",
       "region": "América do Sul",
       "theme": "Cultura, Mídia e Sociedade"
+    },
+    {
+      "title": "6 motivos para participar do Inter Invest Summit",
+      "url": "https://www.cnnbrasil.com.br/economia/money/negocios/6-motivos-para-participar-do-inter-invest-summit/",
+      "summary": "Evento de investimentos organizado pelo Inter tem grandes nomes do mercado financeiro e um dia inteiro de programação",
+      "source": "CNN Brasil",
+      "origin": "brasil",
+      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/07/compressed-IMG_CNN_7.png?w=1200&h=630&crop=1",
+      "published_at": "2026-09-08T08:00:57+00:00",
+      "region": "América do Sul",
+      "theme": "Cultura, Mídia e Sociedade"
+    },
+    {
+      "title": "Boca Juniors x São Paulo: horário e onde assistir à Sul-Americana",
+      "url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/sulamericana/boca-juniors-x-sao-paulo-horario-e-onde-assistir-a-sul-americana/",
+      "summary": "Equipes se enfrentam nesta terça-feira (8), às 21h30 (de Brasília)",
+      "source": "CNN Brasil",
+      "origin": "brasil",
+      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2023/09/E0BB_YaXMAkSUtN-e1695824392428.jpg?w=1200&h=630&crop=1",
+      "published_at": "2026-09-08T08:00:50+00:00",
+      "region": "América do Sul",
+      "theme": "Ciência, Tecnologia e Inovação"
+    },
+    {
+      "title": "Principais IAs do mercado são vulneráveis à desinformação, mostra estudo",
+      "url": "https://www.cnnbrasil.com.br/economia/money/inteligencia-artificial/principais-ias-do-mercado-sao-vulneraveis-a-desinformacao-mostra-estudo/",
+      "summary": "Pesquisa indica que modelo da OpenAI reafirma declarações erradas repetidamente; IA da Anthropic se mostrou a mais resistente",
+      "source": "CNN Brasil",
+      "origin": "brasil",
+      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/09/inteligencia-artificial-e-desinformacao.png?w=1200&h=630&crop=1",
+      "published_at": "2026-09-08T08:00:49+00:00",
+      "region": "América do Sul",
+      "theme": "Economia Internacional"
+    },
+    {
+      "title": "Angola aposta na produção de frutas para reduzir dependência do petróleo",
+      "url": "https://www.cnnbrasil.com.br/agro/angola-aposta-na-producao-de-frutas-para-reduzir-dependencia-do-petroleo/",
+      "summary": "Produção chegou a 7,2 milhões de toneladas na safra 2024/25, mas gargalos de logística e acesso a mercados limitam as exportações, com a banana como principal aposta.",
+      "source": "CNN Brasil",
+      "origin": "brasil",
+      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/08/WhatsApp-Image-2026-08-31-at-10.44.50.jpeg?w=1200&h=630&crop=1",
+      "published_at": "2026-09-08T08:00:44+00:00",
+      "region": "América do Sul",
+      "theme": "Economia Internacional"
+    },
+    {
+      "title": "Mega-Sena 3055: sorteio desta terça-feira (8) pode pagar R$ 70 milhões",
+      "url": "https://www.cnnbrasil.com.br/economia/seu-bolso/loterias/mega-sena-3055/",
+      "summary": "Para concorrer, apostadores devem registrar seus jogos até às 20h",
+      "source": "CNN Brasil",
+      "origin": "brasil",
+      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2024/12/20230622_183531.jpg?w=1200&h=630&crop=1",
+      "published_at": "2026-09-08T08:00:39+00:00",
+      "region": "América do Sul",
+      "theme": "Outros / Multitemático"
+    },
+    {
+      "title": "Santa Fe x Vasco: horário e onde assistir às quartas da Sul-Americana",
+      "url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/sulamericana/santa-fe-x-vasco-horario-e-onde-assistir-as-quartas-da-sul-americana/",
+      "summary": "Equipes se enfrentam nesta terça-feira (8), às 19h (de Brasília)",
+      "source": "CNN Brasil",
+      "origin": "brasil",
+      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/09/estadio_el_campin-e1788791613600.jpg?w=1200&h=630&crop=1",
+      "published_at": "2026-09-08T08:00:04+00:00",
+      "region": "América do Sul",
+      "theme": "Ciência, Tecnologia e Inovação"
     },
     {
       "title": "Caso Master pode ser anulado por causa de crise entre ministros do STF?",
@@ -33,17 +374,6 @@
       "published_at": "2026-09-08T07:45:55+00:00",
       "region": "América do Sul",
       "theme": "Outros / Multitemático"
-    },
-    {
-      "title": "Exportações da China crescem 25% em agosto",
-      "url": "https://www.poder360.com.br/poder-china/exportacoes-da-china-crescem-25-em-agosto/",
-      "summary": "Comparação é com o mesmo mês do ano passado; no consolidado do ano, vendas ao exterior subiram 19,3%",
-      "source": "Poder360",
-      "origin": "brasil",
-      "image": "https://static.poder360.com.br/uploads/2026/08/tianjin-port-china-xinhua.jpg",
-      "published_at": "2026-09-08T07:42:03+00:00",
-      "region": "América do Sul",
-      "theme": "Economia Internacional"
     },
     {
       "title": "Yemen fighting live: Battles rage between Houthi and Saudi-backed forces",
@@ -79,29 +409,7 @@
       "theme": "Política Brasileira"
     },
     {
-      "title": "Educação no Brasil avança, mas segue distante da média da OCDE",
-      "url": "https://www.poder360.com.br/poder-educacao/educacao-no-brasil-avanca-mas-segue-distante-da-media-da-ocde/",
-      "summary": "Pisa mostra melhora em leitura, matemática e ciências desde 2006, mas parte da aproximação com a OCDE se deve à queda da média do grupo",
-      "source": "Poder360",
-      "origin": "brasil",
-      "image": "https://static.poder360.com.br/uploads/2026/09/educacao-brasil-avanca-ocde-7-set-2026-2_page-0001-1200x675.jpg",
-      "published_at": "2026-09-08T07:30:31+00:00",
-      "region": "América do Sul",
-      "theme": "Cultura, Mídia e Sociedade"
-    },
-    {
-      "title": "Como a guerra no Irã mudou a economia global?",
-      "url": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/como-a-guerra-no-ira-mudou-a-economia-global/",
-      "summary": "Conflito no Oriente Médio muda mercado de petróleo, faz surgir novos hábitos e pressiona preços ao redor do mundo",
-      "source": "CNN Brasil",
-      "origin": "brasil",
-      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/03/estreito-de-ormuz-IA.png?w=1200&h=630&crop=1",
-      "published_at": "2026-09-08T07:25:06+00:00",
-      "region": "América do Sul",
-      "theme": "Economia Internacional"
-    },
-    {
-      "title": "Eiffel Tower to reopen after protest over removing women staff",
+      "title": "Eiffel Tower reopens after protest over removing women staff",
       "url": "https://www.aljazeera.com/news/2026/9/8/eiffel-tower-to-reopen-after-protest-over-removing-women-staff?traffic_source=rss",
       "summary": "A Hindu religious delegation had requested that &#039;interactions with women&#039; be limited during its visit.",
       "source": "Al Jazeera English",
@@ -112,146 +420,14 @@
       "theme": "Direitos Humanos, Sociedade e Migrações"
     },
     {
-      "title": "CVM apura uso de laudos falsos por Vorcaro para inflar fundo imobiliário",
-      "url": "https://www.cnnbrasil.com.br/economia/money/negocios/cvm-apura-uso-de-laudos-falsos-por-vorcaro-para-inflar-fundo-imobiliario/",
-      "summary": "Investigados teriam vendido cotas do Brazil Realty a investidores de mercado, obtendo vantagem indevida relativa ao sobrepreço artificial",
-      "source": "CNN Brasil",
-      "origin": "brasil",
-      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/03/BR_CNN_040326_NVD_CLEAN_frame_159449.jpeg?w=1200&h=630&crop=1",
-      "published_at": "2026-09-08T07:10:29+00:00",
-      "region": "América do Sul",
-      "theme": "Economia Brasileira"
-    },
-    {
-      "title": "Gasolina cara ainda pesa nos EUA e deve manter pressão no outono",
-      "url": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/gasolina-cara-ainda-pesa-nos-eua-e-deve-manter-pressao-no-outono/",
-      "summary": "Americanos enfrentam recordes históricos nos preços dos combustíveis, que afetam deslocamentos e planos de viagem no país",
-      "source": "CNN Brasil",
-      "origin": "brasil",
-      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/Reuters_Direct_Media/BrazilOnlineReportBusinessNews/tagreuters.com2026binary_LYNXMPEM4D0VS-BASEIMAGE.jpg?w=800&h=534&crop=1",
-      "published_at": "2026-09-08T07:10:23+00:00",
-      "region": "América do Sul",
-      "theme": "Outros / Multitemático"
-    },
-    {
-      "title": "French AI firm Mistral valued at 21 bn euros after latest funding",
-      "url": "https://www.france24.com/en/live-news/20260908-french-ai-firm-mistral-valued-at-21-bn-euros-after-latest-funding",
-      "summary": "Mistral announced Tuesday that it had raised three billion euros ($3.5 billion) in what it described as the largest-ever European tech fundraising, valuing the French AI firm at over 21 billion euros.",
+      "title": "French AI startup Mistral valued at over 21 billion euros after latest funding",
+      "url": "https://www.france24.com/en/europe/20260908-french-ai-startup-mistral-raises-3-billion-euros-after-latest-funding",
+      "summary": "French AI company Mistral announced Tuesday that it had raised three billion euros ($3.5 billion) in what it described as the largest-ever European tech fundraising, valuing the startup at over 21 billion euros. While still an upstart compared to the AI giants OpenAI or Anthropic, Mistral says it is...",
       "source": "France 24",
       "origin": "internacional",
       "image": "https://s.france24.com/media/display/5a18cdfa-ab53-11f1-8895-005056bf30b7/w:1024/p:16x9/8dd6b25cc404f009827301788ecb3686e298343b.jpg",
       "published_at": "2026-09-08T07:03:12+00:00",
       "region": "Europa",
-      "theme": "Ciência, Tecnologia e Inovação"
-    },
-    {
-      "title": "Inflação e juros nos EUA reverberam e pressionam mercados emergentes",
-      "url": "https://www.cnnbrasil.com.br/economia/money/mercado/inflacao-e-juros-nos-eua-reverberam-e-pressionam-mercados-emergentes/",
-      "summary": "Semana traz dados de inflação importantes para definição das expectativas em relação à taxa de juros do Federal Reserve",
-      "source": "CNN Brasil",
-      "origin": "brasil",
-      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/09/ChatGPT-Image-30-de-set.-de-2025-22_27_21-e1759282115173.png?w=1024&h=577&crop=1",
-      "published_at": "2026-09-08T07:02:20+00:00",
-      "region": "América do Sul",
-      "theme": "Economia Internacional"
-    },
-    {
-      "title": "Lula tem até hoje para assinar MP da Blusinhas e evitar volta de imposto",
-      "url": "https://www.cnnbrasil.com.br/politica/lula-tem-ate-hoje-para-assinar-mp-da-blusinhas-e-evitar-volta-de-imposto/",
-      "summary": "Medida Provisória que perde a validade nesta terça-feira (8) foi aprovada pelo Congresso Nacional na semana passada",
-      "source": "CNN Brasil",
-      "origin": "brasil",
-      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/09/Lula_Reuniao_Bets.jpeg?w=1200&h=630&crop=1",
-      "published_at": "2026-09-08T07:01:12+00:00",
-      "region": "América do Sul",
-      "theme": "Política Brasileira"
-    },
-    {
-      "title": "Socorristas explicam como homens sobreviveram nove dias em túnel no Nepal",
-      "url": "https://www.cnnbrasil.com.br/internacional/socorristas-explicam-como-homens-sobreviveram-nove-dias-em-tunel-no-nepal/",
-      "summary": "Kabir Maharjan e Sanjay Sah foram resgatados na sexta-feira (4), após mais de uma semana presos em um complexo subterrâneo de uma usina hidrelétrica em meio às inundações que atingiram o país",
-      "source": "CNN Brasil",
-      "origin": "brasil",
-      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/09/2026-09-04T111329Z_1_LYNXMPEM830W4_RTROPTP_4_NEPAL-FLOODS-SURVIVOR.jpg?w=1200&h=630&crop=1",
-      "published_at": "2026-09-08T07:00:54+00:00",
-      "region": "América do Sul",
-      "theme": "Economia Internacional"
-    },
-    {
-      "title": "AEK Atenas x LASK Linz: horário e onde assistir ao jogo da Champions League",
-      "url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/champions-league/aek-atenas-x-lask-linz-horario-e-onde-assistir-ao-jogo-da-champions-league/",
-      "summary": "Equipes entram em campo nesta terça-feira (08) pela estreia da competição",
-      "source": "CNN Brasil",
-      "origin": "brasil",
-      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/03/aek-arena.jpg?w=1000&h=630&crop=1",
-      "published_at": "2026-09-08T07:00:49+00:00",
-      "region": "América do Sul",
-      "theme": "Ciência, Tecnologia e Inovação"
-    },
-    {
-      "title": "Brasil x Canadá: horário e onde assistir à Copa do Mundo Feminina Sub-20",
-      "url": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/brasil-x-canada-horario-e-onde-assistir-a-copa-do-mundo-feminina-sub-20/",
-      "summary": "Seleções entram em campo nesta terça-feira (08) pela segunda rodada da competição",
-      "source": "CNN Brasil",
-      "origin": "brasil",
-      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/09/brasil_feminino_sub20.jpg?w=1200&h=630&crop=1",
-      "published_at": "2026-09-08T07:00:46+00:00",
-      "region": "América do Sul",
-      "theme": "Ciência, Tecnologia e Inovação"
-    },
-    {
-      "title": "Brasil inicia Sul-Americano feminino de vôlei em busca de vaga olímpica",
-      "url": "https://www.cnnbrasil.com.br/esportes/volei/brasil-inicia-sul-americano-feminino-de-volei-em-busca-de-vaga-olimpica/",
-      "summary": "Seleção enfrenta a Venezuela nesta terça-feira (8), às 20h; campeão da competição se classifica para Los Angeles 2028",
-      "source": "CNN Brasil",
-      "origin": "brasil",
-      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/07/brasil-volei_27db66-e1785037418512.jpg?w=1026&h=578&crop=1",
-      "published_at": "2026-09-08T07:00:18+00:00",
-      "region": "América do Sul",
-      "theme": "Direito Internacional e Instituições"
-    },
-    {
-      "title": "Ala do STF aposta em decisão sobre Moraes e Mendonça só após as eleições",
-      "url": "https://www.cnnbrasil.com.br/politica/ala-do-stf-aposta-em-decisao-sobre-moraes-e-mendonca-so-apos-as-eleicoes/",
-      "summary": "Avaliação é de que Fachin busca ganhar tempo com pedidos de manifestações e que não pautará o caso no calor da disputa eleitoral",
-      "source": "CNN Brasil",
-      "origin": "brasil",
-      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/09/andre-mendonca-alexandre-de-moraes-plenario.jpg?w=1200&h=630&crop=1",
-      "published_at": "2026-09-08T07:00:18+00:00",
-      "region": "América do Sul",
-      "theme": "Política Brasileira"
-    },
-    {
-      "title": "Brasil x Venezuela: onde assistir ao Sul-Americano feminino de vôlei",
-      "url": "https://www.cnnbrasil.com.br/esportes/volei/brasil-x-venezuela-onde-assistir-ao-sul-americano-feminino-de-volei/",
-      "summary": "Seleções se enfrentam nesta terça-feira (8), às 20h (de Brasília), pela primeira rodada da competição que vale vaga na Olimpíada de Los Angeles 2028",
-      "source": "CNN Brasil",
-      "origin": "brasil",
-      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/09/maracanazinho-volei-sul-americano-e1788795692476.webp?w=1200&h=630&crop=1",
-      "published_at": "2026-09-08T07:00:12+00:00",
-      "region": "América do Sul",
-      "theme": "Ciência, Tecnologia e Inovação"
-    },
-    {
-      "title": "Criciúma x Juventude: horário e onde assistir ao jogo da Série B",
-      "url": "https://www.cnnbrasil.com.br/esportes/brasileirao/criciuma-x-juventude-horario-e-onde-assistir-ao-jogo-da-serie-b/",
-      "summary": "Clubes entram em campo nesta terça-feira (08) pela 27ª rodada do campeonato",
-      "source": "CNN Brasil",
-      "origin": "brasil",
-      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2024/04/estadio_criciuma-e1718969191900.png?w=1200&h=630&crop=1",
-      "published_at": "2026-09-08T07:00:11+00:00",
-      "region": "América do Sul",
-      "theme": "Ciência, Tecnologia e Inovação"
-    },
-    {
-      "title": "Cuiabá x Athletic Club: horário e onde assistir ao jogo da Série B",
-      "url": "https://www.cnnbrasil.com.br/esportes/brasileirao/cuiaba-x-athletic-club-horario-e-onde-assistir-ao-jogo-da-serie-b/",
-      "summary": "Clubes entram em campo nesta terça-feira (08) pela 27ª rodada do campeonato",
-      "source": "CNN Brasil",
-      "origin": "brasil",
-      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/11/Arena-Pantanal-em-Cuiaba-sera-palco-de-Cuiaba-x-Criciuma-pela-Serie-B-e1763923342830.webp?w=1000&h=563&crop=1",
-      "published_at": "2026-09-08T07:00:06+00:00",
-      "region": "América do Sul",
       "theme": "Ciência, Tecnologia e Inovação"
     },
     {
@@ -264,17 +440,6 @@
       "published_at": "2026-09-08T07:00:00+00:00",
       "region": "América do Sul",
       "theme": "Direitos Humanos, Sociedade e Migrações"
-    },
-    {
-      "title": "Islândia reage a mapa de Trump e convoca embaixador dos EUA, diz emissora",
-      "url": "https://www.cnnbrasil.com.br/internacional/islandia-reage-a-mapa-de-trump-e-convoca-embaixador-dos-eua-diz-emissora/",
-      "summary": "Imagem publicada pelo presidente americano inclui ilha, Groenlândia, Canadá e outros territórios sob o rótulo “Estados Unidos da América”; governo islandês classificou postagem como inadequada",
-      "source": "CNN Brasil",
-      "origin": "brasil",
-      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/09/1_b87b32.png?w=1200&h=630&crop=1",
-      "published_at": "2026-09-08T06:58:30+00:00",
-      "region": "América do Sul",
-      "theme": "Política Internacional"
     },
     {
       "title": "US Open: Zheng in 5-0 comeback; Gauff, Rybakina, Zverev also in quarters",
@@ -310,17 +475,6 @@
       "theme": "Geopolítica e Segurança"
     },
     {
-      "title": "13 ministros aposentados do STF pedem “rigorosa apuração” a Fachin",
-      "url": "https://www.poder360.com.br/poder-justica/13-ministros-aposentados-do-stf-pedem-rigorosa-apuracao-a-fachin/",
-      "summary": "Carta não cita nomes nem casos específicos, mas diz que Corte passa pela “mais aguda crise de sua história”",
-      "source": "Poder360",
-      "origin": "brasil",
-      "image": "https://static.poder360.com.br/uploads/2026/08/fachin-2-semestre-stf.jpg",
-      "published_at": "2026-09-08T06:36:01+00:00",
-      "region": "América do Sul",
-      "theme": "Política Brasileira"
-    },
-    {
       "title": "Rússia e Ucrânia trocam ataques em meio a tentativa de acordo de paz",
       "url": "https://g1.globo.com/mundo/noticia/2026/09/08/russia-bombardeia-kiev-em-meio-a-tentativa-de-acordo-de-paz.ghtml",
       "summary": "     Rússia bombardeia Kiev em meio a tentativa de acordo de paz\nA Rússia voltou a atacar Kiev na madrugada desta terça-feira (8), poucas horas após a saída dos enviados americanos Steve Witkoff e Jared Kushner da capital ucraniana. Segundo autoridades locais, os bombardeios com mísseis e drones dei...",
@@ -330,17 +484,6 @@
       "published_at": "2026-09-08T06:27:09+00:00",
       "region": "América do Sul",
       "theme": "Geopolítica e Segurança"
-    },
-    {
-      "title": "XPeng inaugura sua 1ª fábrica de robô humanoide multitarefas",
-      "url": "https://www.poder360.com.br/poder-china/xpeng-inaugura-sua-1a-fabrica-de-robo-humanoide-multitarefas/",
-      "summary": "Linha de montagem é 80% automatizada e empresa chinesa iniciará produção em massa do modelo IRON até o final do ano",
-      "source": "Poder360",
-      "origin": "brasil",
-      "image": "https://static.poder360.com.br/uploads/2026/09/xpeng-iron-robot-1200x675.jpeg",
-      "published_at": "2026-09-08T06:26:18+00:00",
-      "region": "América do Sul",
-      "theme": "Outros / Multitemático"
     },
     {
       "title": "Os novos vídeos que indicam possível papel de agente da Arábia Saudita no 11 de Setembro",
@@ -370,7 +513,7 @@
       "summary": "",
       "source": "France 24",
       "origin": "internacional",
-      "image": "https://loremflickr.com/800/450/society,people?lock=893",
+      "image": "https://loremflickr.com/800/450/society,people?lock=821",
       "published_at": "2026-09-08T05:25:00+00:00",
       "region": "América do Norte",
       "theme": "Direitos Humanos, Sociedade e Migrações"
@@ -385,28 +528,6 @@
       "published_at": "2026-09-08T05:22:03+00:00",
       "region": "Global",
       "theme": "Outros / Multitemático"
-    },
-    {
-      "title": "Forest fires force evacuations near resorts in Antalya",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/8/forest-fires-force-evacuations-near-resorts-in-antalya?traffic_source=rss",
-      "summary": "Massive forest fires have broken out in Turkiye’s popular tourist province of Antalya.",
-      "source": "Al Jazeera English",
-      "origin": "internacional",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/wide-thumb-antalya-fire-1788843298.png?resize=1920%2C1080&quality=80",
-      "published_at": "2026-09-08T04:55:59+00:00",
-      "region": "Global",
-      "theme": "Outros / Multitemático"
-    },
-    {
-      "title": "Mladic’s funeral: Were no lessons learned?",
-      "url": "https://www.aljazeera.com/opinions/2026/9/8/burying-mladic-were-no-lessons-learned?traffic_source=rss",
-      "summary": "Thirty years of international justice has taught political leaders little.",
-      "source": "Al Jazeera English",
-      "origin": "internacional",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/AP26250216219089-1788769144.jpg?resize=1920%2C1440",
-      "published_at": "2026-09-08T04:47:56+00:00",
-      "region": "América do Norte",
-      "theme": "Política Internacional"
     },
     {
       "title": "Philippines Lawmaker, Cousin of Marcos, Charged With Taking Kickbacks",
@@ -429,17 +550,6 @@
       "published_at": "2026-09-08T04:39:14+00:00",
       "region": "América do Norte",
       "theme": "Comércio e Finanças"
-    },
-    {
-      "title": "Polls suggest tight presidential race as Brazil marks Independence Day",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/8/polls-suggest-tight-presidential-race-as-brazil-marks-independence-day?traffic_source=rss",
-      "summary": "Brazil has marked Independence Day with the two main candidates for October’s presidential election holding events.",
-      "source": "Al Jazeera English",
-      "origin": "internacional",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1788841758.jpg?resize=1920%2C1080&quality=80",
-      "published_at": "2026-09-08T04:29:33+00:00",
-      "region": "América do Sul",
-      "theme": "Outros / Multitemático"
     },
     {
       "title": "Canada’s Retaliatory Tariffs Set to Take Effect as Trump Threatens to Escalate",
@@ -477,7 +587,7 @@
     {
       "title": "North Korea and Russia open first road bridge linking both countries",
       "url": "https://www.bbc.co.uk/news/articles/cj9xvg1kz0mo?at_medium=RSS&at_campaign=rss",
-      "summary": "It comes as relations between both countries have strengthened since the start of the Ukraine war.",
+      "summary": "Relations between the neighbours have strengthened since the start of the Ukraine war.",
       "source": "BBC News - World",
       "origin": "internacional",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6735/live/dba2ee20-ab1f-11f1-a291-b542ee92de7c.jpg",
@@ -497,6 +607,17 @@
       "theme": "Direitos Humanos, Sociedade e Migrações"
     },
     {
+      "title": "Vivir en Gaza a la espera de una llamada",
+      "url": "https://elpais.com/internacional/2026-09-08/vivir-en-gaza-a-la-espera-de-una-llamada.html",
+      "summary": "Miles de palestinos pasan sus días pendientes de ser evacuados de la Franja, sobre todo por motivos médicos, al albur de Israel y de los países de acogida",
+      "source": "El País - Internacional",
+      "origin": "internacional",
+      "image": "https://imagenes.elpais.com/resizer/v2/FETIRXSZLBEDNHD3J3TULF7WLI.jpg?auth=56db77db08074f2c7d41989feaf8171da5682b300f472c6b1d6f2a0b7ced5c9d",
+      "published_at": "2026-09-08T03:40:00+00:00",
+      "region": "América do Norte",
+      "theme": "Saúde"
+    },
+    {
       "title": "Por qué el triunfo de AfD en Alemania es una victoria para el plan de Trump de desestabilizar Europa",
       "url": "https://elpais.com/internacional/2026-09-08/por-que-el-triunfo-de-afd-en-alemania-es-una-victoria-para-el-plan-de-trump-de-desestabilizar-europa.html",
       "summary": "El partido ultra contaba con el apoyo de Elon Musk, quien, junto con otras personalidades MAGA, ha celebrado los históricos resultados en Sajonia-Anhalt",
@@ -506,28 +627,6 @@
       "published_at": "2026-09-08T03:40:00+00:00",
       "region": "América do Norte",
       "theme": "Política Internacional"
-    },
-    {
-      "title": "Estados Unidos llega dividido al 25º aniversario del trauma del 11-S",
-      "url": "https://elpais.com/internacional/2026-09-08/estados-unidos-llega-dividido-al-25-aniversario-del-trauma-del-11-s.html",
-      "summary": "Rudolph Giuliani, alcalde de Nueva York en el momento de los atentados y estrecho aliado de Trump, pide a Mamdani que no participe en la conmemoración, a la que tampoco irá el presidente",
-      "source": "El País - Internacional",
-      "origin": "internacional",
-      "image": "https://vdmedia.elpais.com/elpaistop/multimedia/20249/11/989607.mp4",
-      "published_at": "2026-09-08T03:40:00+00:00",
-      "region": "América do Norte",
-      "theme": "Cultura, Mídia e Sociedade"
-    },
-    {
-      "title": "Em carta a Fachin, ministros aposentados manifestam apoio e cobram apuração 'pública' e 'rigorosa' diante de crise no STF",
-      "url": "https://www.bbc.com/portuguese/articles/c39mzex0882o?at_medium=RSS&at_campaign=rss",
-      "summary": "Celso de Mello, Rosa Weber, Joaquim Barbosa e outros 10 ministros aposentados pedem a Fachin uma resposta firme diante do que classificam como a “mais aguda crise” da Corte.",
-      "source": "BBC News Brasil",
-      "origin": "brasil",
-      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/96d4/live/8078e8e0-ab35-11f1-b109-879e35c24276.jpg",
-      "published_at": "2026-09-08T03:36:21+00:00",
-      "region": "América do Sul",
-      "theme": "Política Brasileira"
     },
     {
       "title": "Los fracasos que nutren a la ultraderecha",
@@ -607,17 +706,6 @@
       "theme": "Cultura, Mídia e Sociedade"
     },
     {
-      "title": "Cimed lança mascote “Sacão” para promover o filme Espermagedom",
-      "url": "https://www.poder360.com.br/poder-midia/cimed-lanca-mascote-sacao-para-promover-o-filme-espermagedom/",
-      "summary": "K-Med, divisão da empresa, mostrou personagem ao anunciar parceria com a distribuição do filme no Brasil",
-      "source": "Poder360",
-      "origin": "brasil",
-      "image": "https://static.poder360.com.br/uploads/2026/09/cimed_espermagedom_kmed-1200x675.png",
-      "published_at": "2026-09-08T01:10:22+00:00",
-      "region": "América do Sul",
-      "theme": "Cultura, Mídia e Sociedade"
-    },
-    {
       "title": "Ukraine's chief prosecutor resigns over call centre corruption scandal",
       "url": "https://www.bbc.co.uk/news/articles/c780nlgyd79o?at_medium=RSS&at_campaign=rss",
       "summary": "In his resignation letter, Ruslan Kravchenko denied the allegations against him, saying he did not want his office \"to be used as a tool in political confrontation\".",
@@ -627,17 +715,6 @@
       "published_at": "2026-09-08T01:07:47+00:00",
       "region": "América do Norte",
       "theme": "Outros / Multitemático"
-    },
-    {
-      "title": "Organização faz protesto com robôs na Polônia e pede regras para IA",
-      "url": "https://www.poder360.com.br/poder-tech/organizacao-faz-protesto-com-robos-na-polonia-e-pede-regras-para-ia/",
-      "summary": "Com bandeiras e entoando lemas, robôs “defenderam” maiores restrições no uso de IA no mercado de trabalho",
-      "source": "Poder360",
-      "origin": "brasil",
-      "image": "https://static.poder360.com.br/uploads/2026/09/robos-marchando-7-set-2026-1200x675.jpeg",
-      "published_at": "2026-09-08T00:56:59+00:00",
-      "region": "América do Sul",
-      "theme": "Direitos Humanos, Sociedade e Migrações"
     },
     {
       "title": "Alemanha contesta as acusações de genocídio em Gaza na Corte da ONU",
@@ -673,28 +750,6 @@
       "theme": "Direitos Humanos, Sociedade e Migrações"
     },
     {
-      "title": "Grito dos Excluídos cobra combate ao feminicídio no 7 de Setembro",
-      "url": "https://www.poder360.com.br/poder-brasil/grito-dos-excluidos-cobra-combate-ao-feminicidio-no-7-de-setembro/",
-      "summary": "Mobilizações ocorreram em paralelo às celebrações oficiais e reuniram movimentos sociais e entidades",
-      "source": "Poder360",
-      "origin": "brasil",
-      "image": "https://static.poder360.com.br/uploads/2026/09/ato-grito-das-excluidas-e-excluidos-1200x675.jpg",
-      "published_at": "2026-09-07T23:26:59+00:00",
-      "region": "América do Sul",
-      "theme": "Economia Internacional"
-    },
-    {
-      "title": "Avalanche mata 11 alpinistas na Rússia",
-      "url": "https://www.poder360.com.br/poder-internacional/avalanche-mata-alpinistas-na-russia/",
-      "summary": "Ao menos 6 pessoas estão desaparecidas; equipes de resgate seguem nas buscas por sobreviventes",
-      "source": "Poder360",
-      "origin": "brasil",
-      "image": "https://static.poder360.com.br/uploads/2026/09/avalancha-russia-6-set-2026-1200x675.jpg",
-      "published_at": "2026-09-07T23:21:57+00:00",
-      "region": "América do Sul",
-      "theme": "Outros / Multitemático"
-    },
-    {
       "title": "Brasil encerra Mundial de paraciclismo de estrada com cinco medalhas",
       "url": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-09/brasil-encerra-mundial-de-paraciclismo-de-estrada-com-cinco-medalhas",
       "summary": "\n                    \n\t\t\t\tO Brasil finalizou o Campeonato Mundial de paraciclismo de estrada, em Huntsville (Estados Unidos), com cinco medalhas.\n\nNesta segunda-feira (7), último dia do evento, a paranaense Victoria Barbosa conquistou o bronze na prova de resistência da classe C1 (atletas com defici...",
@@ -715,17 +770,6 @@
       "published_at": "2026-09-07T23:00:00+00:00",
       "region": "América do Sul",
       "theme": "Comércio e Finanças"
-    },
-    {
-      "title": "Nearly 1.7 million deaths linked to second-hand smoke in 2023, study finds",
-      "url": "https://www.france24.com/en/health/20260907-second-hand-smoke-1-7-million-deaths",
-      "summary": "More than 2.7 billion people worldwide, including 767 million children, were exposed to second-hand smoke in 2023, contributing to nearly 1.7 million deaths, a Lancet study said on Tuesday. Researchers found second-hand smoke remained a major global health risk, with no safe level of exposure.",
-      "source": "France 24",
-      "origin": "internacional",
-      "image": "https://s.france24.com/media/display/90da5470-ab0e-11f1-9dba-005056a97e36/w:1024/p:16x9/AP23277485524212.jpg",
-      "published_at": "2026-09-07T22:53:34+00:00",
-      "region": "Global",
-      "theme": "Saúde"
     },
     {
       "title": "Pessoas continuam entrando em bueiros de Nova York e ninguém sabe por quê",
@@ -836,17 +880,6 @@
       "published_at": "2026-09-07T20:58:00+00:00",
       "region": "América do Sul",
       "theme": "Direitos Humanos, Sociedade e Migrações"
-    },
-    {
-      "title": "Britain Set to Target Israeli West Bank Settlements With Trade Ban",
-      "url": "https://www.nytimes.com/2026/09/07/world/middleeast/britain-sanctions-israeli-settlers.html",
-      "summary": "The expected move will be announced on Tuesday, officials said, and underscored Israel’s mounting isolation over its policies toward Palestinians following the war in Gaza.",
-      "source": "The New York Times",
-      "origin": "internacional",
-      "image": "https://static01.nyt.com/images/2026/09/07/multimedia/07int-britain-israeli-settlers-jbqh/07int-britain-israeli-settlers-jbqh-mediumSquareAt3X.jpg",
-      "published_at": "2026-09-07T20:33:50+00:00",
-      "region": "Oriente Médio",
-      "theme": "Comércio e Finanças"
     },
     {
       "title": "Miles de personas salen a la calle en Alemania para plantar cara a la extrema derecha",
@@ -1135,17 +1168,6 @@
       "theme": "Geopolítica e Segurança"
     },
     {
-      "title": "Funeral de Ratko Mladic, o 'açougueiro da Bósnia', reúne multidão e provoca indignação da UE",
-      "url": "https://redir.folha.com.br/redir/online/mundo/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/funeral-de-ratko-mladic-o-acougueiro-da-bosnia-reune-multidao-e-provoca-indignacao-da-ue.shtml",
-      "summary": "Uma multidão prestou homenagem nesta segunda-feira (7) em Belgrado diante do caixão de Ratko Mladic, o ex-general sérvio cujas ações durante as guerras dos Bálcãs na década de 1990 lhe renderam o apelido de \"açougueiro da Bósnia\". O funeral, marcado por manifestações de apoio ao ex-general, provocou...",
-      "source": "Folha de S.Paulo - Mundo",
-      "origin": "brasil",
-      "image": "https://f.i.uol.com.br/fotografia/2026/09/07/17887891676a9ec1afb62aa_1788789167_3x2_rt.jpg",
-      "published_at": "2026-09-07T14:34:00+00:00",
-      "region": "América do Sul",
-      "theme": "Geopolítica e Segurança"
-    },
-    {
       "title": "O matemático que passou 7 anos tentando resolver problema solucionado por amador com IA",
       "url": "https://www.bbc.com/portuguese/articles/c4gkd6qp22no?at_medium=RSS&at_campaign=rss",
       "summary": "O matemático Jared Duker Lichtman, da Universidade de Stanford, recebeu um email inesperado com a resposta para o problema 1196 de Erdős, um enigma de décadas no qual vinha trabalhando.",
@@ -1155,17 +1177,6 @@
       "published_at": "2026-09-07T14:11:47+00:00",
       "region": "América do Sul",
       "theme": "Outros / Multitemático"
-    },
-    {
-      "title": "Germany's far-right AfD says 'democracy demands' parties work with them after state election win",
-      "url": "https://www.bbc.co.uk/news/articles/cpd0113082eo?at_medium=RSS&at_campaign=rss",
-      "summary": "The far-right party is trying to form a government in the state after falling three seats short of a majority.",
-      "source": "BBC News - World",
-      "origin": "internacional",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/742c/live/a801c5d0-aa9a-11f1-ab09-7f2415c9a652.jpg",
-      "published_at": "2026-09-07T14:04:01+00:00",
-      "region": "Global",
-      "theme": "Política Internacional"
     },
     {
       "title": "A rede de propaganda pró-Rússia que explora violência sexual e usa mulheres do Exército ucraniano como isca",
@@ -1296,17 +1307,6 @@
       "origin": "brasil",
       "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7f80/live/7b6ed9a0-aa94-11f1-aed2-8d6da8d75094.png",
       "published_at": "2026-09-07T08:58:20+00:00",
-      "region": "América do Sul",
-      "theme": "Outros / Multitemático"
-    },
-    {
-      "title": "Por que o Brasil continuou um só enquanto a América espanhola se dividiu em vários países?",
-      "url": "https://www.bbc.com/portuguese/articles/c3gjpmvkv5eo?at_medium=RSS&at_campaign=rss",
-      "summary": "BBC News Brasil conversou com historiadores para entender causas que levaram à unificação do Brasil e à fragmentação de seus vizinhos.",
-      "source": "BBC News Brasil",
-      "origin": "brasil",
-      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/4b1c/live/dcaa6bd0-4bc9-11ee-86bb-754a2e9a2477.jpg",
-      "published_at": "2026-09-07T08:21:49+00:00",
       "region": "América do Sul",
       "theme": "Outros / Multitemático"
     },
