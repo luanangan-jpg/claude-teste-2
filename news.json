@@ -1,16 +1,456 @@
 {
-  "last_updated": "2026-09-08T17:05:27.720021+00:00",
+  "last_updated": "2026-09-08T18:06:24.174392+00:00",
   "articles": [
     {
-      "title": "STF tem maioria pelo afastamento de diretor-geral da PF a pedido de Mendonça, mas Gilmar Mendes suspende julgamento; acompanhe",
+      "title": "Mendonça afasta Andrei Rodrigues da chefia da PF; diretores da polícia colocam cargo à disposição: veja repercussão",
       "url": "https://www.bbc.co.uk/portuguese/live/cqx2zxy6eg0kt?at_medium=RSS&at_campaign=rss",
       "summary": "Ministro André Mendonça pede o afastamento de Andrei Rodrigues da PF e leva decisão à Segunda Turma do Supremo. Dois ministros votam por manter determinação, formando maioria na decisão, mas Gilmar Mendes pede vista e suspende julgamento.",
       "source": "BBC News Brasil",
       "origin": "brasil",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/887c/live/1e7baf70-aba2-11f1-aed2-8d6da8d75094.jpg",
-      "published_at": "2026-09-08T17:05:20.756214+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2c78/live/5cb7a5a0-abac-11f1-b109-879e35c24276.jpg",
+      "published_at": "2026-09-08T18:06:17.941100+00:00",
+      "region": "América do Sul",
+      "theme": "Direitos Humanos, Sociedade e Migrações"
+    },
+    {
+      "title": "Fachin recebe Messias e ministro de Justiça após afastamento de Andrei",
+      "url": "https://www.cnnbrasil.com.br/politica/fachin-recebe-messias-e-ministro-de-justica-apos-afastamento-de-andrei/",
+      "summary": "Diretor-geral da Polícia Federal foi afastado do cargo nesta terça-feira (80",
+      "source": "CNN Brasil",
+      "origin": "brasil",
+      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/04/JORGE-MESSIAS-29-04-26.jpg?w=1200&h=630&crop=1",
+      "published_at": "2026-09-08T18:05:02+00:00",
+      "region": "América do Sul",
+      "theme": "Política Internacional"
+    },
+    {
+      "title": "“Paulista, “carioca” ou “capixaba”: ccomo funciona a classificação de gentílicos dos estados brasileiros?",
+      "url": "https://www.cnnbrasil.com.br/curiosidades/paulista-carioca-ou-capixaba-ccomo-funciona-a-classificacao-de-gentilicos-dos-estados-brasileiros/",
+      "summary": "Adjetivos definem a origem de uma pessoa e são formados a partir do uso ou da cultura regional",
+      "source": "CNN Brasil",
+      "origin": "brasil",
+      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/09/mapa-brasil.jpg?w=1200&h=630&crop=1",
+      "published_at": "2026-09-08T18:03:52+00:00",
+      "region": "América do Sul",
+      "theme": "Direito Internacional e Instituições"
+    },
+    {
+      "title": "Corteva anuncia novo comando no Brasil, na América Latina e na Vylor",
+      "url": "https://www.cnnbrasil.com.br/agro/corteva-anuncia-novo-comando-no-brasil-na-america-latina-e-na-vylor/",
+      "summary": "Vylor ficará concentrada em sementes e genética, enquanto nova Corteva atuará no segmento de proteção de cultivos",
+      "source": "CNN Brasil",
+      "origin": "brasil",
+      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/02/WhatsApp-Image-2026-02-04-at-16.19.11.jpeg?w=888&h=499&crop=1",
+      "published_at": "2026-09-08T18:03:31+00:00",
+      "region": "América do Sul",
+      "theme": "Outros / Multitemático"
+    },
+    {
+      "title": "Diretor afirma que medo marcou produção de documentário sobre Elon Musk",
+      "url": "https://www.cnnbrasil.com.br/pop/cinema/diretor-afirma-que-medo-marcou-producao-de-documentario-sobre-elon-musk/",
+      "summary": "Filme de Alex Gibney mostra trajetória do bilionário até se tornar uma das figuras mais influentes do mundo",
+      "source": "CNN Brasil",
+      "origin": "brasil",
+      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/09/diretor-Alex-Gibney-e1788890529760.jpg?w=1200&h=630&crop=1",
+      "published_at": "2026-09-08T18:03:05+00:00",
+      "region": "América do Sul",
+      "theme": "Ciência, Tecnologia e Inovação"
+    },
+    {
+      "title": "British widow faces deportation from Sweden after 22 years",
+      "url": "https://www.bbc.co.uk/news/articles/c62k0d4px6ro?at_medium=RSS&at_campaign=rss",
+      "summary": "A 78-year-old British woman is facing deportation for failing to fill out a Brexit residence application on time.",
+      "source": "BBC News - World",
+      "origin": "internacional",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6a79/live/19bda140-ab99-11f1-b26f-1588b95519ec.jpg",
+      "published_at": "2026-09-08T18:02:42+00:00",
+      "region": "Global",
+      "theme": "Outros / Multitemático"
+    },
+    {
+      "title": "Governo cobra do Google retirada de vídeos com falsos médicos de IA após reportagens da BBC e alerta Polícia Federal",
+      "url": "https://www.bbc.com/portuguese/articles/c1wx8q4jzz4o?at_medium=RSS&at_campaign=rss",
+      "summary": "Ministério da Saúde analisou perfis que prometem curas e promovem produtos sem comprovação científica. Conteúdos, revelados pela BBC News Brasil, também motivaram boletim de ocorrência e investigação policial.",
+      "source": "BBC News Brasil",
+      "origin": "brasil",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/ddb2/live/1cbe6fc0-6ff1-11f1-b1db-af71d47507d6.jpg",
+      "published_at": "2026-09-08T18:02:35+00:00",
+      "region": "América do Sul",
+      "theme": "Saúde"
+    },
+    {
+      "title": "Flávio promete corte de impostos e combate ao crime organizado",
+      "url": "https://www.poder360.com.br/poder-eleicoes-2026/flavio-promete-corte-de-impostos-e-combate-ao-crime-organizado/",
+      "summary": "Propaganda do candidato do PL criticou o governo Lula, afirmou que o país está endividado e defendeu redução da maioridade penal",
+      "source": "Poder360",
+      "origin": "brasil",
+      "image": "https://static.poder360.com.br/uploads/2026/09/flavio-bolsonaro-video-campanha-1200x675.jpg",
+      "published_at": "2026-09-08T18:01:47+00:00",
+      "region": "América do Sul",
+      "theme": "Economia Brasileira"
+    },
+    {
+      "title": "Israeli Allies Ban Trade With Settlements as U.K. Cites ‘Ethnic Cleansing’",
+      "url": "https://www.nytimes.com/2026/09/08/world/europe/uk-sanctions-israel-west-bank-settlements.html",
+      "summary": "Britain, Canada and France on Tuesday announced sanctions on Israeli settlements in the West Bank, with Britain saying Israel had “turned a blind eye” to violence against Palestinians.",
+      "source": "The New York Times",
+      "origin": "internacional",
+      "image": "https://static01.nyt.com/images/2026/09/08/multimedia/08int-UK-ISRAEL-SETTLEMENTS-hqtv/08int-UK-ISRAEL-SETTLEMENTS-hqtv-mediumSquareAt3X.jpg",
+      "published_at": "2026-09-08T18:01:20+00:00",
+      "region": "América do Norte",
+      "theme": "Comércio e Finanças"
+    },
+    {
+      "title": "Vídeo: crianças furtam carro e se envolvem em acidente em Florianópolis",
+      "url": "https://www.cnnbrasil.com.br/nacional/sul/sc/video-criancas-furtam-carro-e-se-envolvem-em-acidente-em-florianopolis/",
+      "summary": "Caso ocorreu neste domingo (6) e segue sob investigação",
+      "source": "CNN Brasil",
+      "origin": "brasil",
+      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/09/Captura-de-tela-2026-09-08-145610.png?w=813&h=451&crop=1",
+      "published_at": "2026-09-08T18:00:58+00:00",
+      "region": "América do Sul",
+      "theme": "Outros / Multitemático"
+    },
+    {
+      "title": "Women and children remain trapped in Syria’s Roj camp",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/8/women-and-children-remain-trapped-in-syrias-roj-camp?traffic_source=rss",
+      "summary": "Women and children remain trapped in Syria’s Roj camp",
+      "source": "Al Jazeera English",
+      "origin": "internacional",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/ROJ-CAMP-HORIZONTAL-THUMB-1788890237.jpg?resize=1920%2C1080&quality=80",
+      "published_at": "2026-09-08T18:00:24+00:00",
+      "region": "Oriente Médio",
+      "theme": "Direitos Humanos, Sociedade e Migrações"
+    },
+    {
+      "title": "Elton John elogia Gilberto Gil no Rock in Rio: “Você é uma lenda”",
+      "url": "https://www.cnnbrasil.com.br/pop/celebridades/elton-john-elogia-gilberto-gil-no-rock-in-rio-voce-e-uma-lenda/",
+      "summary": "Cantor brasileiro compartilhou a filmagem do encontro entre os dois nas redes sociais",
+      "source": "CNN Brasil",
+      "origin": "brasil",
+      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/09/gilberto-gil-e-elton-jonh.png?w=1200&h=630&crop=1",
+      "published_at": "2026-09-08T18:00:10+00:00",
+      "region": "América do Sul",
+      "theme": "Ciência, Tecnologia e Inovação"
+    },
+    {
+      "title": "UK announces sanctions on West Bank settlements prompting furious Israeli response",
+      "url": "https://www.bbc.co.uk/news/articles/c4g7zen0vveo?at_medium=RSS&at_campaign=rss",
+      "summary": "Britain's foreign secretary accuses settlers of carrying out the \"ethnic cleansing\" of Palestinians, as Israel responds by shutting the UK consulate in East Jerusalem.",
+      "source": "BBC News - World",
+      "origin": "internacional",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6cd1/live/8d1d81e0-aba9-11f1-b109-879e35c24276.jpg",
+      "published_at": "2026-09-08T17:59:07+00:00",
+      "region": "América do Norte",
+      "theme": "Outros / Multitemático"
+    },
+    {
+      "title": "Água Limpa: a próxima fronteira da competitividade brasileira",
+      "url": "https://www.cnnbrasil.com.br/infra/agua-limpa-a-proxima-fronteira-da-competitividade-brasileira/",
+      "summary": "Em artigo à CNN Infra, Virgilio Viana e Luana Pretto explicam importância e caminho do Brasil rumo a universalização do saneamento",
+      "source": "CNN Brasil",
+      "origin": "brasil",
+      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/04/VCF0737-03-Cuiaba_00010-1.jpg?w=1200&h=630&crop=1",
+      "published_at": "2026-09-08T17:58:05+00:00",
+      "region": "América do Sul",
+      "theme": "Geopolítica e Segurança"
+    },
+    {
+      "title": "Quem é Andrei Rodrigues, da PF, e como ele aparece nas mensagens do Vorcaro e na guerra Moraes-Mendonça",
+      "url": "https://www.bbc.com/portuguese/articles/ckg8exwg94jo?at_medium=RSS&at_campaign=rss",
+      "summary": "Nome do chefe da PF indicado por Lula esteve envolvido em uma suposta rede de proteção a Vorcaro e na 'guerra civil' entre ministros no STF",
+      "source": "BBC News Brasil",
+      "origin": "brasil",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/13eb/live/9ac8c070-aba4-11f1-aed2-8d6da8d75094.jpg",
+      "published_at": "2026-09-08T17:57:33+00:00",
       "region": "América do Sul",
       "theme": "Política Brasileira"
+    },
+    {
+      "title": "Porto x Manchester City: horário e onde assistir à Champions League",
+      "url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/champions-league/porto-x-manchester-city-horario-e-onde-assistir-a-champions-league-2/",
+      "summary": "Equipes se enfrentam nesta terça-feira (8), às 16h (de Brasília)",
+      "source": "CNN Brasil",
+      "origin": "brasil",
+      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2023/12/estadio_porto.jpeg?w=1200&h=630&crop=1",
+      "published_at": "2026-09-08T17:56:57+00:00",
+      "region": "América do Sul",
+      "theme": "Ciência, Tecnologia e Inovação"
+    },
+    {
+      "title": "Entenda o que motivou Mendonça a afastar Andrei Rodrigues da PF",
+      "url": "https://www.poder360.com.br/poder-justica/entenda-o-que-motivou-mendonca-a-afastar-andrei-rodrigues-da-pf/",
+      "summary": "Decisão do ministro aponta uso indevido da inteligência da corporação para monitorar autoridades",
+      "source": "Poder360",
+      "origin": "brasil",
+      "image": "https://static.poder360.com.br/uploads/2026/09/andrei-rodrigues-andre-mendonca-sergio-lima-poder360-2-1200x675.jpg",
+      "published_at": "2026-09-08T17:56:08+00:00",
+      "region": "América do Sul",
+      "theme": "Política Internacional"
+    },
+    {
+      "title": "Produção de veículos sobe 9,4% em agosto ante agosto de 2025, diz Anfavea",
+      "url": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/producao-de-veiculos-sobe-94-em-agosto-ante-agosto-de-2025-diz-anfavea/",
+      "summary": "No acumulado de janeiro a agosto, foram produzidos 1,90 milhão, alta de 8,5% em relação aos oito primeiros meses de 2025",
+      "source": "CNN Brasil",
+      "origin": "brasil",
+      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2021/06/21154_990FDA95271A2879-2.jpeg?w=1200&h=630&crop=1",
+      "published_at": "2026-09-08T17:55:23+00:00",
+      "region": "América do Sul",
+      "theme": "Outros / Multitemático"
+    },
+    {
+      "title": "Messi, Mbappé and Kane headline Ballon d'Or shortlist, Vozinha named for Yashin award",
+      "url": "https://www.france24.com/en/sport/20260908-messi-mbappe-kane-headline-ballon-d-or-shortlist-vozinha-named-yashin-award",
+      "summary": "Eight-time laureate Lionel Messi is in the 30-man shortlist for the 2026 Men's Ballon ​d'Or, with Harry Kane and Kylian Mbappé among the favourites to succeed France's Ousmane Dembélé. Cape Verde's Vozinha has been shortlisted for the goalkeepers' Yashin Trophy after his heroics at the recent World ...",
+      "source": "France 24",
+      "origin": "internacional",
+      "image": "https://s.france24.com/media/display/a3d9c6f6-aba3-11f1-9216-005056a90284/w:1024/p:16x9/000-36L46PB.jpg",
+      "published_at": "2026-09-08T17:52:55+00:00",
+      "region": "América do Norte",
+      "theme": "Outros / Multitemático"
+    },
+    {
+      "title": "Inflação ao consumidor de países da OCDE tem alta de 4,1% em julho",
+      "url": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/inflacao-ao-consumidor-de-paises-da-ocde-tem-alta-de-41-em-julho/",
+      "summary": "Por outro lado, houve desaceleração em 14 países integrantes e estabilidade em outros 11",
+      "source": "CNN Brasil",
+      "origin": "brasil",
+      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2022/06/ocde2.jpg?w=984&h=614&crop=1",
+      "published_at": "2026-09-08T17:51:22+00:00",
+      "region": "América do Sul",
+      "theme": "Economia Internacional"
+    },
+    {
+      "title": "Veja a primeira foto de Nina de Pádua na novela “Quem Ama Cuida”",
+      "url": "https://www.cnnbrasil.com.br/pop/celebridades/veja-a-primeira-foto-de-nina-de-padua-na-novela-quem-ama-cuida/",
+      "summary": "Atriz estava há 21 anos afastada da TV Globo e volta para participação especial",
+      "source": "CNN Brasil",
+      "origin": "brasil",
+      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/09/nina-de-padua-e1788553463893.png?w=1200&h=630&crop=1",
+      "published_at": "2026-09-08T17:51:13+00:00",
+      "region": "América do Sul",
+      "theme": "Cultura, Mídia e Sociedade"
+    },
+    {
+      "title": "Real Madrid x Inter de Milão: escalações e onde assistir à Champions League",
+      "url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/champions-league/real-madrid-x-inter-de-milao-escalacoes-e-onde-assistir-a-champions-league/",
+      "summary": "Equipes se enfrentam nesta terça-feira (8), às 16h (de Brasília)",
+      "source": "CNN Brasil",
+      "origin": "brasil",
+      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/02/real-madrid-santiago-bernabeu-e1765297796436.jpeg?w=1080&h=608&crop=1",
+      "published_at": "2026-09-08T17:48:58+00:00",
+      "region": "América do Sul",
+      "theme": "Economia Internacional"
+    },
+    {
+      "title": "2ª Turma cancela sessão presencial depois de afastamento de Andrei",
+      "url": "https://www.poder360.com.br/poder-justica/2a-turma-cancela-sessao-presencial-depois-de-afastamento-de-andrei/",
+      "summary": "Colegiado tinha sessão presencial marcada para esta 3ª feira; presidente do colegiado, ministro Luiz Fux, cancelou o encontro",
+      "source": "Poder360",
+      "origin": "brasil",
+      "image": "https://static.poder360.com.br/uploads/2025/09/luiz-fux-stf-10set2025-1.jpg",
+      "published_at": "2026-09-08T17:48:31+00:00",
+      "region": "América do Sul",
+      "theme": "Política Internacional"
+    },
+    {
+      "title": "Renoir paintings worth $10.5 million missing after museum heist",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/8/renoir-paintings-worth-10-5-million-missing-after-museum-heist?traffic_source=rss",
+      "summary": "A pre-dawn break-in at the Renoir Museum in southern France saw thieves seize four paintings",
+      "source": "Al Jazeera English",
+      "origin": "internacional",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1788889619.jpg?resize=1711%2C1080&quality=80",
+      "published_at": "2026-09-08T17:47:08+00:00",
+      "region": "América do Norte",
+      "theme": "Outros / Multitemático"
+    },
+    {
+      "title": "Exportações de frango avançam 24,8% em agosto e atingem 492,6 mil toneladas",
+      "url": "https://www.cnnbrasil.com.br/agro/exportacoes-de-frango-avancam-248-em-agosto-e-atingem-4926-mil-toneladas/",
+      "summary": "Receita chega perto de US$ 1 bilhão no mês, enquanto embarques acumulam alta de 15,5% em 2026",
+      "source": "CNN Brasil",
+      "origin": "brasil",
+      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2023/03/aves_saude_getty.jpg?w=1200&h=630&crop=1",
+      "published_at": "2026-09-08T17:45:25+00:00",
+      "region": "América do Sul",
+      "theme": "Economia Internacional"
+    },
+    {
+      "title": "EUA atingem 36 empresas do setor de aviação do Irã com novas sanções",
+      "url": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/eua-atingem-36-empresas-do-setor-de-aviacao-do-ira-com-novas-sancoes/",
+      "summary": "Segundo autoridades americanas, as novas medidas têm como objetivo impedir a República Islâmica de usar seu setor de aviação para mover armas, pessoal e carga ilícita",
+      "source": "CNN Brasil",
+      "origin": "brasil",
+      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/Reuters_Direct_Media/BrazilOnlineReportWorldNews/tagreuters.com2025binary_LYNXNPEL9E009-BASEIMAGE.jpg?w=800&h=534&crop=1",
+      "published_at": "2026-09-08T17:42:17+00:00",
+      "region": "América do Sul",
+      "theme": "Economia Internacional"
+    },
+    {
+      "title": "Após recorde, Alison dos Santos é escolhido Atleta do Mês no Atletismo",
+      "url": "https://www.cnnbrasil.com.br/esportes/outros-esportes/apos-recorde-alison-dos-santos-e-escolhido-atleta-do-mes-no-atletismo/",
+      "summary": "Piu quebrou o recorde mundial dos 400m com barreiras na etapa de Zurique da Diamond League, e ganhou reconhecimento da World Athletics",
+      "source": "CNN Brasil",
+      "origin": "brasil",
+      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/09/Alison-dos-Santos-Diamond-League-e1788638828249.jpg?w=1200&h=630&crop=1",
+      "published_at": "2026-09-08T17:40:16+00:00",
+      "region": "América do Sul",
+      "theme": "Outros / Multitemático"
+    },
+    {
+      "title": "Diretores da PF colocam cargos à disposição após afastamento de Andrei",
+      "url": "https://www.poder360.com.br/poder-justica/diretores-da-pf-colocam-cargos-a-disposicao-apos-afastamento-de-andrei/",
+      "summary": "Nota assinada por 11 integrantes da cúpula da corporação foi divulgada após decisão de André Mendonça, do STF",
+      "source": "Poder360",
+      "origin": "brasil",
+      "image": "https://static.poder360.com.br/uploads/2026/09/andrei-rodrigues-andre-mendonca-sergio-lima-poder360-2-1200x675.jpg",
+      "published_at": "2026-09-08T17:38:37+00:00",
+      "region": "América do Sul",
+      "theme": "Política Brasileira"
+    },
+    {
+      "title": "Yemen’s war is back: A new battle for Sanaa and the Red Sea",
+      "url": "https://www.aljazeera.com/features/2026/9/8/yemens-war-is-back-a-new-battle-for-sanaa-and-the-red-sea?traffic_source=rss",
+      "summary": "This phase of the war  could be the start of another protracted conflict rather than a decisive campaign, say analysts.",
+      "source": "Al Jazeera English",
+      "origin": "internacional",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/afp_6aa02b307c7f-1788881712.jpg?resize=1920%2C1440",
+      "published_at": "2026-09-08T17:37:35+00:00",
+      "region": "Global",
+      "theme": "Geopolítica e Segurança"
+    },
+    {
+      "title": "Photos: Palestinians rebuild Gaza’s ruins with mud bricks, scrap",
+      "url": "https://www.aljazeera.com/gallery/2026/9/8/photos-palestinians-rebuild-gazas-ruins-with-mud-bricks-and-scrap?traffic_source=rss",
+      "summary": "Over 90 percent of Gaza lies in ruins, forcing thousands to rebuild homes with limited resources like mud and rubble.",
+      "source": "Al Jazeera English",
+      "origin": "internacional",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/AP26250544410571-1788881101.jpg?resize=1920%2C1440",
+      "published_at": "2026-09-08T17:28:50+00:00",
+      "region": "América do Norte",
+      "theme": "Outros / Multitemático"
+    },
+    {
+      "title": "Nicaragua urges ICJ to reject Germany’s bid to throw out Gaza genocide case",
+      "url": "https://www.aljazeera.com/news/2026/9/8/nicaragua-urges-icj-to-reject-germanys-bid-to-throw-out-gaza-genocide-case?traffic_source=rss",
+      "summary": "Nicaragua maintains that German arms exports to Israel facilitated Gaza genocide as Germany&#039;s tries to halt the case.",
+      "source": "Al Jazeera English",
+      "origin": "internacional",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/ap_6a9f0894b3873-1788807316.jpg?resize=1920%2C1440",
+      "published_at": "2026-09-08T17:26:33+00:00",
+      "region": "Oriente Médio",
+      "theme": "Direito Internacional e Instituições"
+    },
+    {
+      "title": "Mendonça usou pedido do partido Novo para afastar diretor-geral da PF",
+      "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/mendonca-usou-pedido-do-partido-novo-para-afastar-diretor-geral-da-pf",
+      "summary": "\n                    \n\t\t\t\tPivô do afastamento do diretor-geral da Polícia Federal, Andrei Rodrigues, pelo ministro André Mendonça, do Supremo Tribunal Federal (STF), o partido Novo havia pedido pela prisão preventiva do delegado, alegando que a medida seria necessária para preservar as investigações...",
+      "source": "Agência Brasil",
+      "origin": "brasil",
+      "image": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+      "published_at": "2026-09-08T17:26:00+00:00",
+      "region": "América do Sul",
+      "theme": "Política Brasileira"
+    },
+    {
+      "title": "Problema em sistema de tráfego aéreo cancela centenas de voos no Reino Unido",
+      "url": "https://g1.globo.com/mundo/noticia/2026/09/08/problema-em-sistema-de-trafego-aereo-interrompe-voos-no-reino-unido.ghtml",
+      "summary": "     Avião da British Airways em aproximação no aeroporto de Heathrow, em Londres\nReuters\nCentenas de voos de partida dos principais aeroportos britânicos sofreram interrupções nesta terça-feira (8) após a NATS, provedora de serviços de controle de tráfego aéreo, enfrentar um problema técnico. \nHeat...",
+      "source": "G1 - Mundo",
+      "origin": "brasil",
+      "image": "https://s2-g1.glbimg.com/_xH2yhov04ti-nrw2xZsFv_44nU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/q/6/QvsMHmQBKBj70bUqLx8w/2025-03-21t034842z-1068188896-rc2xicavzf7m-rtrmadp-3-heathrow-power-outage.jpg",
+      "published_at": "2026-09-08T17:25:06+00:00",
+      "region": "América do Sul",
+      "theme": "Cultura, Mídia e Sociedade"
+    },
+    {
+      "title": "US won’t join UK ban on trade with illegal Israeli settlements",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/8/09-08-rubio-comments-uk-sanctions-clip-mp4?traffic_source=rss",
+      "summary": "Secretary of State Marco Rubio says the US will ‘obviously not’ follow the UK in sanctioning illegal Israeli settlements",
+      "source": "Al Jazeera English",
+      "origin": "internacional",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1788888190.jpg?resize=1920%2C1075&quality=80",
+      "published_at": "2026-09-08T17:24:36+00:00",
+      "region": "América do Norte",
+      "theme": "Comércio e Finanças"
+    },
+    {
+      "title": "Fourteen go on trial over deadliest Channel small boats disaster",
+      "url": "https://www.bbc.co.uk/news/articles/cd94jn72w2yo?at_medium=RSS&at_campaign=rss",
+      "summary": "At least 30 men, women and children drowned when their dinghy capsized on 24 November 2021.",
+      "source": "BBC News - World",
+      "origin": "internacional",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1ee9/live/5c9c31a0-0277-11f1-b5e2-dd58fc65f0f6.jpg",
+      "published_at": "2026-09-08T17:24:25+00:00",
+      "region": "Global",
+      "theme": "Direitos Humanos, Sociedade e Migrações"
+    },
+    {
+      "title": "Anvisa aprova novo medicamento para tratamento de enxaqueca",
+      "url": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-09/anvisa-aprova-novo-medicamento-para-tratamento-de-enxaqueca",
+      "summary": "\n                    \n\t\t\t\tUm novo medicamento para o tratamento da enxaqueca foi aprovado nesta terça-feira (8) pela Agência Nacional de Vigilância Sanitária (Anvisa). O Aquipta (atogepanto) é indicado para adultos que têm pelo menos quatro episódios mensais de enxaqueca. \n\nDe acordo com a agência, ...",
+      "source": "Agência Brasil",
+      "origin": "brasil",
+      "image": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+      "published_at": "2026-09-08T17:24:00+00:00",
+      "region": "América do Sul",
+      "theme": "Outros / Multitemático"
+    },
+    {
+      "title": "\"Verdade prevalecerá\", diz número 2 da PF após afastamento de Andrei",
+      "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/verdade-prevalecera-diz-numero-2-da-pf-apos-afastamento-de-andrei",
+      "summary": "\n                    \n\t\t\t\tO diretor-executivo da Polícia Federal (PF), William Marcel Murad, declarou, nesta terça-feira (8), que a atuação autônoma, imparcial, técnica e apartidária permite que a corporação se defenda de “disparates, ataques, tentativas de usurpação de funções e de desqualificar o ...",
+      "source": "Agência Brasil",
+      "origin": "brasil",
+      "image": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+      "published_at": "2026-09-08T17:16:00+00:00",
+      "region": "América do Sul",
+      "theme": "Geopolítica e Segurança"
+    },
+    {
+      "title": "‘A bit too late, but important’: UK bans goods from Israeli settlements",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/8/a-bit-too-late-but-important-uk-bans-goods-from-israeli-settlements?traffic_source=rss",
+      "summary": "The UK has announced a ban on the import of all goods produced by illegal Israeli settlements in the occupied West Bank.",
+      "source": "Al Jazeera English",
+      "origin": "internacional",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1788887461.jpg?resize=1920%2C1080&quality=80",
+      "published_at": "2026-09-08T17:11:16+00:00",
+      "region": "Europa",
+      "theme": "Outros / Multitemático"
+    },
+    {
+      "title": "Ukrainian TV channel building hit by Russian drone as five killed in Kyiv",
+      "url": "https://www.bbc.co.uk/news/articles/cn8m1k7p3v7o?at_medium=RSS&at_campaign=rss",
+      "summary": "President Zelensky describes the daytime drone attack in Ukraine's capital as a \"new page in Russian degradation\"",
+      "source": "BBC News - World",
+      "origin": "internacional",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d0e0/live/0e3c16f0-ab92-11f1-aa04-efbf6a882854.png",
+      "published_at": "2026-09-08T17:10:54+00:00",
+      "region": "América do Norte",
+      "theme": "Geopolítica e Segurança"
+    },
+    {
+      "title": "São Paulo é 2º colocado entre Estados no Pisa 2025",
+      "url": "https://www.poder360.com.br/poder-educacao/sao-paulo-e-2o-colocado-entre-estados-no-pisa-2025/",
+      "summary": "Estado avançou 9 posições desde 2006 e ficou em 2º lugar nas 3 áreas avaliadas: leitura, matemática e ciências",
+      "source": "Poder360",
+      "origin": "brasil",
+      "image": "https://static.poder360.com.br/uploads/2026/08/escola-sala-de-aula-ag-brasil.jpg",
+      "published_at": "2026-09-08T17:06:10+00:00",
+      "region": "América do Sul",
+      "theme": "Ciência, Tecnologia e Inovação"
+    },
+    {
+      "title": "Israeli strikes devastate homes, displace families across Gaza",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/8/israeli-strikes-devastate-homes-displace-families-across-gaza?traffic_source=rss",
+      "summary": "Israeli strikes hit several areas across Gaza, destroying homes in Khan Younis and sending thick smoke over Bureij camp.",
+      "source": "Al Jazeera English",
+      "origin": "internacional",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1788886992.jpg?resize=1920%2C1080&quality=80",
+      "published_at": "2026-09-08T17:04:28+00:00",
+      "region": "Oriente Médio",
+      "theme": "Direitos Humanos, Sociedade e Migrações"
     },
     {
       "title": "Decisão do STF sobre investigações é urgente, diz Marco Aurélio Mello",
@@ -57,17 +497,6 @@
       "theme": "Outros / Multitemático"
     },
     {
-      "title": "Ukrainian TV channel building hit by Russian drone as five killed in Kyiv",
-      "url": "https://www.bbc.co.uk/news/articles/cn8m1k7p3v7o?at_medium=RSS&at_campaign=rss",
-      "summary": "President Zelensky describes the daytime drone attack in Ukraine's capital as a \"new page in Russian degradation\"",
-      "source": "BBC News - World",
-      "origin": "internacional",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d0e0/live/0e3c16f0-ab92-11f1-aa04-efbf6a882854.png",
-      "published_at": "2026-09-08T16:36:47+00:00",
-      "region": "América do Norte",
-      "theme": "Geopolítica e Segurança"
-    },
-    {
       "title": "Saudi Arabia and Yemen’s Houthis Edge Back to the Brink of War",
       "url": "https://www.nytimes.com/2026/09/08/world/middleeast/saudi-arabia-yemen-houthis-energy-attack.html",
       "summary": "The Saudi authorities said dozens were injured in attacks by the Iran-backed militia and vowed to retaliate.",
@@ -88,17 +517,6 @@
       "published_at": "2026-09-08T16:34:36+00:00",
       "region": "América do Norte",
       "theme": "Comércio e Finanças"
-    },
-    {
-      "title": "Aos 101 anos, americana trabalha como caixa por prazer social, dirige sozinha até o emprego e acorda às 4h da manhã",
-      "url": "https://www.cnnbrasil.com.br/curiosidades/aos-101-anos-americana-trabalha-como-caixa-por-prazer-social-dirige-sozinha-ate-o-emprego-e-acorda-as-4h-da-manha/",
-      "summary": "Ex-dançarina profissional em Louisville chega às 6h e cumpre escala em loja de materiais de construção sem usar medicamentos diários",
-      "source": "CNN Brasil",
-      "origin": "brasil",
-      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/09/Aos-101-anos-americana-trabalha-como-caixa-por-prazer-social.png?w=1200&h=630&crop=1",
-      "published_at": "2026-09-08T16:32:53+00:00",
-      "region": "América do Sul",
-      "theme": "Outros / Multitemático"
     },
     {
       "title": "Nunes Marques e Motta falam em “transparência”, mas evitam imprensa",
@@ -134,28 +552,6 @@
       "theme": "Política Internacional"
     },
     {
-      "title": "Mendonça soube que PF vasculhava sua vida e mudou hábitos",
-      "url": "https://www.poder360.com.br/poder-justica/mendonca-soube-que-pf-vasculhava-sua-vida-e-mudou-habitos/",
-      "summary": "Ministro pede a quem o visita que coloque o celular em caixa blindada, que bloqueia sinal, e só conversa com um sistema de som ligado com alguma música erudita para prejudicar escutas no local",
-      "source": "Poder360",
-      "origin": "brasil",
-      "image": "https://static.poder360.com.br/uploads/2026/09/STF-Mendonca-1080-1200x675.png",
-      "published_at": "2026-09-08T16:23:26+00:00",
-      "region": "América do Sul",
-      "theme": "Política Brasileira"
-    },
-    {
-      "title": "British widow faces deportation from Sweden after 22 years",
-      "url": "https://www.bbc.co.uk/news/articles/c62k0d4px6ro?at_medium=RSS&at_campaign=rss",
-      "summary": "A 78-year-old British woman is facing deportation for failing to fill out a Brexit residence application on time.",
-      "source": "BBC News - World",
-      "origin": "internacional",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6a79/live/19bda140-ab99-11f1-b26f-1588b95519ec.jpg",
-      "published_at": "2026-09-08T16:23:01+00:00",
-      "region": "Global",
-      "theme": "Outros / Multitemático"
-    },
-    {
       "title": "Reino Unido anuncia sanções inéditas contra assentamentos israelenses; Israel responde com fechamento de consulado britânico",
       "url": "https://www.bbc.com/portuguese/articles/cly53nyz3vjo?at_medium=RSS&at_campaign=rss",
       "summary": "O secretário de Relações Exteriores, Ed Miliband, acusa \"colonos terroristas\" de expulsarem palestinos de suas terras na Cisjordânia.",
@@ -167,17 +563,6 @@
       "theme": "Geopolítica e Segurança"
     },
     {
-      "title": "Paraná Pesquisas: Benedita e Crivella lideram disputa ao Senado pelo RJ",
-      "url": "https://www.cnnbrasil.com.br/eleicoes/parana-pesquisas-benedita-e-crivella-lideram-disputa-ao-senado-pelo-rj-3/",
-      "summary": "Foram entrevistados 1.600 eleitores, entre os dias 05 e 07 de setembro; margem de erro é de 2,5 pontos percentuais, para mais ou para menos",
-      "source": "CNN Brasil",
-      "origin": "brasil",
-      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/07/benedita-e-crivella.png?w=900&h=506&crop=1",
-      "published_at": "2026-09-08T16:21:55+00:00",
-      "region": "América do Sul",
-      "theme": "Política Internacional"
-    },
-    {
       "title": "Sem Censura festeja 90 anos da Rádio Nacional com edições temáticas",
       "url": "https://agenciabrasil.ebc.com.br/cultura/noticia/2026-09/sem-censura-festeja-90-anos-da-radio-nacional-com-edicoes-tematicas",
       "summary": "\n                    \n\t\t\t\tO programa Sem Censura faz um esquenta com atrações especiais durante esta semana na telinha da TV Brasil em comemoração aos 90 anos da Rádio Nacional, celebrados no próximo sábado, dia 12 de setembro.\n\nA cada dia, a roda de conversa recebe convidados para bate-papos temáti...",
@@ -187,50 +572,6 @@
       "published_at": "2026-09-08T16:21:00+00:00",
       "region": "América do Sul",
       "theme": "Comércio e Finanças"
-    },
-    {
-      "title": "Israeli strikes transform Lebanese city into ghost town",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/8/israeli-strikes-transform-lebanese-city-into-ghost-town?traffic_source=rss",
-      "summary": "Nabatieh, once southern Lebanon’s economic centre, is now a ghost town as Israel intensifies attacks.",
-      "source": "Al Jazeera English",
-      "origin": "internacional",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1788885712.jpg?resize=1920%2C1080&quality=80",
-      "published_at": "2026-09-08T16:19:52+00:00",
-      "region": "Oriente Médio",
-      "theme": "Direitos Humanos, Sociedade e Migrações"
-    },
-    {
-      "title": "Paraná Pesquisas: Garotinho é rejeitado por 38% no RJ; Paes, por 23,1%",
-      "url": "https://www.cnnbrasil.com.br/eleicoes/parana-pesquisas-garotinho-e-rejeitado-por-38-no-rj-paes-por-231/",
-      "summary": "Foram entrevistados 1.600 eleitores entre os dias 5 e 7 de setembro; margem de erro é de 2,5 pontos percentuais, para mais ou para menos",
-      "source": "CNN Brasil",
-      "origin": "brasil",
-      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/09/Renata-3.png?w=1200&h=630&crop=1",
-      "published_at": "2026-09-08T16:19:15+00:00",
-      "region": "América do Sul",
-      "theme": "Direito Internacional e Instituições"
-    },
-    {
-      "title": "Reafirmo nossa total confiança a Andrei Rodrigues, diz diretor da PF",
-      "url": "https://www.poder360.com.br/poder-justica/reafirmo-nossa-total-confianca-a-andrei-rodrigues-diz-diretor-da-pf/",
-      "summary": "Em discurso de formatura de novos agentes da PF, William Murad diz que é necessário defender a instituição de “alegações dissociadas da realidade\"",
-      "source": "Poder360",
-      "origin": "brasil",
-      "image": "https://static.poder360.com.br/uploads/2026/09/william-murad-diretor-executivo-pf-1-1200x675.jpg",
-      "published_at": "2026-09-08T16:18:49+00:00",
-      "region": "América do Sul",
-      "theme": "Economia Internacional"
-    },
-    {
-      "title": "Lula chama reunião emergencial após determinação para afastar Andrei",
-      "url": "https://www.poder360.com.br/poder-governo/lula-chama-reuniao-emergencial-apos-determinacao-para-afastar-andrei/",
-      "summary": "Presidente recebeu advogado-geral da União e ministro da Justiça; governo prepara recurso contra medida que afastou diretor-geral da PF",
-      "source": "Poder360",
-      "origin": "brasil",
-      "image": "https://static.poder360.com.br/uploads/2026/04/jorge-messias-lula-2026.jpg",
-      "published_at": "2026-09-08T16:16:26+00:00",
-      "region": "América do Sul",
-      "theme": "Política Brasileira"
     },
     {
       "title": "US war on Iran: 'Incompetent administration when it comes to negotiations and prosecuting war'",
@@ -264,83 +605,6 @@
       "published_at": "2026-09-08T16:11:49+00:00",
       "region": "América do Sul",
       "theme": "Geopolítica e Segurança"
-    },
-    {
-      "title": "Marina e Tebet lideram disputa pelo Senado em SP, diz pesquisa",
-      "url": "https://www.poder360.com.br/poder-eleicoes-2026/marina-e-tebet-lideram-disputa-pelo-senado-em-sp-diz-pesquisa/",
-      "summary": "Levantamento Futura/100% Cidades ouviu 1.600 eleitores de São Paulo de 2 a 4 de setembro; margem de erro é de 2.4 p.p.",
-      "source": "Poder360",
-      "origin": "brasil",
-      "image": "https://static.poder360.com.br/uploads/2023/11/Marina-Silva-Simone-Tebet-prismada-Sergio-Lima.jpg",
-      "published_at": "2026-09-08T16:11:04+00:00",
-      "region": "América do Sul",
-      "theme": "Política Internacional"
-    },
-    {
-      "title": "Google alerta para possível queda na qualidade das pesquisas na Europa",
-      "url": "https://www.cnnbrasil.com.br/economia/money/tecnologia/google-alerta-para-possivel-queda-na-qualidade-das-pesquisas-na-europa/",
-      "summary": "Big tech implementou mudanças para evitar multa na União Europeia",
-      "source": "CNN Brasil",
-      "origin": "brasil",
-      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/08/marvell.jpg?w=1200&h=630&crop=1",
-      "published_at": "2026-09-08T16:09:00+00:00",
-      "region": "América do Sul",
-      "theme": "Ciência, Tecnologia e Inovação"
-    },
-    {
-      "title": "Tarcísio de Freitas vence no 1º turno em SP, diz pesquisa",
-      "url": "https://www.poder360.com.br/poder-eleicoes-2026/tarcisio-de-freitas-vence-no-1o-turno-em-sp-diz-pesquisa/",
-      "summary": "Levantamento Futura/100% Cidades ouviu 1.600 eleitores de São Paulo de 2 a 4 de setembro; margem de erro é de 2.4 p.p.",
-      "source": "Poder360",
-      "origin": "brasil",
-      "image": "https://static.poder360.com.br/uploads/2026/07/Governador-SP-Tarcisio-Freitas-1080.png",
-      "published_at": "2026-09-08T16:07:28+00:00",
-      "region": "América do Sul",
-      "theme": "Direito Internacional e Instituições"
-    },
-    {
-      "title": "Ações da Vale sobem mais de 2% com alta do minério de ferro",
-      "url": "https://www.cnnbrasil.com.br/economia/money/mercado/acoes-da-vale-sobem-mais-de-2-com-alta-do-minerio-de-ferro/",
-      "summary": "Papéis da empresa chegaram a avançar quase 3%, alinhados ao movimento do setor no exterior",
-      "source": "CNN Brasil",
-      "origin": "brasil",
-      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/03/2026-03-04T160551Z_1_LYNXMPEM23168_RTROPTP_4_USA-STOCKS.webp?w=1200&h=630&crop=1",
-      "published_at": "2026-09-08T16:06:28+00:00",
-      "region": "América do Sul",
-      "theme": "Economia Internacional"
-    },
-    {
-      "title": "Paraná Pesquisas: No RJ, Paes lidera cenários de 1º turno",
-      "url": "https://www.cnnbrasil.com.br/eleicoes/parana-pesquisas-no-rj-paes-lidera-cenarios-de-1o-turno/",
-      "summary": "Foram entrevistados 1.600 eleitores entre os dias 5 e 7 de setembro; margem de erro é de 2,5 pontos percentuais, para mais ou para menos",
-      "source": "CNN Brasil",
-      "origin": "brasil",
-      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/04/Eduardo-Paes.png?w=1170&h=630&crop=1",
-      "published_at": "2026-09-08T16:06:17+00:00",
-      "region": "América do Sul",
-      "theme": "Direito Internacional e Instituições"
-    },
-    {
-      "title": "UK sanctions on Israeli settlements a ‘seismic’ shift says Albanese",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/8/09-08-israel-sanctions-albanese-qt-mp4?traffic_source=rss",
-      "summary": "UN expert Francesca Albanese calls UK sanctions on Israeli settlements a ‘seismic shift’ after years of UK ‘complicity’.",
-      "source": "Al Jazeera English",
-      "origin": "internacional",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1788883452.jpg?resize=1920%2C1080&quality=80",
-      "published_at": "2026-09-08T16:05:38+00:00",
-      "region": "Europa",
-      "theme": "Política Internacional"
-    },
-    {
-      "title": "Israeli academia accused of systemic apartheid against Palestinians",
-      "url": "https://www.aljazeera.com/news/2026/9/8/israeli-academia-accused-of-systemic-apartheid-against-palestinians?traffic_source=rss",
-      "summary": "A legal report exposes how Israeli universities use a dual-track disciplinary system to target Palestinian students.",
-      "source": "Al Jazeera English",
-      "origin": "internacional",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/AP18135487411057-1788857467.jpg?resize=1920%2C1440",
-      "published_at": "2026-09-08T16:04:42+00:00",
-      "region": "América do Norte",
-      "theme": "Cultura, Mídia e Sociedade"
     },
     {
       "title": "España y 11 países anuncian restricciones contra productos de los asentamientos israelíes en Cisjordania",
@@ -387,17 +651,6 @@
       "theme": "Economia Brasileira"
     },
     {
-      "title": "Irã diz ter capturado veículo submarino não tripulado dos EUA em Ormuz",
-      "url": "https://www.cnnbrasil.com.br/internacional/ira-diz-ter-capturado-veiculo-submarino-nao-tripulado-dos-eua-em-ormuz/",
-      "summary": "Guarda Revolucionária afirma ter apreendido \"um dos mais modernos\" veículos não tripulados americanos; Washington não confirma",
-      "source": "CNN Brasil",
-      "origin": "brasil",
-      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2024/08/2024-08-12T035226Z_2_LOP618812082024RP1_RTRMADP_BASEIMAGE-960X540_ISRAEL-PALESTINIANS-USA-PENTAGON-e1723444470500.jpg?w=755&h=502&crop=1",
-      "published_at": "2026-09-08T16:00:54+00:00",
-      "region": "América do Sul",
-      "theme": "Outros / Multitemático"
-    },
-    {
       "title": "Hungary Expels 10 Russian Diplomats, Signaling a Shift",
       "url": "https://www.nytimes.com/2026/09/08/world/europe/hungary-russia-diplomats-expulsion.html",
       "summary": "The housecleaning puts the new government more in line with how European allies relate to Moscow, tempering cozy ties developed under Viktor Orban’s administration.",
@@ -409,28 +662,6 @@
       "theme": "Outros / Multitemático"
     },
     {
-      "title": "Combustível de “lixo” pode suprir 25% da demanda global de gás natural",
-      "url": "https://www.cnnbrasil.com.br/ciencia/combustivel-feito-de-lixo-pode-abastecer-cerca-de-25-da-demanda-mundial/",
-      "summary": "Biometano tem potencial de atingir cerca de um trilhão de metros cúbicos anualmente e suprir parte do consumo global por gás, diz pesquisa feita por cientistas brasileiros",
-      "source": "CNN Brasil",
-      "origin": "brasil",
-      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/06/WhatsApp-Image-2025-06-13-at-10.27.53.jpeg?w=1200&h=630&crop=1",
-      "published_at": "2026-09-08T16:00:04+00:00",
-      "region": "América do Sul",
-      "theme": "Cultura, Mídia e Sociedade"
-    },
-    {
-      "title": "Torcedores de Atlético-MG e Vasco “disputam” Richarlison nas redes sociais",
-      "url": "https://www.cnnbrasil.com.br/esportes/futebol/torcedores-de-atletico-mg-e-vasco-disputam-richarlison-nas-redes-sociais/",
-      "summary": "Jogador de 29 anos, monitorado por Alvinegro e Cruzmaltino, vive indefinição no Tottenham após negociação frustrada",
-      "source": "CNN Brasil",
-      "origin": "brasil",
-      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/05/tottenham-richarlison-e1777837632823.jpg?w=1200&h=630&crop=1",
-      "published_at": "2026-09-08T15:59:17+00:00",
-      "region": "América do Sul",
-      "theme": "Ciência, Tecnologia e Inovação"
-    },
-    {
       "title": "Leitura entre adolescentes atinge pior nível deste século",
       "url": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-09/leitura-entre-adolescentes-atinge-pior-nivel-deste-seculo",
       "summary": "\n                    \n\t\t\t\tAdolescentes mais acostumados a smartphones do que a Shakespeare estão apresentando os piores índices de leitura já registrados neste século, o que está levando a um declínio mais amplo na educação, segundo avaliação global de alunos.\n\nO teste de 2025 da Organização para a ...",
@@ -440,17 +671,6 @@
       "published_at": "2026-09-08T15:58:00+00:00",
       "region": "América do Sul",
       "theme": "Direito Internacional e Instituições"
-    },
-    {
-      "title": "Qualcomm e Amazon fecham acordo bilionário para aquisição de chips",
-      "url": "https://www.cnnbrasil.com.br/economia/money/inteligencia-artificial/qualcomm-e-amazon-fecham-acordo-bilionario-para-aquisicao-de-chips/",
-      "summary": "Iniciativa reforça o esforço da fabricante de chips para se tornar uma grande fornecedora de infraestrutura de inteligência artificial para data centers",
-      "source": "CNN Brasil",
-      "origin": "brasil",
-      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/08/WhatsApp-Image-2026-08-27-at-21.08.26.jpeg?w=1200&h=630&crop=1",
-      "published_at": "2026-09-08T15:57:49+00:00",
-      "region": "América do Sul",
-      "theme": "Meio Ambiente e Clima"
     },
     {
       "title": "The 'Brenaissance': Brendan Fraser on 'Pressure', winning an Oscar in 'The Whale' and 'The Mummy 4'",
@@ -475,50 +695,6 @@
       "theme": "Política Brasileira"
     },
     {
-      "title": "Zema celebra afastamento de Andrei da PF e diz: “Chega de intocáveis”",
-      "url": "https://www.cnnbrasil.com.br/eleicoes/zema-celebra-afastamento-de-andrei-da-pf-e-diz-chega-de-intocaveis/",
-      "summary": "Presidenciável mencionou pedido do partido Novo ao ministro André Mendonça requerendo o afastamento de Andrei Rodrigues da chefia da PF após ele ser mencionado em investigação contra Daniel Vorcaro",
-      "source": "CNN Brasil",
-      "origin": "brasil",
-      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/07/romeu-zema.jpg?w=1200&h=630&crop=1",
-      "published_at": "2026-09-08T15:52:49+00:00",
-      "region": "América do Sul",
-      "theme": "Política Internacional"
-    },
-    {
-      "title": "Globo anuncia “Avenida Brasil 2” e revela previsão de estreia; saiba tudo",
-      "url": "https://www.cnnbrasil.com.br/pop/tv/globo-anuncia-avenida-brasil-2-e-revela-previsao-de-estreia-saiba-tudo/",
-      "summary": "Sequência de um dos folhetins de maior sucesso chegará já em 2027",
-      "source": "CNN Brasil",
-      "origin": "brasil",
-      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/06/carminha-nina-em-avenida-brasil.jpg?w=1200&h=630&crop=1",
-      "published_at": "2026-09-08T15:52:11+00:00",
-      "region": "América do Sul",
-      "theme": "Outros / Multitemático"
-    },
-    {
-      "title": "BNDES aprova R$ 77 milhões para projeto de terras raras da Viridis em MG",
-      "url": "https://www.cnnbrasil.com.br/infra/bndes-aprova-r-77-milhoes-para-projeto-de-terras-raras-da-viridis-em-mg/",
-      "summary": "Valor apoiará empresa no desenvolvimento de novas rotas tecnológicas e financiamento do centro de processamento de terras raras em Minas Gerais",
-      "source": "CNN Brasil",
-      "origin": "brasil",
-      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/06/ue-brasil-minerais-criticos.jpg?w=1200&h=630&crop=1",
-      "published_at": "2026-09-08T15:49:54+00:00",
-      "region": "América do Sul",
-      "theme": "Outros / Multitemático"
-    },
-    {
-      "title": "LIVE: Real Madrid vs Inter Milan – UEFA Champions League",
-      "url": "https://www.aljazeera.com/sports/liveblog/2026/9/8/live-real-madrid-vs-inter-milan-uefa-champions-league?traffic_source=rss",
-      "summary": "Follow our live build-up and text commentary stream coverage as Kylian Mbappe and Jude Bellingham star for Real.",
-      "source": "Al Jazeera English",
-      "origin": "internacional",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/2026-08-26T202805Z_605460668_UP1EM8Q1KUSNR_RTRMADP_3_SOCCER-SPAIN-RMA-RSO-1788886159.jpg?resize=1920%2C1440",
-      "published_at": "2026-09-08T15:47:25+00:00",
-      "region": "Global",
-      "theme": "Outros / Multitemático"
-    },
-    {
       "title": "Jamaica pede a rei Charles que avalie pagamento de reparações pela escravidão",
       "url": "https://redir.folha.com.br/redir/online/mundo/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/jamaica-pede-a-rei-charles-que-avalie-pagamento-de-reparacoes-pela-escravidao.shtml",
       "summary": "O governo da Jamaica pediu formalmente nesta segunda-feira (7) ao rei Charles 3º que avalie se o Reino Unido tem obrigação de pagar reparações financeiras pela escravidão. A ministra da Cultura, Olivia Grange, disse estar \"encorajada\" pelo envolvimento do Palácio de Buckingham no processo.\nLeia mais...",
@@ -530,18 +706,7 @@
       "theme": "Economia Internacional"
     },
     {
-      "title": "Falha técnica no controle aéreo afeta voos em aeroportos do Reino Unido",
-      "url": "https://www.cnnbrasil.com.br/internacional/falha-tecnica-no-controle-aereo-afeta-voos-em-aeroportos-do-reino-unido/",
-      "summary": "Ao menos 40 voos que partiriam do Aeroporto de Heathrow, o principal terminal de Londres, foram cancelados; voos continuam partindo e o espaço aéreo permanece aberto, segundo agência de controle de tráfego",
-      "source": "CNN Brasil",
-      "origin": "brasil",
-      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/09/problema-no-controle-de-trafego-aereo-interrompe-voos-de-partida-em-importantes-aeroportos-do-Reino-Unido.jpg?w=960&h=540&crop=1",
-      "published_at": "2026-09-08T15:45:47+00:00",
-      "region": "América do Sul",
-      "theme": "Ciência, Tecnologia e Inovação"
-    },
-    {
-      "title": "França, Reino Unido e mais 10 países sancionam assentamentos israelenses na Cisjordânia",
+      "title": "França, Reino Unido e mais 10 países impõem sanções a assentamentos israelenses na Cisjordânia",
       "url": "https://redir.folha.com.br/redir/online/mundo/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/franca-reino-unido-e-mais-10-paises-sancionam-assentamentos-israelenses-na-cisjordania.shtml",
       "summary": "Os governos de 12 países, incluindo Canadá, Reino Unido e França, anunciaram nesta terça-feira (8) um pacote de sanções contra o governo de Israel em retaliação à expansão de assentamentos judaicos na Cisjordânia ocupada.\nLeia mais (09/08/2026 - 12h44)",
       "source": "Folha de S.Paulo - Mundo",
@@ -549,17 +714,6 @@
       "image": "https://f.i.uol.com.br/fotografia/2026/09/08/17888785846aa01ef8dfaad_1788878584_3x2_rt.jpg",
       "published_at": "2026-09-08T15:44:00+00:00",
       "region": "América do Sul",
-      "theme": "Política Internacional"
-    },
-    {
-      "title": "Maldives asks UK to reopen sovereignty talks over Chagos Islands",
-      "url": "https://www.aljazeera.com/news/2026/9/8/maldives-muizzu-asks-uk-to-reopen-sovereignty-talks-over-chagos-islands?traffic_source=rss",
-      "summary": "Chagos Islands should not be handed over to Mauritius, president of Maldives says in letter to UK&#039;s prime minister.",
-      "source": "Al Jazeera English",
-      "origin": "internacional",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/ap_6aa01c86d468c-1788877958.jpg?resize=1200%2C630",
-      "published_at": "2026-09-08T15:43:21+00:00",
-      "region": "América do Norte",
       "theme": "Política Internacional"
     },
     {
@@ -571,28 +725,6 @@
       "image": "https://s.france24.com/media/display/954a8b72-83bf-11f1-9c28-005056a97e36/w:1024/p:16x9/b8d7611554bb33552cf60aa95b29607fbc5c7228.jpg",
       "published_at": "2026-09-08T15:43:11+00:00",
       "region": "América do Sul",
-      "theme": "Outros / Multitemático"
-    },
-    {
-      "title": "Kaio Jorge x Matheus Pereira: entenda polêmica de pênalti do Cruzeiro",
-      "url": "https://www.cnnbrasil.com.br/esportes/futebol/cruzeiro/kaio-jorge-x-matheus-pereira-entenda-polemica-de-penalti-do-cruzeiro/",
-      "summary": "Divergência entre os dois jogadores durante cobrança de pênalti contra o Athletico-PR gerou debate sobre critérios e coletividade",
-      "source": "CNN Brasil",
-      "origin": "brasil",
-      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/09/55512186266_37458cce9e_o-e1788882106865.jpg?w=1200&h=630&crop=1",
-      "published_at": "2026-09-08T15:43:10+00:00",
-      "region": "América do Sul",
-      "theme": "Ciência, Tecnologia e Inovação"
-    },
-    {
-      "title": "Hungary expels 10 Russian diplomats, Moscow promises harsh response",
-      "url": "https://www.aljazeera.com/news/2026/9/8/hungary-expels-russian-diplomats-over-unacceptable-activities?traffic_source=rss",
-      "summary": "Russia promises &#039;harsh and painful&#039; response following Hungary&#039;s expulsion of its diplomats.",
-      "source": "Al Jazeera English",
-      "origin": "internacional",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/2026-09-08T120827Z_2076266068_RC20FNAMBIAB_RTRMADP_3_HUNGARY-POLITICS-RUSSIA-1788870136.jpg?resize=1920%2C1440",
-      "published_at": "2026-09-08T15:40:14+00:00",
-      "region": "América do Norte",
       "theme": "Outros / Multitemático"
     },
     {
@@ -618,28 +750,6 @@
       "theme": "Geopolítica e Segurança"
     },
     {
-      "title": "What is BAPS, the Hindu group whose demands led to Eiffel Tower closure?",
-      "url": "https://www.aljazeera.com/news/2026/9/8/what-is-baps-the-hindu-group-whose-demands-led-to-eiffel-tower-closure?traffic_source=rss",
-      "summary": "The Eiffel Tower closed after workers protested the sidelining of women during the BAPS visit.",
-      "source": "Al Jazeera English",
-      "origin": "internacional",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/afp_6aa01a2f9f47-1788877359.jpg?resize=1920%2C1440",
-      "published_at": "2026-09-08T15:21:05+00:00",
-      "region": "Global",
-      "theme": "Direitos Humanos, Sociedade e Migrações"
-    },
-    {
-      "title": "The shift in British policy on Israel is palpable",
-      "url": "https://www.aljazeera.com/opinions/2026/9/8/the-shift-in-british-policy-on-israel-is-palpable?traffic_source=rss",
-      "summary": "But progress could be threatened if there is a new more diplomatic government in Israel.",
-      "source": "Al Jazeera English",
-      "origin": "internacional",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/2026-09-08T083926Z_1210330081_RC2VENAKVDYF_RTRMADP_3_ISRAEL-PALESTINIANS-SETTLERS-BRITAIN-1788880713_ca7aac-1788880877.jpg?resize=1200%2C630&quality=80",
-      "published_at": "2026-09-08T15:20:47+00:00",
-      "region": "Oriente Médio",
-      "theme": "Outros / Multitemático"
-    },
-    {
       "title": "Eiffel Tower reopens after row over limits on women staff",
       "url": "https://www.france24.com/en/video/20260908-eiffel-tower-reopens-after-row-over-limits-on-women-staff",
       "summary": "The Eiffel Tower reopened Tuesday, a day after one of the world's most-visited landmarks was closed by a strike to protest what a union official called \"unacceptable\" management instructions limiting the presence of women during a visit by a Hindu religious group close to Indian Prime Minister Naren...",
@@ -649,17 +759,6 @@
       "published_at": "2026-09-08T15:18:54+00:00",
       "region": "América do Norte",
       "theme": "Direitos Humanos, Sociedade e Migrações"
-    },
-    {
-      "title": "UK Imposes Sanctions on Israeli Settlements in West Bank, Accuses Settlers of Ethnic Cleansing",
-      "url": "https://www.nytimes.com/2026/09/08/world/europe/uk-sanctions-israel-west-bank-settlements.html",
-      "summary": "Britain said Israel had “turned a blind eye” to violence against Palestinians by extremist settlers, as it joined allies in announcing a ban on trade with illegal settlements.",
-      "source": "The New York Times",
-      "origin": "internacional",
-      "image": "https://static01.nyt.com/images/2026/09/08/multimedia/08int-UK-ISRAEL-SETTLEMENTS-hqtv/08int-UK-ISRAEL-SETTLEMENTS-hqtv-mediumSquareAt3X.jpg",
-      "published_at": "2026-09-08T15:14:14+00:00",
-      "region": "América do Norte",
-      "theme": "Comércio e Finanças"
     },
     {
       "title": "Middle East live: Israel to close British consulate in Jerusalem after sanctions on settlements",
@@ -682,17 +781,6 @@
       "published_at": "2026-09-08T14:48:32+00:00",
       "region": "Europa",
       "theme": "Outros / Multitemático"
-    },
-    {
-      "title": "UK ban on goods from Israeli settlements 'evidence of Netanyahu's failure'",
-      "url": "https://www.france24.com/en/video/20260908-uk-ban-on-goods-from-israeli-settlements-evidence-of-natanyahu-s-failure",
-      "summary": "British foreign minister Ed Miliband accused the Israeli government on Tuesday of turning a \"blind eye\" to what he called \"ethnic cleansing\" by settlers in the West Bank. Miliband told parliament the UK government would introduce \"an import ban on goods from illegal settlements in the occupied terri...",
-      "source": "France 24",
-      "origin": "internacional",
-      "image": "https://s.france24.com/media/display/9e391a06-ab91-11f1-b5d5-005056a97e36/w:1024/p:16x9/EN-20260908-160221-160711-CS.jpg",
-      "published_at": "2026-09-08T14:47:39+00:00",
-      "region": "América do Norte",
-      "theme": "Política Internacional"
     },
     {
       "title": "AfD’s Far Right Win Puts New Pressure on Germany’s Leader Merz",
@@ -761,17 +849,6 @@
       "theme": "Política Brasileira"
     },
     {
-      "title": "New Yorkers were 'lied' to about toxic air after 9/11 attacks, says Mamdani",
-      "url": "https://www.bbc.co.uk/news/articles/cjdvyk3pm27o?at_medium=RSS&at_campaign=rss",
-      "summary": "The New York mayor says newly released documents show asbestos \"nearly everywhere\" around Ground Zero.",
-      "source": "BBC News - World",
-      "origin": "internacional",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8a27/live/073fe880-ab9d-11f1-b26f-1588b95519ec.jpg",
-      "published_at": "2026-09-08T14:03:39+00:00",
-      "region": "América do Norte",
-      "theme": "Geopolítica e Segurança"
-    },
-    {
       "title": "'Acreditei em tudo o que disseram': a mulher que alugou apartamento a condenados pelos ataques do 11 de Setembro",
       "url": "https://redir.folha.com.br/redir/online/mundo/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/acreditei-em-tudo-o-que-disseram-a-mulher-que-alugou-apartamento-a-condenados-pelos-ataques-do-11-de-setembro.shtml",
       "summary": "Holly Ratchford ainda não consegue acreditar que aquele homem que morou no complexo residencial administrado por ela seria acusado de envolvimento no dia mais sombrio da história recente dos Estados Unidos.\nLeia mais (09/08/2026 - 11h00)",
@@ -803,17 +880,6 @@
       "published_at": "2026-09-08T13:58:32+00:00",
       "region": "América do Norte",
       "theme": "Geopolítica e Segurança"
-    },
-    {
-      "title": "Por que André Mendonça determinou o afastamento do diretor-geral da PF, Andrei Rodrigues",
-      "url": "https://www.bbc.com/portuguese/articles/c5yw3pvzreeo?at_medium=RSS&at_campaign=rss",
-      "summary": "A decisão foi publicada cinco dias depois do pedido de investigação feito pelo ministro Alexandre de Moraes contra Mendonça.",
-      "source": "BBC News Brasil",
-      "origin": "brasil",
-      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/e97c/live/3fbf9d60-ab7d-11f1-aed2-8d6da8d75094.jpg",
-      "published_at": "2026-09-08T13:39:35+00:00",
-      "region": "América do Sul",
-      "theme": "Política Brasileira"
     },
     {
       "title": "Renoir paintings worth millions stolen in French museum heist",
@@ -871,28 +937,6 @@
       "theme": "Política Internacional"
     },
     {
-      "title": "Inventário extrajudicial não exigirá mais pagamento prévio de ITCMD",
-      "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/inventario-extrajudicial-nao-exigira-imposto-de-transmissao-previo",
-      "summary": "\n                    \n\t\t\t\tResolução do Conselho Nacional de Justiça (CNJ), em atendimento a requerimento feito pelo Colégio Notarial do Brasil — Conselho Federal (CNB/CF), prevê que o Imposto sobre Transmissão Causa Mortis e Doação (ITCMD) em inventários extrajudiciais não precisará mais ser pago an...",
-      "source": "Agência Brasil",
-      "origin": "brasil",
-      "image": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-      "published_at": "2026-09-08T13:22:00+00:00",
-      "region": "América do Sul",
-      "theme": "Economia Brasileira"
-    },
-    {
-      "title": "Mercado financeiro reduz previsão da inflação para 5% este ano",
-      "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-09/mercado-financeiro-reduz-previsao-da-inflacao-para-5-este-ano",
-      "summary": "\n                    \n\t\t\t\tA previsão do mercado financeiro para o Índice Nacional de Preços ao Consumidor Amplo (IPCA), referência oficial da inflação no país, passou de 5,01% para 5% este ano. A estimativa está no Boletim Focus desta terça-feira (8), pesquisa divulgada semanalmente pelo Banco Centr...",
-      "source": "Agência Brasil",
-      "origin": "brasil",
-      "image": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-      "published_at": "2026-09-08T13:02:00+00:00",
-      "region": "América do Sul",
-      "theme": "Economia Internacional"
-    },
-    {
       "title": "Veja quais foram as obras do artista impressionista Renoir roubadas de museu na França",
       "url": "https://g1.globo.com/pop-arte/noticia/2026/09/08/veja-quais-foram-as-obras-do-artista-impressionista-renoir-roubadas-de-museu-na-franca.ghtml",
       "summary": "     Ladrões roubam obras de Renoir\nDuas pessoas invadiram nesta terça-feira (8) o Museu Renoir, no sul da França, e roubaram obras do pintor impressionista francês Pierre-Auguste Renoir (1841-1919). Quatro pinturas foram alvo dos criminosos, mas uma delas caiu durante a fuga e foram abandonadas. O ...",
@@ -946,17 +990,6 @@
       "published_at": "2026-09-08T12:31:24+00:00",
       "region": "América do Sul",
       "theme": "Política Internacional"
-    },
-    {
-      "title": "Mendonça afasta Andrei Rodrigues da direção-geral da Polícia Federal",
-      "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/mendonca-afasta-andrei-rodrigues-da-direcao-geral-da-policia-federal",
-      "summary": "\n                    \n\t\t\t\tO ministro André Mendonça, relator do caso do Banco Master no Supremo Tribunal Federal (STF), decidiu nesta terça-feira (8) afastar o diretor-geral da Polícia Federal, Andrei Rodrigues, de suas funções. \n\nMendonça também afastou preventivamente o diretor de Inteligência da ...",
-      "source": "Agência Brasil",
-      "origin": "brasil",
-      "image": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-      "published_at": "2026-09-08T12:27:00+00:00",
-      "region": "América do Sul",
-      "theme": "Política Brasileira"
     },
     {
       "title": "O que explica a diferença de custos entre grandes obras na China e nos Estados Unidos",
@@ -1023,17 +1056,6 @@
       "published_at": "2026-09-08T11:38:00+00:00",
       "region": "América do Sul",
       "theme": "Direitos Humanos, Sociedade e Migrações"
-    },
-    {
-      "title": "As obras de Renoir roubadas em invasão a museu no sul da França",
-      "url": "https://www.bbc.com/portuguese/articles/c0revk5qn0go?at_medium=RSS&at_campaign=rss",
-      "summary": "Prefeito diz que ladrões, ao serem perseguidos pela polícia, deixaram para trás outros dois quadros.",
-      "source": "BBC News Brasil",
-      "origin": "brasil",
-      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/8614/live/e1fc3620-ab72-11f1-a291-b542ee92de7c.png",
-      "published_at": "2026-09-08T11:33:51+00:00",
-      "region": "América do Sul",
-      "theme": "Política Brasileira"
     },
     {
       "title": "Argentina to file criminal case against oil company operating in Falklands",
@@ -1113,17 +1135,6 @@
       "theme": "Geopolítica e Segurança"
     },
     {
-      "title": "Autoridades dos EUA recuperam caixa-preta de avião da Amazon após acidente em Miami que deixou 5 mortos",
-      "url": "https://g1.globo.com/mundo/noticia/2026/09/08/autoridades-americanas-recuperam-caixa-preta-de-aviao-da-amazon-apos-acidente-que-matou-cinco-em-miami.ghtml",
-      "summary": "     Avião cargueiro sai da pista, cruza estrada e pega fogo em Miami\nAs autoridades recuperaram as caixas-pretas de um avião de carga da Amazon que saiu da pista enquanto pousava em Miami, em um incidente que deixou pelo menos cinco mortos, informou nesta segunda-feira (7) a presidente do Conselho ...",
-      "source": "G1 - Mundo",
-      "origin": "brasil",
-      "image": "https://s2-g1.glbimg.com/z-LWC_-H6XAIPpyVaviyWSzmaVA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/u/hIpdcrRCy1CH0mIUR7rQ/2026-09-06t194934z-1184906547-rc2vdna036ma-rtrmadp-3-usa-crash-plane-miami.jpg",
-      "published_at": "2026-09-08T10:06:28+00:00",
-      "region": "América do Sul",
-      "theme": "Meio Ambiente e Clima"
-    },
-    {
       "title": "As mais de 250 mil mulheres solteiras forçadas a dar seus filhos em adoção no Reino Unido em meados do século passado",
       "url": "https://www.bbc.com/portuguese/articles/ckgwrwr9k97o?at_medium=RSS&at_campaign=rss",
       "summary": "Marion McMillan foi uma das cerca de 250 mil mulheres obrigadas a dar seus bebês em adoção entre 1949 e 1976 no Reino Unido.",
@@ -1133,17 +1144,6 @@
       "published_at": "2026-09-08T09:30:50+00:00",
       "region": "América do Sul",
       "theme": "Direitos Humanos, Sociedade e Migrações"
-    },
-    {
-      "title": "Highest paid world leader to get salary increase of $1 million",
-      "url": "https://www.bbc.co.uk/news/articles/c5y5kn143d1o?at_medium=RSS&at_campaign=rss",
-      "summary": "Singapore's prime minister Lawrence Wong will see his annual pay rise to 3.6 million Singapore dollars ($2.8m; £2.1m).",
-      "source": "BBC News - World",
-      "origin": "internacional",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/25d5/live/40541500-ab58-11f1-b471-ff02eb3eac27.jpg",
-      "published_at": "2026-09-08T09:20:05+00:00",
-      "region": "Global",
-      "theme": "Política Internacional"
     },
     {
       "title": "A rede de propaganda pró-Rússia que explora violência sexual e usa mulheres do Exército ucraniano como isca",
