@@ -1,27 +1,687 @@
 {
-  "last_updated": "2026-09-30T21:07:38.043261+00:00",
+  "last_updated": "2026-10-01T00:56:40.312861+00:00",
   "articles": [
     {
-      "title": "Mensagens mostram proximidade de Luciano Huck com Vorcaro",
-      "url": "https://www.poder360.com.br/poder-gente/mensagens-mostram-proximidade-de-luciano-huck-com-vorcaro/",
-      "summary": "Apresentador convidou o fundador do Master para show de Madonna e pizza com Ronaldo Fenômeno; ex-banqueiro emprestou avião",
+      "title": "Plane to Israel Narrowly Averts Disaster After Pilot Stabbing",
+      "url": "https://www.nytimes.com/live/2026/09/30/world/dubai-flight-tel-aviv-israel-pilots",
+      "summary": "Passengers said that they entered the cockpit and subdued the attacker, who Israeli officials said was one of the pilots. The motive for the attack was not clear.",
+      "source": "The New York Times",
+      "origin": "internacional",
+      "image": "https://static01.nyt.com/images/2026/09/30/multimedia/30israel-plane-promo8p-bgpj/30israel-plane-promo8p-bgpj-mediumSquareAt3X.jpg",
+      "published_at": "2026-10-01T00:53:16+00:00",
+      "region": "Oriente Médio",
+      "theme": "Geopolítica e Segurança"
+    },
+    {
+      "title": "Iran parades Shahed drones through capital",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/1/iran-parades-shahed-drones-through-capital?traffic_source=rss",
+      "summary": "Crowds cheered and waved national flags as two Shahed drones were paraded through Tehran.",
+      "source": "Al Jazeera English",
+      "origin": "internacional",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/cms-wide-thumb-shahed-drones-1790815097.png?resize=1920%2C1080&quality=80",
+      "published_at": "2026-10-01T00:39:04+00:00",
+      "region": "Oriente Médio",
+      "theme": "Outros / Multitemático"
+    },
+    {
+      "title": "Nikolas diz que STF é o “maior motivo para tirar Lula”",
+      "url": "https://www.poder360.com.br/poder-eleicoes-2026/nikolas-diz-que-stf-e-o-maior-motivo-para-tirar-lula/",
+      "summary": "Deputado critica decisões de ministros e afirma que eventual vitória do petista permitiria 4 novas indicações ao Supremo",
       "source": "Poder360",
       "origin": "brasil",
-      "image": "https://static.poder360.com.br/uploads/2026/09/luciano-huck-daniel-vorcaro-will-bank-1200x675.jpg",
-      "published_at": "2026-09-30T21:06:13+00:00",
+      "image": "https://static.poder360.com.br/uploads/2026/09/Lula-e-Nikolas-Ferreira-prismada-806x675.png",
+      "published_at": "2026-10-01T00:34:22+00:00",
+      "region": "América do Sul",
+      "theme": "Política Brasileira"
+    },
+    {
+      "title": "TSE decide sobre posts de Nossa Senhora: após votos divergentes, Mendonça ajusta decisão para liberar publicação de Antonio Tabet",
+      "url": "https://www.bbc.com/portuguese/articles/cmvgy277qg5po?at_medium=RSS&at_campaign=rss",
+      "summary": "Corte eleitoral julga nesta quarta (30/9), em plenário virtual, se confirma ou não decisão de Mendonça que determinou a exclusão de postagens que associavam Flávio Bolsonaro (PL) a um projeto para retirar o título de Nossa Senhora Aparecida de Padroeira do Brasil. Acompanhe voto a voto.",
+      "source": "BBC News Brasil",
+      "origin": "brasil",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/733a/live/bf218cb0-bcdc-11f1-babe-4199b0e7ccea.jpg",
+      "published_at": "2026-10-01T00:27:04+00:00",
+      "region": "América do Sul",
+      "theme": "Política Brasileira"
+    },
+    {
+      "title": "Queda de um casulo de mariposa no chá de uma imperatriz da China resultou na criação de um dos tecidos mais sofisticados da indústria",
+      "url": "https://www.cnnbrasil.com.br/curiosidades/queda-de-um-casulo-de-mariposa-no-cha-de-uma-imperatriz-da-china-resultou-na-criacao-de-um-dos-tecidos-mais-sofisticados-da-industria/",
+      "summary": "Imperatriz Leizu, também conhecida como Xi Lingshi, é definida na história da China como a patrona da tecelagem e \"Mãe do Bicho-de-Seda\"",
+      "source": "CNN Brasil",
+      "origin": "brasil",
+      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/09/lenda-da-seda.jpg?w=630&h=388&crop=1",
+      "published_at": "2026-10-01T00:21:35+00:00",
+      "region": "América do Sul",
+      "theme": "Direito Internacional e Instituições"
+    },
+    {
+      "title": "US Supreme Court allows execution of Christa Pike to go ahead",
+      "url": "https://www.bbc.co.uk/news/articles/cq8r6rjdvlx6o?at_medium=RSS&at_campaign=rss",
+      "summary": "The death by lethal injection was scheduled to happen earlier on Wednesday before a lower court paused the execution.",
+      "source": "BBC News - World",
+      "origin": "internacional",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6311/live/31a802d0-bd25-11f1-bc2e-018d645d8d21.jpg",
+      "published_at": "2026-10-01T00:19:20+00:00",
+      "region": "América do Norte",
+      "theme": "Outros / Multitemático"
+    },
+    {
+      "title": "Polícia prende suspeito de latrocínio de turista mexicano no Rio",
+      "url": "https://www.cnnbrasil.com.br/nacional/sudeste/rj/policia-prende-suspeito-de-latrocinio-de-turista-mexicano-no-rio/",
+      "summary": "Vítima caiu do capô do veículo após motorista acelerar a pedido de comparsas durante assalto na região da Pedra do Sal, localizada Zona Portuária do Rio de Janeiro",
+      "source": "CNN Brasil",
+      "origin": "brasil",
+      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/09/pcrj.png?w=570&h=398&crop=1",
+      "published_at": "2026-10-01T00:15:47+00:00",
+      "region": "América do Sul",
+      "theme": "Direitos Humanos, Sociedade e Migrações"
+    },
+    {
+      "title": "BNDES libera R$ 18 milhões para projeto agroflorestal em Roraima",
+      "url": "https://www.cnnbrasil.com.br/agro/bndes-libera-r-18-milhoes-para-projeto-agroflorestal-em-roraima/",
+      "summary": "Recursos fazem parte de financiamento de R$ 116 milhões para implantação de 2 mil hectares de sistemas agroflorestais; investimento total chega a R$ 340,8 milhões",
+      "source": "CNN Brasil",
+      "origin": "brasil",
+      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/09/corageous-land3.jpg?w=1200&h=630&crop=1",
+      "published_at": "2026-10-01T00:14:11+00:00",
+      "region": "América do Sul",
+      "theme": "Meio Ambiente e Clima"
+    },
+    {
+      "title": "Netinho se afasta das redes e revela nova internação após volta de linfoma",
+      "url": "https://www.cnnbrasil.com.br/pop/celebridades/netinho-se-afasta-das-redes-em-meio-a-tratamento-de-recidiva-do-linfoma/",
+      "summary": "Cantor de 60 anos está internado em Salvador após reaparecimento de câncer do sistema linfático",
+      "source": "CNN Brasil",
+      "origin": "brasil",
+      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/05/netinho.png?w=1200&h=630&crop=1",
+      "published_at": "2026-10-01T00:13:31+00:00",
+      "region": "América do Sul",
+      "theme": "Saúde"
+    },
+    {
+      "title": "Michelle responde a Janja: “Bolsonara de Ceilândia mesmo”",
+      "url": "https://www.poder360.com.br/poder-eleicoes-2026/michelle-responde-a-janja-bolsonara-de-ceilandia-mesmo/",
+      "summary": "Em carreata no DF, candidata rebateu crítica feita semanas antes pela primeira-dama em evento do PT na mesma cidade",
+      "source": "Poder360",
+      "origin": "brasil",
+      "image": "https://static.poder360.com.br/uploads/2026/09/Michelle-durante-ato-em-Ceilandia-30-set-2026.png",
+      "published_at": "2026-10-01T00:12:11+00:00",
       "region": "América do Sul",
       "theme": "Outros / Multitemático"
     },
     {
-      "title": "Flávio tem 49% contra 43,5% de Lula no 2º turno, diz Futura",
-      "url": "https://www.poder360.com.br/poder-eleicoes-2026/flavio-tem-49-contra-435-de-lula-no-2o-turno-diz-futura/",
-      "summary": "Levantamento ouviu 2.000 eleitores de 25 a 29 de setembro; margem de erro é de 2,2 p.p., para mais ou para menos",
+      "title": "Swiss glaciers suffer 'disastrous' year of ice loss, threatening water supplies",
+      "url": "https://www.bbc.co.uk/news/articles/c6n9w0ypjwl9o?at_medium=RSS&at_campaign=rss",
+      "summary": "Scientists say such rapid melting is no longer surprising given the pace of climate change.",
+      "source": "BBC News - World",
+      "origin": "internacional",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4300/live/fc078410-bccb-11f1-9f83-d9975ff80416.jpg",
+      "published_at": "2026-10-01T00:08:23+00:00",
+      "region": "América do Norte",
+      "theme": "Meio Ambiente e Clima"
+    },
+    {
+      "title": "NBA: dirigentes dos Blazers se comprometem com a cidade de Portland",
+      "url": "https://www.cnnbrasil.com.br/esportes/basquete/nba-dirigentes-dos-blazers-se-comprometem-com-a-cidade-de-portland/",
+      "summary": "Desde que o grupo de Tom Dundon foi aprovado em março como os novos proprietários dos Blazers, os responsáveis ​​pela franquia e as autoridades governamentais têm divergido em relação ao financiamento das reformas iminentes do ginásio",
+      "source": "CNN Brasil",
+      "origin": "brasil",
+      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/02/Moda-Center-e1738683381298.jpg?w=1200&h=630&crop=1",
+      "published_at": "2026-10-01T00:03:08+00:00",
+      "region": "América do Sul",
+      "theme": "Outros / Multitemático"
+    },
+    {
+      "title": "Após jejum de álcool, Leonardo posa com garrafa gigante em Paris; veja foto",
+      "url": "https://www.cnnbrasil.com.br/pop/celebridades/apos-jejum-de-alcool-leonardo-posa-com-garrafa-gigante-em-paris-veja-foto/",
+      "summary": "Poliana Rocha, esposa do cantor, registrou e publicou o momento em que o cantor mostrou estar bebendo um espumante depois de ficar 30 dias sem beber",
+      "source": "CNN Brasil",
+      "origin": "brasil",
+      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/09/leonardo-espumante-e1790812711290.jpg?w=1080&h=610&crop=1",
+      "published_at": "2026-10-01T00:01:14+00:00",
+      "region": "América do Sul",
+      "theme": "Outros / Multitemático"
+    },
+    {
+      "title": "Iran war live: Trump hints US could strike Iran, warns time coming",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/10/1/iran-war-live-trump-hints-us-could-strike-iran-warns-time-coming?traffic_source=rss",
+      "summary": "Trump says the US may “blow up” Iran or strike a deal, insisting the standoff will end very soon one way or the other.",
+      "source": "Al Jazeera English",
+      "origin": "internacional",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/AFP__20260930__C9V79N4__v1__HighRes__UsPoliticsTrump-1790809516.jpg?resize=1920%2C1440",
+      "published_at": "2026-10-01T00:00:00+00:00",
+      "region": "América do Norte",
+      "theme": "Geopolítica e Segurança"
+    },
+    {
+      "title": "Airbnb começa a oferecer aluguel de carros em mais de 300 cidades do Brasil",
+      "url": "https://www.cnnbrasil.com.br/economia/money/negocios/airbnb-comeca-a-oferecer-aluguel-de-carros-em-mais-de-300-cidades-do-brasil/",
+      "summary": "Movimento amplia disputa com empresas de turismo e locadoras",
+      "source": "CNN Brasil",
+      "origin": "brasil",
+      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/Reuters_Direct_Media/BrazilOnlineReportTechnologyNews/tagreuters.com2023binary_LYNXMPEJ501TD-FILEDIMAGE.jpg?w=1200&h=630&crop=1",
+      "published_at": "2026-09-30T23:58:20+00:00",
+      "region": "América do Sul",
+      "theme": "Outros / Multitemático"
+    },
+    {
+      "title": "Janja: Flávio quer atribuir a Lula “rótulo” que pertence aos Bolsonaros",
+      "url": "https://www.poder360.com.br/poder-eleicoes-2026/janja-flavio-quer-atribuir-a-lula-rotulo-que-pertence-aos-bolsonaros/",
+      "summary": "Primeira-dama citou casos envolvendo o candidato do PL e relembrou fala de Bolsonaro sobre \"pintou um clima\"; disse que o bolsonarismo tenta deturpar fala do petista",
       "source": "Poder360",
       "origin": "brasil",
-      "image": "https://static.poder360.com.br/uploads/2026/08/flavio-lula-prismada-1900-1080-1200x675.jpg",
-      "published_at": "2026-09-30T21:00:14+00:00",
+      "image": "https://static.poder360.com.br/uploads/2026/09/janja-video-contra-flavio-30set2026-1200x675.jpg",
+      "published_at": "2026-09-30T23:57:02+00:00",
       "region": "América do Sul",
       "theme": "Política Brasileira"
+    },
+    {
+      "title": "Em depoimento, Vorcaro nega participação no grupo “A Turma”",
+      "url": "https://www.poder360.com.br/poder-justica/em-depoimento-vorcaro-nega-participacao-no-grupo-a-turma/",
+      "summary": "A existência desse grupo e do grupo \"Os Meninos\" foi descoberta pela PF a partir de mensagens extraídas do celular do fundador do Banco Master",
+      "source": "Poder360",
+      "origin": "brasil",
+      "image": "https://static.poder360.com.br/uploads/2026/03/Daniel-Vorcaro-Esfera-Brasil-1080.png",
+      "published_at": "2026-09-30T23:52:22+00:00",
+      "region": "América do Sul",
+      "theme": "Cultura, Mídia e Sociedade"
+    },
+    {
+      "title": "Trump amazed that an ‘Israeli plumber’ helped land Flydubai flight",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/30/trump-amazed-that-an-israeli-plumber-helped-land-flydubai-flight?traffic_source=rss",
+      "summary": "An amazed US President Donald Trump relayed the story of how an ‘Israeli plumber’ helped land a Flydubai flight.",
+      "source": "Al Jazeera English",
+      "origin": "internacional",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1790812208.jpg?resize=1920%2C1080&quality=80",
+      "published_at": "2026-09-30T23:50:17+00:00",
+      "region": "América do Norte",
+      "theme": "Ciência, Tecnologia e Inovação"
+    },
+    {
+      "title": "Relembre briga antiga de Renato Aragão com filha que moveu ação contra ele",
+      "url": "https://www.cnnbrasil.com.br/pop/celebridades/relembre-briga-antiga-de-renato-aragao-com-filha-que-moveu-acao-contra-ele/",
+      "summary": "Juliana Rangel já foi alvo de outra polêmica envolvendo o humorista, quando o acusaram de esconder a herdeira por ela ter um relacionamento homoafetivo",
+      "source": "CNN Brasil",
+      "origin": "brasil",
+      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/09/juliana-rangel-renato-aragao.jpeg?w=1200&h=630&crop=1",
+      "published_at": "2026-09-30T23:48:02+00:00",
+      "region": "América do Sul",
+      "theme": "Geopolítica e Segurança"
+    },
+    {
+      "title": "Trump renews calls for former Federal Reserve chief Jerome Powell's resignation",
+      "url": "https://www.france24.com/en/americas/20260930-trump-renews-calls-for-former-federal-reserve-chief-jerome-powell-resignation",
+      "summary": "The Federal Reserve's watchdog on Wednesday found no grounds for a criminal referral over a roughly $1 billion cost overrun on renovations to the central bank's Washington buildings, while faulting project oversight. The findings prompted President Donald Trump to renew his call for former Fed chief...",
+      "source": "France 24",
+      "origin": "internacional",
+      "image": "https://s.france24.com/media/display/174d3e3e-bd00-11f1-a251-816a8398162d/w:1024/p:16x9/a1af0265f11cf71602d750c5f21c83ff210bf872.jpg",
+      "published_at": "2026-09-30T23:44:27+00:00",
+      "region": "América do Norte",
+      "theme": "Economia Internacional"
+    },
+    {
+      "title": "Cade aprova compra de 12% do Assaí por sócios do Grupo Muffato",
+      "url": "https://www.cnnbrasil.com.br/economia/money/negocios/cade-aprova-compra-de-parte-do-assai-por-socios-do-grupo-muffato/",
+      "summary": "Autoridade tratou caso como fusão, ao notar que concorrente no mesmo setor se tornará maior acionista do Grupo Sendas",
+      "source": "CNN Brasil",
+      "origin": "brasil",
+      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2024/12/aerea_assai_bola_da_suframa_manaus_am_3.jpg?w=1200&h=630&crop=1",
+      "published_at": "2026-09-30T23:42:20+00:00",
+      "region": "América do Sul",
+      "theme": "Outros / Multitemático"
+    },
+    {
+      "title": "Percentual de jovens nem-nem no Brasil cai para 22,4%, mostra estudo",
+      "url": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-09/percentual-de%20jovens-nem-nem-no-brasil-cai-para-224-mostra-estudo",
+      "summary": "\n                    \n\t\t\t\tA taxa de jovens brasileiros que não estudam, não trabalham nem estão em treinamento ou formação teve queda de 4,4 pontos percentuais entre 2016 e 2024, aponta o relatório Panorama da Educação 2026 (Education at a Glance), divulgado pela Organização para a Cooperação e Dese...",
+      "source": "Agência Brasil",
+      "origin": "brasil",
+      "image": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+      "published_at": "2026-09-30T23:39:00+00:00",
+      "region": "América do Sul",
+      "theme": "Ciência, Tecnologia e Inovação"
+    },
+    {
+      "title": "Artur Jorge diz o que mudaria em eliminações para Flamengo e Atlético-MG",
+      "url": "https://www.cnnbrasil.com.br/esportes/futebol/cruzeiro/artur-jorge-diz-o-que-mudaria-em-eliminacoes-para-flamengo-e-atletico-mg/",
+      "summary": "Treinador comentou as duas duras quedas em sequência do Cruzeiro na Copa Libertadores da América e na Copa do Brasil",
+      "source": "CNN Brasil",
+      "origin": "brasil",
+      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/03/Artur-Jorge-tera-a-missao-de-ajeitar-a-defesa-do-Cruzeiro-e1775768783469.webp?w=660&h=372&crop=1",
+      "published_at": "2026-09-30T23:38:58+00:00",
+      "region": "América do Sul",
+      "theme": "Comércio e Finanças"
+    },
+    {
+      "title": "Vasco x Boca: Pedrinho prefere São Januário, mas vai à Justiça por Maracanã",
+      "url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/sulamericana/vasco-x-boca-pedrinho-prefere-sao-januario-mas-vai-a-justica-por-maracana/",
+      "summary": "Presidente do clube carioca confirmou, em entrevista a apresentador, que vai judicializar o debate após nova negativa de usar o estádio administrado por Flamengo e Fluminense",
+      "source": "CNN Brasil",
+      "origin": "brasil",
+      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/08/Pedrinho-Vasco-e1787164469351.webp?w=660&h=372&crop=1",
+      "published_at": "2026-09-30T23:38:34+00:00",
+      "region": "América do Sul",
+      "theme": "Ciência, Tecnologia e Inovação"
+    },
+    {
+      "title": "Lynas compra Meteoric e projeto de terras raras em MG por R$ 3,5 bilhões",
+      "url": "https://www.cnnbrasil.com.br/infra/lynas-compra-meteoric-e-projeto-de-terras-raras-em-mg-por-r-35-bilhoes/",
+      "summary": "Aquisição dependerá de aval no Brasil e deve ser o primeiro grande teste do novo conselho de minerais críticos; australiana também vai estudar refino em território nacional",
+      "source": "CNN Brasil",
+      "origin": "brasil",
+      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/Reuters_Direct_Media/BrazilOnlineReportBusinessNews/tagreuters.com2026binary_LYNXMPEM461KC-BASEIMAGE.jpg?w=800&h=534&crop=1",
+      "published_at": "2026-09-30T23:36:14+00:00",
+      "region": "América do Sul",
+      "theme": "Ciência, Tecnologia e Inovação"
+    },
+    {
+      "title": "Polícia investiga origem dos tiros que mataram homem no BRT",
+      "url": "https://www.cnnbrasil.com.br/nacional/sudeste/rj/policia-investiga-origem-dos-tiros-que-mataram-homem-no-brt/",
+      "summary": "Flávio de Abreu Lira, de 53 anos, foi baleado dentro de um ônibus do BRT durante o trajeto entre as estações Ventura e Asa Branca, na Barra Olímpica, na zona Sudoeste do Rio, na manhã desta quarta-feira (30)",
+      "source": "CNN Brasil",
+      "origin": "brasil",
+      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/09/FEMINICIDIO-MT-2.png?w=1200&h=630&crop=1",
+      "published_at": "2026-09-30T23:32:24+00:00",
+      "region": "América do Sul",
+      "theme": "Direitos Humanos, Sociedade e Migrações"
+    },
+    {
+      "title": "Pennsylvania confirms fifth measles-associated death as US outbreak grows",
+      "url": "https://www.aljazeera.com/news/2026/9/30/pennsylvania-confirms-fifth-measles-associated-death-as-us-outbreak-grows?traffic_source=rss",
+      "summary": "Cases have more than doubled since August as a dispute with federal health officials over the death count continues.",
+      "source": "Al Jazeera English",
+      "origin": "internacional",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/2026-09-15T172605Z_1522865086_RC2FGJA73BUZ_RTRMADP_3_HEALTH-USA-MEASLES-1790805585.jpg?resize=1920%2C1440",
+      "published_at": "2026-09-30T23:31:54+00:00",
+      "region": "América do Norte",
+      "theme": "Saúde"
+    },
+    {
+      "title": "Bandeira do Brasil na Praça dos Três Poderes está rasgada",
+      "url": "https://www.poder360.com.br/poder-brasil/bandeira-do-brasil-na-praca-dos-tres-poderes-esta-rasgada/",
+      "summary": "Símbolo de 286 m², hasteado a 100 metros de altura, apresentou danos durante os trabalhos de restauração do local",
+      "source": "Poder360",
+      "origin": "brasil",
+      "image": "https://static.poder360.com.br/uploads/2026/09/Bandeira-brasileira-rasgada-30-set-2026-1200x675.jpg",
+      "published_at": "2026-09-30T23:29:40+00:00",
+      "region": "América do Sul",
+      "theme": "Outros / Multitemático"
+    },
+    {
+      "title": "Fux autoriza Flamengo a participar de ações sobre bets no STF",
+      "url": "https://www.poder360.com.br/poder-justica/fux-autoriza-flamengo-a-participar-de-acoes-sobre-bets-no-stf/",
+      "summary": "Clube entra como amicus curiae em 3 ações relatadas pelo ministro que discutem regras para apostas de quota fixa",
+      "source": "Poder360",
+      "origin": "brasil",
+      "image": "https://static.poder360.com.br/uploads/2026/09/Flamengo-simbolo-fundo-cinza-4K-1200x675.png",
+      "published_at": "2026-09-30T23:28:22+00:00",
+      "region": "América do Sul",
+      "theme": "Política Brasileira"
+    },
+    {
+      "title": "Parlamento de Portugal aprova reforma que acelera despejos",
+      "url": "https://www.cnnbrasil.com.br/internacional/parlamento-de-portugal-aprova-reforma-que-acelera-despejos/",
+      "summary": "Medida também acaba com controles de aluguel nos novos contratos; associações de inquilinos chamaram a movimentação de \"selvageria\"",
+      "source": "CNN Brasil",
+      "origin": "brasil",
+      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/09/Lisboa.jpg?w=1200&h=630&crop=1",
+      "published_at": "2026-09-30T23:27:55+00:00",
+      "region": "América do Sul",
+      "theme": "Política Internacional"
+    },
+    {
+      "title": "Iraque defende soberania depois de retirada de militares dos EUA",
+      "url": "https://redir.folha.com.br/redir/online/mundo/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/iraque-defende-soberania-depois-de-retirada-de-militares-dos-eua.shtml",
+      "summary": "Após mais de uma década, a coalizão internacional liderada pelos Estados Unidos concluiu sua missão no Iraque, onde ajudou a liberar o país do grupo Estado Islâmico, ao mesmo tempo em que provocou constantes atritos.\nLeia mais (09/30/2026 - 20h26)",
+      "source": "Folha de S.Paulo - Mundo",
+      "origin": "brasil",
+      "image": "https://f.i.uol.com.br/fotografia/2026/09/30/17907698116abcfa93e133a_1790769811_3x2_rt.jpg",
+      "published_at": "2026-09-30T23:26:00+00:00",
+      "region": "América do Sul",
+      "theme": "Geopolítica e Segurança"
+    },
+    {
+      "title": "Veja como foi a quarta-feira (30) dos presidenciáveis",
+      "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/veja-como-foi-quarta-feira-30-dos-presidenciaveis",
+      "summary": "\n                    \n\t\t\t\tA agenda dos presidenciáveis nesta quarta-feira (30) incluiu caminhadas, carreatas, panfletagens e encontros com apoiadores, além de entrevistas em rádio e podcast. \n\n&gt;&gt; Veja como foi o dia dos candidatos a presidente:\n\nRomeu Zema (Novo)\nO candidato não teve agenda pú...",
+      "source": "Agência Brasil",
+      "origin": "brasil",
+      "image": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+      "published_at": "2026-09-30T23:24:00+00:00",
+      "region": "América do Sul",
+      "theme": "Cultura, Mídia e Sociedade"
+    },
+    {
+      "title": "O urso ‘mais gordo’ do Alasca se chama Mochila, tem mãe famosa e é descrito como ‘gigante gentil’",
+      "url": "https://www.cnnbrasil.com.br/curiosidades/o-urso-mais-gordo-do-alasca-se-chama-mochila-tem-mae-famosa-e-e-descrito-como-gigante-gentil/",
+      "summary": "A Katmai Conservancy, organização ambiental sem fins lucrativos, promove há 13 anos o concurso Fat Bear Week para eleger o urso que mais ganhou peso pré-hibernação",
+      "source": "CNN Brasil",
+      "origin": "brasil",
+      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/09/O-urso-Backpack-vencedor-da-Fat-Bear-Week-de-2026-e1790786047140.jpg?w=1170&h=630&crop=1",
+      "published_at": "2026-09-30T23:20:12+00:00",
+      "region": "América do Sul",
+      "theme": "Ciência, Tecnologia e Inovação"
+    },
+    {
+      "title": "US judge approves settlement allowing Paramount to acquire Warner Bros",
+      "url": "https://www.aljazeera.com/news/2026/9/30/us-judge-approves-settlement-allowing-paramount-to-acquire-warner-bros?traffic_source=rss",
+      "summary": "Mammoth deal has raised questions about corporate consolidation and editorial independence in media.",
+      "source": "Al Jazeera English",
+      "origin": "internacional",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/2026-08-06T124015Z_1005373168_RC20TMAIDNLT_RTRMADP_3_WARNER-BROS-DIS-M-A-PARAMOUNT-SKYDAN-BRITAIN-1786461498.jpg?resize=1920%2C1440",
+      "published_at": "2026-09-30T23:15:00+00:00",
+      "region": "América do Norte",
+      "theme": "Outros / Multitemático"
+    },
+    {
+      "title": "Tiny image sparks big backlash in Nikon photo contest",
+      "url": "https://www.bbc.co.uk/news/articles/ck4gjn1yzprno?at_medium=RSS&at_campaign=rss",
+      "summary": "Dr Ning Xu denies he broke the rules of Nikon's annual Small World In Motion contest.",
+      "source": "BBC News - World",
+      "origin": "internacional",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/96e1/live/ce7836b0-bcea-11f1-8ce2-417f8f7cb095.jpg",
+      "published_at": "2026-09-30T23:10:19+00:00",
+      "region": "Global",
+      "theme": "Outros / Multitemático"
+    },
+    {
+      "title": "Putin shows no sign of stopping the war as Russia doubles down on Ukraine",
+      "url": "https://www.bbc.co.uk/news/articles/cqx2ze420kpyo?at_medium=RSS&at_campaign=rss",
+      "summary": "A foreign policy speech by the Russian president will be keenly watched, but all signs point to the full-scale invasion continuing.",
+      "source": "BBC News - World",
+      "origin": "internacional",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4c37/live/eac38c60-bce6-11f1-8ce2-417f8f7cb095.jpg",
+      "published_at": "2026-09-30T23:10:06+00:00",
+      "region": "América do Norte",
+      "theme": "Geopolítica e Segurança"
+    },
+    {
+      "title": "UE sinaliza que pode voltar a comprar frango e mel do Brasil",
+      "url": "https://www.poder360.com.br/poder-agro/ue-sinaliza-que-pode-voltar-a-comprar-frango-e-mel-do-brasil/",
+      "summary": "Negociação é tratada à margem da reunião de ministros de Comércio do G20; Brasil tenta incluir carne bovina no procedimento de liberação",
+      "source": "Poder360",
+      "origin": "brasil",
+      "image": "https://static.poder360.com.br/uploads/2018/04/frangos1ana.jpg",
+      "published_at": "2026-09-30T23:09:54+00:00",
+      "region": "América do Sul",
+      "theme": "Política Brasileira"
+    },
+    {
+      "title": "After Two Decades, U.S. Forces Leave Iraq to an Uncertain Future",
+      "url": "https://www.nytimes.com/2026/09/30/world/middleeast/iraq-us-forces.html",
+      "summary": "Some Iraqis are celebrating the end of an American military presence that unleashed waves of bloodshed. Others fear what happens next for their country, trapped between Washington and Tehran.",
+      "source": "The New York Times",
+      "origin": "internacional",
+      "image": "https://static01.nyt.com/images/2026/09/30/multimedia/30int-iraq-us-withdrawal-mkqv/30int-iraq-us-withdrawal-mkqv-mediumSquareAt3X.jpg",
+      "published_at": "2026-09-30T23:09:19+00:00",
+      "region": "América do Norte",
+      "theme": "Geopolítica e Segurança"
+    },
+    {
+      "title": "WhatsApp lança regras para controle parental no Brasil; saiba como",
+      "url": "https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-09/whatsapp-lanca-regras-para-controle-parental-no-brasil-saiba-como",
+      "summary": "\n                    \n\t\t\t\tA empresa Meta, dona do WhatsApp, anunciou nesta quarta-feira (30) uma série de recursos para que pais, mães e responsáveis possam ter mais controle sobre como os adolescentes usam o aplicativo.\n\nOs responsáveis vão definir quem poderá ver a foto de perfil do adolescente e ...",
+      "source": "Agência Brasil",
+      "origin": "brasil",
+      "image": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+      "published_at": "2026-09-30T23:03:00+00:00",
+      "region": "América do Sul",
+      "theme": "Ciência, Tecnologia e Inovação"
+    },
+    {
+      "title": "US Senate rejects bill targeting AI data centre electricity costs",
+      "url": "https://www.aljazeera.com/news/2026/9/30/us-senate-rejects-bill-targeting-ai-data-centre-electricity-costs?traffic_source=rss",
+      "summary": "Democrats criticise bill as lacking &#039;teeth&#039; and push for mandatory measures to address soaring electricity bills.",
+      "source": "Al Jazeera English",
+      "origin": "internacional",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/afp_6abd76a2a6ff-1790801570.jpg?resize=1920%2C1440",
+      "published_at": "2026-09-30T22:58:21+00:00",
+      "region": "América do Norte",
+      "theme": "Política Internacional"
+    },
+    {
+      "title": "Embaixador ajudou lobista em mudança de Lulinha para Madri",
+      "url": "https://www.poder360.com.br/poder-gente/embaixador-ajudou-lobista-em-mudanca-de-lulinha-para-madri/",
+      "summary": "Relação de Roberta Luchsinger com filho do presidente já vinha sendo explorada politicamente pela oposição; Eduardo ameaçou retaliar diplomatas em eventual governo de Flávio",
+      "source": "Poder360",
+      "origin": "brasil",
+      "image": "https://static.poder360.com.br/uploads/2026/08/lulinha-espanha-endereco-comercial.jpg",
+      "published_at": "2026-09-30T22:55:40+00:00",
+      "region": "América do Sul",
+      "theme": "Política Internacional"
+    },
+    {
+      "title": "Dólar cai para R$ 5,17 e acumula recuo de 0,15% em setembro",
+      "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-09/dolar-cai-para-r-517-e-acumula-recuo-de-015-em-setembro",
+      "summary": "\n                    \n\t\t\t\tEm um dia de alívio global no mercado financeiro, o dólar caiu cerca de 1%, encerrando setembro com pequena baixa. A bolsa avançou quase 1,5% no pregão e acumulou alta de pouco mais de 5% no mês.\n\nOs mercados reagiram principalmente a dados de inflação dos Estados Unidos ab...",
+      "source": "Agência Brasil",
+      "origin": "brasil",
+      "image": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+      "published_at": "2026-09-30T22:46:00+00:00",
+      "region": "América do Sul",
+      "theme": "Economia Brasileira"
+    },
+    {
+      "title": "Enquanto Espanha bloqueia despejos, Portugal avança com projeto para acelerá-los",
+      "url": "https://redir.folha.com.br/redir/online/mundo/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/enquanto-espanha-bloqueia-despejos-portugal-avanca-com-projeto-para-acelera-los.shtml",
+      "summary": "O Parlamento de Portugal aprovou nesta quarta-feira (30) uma polêmica reforma do mercado de aluguéis que visa acelerar os despejos e acabar com os controles de aluguel em novos contratos, em uma medida que o governo de centro-direita espera que incentive os proprietários a colocar mais imóveis no me...",
+      "source": "Folha de S.Paulo - Mundo",
+      "origin": "brasil",
+      "image": "https://f.i.uol.com.br/fotografia/2026/09/30/17908070136abd8be56da34_1790807013_3x2_rt.jpg",
+      "published_at": "2026-09-30T22:43:00+00:00",
+      "region": "América do Sul",
+      "theme": "Política Internacional"
+    },
+    {
+      "title": "TCU adia decisão sobre retomada de trecho da Transnordestina",
+      "url": "https://www.poder360.com.br/poder-infra/tcu-adia-decisao-sobre-retomada-de-trecho-da-transnordestina/",
+      "summary": "Ministro Jonathan de Jesus pediu vista por 15 dias para “alinhar” ideias com o relator do caso, Benjamin Zymler",
+      "source": "Poder360",
+      "origin": "brasil",
+      "image": "https://static.poder360.com.br/uploads/2025/08/jhonatan-de-jesus-tcu.jpg",
+      "published_at": "2026-09-30T22:37:26+00:00",
+      "region": "América do Sul",
+      "theme": "Política Internacional"
+    },
+    {
+      "title": "Esquiadora francesa de 29 anos morre em avalanche na patagônia argentina",
+      "url": "https://g1.globo.com/mundo/noticia/2026/09/30/esquiadora-francesa-de-29-anos-morre-em-avalanche-na-argentina.ghtml",
+      "summary": "     Esquiadora Juliette Willmann morreu em avalanche na Argentina\nReprodução/Instagram\nA esquiadora francesa Juliette Willmann morreu na terça-feira, aos 29 anos, em uma avalanche na Argentina, anunciou nesta quarta-feira (30) a Federação Francesa de Esqui (FFS).\nEspecialista em freeride (modalidad...",
+      "source": "G1 - Mundo",
+      "origin": "brasil",
+      "image": "https://s2-g1.glbimg.com/XsaohuB2R9pNwTw92XaivodMsAM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/r/i/6XwHzBSEqAmzGu49q1Ew/afp-20260930-c9ut2q4-v1-highres-argentinafrancealpineskiing.jpg",
+      "published_at": "2026-09-30T22:36:00+00:00",
+      "region": "América do Sul",
+      "theme": "Cultura, Mídia e Sociedade"
+    },
+    {
+      "title": "Vídeos mostram passageiros socorrendo piloto ferido em voo a Israel",
+      "url": "https://www.poder360.com.br/poder-internacional/videos-mostram-passageiros-socorrendo-piloto-ferido-em-voo-a-israel/",
+      "summary": "Voo que seguia de Dubai a Tel Aviv foi desviado para a Arábia Saudita depois que o piloto foi esfaqueado; aeronave perdeu altitude bruscamente",
+      "source": "Poder360",
+      "origin": "brasil",
+      "image": "https://static.poder360.com.br/uploads/2026/09/passageiros-voo-flydubai-israel-1200x675.jpg",
+      "published_at": "2026-09-30T22:27:47+00:00",
+      "region": "América do Sul",
+      "theme": "Ciência, Tecnologia e Inovação"
+    },
+    {
+      "title": "TSE manda Nikolas retirar postagem com desinformação sobre Lula",
+      "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/tse-manda-nikolas-retirar-postagem-com-desinformacao-sobre-lula",
+      "summary": "\n                    \n\t\t\t\tA ministra Estela Aranha, do Tribunal Superior Eleitoral (TSE), determinou nesta quarta-feira (30) que o deputado federal Nikolas Ferreira (PL-MG) apague de suas redes sociais, no prazo de 24 horas, uma postagem que retirou de contexto uma fala do presidente Luiz Inácio Lul...",
+      "source": "Agência Brasil",
+      "origin": "brasil",
+      "image": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+      "published_at": "2026-09-30T22:22:00+00:00",
+      "region": "América do Sul",
+      "theme": "Política Brasileira"
+    },
+    {
+      "title": "Paramount takeover of Warner Bros. Discovery clears legal hurdle",
+      "url": "https://www.france24.com/en/americas/20260930-paramount-takeover-of-warner-bros-discovery-clears-legal-hurdle",
+      "summary": "A federal judge on Wednesday approved a settlement clearing Paramount’s takeover of Warner Bros. Discovery after 12 US states challenged the deal on antitrust grounds. The agreement includes safeguards for CNN’s editorial independence and requires the merged studio to release at least 30 films a yea...",
+      "source": "France 24",
+      "origin": "internacional",
+      "image": "https://s.france24.com/media/display/2c2a999a-bd1a-11f1-8121-d367a0468893/w:1024/p:16x9/063-2296482973.jpg",
+      "published_at": "2026-09-30T22:19:23+00:00",
+      "region": "América do Norte",
+      "theme": "Outros / Multitemático"
+    },
+    {
+      "title": "Hong Kong journalist arrested on sedition charge",
+      "url": "https://www.aljazeera.com/news/2026/9/30/hong-kong-journalist-arrested-on-sedition-charge?traffic_source=rss",
+      "summary": "Authorities detain media founder over Prince Edward station clash video, as press freedom groups voice concern.",
+      "source": "Al Jazeera English",
+      "origin": "internacional",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/epa_6abd6060325d-1790795872.jpg?resize=1920%2C1440",
+      "published_at": "2026-09-30T22:16:01+00:00",
+      "region": "Global",
+      "theme": "Outros / Multitemático"
+    },
+    {
+      "title": "Russian drone crashes into Kyiv playground without exploding",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/30/aje-onl-nf_russian-drone-crashes-on-kyiv-playground-300926?traffic_source=rss",
+      "summary": "A Russian attack drone crashed into a children’s playground in Kyiv, Ukraine without exploding.",
+      "source": "Al Jazeera English",
+      "origin": "internacional",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/wide_Kyiv-1790806459.png?resize=1920%2C1080&quality=80",
+      "published_at": "2026-09-30T22:13:35+00:00",
+      "region": "América do Norte",
+      "theme": "Geopolítica e Segurança"
+    },
+    {
+      "title": "Trekkers helicoptered off mountains as more deadly landslides hit Nepal",
+      "url": "https://www.bbc.co.uk/news/articles/c607l4l3vn0eo?at_medium=RSS&at_campaign=rss",
+      "summary": "A month after mass catastrophic flooding, around 30 people have died in landslides and heavy rain.",
+      "source": "BBC News - World",
+      "origin": "internacional",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8ee5/live/a7dfc5c0-bcec-11f1-bc2e-018d645d8d21.jpg",
+      "published_at": "2026-09-30T22:01:16+00:00",
+      "region": "Global",
+      "theme": "Outros / Multitemático"
+    },
+    {
+      "title": "Vorcaro depõe à PF e nega existência de grupo criminoso \"A Turma\"",
+      "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/vorcaro-depoe-pf-e-nega-existencia-de-grupo-criminoso-turma",
+      "summary": "\n                    \n\t\t\t\tO ex-banqueiro Daniel Vorcaro, dono do Banco Master, prestou depoimento à Polícia Federal (PF) na tarde desta quarta-feira (30) e negou qualquer participação em atos violentos ou de caráter intimidatório contra desafetos. Ele negou participar, ou até mesmo conhecer, a exist...",
+      "source": "Agência Brasil",
+      "origin": "brasil",
+      "image": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+      "published_at": "2026-09-30T21:45:00+00:00",
+      "region": "América do Sul",
+      "theme": "Direitos Humanos, Sociedade e Migrações"
+    },
+    {
+      "title": "Reportagem da Agência Brasil fica em 3º lugar no Prêmio Radar Saúde",
+      "url": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-09/reportagem-da-agencia-brasil-fica-em-3o-lugar-no-premio-radar-saude",
+      "summary": "\n                    \n\t\t\t\tA Agência Brasil conquistou o terceiro lugar no Prêmio Radar Saúde 2026, promovido pelo Instituto Todos Pela Saúde, com a matéria Brasil deverá ter centro para enfrentamento de emergências em saúde, de autoria da jornalista Elaine Patrícia Cruz.\n\nA reportagem mostrou o plan...",
+      "source": "Agência Brasil",
+      "origin": "brasil",
+      "image": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+      "published_at": "2026-09-30T21:39:00+00:00",
+      "region": "América do Sul",
+      "theme": "Saúde"
+    },
+    {
+      "title": "What we know about stabbing on Flydubai flight to Israel",
+      "url": "https://www.bbc.co.uk/news/articles/cqjdv7pmj9dno?at_medium=RSS&at_campaign=rss",
+      "summary": "A pilot has been arrested and is being questioned after another pilot was stabbed, officials say.",
+      "source": "BBC News - World",
+      "origin": "internacional",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/83af/live/a2587eb0-bce4-11f1-a64c-550be9e3c66b.jpg",
+      "published_at": "2026-09-30T21:36:31+00:00",
+      "region": "Oriente Médio",
+      "theme": "Ciência, Tecnologia e Inovação"
+    },
+    {
+      "title": "Trump diz que 'herói' que evitou queda de avião em Israel é encanador que via programa sobre desastres aéreos",
+      "url": "https://g1.globo.com/mundo/noticia/2026/09/30/trump-diz-que-heroi-que-evitou-queda-de-aviao-em-israel-e-encanador-que-via-programa-sobre-desastres-aereos.ghtml",
+      "summary": "     Netanyahu se encontra com homem que ajudou a impedir atentado com avião\nO presidente dos Estados Unidos, Donald Trump, afirmou nesta quarta-feira (30) que o israelense Yaniv Hayun, que ajudou a evitar a queda de um avião da FlyDubai após um ataque contra o piloto, é um encanador que nunca havia...",
+      "source": "G1 - Mundo",
+      "origin": "brasil",
+      "image": "https://s2-g1.glbimg.com/pmoKCYSf2rYUzh0n8KnByEFKTNA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Z/k/Mmn8bTTiGIlT8nEjjHug/2026-09-30t170213z-2-lop659230092026rp1-rtrmadp-baseimage-960x540-israel-gulf-flight-netanyahu-airport.jpg",
+      "published_at": "2026-09-30T21:35:33+00:00",
+      "region": "América do Sul",
+      "theme": "Meio Ambiente e Clima"
+    },
+    {
+      "title": "UK Believes Iran Played a Part in RAF Fairford Air Base Incident, Burnham Says",
+      "url": "https://www.nytimes.com/2026/09/30/world/europe/uk-iran-raf-fairford-burnham.html",
+      "summary": "The British prime minister, Andy Burnham, said there were “strong indications” Iran played a part in the events at R.A.F. Fairford on Sunday, without providing details why.",
+      "source": "The New York Times",
+      "origin": "internacional",
+      "image": "https://static01.nyt.com/images/2026/09/30/multimedia/30int-uk-airbase-plot-1-wfgc/30int-uk-airbase-plot-1-wfgc-mediumSquareAt3X.jpg",
+      "published_at": "2026-09-30T21:31:42+00:00",
+      "region": "Europa",
+      "theme": "Cultura, Mídia e Sociedade"
+    },
+    {
+      "title": "Like a 'rollercoaster': passengers describe harrowing flydubai flight",
+      "url": "https://www.france24.com/en/like-a-rollercoaster-passengers-describe-harrowing-flydubai-flight",
+      "summary": "As flight FZ 1073 from Dubai to Tel Aviv approached the Jordanian border on Wednesday, passengers knew in an instant that something was wrong when the plane began plummeting from the sky in a rapid dive. It was like \"we were having very big turbulence, but there was no turbulence\", passenger Almog I...",
+      "source": "France 24",
+      "origin": "internacional",
+      "image": "https://s.france24.com/media/display/133b75fc-bd16-11f1-b85e-d367a0468893/w:1024/p:16x9/capture-16771745746abd7f51257970-94832487.jpg",
+      "published_at": "2026-09-30T21:31:34+00:00",
+      "region": "Oriente Médio",
+      "theme": "Ciência, Tecnologia e Inovação"
+    },
+    {
+      "title": "Parlamento de Portugal aprova despejos mais rápidos e fim dos limites para aluguéis; inquilinos chamam medida de 'barbárie'",
+      "url": "https://g1.globo.com/mundo/noticia/2026/09/30/parlamento-de-portugal-aprova-despejos-mais-rapidos-e-fim-dos-limites-para-alugueis-inquilinos-chamam-medida-de-barbarie.ghtml",
+      "summary": "     A capital Lisboa é a cidade que mais atrai estrangeiros em Portugal\nSkitterphoto/Creative Commons\nO Parlamento de Portugal aprovou, nesta quarta-feira (30), em primeira votação, uma reforma do mercado imobiliário que facilita os despejos e acaba com o controle dos valores cobrados em novos cont...",
+      "source": "G1 - Mundo",
+      "origin": "brasil",
+      "image": "https://s2-g1.glbimg.com/-QPHdS9yo7Cc9KOtnsJUnkS2YpY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/w/i/AzWASfS3eTOBJUUq90mA/sea-city-landscape-sky.jpg",
+      "published_at": "2026-09-30T21:23:50+00:00",
+      "region": "América do Sul",
+      "theme": "Política Internacional"
+    },
+    {
+      "title": "MPSP denuncia dois homens por falsificação de bebida que cegou mulher",
+      "url": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-09/mpsp-denuncia-dois-homens-por-falsificacao-de-bebida-que-cegou-mulher",
+      "summary": "\n                    \n\t\t\t\tO Ministério Público do Estado de São Paulo (MPSP) denunciou dois homens por terem falsificado bebida alcoólica que cegou uma mulher em Guarulhos (SP), em setembro de 2025. A denúncia foi feita pela 16ª Promotoria de Justiça Criminal de Guarulhos.\n\nDe acordo com o MPSP, um ...",
+      "source": "Agência Brasil",
+      "origin": "brasil",
+      "image": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+      "published_at": "2026-09-30T21:20:00+00:00",
+      "region": "América do Sul",
+      "theme": "Direito Internacional e Instituições"
+    },
+    {
+      "title": "UK PM Burnham reopens divisive debate on rejoining EU",
+      "url": "https://www.france24.com/en/tv-shows/a-propos/20260930-uk-pm-burnham-reopens-divisive-debate-on-rejoining-eu",
+      "summary": "Andy Burnham put the idea of Britain rejoining the EU on the table Wednesday, breaking a taboo for a UK prime minister and reopening the divisive Brexit debate. Speaking with FRANCE 24's Monte Francis, Catherine Barnard, Professor of European Law at the University of Cambridge, says that Burnham \"is...",
+      "source": "France 24",
+      "origin": "internacional",
+      "image": "https://s.france24.com/media/display/af69c10a-bd10-11f1-8116-d367a0468893/w:1024/p:16x9/EN-20260930-223109-224328-CS.jpg",
+      "published_at": "2026-09-30T21:08:39+00:00",
+      "region": "Europa",
+      "theme": "Política Internacional"
+    },
+    {
+      "title": "União Europeia sinaliza retomada de compras de frango e mel do Brasil",
+      "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-09/uniao-europeia-sinaliza-retomada-de-compras-de-frango-e-mel-do-brasil",
+      "summary": "\n                    \n\t\t\t\tSuspensas desde 3 de setembro, as exportações de frango e de mel para a União Europeia (UE) podem ser retomadas no curto prazo. A indicação foi dada nesta quarta-feira (30) pelo comissário europeu de Comércio e Segurança Econômica, Maroš Šefčovič, durante reunião com os min...",
+      "source": "Agência Brasil",
+      "origin": "brasil",
+      "image": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+      "published_at": "2026-09-30T21:02:00+00:00",
+      "region": "América do Sul",
+      "theme": "Comércio e Finanças"
+    },
+    {
+      "title": "Candidato do PRTB, Leonardo Avalanche desiste de disputar Presidência",
+      "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/candidato-do-prtb-leonardo-avalanche-desiste-de-disputar-presidencia",
+      "summary": "\n                    \n\t\t\t\tO candidato do PRTB à Presidência da República, Leonardo Avalanche, anunciou nesta quarta-feira (30) que desistiu de disputar o pleito deste ano. Em uma rede social, ele escreveu que tomou a decisão por motivos \"técnicos, jurídicos e pessoais\".\n\nAvalanche, que se colocava c...",
+      "source": "Agência Brasil",
+      "origin": "brasil",
+      "image": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+      "published_at": "2026-09-30T20:59:00+00:00",
+      "region": "América do Sul",
+      "theme": "Política Internacional"
     },
     {
       "title": "Hundreds Detained in France as Some Student Protests Turn Violent",
@@ -35,17 +695,6 @@
       "theme": "Direitos Humanos, Sociedade e Migrações"
     },
     {
-      "title": "Justiça nega prisão de funcionário da Secom por fake news sobre Flávio",
-      "url": "https://www.poder360.com.br/poder-eleicoes-2026/justica-nega-prisao-de-funcionario-da-secom-por-fake-news-sobre-flavio/",
-      "summary": "George Marques poderá usar redes sociais, mas fica proibido de publicar conteúdo político-eleitoral até o fim da eleição",
-      "source": "Poder360",
-      "origin": "brasil",
-      "image": "https://static.poder360.com.br/uploads/2026/09/George-Marques-1200x675.jpg",
-      "published_at": "2026-09-30T20:56:32+00:00",
-      "region": "América do Sul",
-      "theme": "Direito Internacional e Instituições"
-    },
-    {
       "title": "UK PM Burnham reopens divisive debate on rejoining EU",
       "url": "https://www.france24.com/en/uk-pm-burnham-reopens-divisive-debate-on-rejoining-eu",
       "summary": "Andy Burnham put the idea of Britain rejoining the EU on the table Wednesday, breaking a taboo for a UK prime minister and reopening the divisive Brexit debate. Speaking with FRANCE 24's Monte Francis, Catherine Barnard, Professor of European Law at the University of Cambridge, says that Burnham \"is...",
@@ -55,61 +704,6 @@
       "published_at": "2026-09-30T20:55:42+00:00",
       "region": "Europa",
       "theme": "Política Internacional"
-    },
-    {
-      "title": "Live Updates: Plane to Israel Narrowly Averts Disaster After Pilot Stabbing",
-      "url": "https://www.nytimes.com/live/2026/09/30/world/dubai-flight-tel-aviv-israel-pilots",
-      "summary": "Passengers said that they entered the cockpit and subdued the attacker, who Israeli officials said was one of the pilots. The motive for the attack was not clear.",
-      "source": "The New York Times",
-      "origin": "internacional",
-      "image": "https://static01.nyt.com/images/2026/09/30/multimedia/30israel-plane-promo4p-vwcb/30israel-plane-promo4p-vwcb-mediumSquareAt3X.jpg",
-      "published_at": "2026-09-30T20:55:24+00:00",
-      "region": "Oriente Médio",
-      "theme": "Geopolítica e Segurança"
-    },
-    {
-      "title": "Klopp sobre Seleção Alemã: “Precisamos desenvolver a equipe”",
-      "url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/futebol-alemao/klopp-sobre-selecao-alema-precisamos-desenvolver-a-equipe/",
-      "summary": "Na quinta-feira (1º), a Alemanha enfrentará a Sérvia sem Nico Schlotterbeck, que se lesionou durante o aquecimento para o treino, e com o jovem goleiro Jonas Urbig entre os titulares",
-      "source": "CNN Brasil",
-      "origin": "brasil",
-      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/09/Klopp-e1790798817352.jpg?w=720&h=406&crop=1",
-      "published_at": "2026-09-30T20:51:15+00:00",
-      "region": "América do Sul",
-      "theme": "Meio Ambiente e Clima"
-    },
-    {
-      "title": "Ibovespa sobe 1,37% e dólar cai 0,81%",
-      "url": "https://www.poder360.com.br/poder-economia/ibovespa-sobe-137-e-dolar-cai-081/",
-      "summary": "Bolsa acumula alta de 5,03% em setembro; dólar comercial fecha a R$ 5,174 após inflação dos EUA vir abaixo do estimado",
-      "source": "Poder360",
-      "origin": "brasil",
-      "image": "https://static.poder360.com.br/uploads/2026/09/valor-dolar-trajetoria-diaria-30-set-2026-02-1200x675.png",
-      "published_at": "2026-09-30T20:50:11+00:00",
-      "region": "América do Sul",
-      "theme": "Economia Brasileira"
-    },
-    {
-      "title": "São Paulo: Conselho Deliberativo aprova contrato com a Ticketmaster",
-      "url": "https://www.cnnbrasil.com.br/esportes/futebol/sao-paulo/sao-paulo-conselho-deliberativo-aprova-contrato-com-a-ticketmaster/",
-      "summary": "Decisão contou com 184 votos a favor, 44 contra e somente uma abstenção",
-      "source": "CNN Brasil",
-      "origin": "brasil",
-      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/08/morumbis-spfc-coritiba-e1786838388340.png?w=682&h=384&crop=1",
-      "published_at": "2026-09-30T20:47:32+00:00",
-      "region": "América do Sul",
-      "theme": "Outros / Multitemático"
-    },
-    {
-      "title": "Eleitor espera último debate para decidir voto, diz especialista",
-      "url": "https://www.cnnbrasil.com.br/eleicoes/eleitor-espera-ultimo-debate-para-decidir-voto-diz-especialista/",
-      "summary": "Ao CNN 360°, diretora de Opinião Pública da Ipsos, Márcia Cavallari analisa comportamento do eleitor na reta final e aponta crescimento das redes sociais como fonte de informação eleitoral",
-      "source": "CNN Brasil",
-      "origin": "brasil",
-      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2024/10/51358727702_30d5a26f1e_o.jpg?w=1200&h=630&crop=1",
-      "published_at": "2026-09-30T20:44:50+00:00",
-      "region": "América do Sul",
-      "theme": "Direito Internacional e Instituições"
     },
     {
       "title": "Ethiopian AI expert, Timnit Gebru, wins 'alternative Nobel'",
@@ -123,94 +717,6 @@
       "theme": "Ciência, Tecnologia e Inovação"
     },
     {
-      "title": "What we know about stabbing on Flydubai flight to Israel",
-      "url": "https://www.bbc.co.uk/news/articles/cqjdv7pmj9dno?at_medium=RSS&at_campaign=rss",
-      "summary": "A pilot has been arrested and is being questioned after another pilot was stabbed, officials say.",
-      "source": "BBC News - World",
-      "origin": "internacional",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/83af/live/a2587eb0-bce4-11f1-a64c-550be9e3c66b.jpg",
-      "published_at": "2026-09-30T20:44:12+00:00",
-      "region": "Oriente Médio",
-      "theme": "Ciência, Tecnologia e Inovação"
-    },
-    {
-      "title": "Passageiro diz que deu mata-leão em agressor que tomou voo da Flydubai",
-      "url": "https://www.cnnbrasil.com.br/internacional/passageiro-diz-que-deu-mata-leao-em-agressor-que-tomou-voo-da-flydubai/",
-      "summary": "Yaniv Hayoun afirmou que tomou controle da cabine de pilotos; homem se encontrou com Benjamin Netanyahu, primeiro-ministro de Israel, para falar sobre o incidente",
-      "source": "CNN Brasil",
-      "origin": "brasil",
-      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/09/passageiros-aviao-flydubai-chegam-a-tel-aviv-israel.jpg?w=960&h=540&crop=1",
-      "published_at": "2026-09-30T20:43:44+00:00",
-      "region": "América do Sul",
-      "theme": "Política Internacional"
-    },
-    {
-      "title": "Paul McCartney diz que sempre amará Lennon: “Não importava o que fizesse”",
-      "url": "https://www.cnnbrasil.com.br/pop/celebridades/paul-mccartney-diz-que-sempre-amara-lennon-nao-importava-o-que-fizesse/",
-      "summary": "Os Beatles chegaram ao fim em 1970, cerca de dois anos após Ringo Starr deixar de trabalhar em conjunto com o restante dos cantores",
-      "source": "CNN Brasil",
-      "origin": "brasil",
-      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2021/10/The_Beatles_with_Jimmie_Nicol_916-5100_cropped-e1633952884651.jpg?w=1200&h=630&crop=1",
-      "published_at": "2026-09-30T20:41:40+00:00",
-      "region": "América do Sul",
-      "theme": "Cultura, Mídia e Sociedade"
-    },
-    {
-      "title": "Colinha eleitoral: veja como usar ferramenta da CNN que ajuda na votação",
-      "url": "https://www.cnnbrasil.com.br/eleicoes/colinha-eleitoral-veja-como-usar-ferramenta-da-cnn-que-ajuda-na-votacao/",
-      "summary": "Plataforma reúne todos os candidatos registrados e permite organizar as escolhas para os seis votos que serão feitos no primeiro turno",
-      "source": "CNN Brasil",
-      "origin": "brasil",
-      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/08/urna-eletronica-tse.jpg?w=1200&h=630&crop=1",
-      "published_at": "2026-09-30T20:40:02+00:00",
-      "region": "América do Sul",
-      "theme": "Política Internacional"
-    },
-    {
-      "title": "TSE tem 3 X 1 para remover posts sobre Nossa Senhora e Flávio",
-      "url": "https://www.poder360.com.br/poder-justica/tse-tem-3-x-1-para-remover-posts-sobre-nossa-senhora-e-flavio/",
-      "summary": "Ministros seguem posição de André Mendonça e demonstram unidade da ala do Supremo no TSE; corregedor diverge na amplitude da medida",
-      "source": "Poder360",
-      "origin": "brasil",
-      "image": "https://static.poder360.com.br/uploads/2026/09/kassio-nunes-marques-dias-toffoli-tse-30set26-1200x675.jpg",
-      "published_at": "2026-09-30T20:39:50+00:00",
-      "region": "América do Sul",
-      "theme": "Política Brasileira"
-    },
-    {
-      "title": "Vorcaro depõe à PF e nega prática criminosa da “Turma”",
-      "url": "https://www.cnnbrasil.com.br/politica/vorcaro-depoe-a-pf-e-nega-pratica-criminosa-da-turma/",
-      "summary": "Segundo a defesa, nunca houve estruturação do suposto braço armado do ex-dono do Banco Master; advogados também negaram ilicitudes e atos de violência: \"Eventuais desabafos\"",
-      "source": "CNN Brasil",
-      "origin": "brasil",
-      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/09/1-VORCARO-28-08-26.png?w=252&h=153&crop=1",
-      "published_at": "2026-09-30T20:39:24+00:00",
-      "region": "América do Sul",
-      "theme": "Geopolítica e Segurança"
-    },
-    {
-      "title": "Burnham sobre possível venda do City: “Ficaria realmente preocupado”",
-      "url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/futebol-ingles/burnham-sobre-possivel-venda-do-city-ficaria-realmente-preocupado/",
-      "summary": "\"Eles têm sido um parceiro importantíssimo na construção da Manchester moderna e, obviamente, na transformação do Manchester City na potência global que é hoje\", declarou o primeiro-ministro britânico",
-      "source": "CNN Brasil",
-      "origin": "brasil",
-      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/09/Andy-Burnham-e1790800714803.jpg?w=1200&h=630&crop=1",
-      "published_at": "2026-09-30T20:38:44+00:00",
-      "region": "América do Sul",
-      "theme": "Política Internacional"
-    },
-    {
-      "title": "Federação Portuguesa se manifesta após a decisão de Cristiano Ronaldo",
-      "url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/federacao-portuguesa-se-manifesta-apos-a-decisao-de-cristiano-ronaldo/",
-      "summary": "Craque deixou a concentração da equipe de Portugal antes de jogo contra a Dinamarca, que será realizado nesta quinta-feira (1), pela Nations League",
-      "source": "CNN Brasil",
-      "origin": "brasil",
-      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/07/Cristiano-ronaldo-e1783279311316.avif?w=800&h=451&crop=1",
-      "published_at": "2026-09-30T20:36:16+00:00",
-      "region": "América do Sul",
-      "theme": "Economia Brasileira"
-    },
-    {
       "title": "O cálculo de Lula para não ir ao debate da Globo",
       "url": "https://www.bbc.com/portuguese/articles/cr5y511e9edwo?at_medium=RSS&at_campaign=rss",
       "summary": "Especialistas ouvidos pela BBC News Brasil avaliam que Lula tem mais a perder do que a ganhar com a exposição e que, ao não participar do confronto, se poupa de ataques e de eventuais deslizes.",
@@ -220,105 +726,6 @@
       "published_at": "2026-09-30T20:35:48+00:00",
       "region": "América do Sul",
       "theme": "Política Brasileira"
-    },
-    {
-      "title": "Fábio completa 46 anos e recebe homenagem do Fluminense: “Interminável”",
-      "url": "https://www.cnnbrasil.com.br/esportes/futebol/fluminense/fabio-completa-46-anos-e-recebe-homenagem-do-fluminense-interminavel/",
-      "summary": "Aniversariante fugiu do \"corredor polonês\" no CT Carlos Castilho, no Rio, e foi lembrado por Fluminense e Cruzeiro nas redes sociais",
-      "source": "CNN Brasil",
-      "origin": "brasil",
-      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/03/FLAFLU5-e1773011443674.jpg?w=1200&h=630&crop=1",
-      "published_at": "2026-09-30T20:33:52+00:00",
-      "region": "América do Sul",
-      "theme": "Ciência, Tecnologia e Inovação"
-    },
-    {
-      "title": "Justiça nega pedido de prisão de servidor de Lula, mas restringe redes",
-      "url": "https://www.cnnbrasil.com.br/politica/justica-nega-pedido-de-prisao-de-servidor-de-lula-mas-restringe-redes/",
-      "summary": "George Marques fica proibido de publicar ou compartilhar conteúdo político-eleitoral nas redes sociais até o fim da eleição presidencial",
-      "source": "CNN Brasil",
-      "origin": "brasil",
-      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/09/flavio-bolsonaro_8eb753.jpg?w=1200&h=630&crop=1",
-      "published_at": "2026-09-30T20:33:26+00:00",
-      "region": "América do Sul",
-      "theme": "Direito Internacional e Instituições"
-    },
-    {
-      "title": "Passageiro de 50 anos é levado ao hospital após ataque em voo para Israel",
-      "url": "https://www.cnnbrasil.com.br/internacional/passageiro-de-50-anos-e-levado-ao-hospital-apos-ataque-em-voo-para-israel/",
-      "summary": "Após aterrissagem no Aeroporto Ben Gurion, clientes da Flydubai foram encaminhados para uma \"área de recepção dedicada\"",
-      "source": "CNN Brasil",
-      "origin": "brasil",
-      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/09/Aviao-da-Fly-Dubai-e-desviado-para-pousar-na-Arabia-Saudita-apos-briga-entre-pilotos.png?w=1200&h=630&crop=1",
-      "published_at": "2026-09-30T20:30:50+00:00",
-      "region": "América do Sul",
-      "theme": "Geopolítica e Segurança"
-    },
-    {
-      "title": "Mendonça, Toffoli e Nunes votam por tirar do ar posts que ligam Flávio Bolsonaro a Nossa Senhora; siga julgamento no TSE",
-      "url": "https://www.bbc.com/portuguese/articles/cmvgy277qg5po?at_medium=RSS&at_campaign=rss",
-      "summary": "Corte eleitoral julga nesta quarta (30/9), em plenário virtual, se confirma ou não decisão de Mendonça que determinou a exclusão de postagens que associavam Flávio Bolsonaro (PL) a um projeto para retirar o título de Nossa Senhora Aparecida de Padroeira do Brasil. Acompanhe voto a voto.",
-      "source": "BBC News Brasil",
-      "origin": "brasil",
-      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/733a/live/bf218cb0-bcdc-11f1-babe-4199b0e7ccea.jpg",
-      "published_at": "2026-09-30T20:30:04+00:00",
-      "region": "América do Sul",
-      "theme": "Política Brasileira"
-    },
-    {
-      "title": "Conheça Backpack, eleito o urso mais gordo do Alasca por 103 mil pessoas",
-      "url": "https://www.cnnbrasil.com.br/internacional/conheca-backpack-eleito-o-urso-mais-gordo-do-alasca-por-103-mil-pessoas/",
-      "summary": "Animal de 20 anos venceu a 13ª edição do torneio online, recebendo 103 mil votos do público; evento ocorre anualmente durante a transição entre outono e inverno no hemisfério norte",
-      "source": "CNN Brasil",
-      "origin": "brasil",
-      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/09/bacpack-urso.jpg?w=1200&h=630&crop=1",
-      "published_at": "2026-09-30T20:29:19+00:00",
-      "region": "América do Sul",
-      "theme": "Direito Internacional e Instituições"
-    },
-    {
-      "title": "Setor de aço pede a Alckmin “Proaço”, Gas Release e defesa comercial",
-      "url": "https://www.poder360.com.br/poder-economia/setor-de-aco-pede-a-alckmin-proaco-gas-release-e-defesa-comercial/",
-      "summary": "Representantes da indústria conversaram com o vice-presidente na 3ª feira (29.set), antes de evento em São Paulo",
-      "source": "Poder360",
-      "origin": "brasil",
-      "image": "https://static.poder360.com.br/uploads/2026/09/marco-polo-de-mello-poder360-aco-29set20264-1-1200x675.jpeg",
-      "published_at": "2026-09-30T20:28:04+00:00",
-      "region": "América do Sul",
-      "theme": "Geopolítica e Segurança"
-    },
-    {
-      "title": "Novas e impressionantes imagens revelam a aurora boreal da Terra de uma forma nunca antes vista",
-      "url": "https://www.cnnbrasil.com.br/ciencia/novas-e-impressionantes-imagens-revelam-a-aurora-boreal-da-terra-de-uma-forma-nunca-antes-vista/",
-      "summary": "Imagens inéditas do satélite SMILE mostram o fenômeno brilhando sobre o Polo Norte durante subtempestade solar",
-      "source": "CNN Brasil",
-      "origin": "brasil",
-      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/09/imagem-aurora-boreal.jpg?w=1200&h=630&crop=1",
-      "published_at": "2026-09-30T20:27:51+00:00",
-      "region": "América do Sul",
-      "theme": "Economia Brasileira"
-    },
-    {
-      "title": "MPE pede multa a Flávio por não declarar um site de apoios de sua campanha",
-      "url": "https://www.cnnbrasil.com.br/politica/mpe-pede-multa-a-flavio-por-nao-declarar-um-site-de-apoios-de-sua-campanha/",
-      "summary": "Ação veiculada pelo Ministério Público Eleitoral diz respeito a um portal divulgado por Flávio em apoio aos candidatos de direita ao Senado",
-      "source": "CNN Brasil",
-      "origin": "brasil",
-      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/09/Flavio_Bolsonaro_Av_Paulista_2-e1788811799533.jpg?w=1200&h=630&crop=1",
-      "published_at": "2026-09-30T20:26:23+00:00",
-      "region": "América do Sul",
-      "theme": "Política Internacional"
-    },
-    {
-      "title": "Em vídeo, Camila Pitanga questiona Flávio sobre defesa de PM",
-      "url": "https://www.poder360.com.br/poder-eleicoes-2026/em-video-camila-pitanga-questiona-flavio-sobre-defesa-de-pm/",
-      "summary": "Episódio da série “Revelando” aborda morte de menina de 5 anos e atuação do senador no caso",
-      "source": "Poder360",
-      "origin": "brasil",
-      "image": "https://static.poder360.com.br/uploads/2026/09/camila-pitanga-revelando-serie-1200x675.png",
-      "published_at": "2026-09-30T20:21:40+00:00",
-      "region": "América do Sul",
-      "theme": "Geopolítica e Segurança"
     },
     {
       "title": "Quem é o piloto esfaqueado durante atentado em voo para Israel",
@@ -341,17 +748,6 @@
       "published_at": "2026-09-30T20:17:23+00:00",
       "region": "América do Sul",
       "theme": "Economia Internacional"
-    },
-    {
-      "title": "Israeli attacks across Gaza kill at least eight",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/30/israeli-attacks-across-gaza-kill-at-least-eight?traffic_source=rss",
-      "summary": "Israeli attacks on residential areas across Gaza killed at least eight civilians and wounded others on Wednesday",
-      "source": "Al Jazeera English",
-      "origin": "internacional",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1790799102.jpg?resize=1920%2C1080&quality=80",
-      "published_at": "2026-09-30T20:12:22+00:00",
-      "region": "Oriente Médio",
-      "theme": "Geopolítica e Segurança"
     },
     {
       "title": "Eduardo Bolsonaro ameaça retaliar diplomatas que 'sabotaram' governo de seu pai caso Flávio seja eleito",
@@ -387,39 +783,6 @@
       "theme": "Ciência, Tecnologia e Inovação"
     },
     {
-      "title": "Lula dará entrevista ao Flow no dia do debate da “TV Globo”",
-      "url": "https://www.poder360.com.br/poder-eleicoes-2026/lula-dara-entrevista-ao-flow-no-dia-do-debate-da-tv-globo/",
-      "summary": "Petista participa de podcast na 5ª feira (1º.out), às 20h45; debate na emissora terá outros 4 candidatos à Presidência",
-      "source": "Poder360",
-      "origin": "brasil",
-      "image": "https://static.poder360.com.br/uploads/2026/09/lula-canal-livre-27-set-20262-1200x675.png",
-      "published_at": "2026-09-30T20:03:54+00:00",
-      "region": "América do Sul",
-      "theme": "Política Brasileira"
-    },
-    {
-      "title": "Venda de máquinas caiu 15,5% em agosto ante o mesmo mês de 2025",
-      "url": "https://www.poder360.com.br/poder-economia/venda-de-maquinas-caiu-155-em-agosto-ante-o-mesmo-mes-de-2025/",
-      "summary": "No mês passado, a receita líquida de vendas da indústria de máquinas e equipamentos foi de R$ 23,0 bilhões, diz Abimaq",
-      "source": "Poder360",
-      "origin": "brasil",
-      "image": "https://static.poder360.com.br/uploads/2026/09/maquinas-1200x675.jpg",
-      "published_at": "2026-09-30T20:01:53+00:00",
-      "region": "América do Sul",
-      "theme": "Outros / Multitemático"
-    },
-    {
-      "title": "US judge rules Wisconsin mosque leader Salah Sarsour can be deported",
-      "url": "https://www.aljazeera.com/news/2026/9/30/us-judge-rules-wisconsin-mosque-leader-salah-sarsour-can-be-deported?traffic_source=rss",
-      "summary": "Sarsour’s lawyers say the decision threatens free speech protections and plan to fight the ruling.",
-      "source": "Al Jazeera English",
-      "origin": "internacional",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/ap_6abd569804953-1790793368.jpg?resize=1920%2C1333",
-      "published_at": "2026-09-30T20:00:36+00:00",
-      "region": "América do Norte",
-      "theme": "Política Internacional"
-    },
-    {
       "title": "'Absolutamente assustador', dizem passageiros de voo da Flydubai que ia a Israel",
       "url": "https://redir.folha.com.br/redir/online/mundo/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/absolutamente-assustador-dizem-passageiros-de-voo-da-flydubai-que-ia-a-israel.shtml",
       "summary": "O passageiro Almog Italie, que estava no voo da Flydubai em direção a Israel nesta quarta-feira (30) disse que parecia que a aeronave atravessava uma \"forte turbulência\", até perceber que uma luta de vida ou morte havia ocorrido na cabine de comando.\nLeia mais (09/30/2026 - 16h58)",
@@ -453,114 +816,15 @@
       "theme": "Comércio e Finanças"
     },
     {
-      "title": "Evangélicos são alvo de disputa, mas rejeitam uso eleitoral de igrejas",
-      "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/evangelicos-sao-alvo-de-disputa-mas-rejeitam-uso-eleitoral-de-igrejas",
-      "summary": "\n                    \n\t\t\t\t\"O voto deveria ser do cidadão e não da religião\", afirma o pastor Lucas Oliveira, 30 anos, que atua em uma igreja batista de Nova Iguaçu, na Baixada Fluminense. A frase do pregador evangélico, em conversa com a Agência Brasil, sintetiza uma das principais contradições reve...",
-      "source": "Agência Brasil",
-      "origin": "brasil",
-      "image": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-      "published_at": "2026-09-30T19:53:00+00:00",
-      "region": "América do Sul",
-      "theme": "Direito Internacional e Instituições"
-    },
-    {
-      "title": "Netanyahu praises stabbed Indian pilot for saving lives on Flydubai flight",
-      "url": "https://www.aljazeera.com/news/2026/9/30/netanyahu-praises-indian-pilot-for-saving-lives-on-flydubai-flight?traffic_source=rss",
-      "summary": "The Israeli prime minister thanks &#039;true hero&#039; Captain Smit Machchhar for &#039;extraordinary bravery&#039;.",
-      "source": "Al Jazeera English",
-      "origin": "internacional",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/AFP__20260930__C9U62HX__v2__MidRes__IsraelSaudiUaeTransportAviation-1790784806.jpg?resize=1200%2C630",
-      "published_at": "2026-09-30T19:49:21+00:00",
-      "region": "Ásia",
-      "theme": "Ciência, Tecnologia e Inovação"
-    },
-    {
-      "title": "Campanha de Lula busca associar caso de menina morta por PM a Flávio",
-      "url": "https://www.poder360.com.br/poder-eleicoes-2026/campanha-de-lula-busca-associar-caso-de-menina-morta-por-pm-a-flavio/",
-      "summary": "Partido abordará nos dias que antecedem o 1º turno a morte de Ana Clara Machado, de 5 anos, em 2021, e a atuação do candidato do PL como advogado de policial acusado",
-      "source": "Poder360",
-      "origin": "brasil",
-      "image": "https://static.poder360.com.br/uploads/2026/09/Campanha-de-Lula-Flavio-PM-1200x675.png",
-      "published_at": "2026-09-30T19:49:15+00:00",
-      "region": "América do Sul",
-      "theme": "Cultura, Mídia e Sociedade"
-    },
-    {
-      "title": "US regulator launches probe into AI companies",
-      "url": "https://www.aljazeera.com/economy/2026/9/30/us-regulator-launches-probe-into-ai-companies?traffic_source=rss",
-      "summary": "FTC investigates AI firms amid concerns over rogue agents and potential threats to humanity within the next decade.",
-      "source": "Al Jazeera English",
-      "origin": "internacional",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/ap_6abd5a62efd8c-1790794339.jpg?resize=1920%2C1440",
-      "published_at": "2026-09-30T19:46:35+00:00",
-      "region": "América do Norte",
-      "theme": "Ciência, Tecnologia e Inovação"
-    },
-    {
-      "title": "How does Trump’s White House AI accord work?",
-      "url": "https://www.aljazeera.com/economy/2026/9/30/how-does-trumps-white-house-ai-accord-work?traffic_source=rss",
-      "summary": "Trump announces voluntary pact on AI, urging companies to self-police amid growing calls for strict safety regulations.",
-      "source": "Al Jazeera English",
-      "origin": "internacional",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/reuters_6abd3958-1790785880.jpg?resize=1920%2C1440",
-      "published_at": "2026-09-30T19:44:42+00:00",
-      "region": "América do Norte",
-      "theme": "Ciência, Tecnologia e Inovação"
-    },
-    {
-      "title": "Displaced by war, young Sudanese turn to entrepeneurship to survive",
-      "url": "https://www.aljazeera.com/features/2026/9/30/displaced-by-war-young-sudanese-turn-to-entrepeneurship-to-survive?traffic_source=rss",
-      "summary": "Displaced by war and shut out of formal jobs, young Sudanese are turning to art, small businesses, and entrepeneurship.",
-      "source": "Al Jazeera English",
-      "origin": "internacional",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/IMG_2692-copy-1790774028.jpg?resize=1200%2C675",
-      "published_at": "2026-09-30T19:43:47+00:00",
-      "region": "América do Norte",
-      "theme": "Geopolítica e Segurança"
-    },
-    {
-      "title": "French court sentences 13 men over deadliest small-boat crossing to UK",
-      "url": "https://www.aljazeera.com/news/2026/9/30/french-court-sentences-13-men-over-deadliest-small-boat-crossing-to-uk?traffic_source=rss",
-      "summary": "Six people smugglers are found guilty of involuntary homicide after 31 migrants died in the English Channel in 2021.",
-      "source": "Al Jazeera English",
-      "origin": "internacional",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/reuters_6abd4e1c-1790791196.jpg?resize=1920%2C1440",
-      "published_at": "2026-09-30T19:41:43+00:00",
-      "region": "Europa",
-      "theme": "Ciência, Tecnologia e Inovação"
-    },
-    {
-      "title": "Flydubai FZ1073 timeline: How the Israel-bound flight emergency unfolded",
-      "url": "https://www.aljazeera.com/news/2026/9/30/flydubai-fz1073-timeline-how-the-israel-bound-flight-emergency-unfolded?traffic_source=rss",
-      "summary": "Flydubai flight diverts to Saudi Arabia after cockpit emergency, as Netanyahu alleges a crash attempt.",
-      "source": "Al Jazeera English",
-      "origin": "internacional",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/getty_6abd422dbe-1790788141.jpg?resize=1920%2C1440",
-      "published_at": "2026-09-30T19:39:50+00:00",
-      "region": "Oriente Médio",
-      "theme": "Ciência, Tecnologia e Inovação"
-    },
-    {
-      "title": "Rodrigo Pacheco toma posse como ministro do TCU",
-      "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/rodrigo-pacheco-toma-posse-como-ministro-do-tcu",
-      "summary": "\n                    \n\t\t\t\tO ex-presidente do Senado Rodrigo Pacheco tomou posse nesta quarta-feira (30) no cargo de ministro do Tribunal de Contas da União (TCU). A nomeação foi publicada em edição extra do Diário Oficial da União de segunda-feira (28).\n\nO ex-senador ocupa a vaga aberta com a saída ...",
-      "source": "Agência Brasil",
-      "origin": "brasil",
-      "image": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-      "published_at": "2026-09-30T19:31:00+00:00",
-      "region": "América do Sul",
-      "theme": "Política Brasileira"
-    },
-    {
-      "title": "Estudante acusa sete colegas de estupro em universidade de elite dos EUA",
+      "title": "Estudante processa universidade de elite dos EUA por omissão em caso de estupro",
       "url": "https://redir.folha.com.br/redir/online/mundo/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/estudante-acusa-sete-colegas-de-estupro-em-universidade-de-elite-dos-eua.shtml",
-      "summary": "Uma estudante acusa sete colegas de tê-la estuprado na Universidade Cornell, nos Estados Unidos, e de oferecerem seu corpo para violação sexual em um grupo de alunos no WhatsApp. O caso teria acontecido em 2024, mas as acusações vieram à tona neste mês, quando ela apresentou uma ação civil.\nLeia mai...",
+      "summary": "Uma estudante está processando a Universidade Cornell, nos Estados Unidos. Ela acusa a instituição de omissão ante sua acusação de que foi vítima de estupro por sete colegas. Eles também oferecerem seu corpo para violação sexual em um grupo de alunos no WhatsApp.\nLeia mais (09/30/2026 - 16h21)",
       "source": "Folha de S.Paulo - Mundo",
       "origin": "brasil",
       "image": "https://f.i.uol.com.br/fotografia/2026/09/30/17907781006abd1af45bd13_1790778100_3x2_rt.jpg",
       "published_at": "2026-09-30T19:21:00+00:00",
       "region": "América do Sul",
-      "theme": "Economia Internacional"
+      "theme": "Direito Internacional e Instituições"
     },
     {
       "title": "Un piloto apuñala a otro en pleno vuelo y pone al borde del desastre a un avión con destino a Israel",
@@ -585,39 +849,6 @@
       "theme": "Direito Internacional e Instituições"
     },
     {
-      "title": "Ronaldo leaves Portugal training camp after coach drops him from upcoming match",
-      "url": "https://www.france24.com/en/sport/20260930-ronaldo-leaves-portugal-training-camp-after-coach-drops-him-from-upcoming-match",
-      "summary": "Portugal captain and striker Cristiano Ronaldo said Wednesday he had walked out on the national team's training camp in Copenhagen after coach Jorge Jesus announced the 41-year-old player would be dropped from the team's next match against Denmark.",
-      "source": "France 24",
-      "origin": "internacional",
-      "image": "https://s.france24.com/media/display/a94802c6-bcf9-11f1-ab0c-ddce071186a9/w:1024/p:16x9/5e59e151fd9de4028ee658699a78fdd885897e2d.jpg",
-      "published_at": "2026-09-30T19:14:33+00:00",
-      "region": "América do Norte",
-      "theme": "Direitos Humanos, Sociedade e Migrações"
-    },
-    {
-      "title": "Clashes between French teens, police as school blockades intensify",
-      "url": "https://www.france24.com/en/clashes-between-french-teens-police-as-school-blockades-intensify",
-      "summary": "French teenagers on Tuesday set fire to rubbish bins and threw projectiles at police who responded with batons and tear gas, with hundreds detained across the country over the blockades and protests demanding better conditions at schools. Since last week, students have staged protests outside hundre...",
-      "source": "France 24",
-      "origin": "internacional",
-      "image": "https://s.france24.com/media/display/5b148b08-bd01-11f1-ac56-1b050e7dec5f/w:1024/p:16x9/EN-20260930-204115-204316-CS.jpg",
-      "published_at": "2026-09-30T19:07:32+00:00",
-      "region": "Global",
-      "theme": "Direitos Humanos, Sociedade e Migrações"
-    },
-    {
-      "title": "Ethiopia back to civil war? Horn of Africa fears spillover effect of renewed fighting",
-      "url": "https://www.france24.com/en/tv-shows/the-debate/20260930-ethiopia-back-to-civil-war-horn-of-africa-fears-spillover-effect-of-renewed-fighting",
-      "summary": "After contagion in the Arabian Peninsula, should the entire Horn of Africa fear a domino effect? Just as Donald Trump’s decision to invade Iran drew the Saudis back to Yemen: did threats over the Strait of Bab el-Mandeb light the fuse in Ethiopia, where last week, unresolved issues between the gover...",
-      "source": "France 24",
-      "origin": "internacional",
-      "image": "https://s.france24.com/media/display/b4b4ab32-b81c-11f1-9a75-9d4ae5c4ba17/w:1024/p:16x9/2026-09-24T101012Z-919341318-RC2KPNA74E5F-RTRMADP-3-ETHIOPIA-SECURITY.jpg",
-      "published_at": "2026-09-30T19:04:20+00:00",
-      "region": "América do Norte",
-      "theme": "Outros / Multitemático"
-    },
-    {
       "title": "As construções monumentais 'escondidas' na Amazônia descobertas por cientistas",
       "url": "https://www.bbc.com/portuguese/articles/cm4gvnv14zlgo?at_medium=RSS&at_campaign=rss",
       "summary": "Trabalho publicado no periódico acadêmico Nature usou uma tecnologia de ponta para desvendar o que há abaixo da copa das árvores — e revelou a existência de estruturas construídas por séculos, numa região que pode ter abrigado milhões de pessoas. Entenda o que esse trabalho indica sobre o passado da...",
@@ -627,17 +858,6 @@
       "published_at": "2026-09-30T19:02:13+00:00",
       "region": "América do Sul",
       "theme": "Meio Ambiente e Clima"
-    },
-    {
-      "title": "British PM alleges there are 'strong indications' Iran was involved in Fairford airbase incident",
-      "url": "https://www.france24.com/en/europe/20260930-british-pm-alleges-there-are-strong-indications-iran-was-involved-in-fairford-airbase-incident",
-      "summary": "UK Prime Minister Andy Burnham on Wednesday insisted that there were \"strong indications\" that Tehran was involved in a security incident on Sunday near an airbase in England that the US military uses in its war against Iran. The British government has still not explained the nature of the incident ...",
-      "source": "France 24",
-      "origin": "internacional",
-      "image": "https://s.france24.com/media/display/79072c1c-bc0a-11f1-9add-555a0aff87a4/w:1024/p:16x9/2026-09-29T064654Z-1635109463-RC2USNAUC1I4-RTRMADP-3-BRITAIN-USA-FAIRFORD.jpg",
-      "published_at": "2026-09-30T19:01:30+00:00",
-      "region": "América do Norte",
-      "theme": "Geopolítica e Segurança"
     },
     {
       "title": "Avião da Flydubai que ia a Israel perdeu 5 km de altitude em 90 segundos, mostra site; veja vídeo",
@@ -660,61 +880,6 @@
       "published_at": "2026-09-30T18:55:59+00:00",
       "region": "América do Sul",
       "theme": "Política Internacional"
-    },
-    {
-      "title": "EUA tiram visto de procurador que investiga ex-assessor de Milei",
-      "url": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-09/eua-tiram-visto-de-fiscal-que-investiga-ex-assessor-de-milei",
-      "summary": "\n                    \n\t\t\t\tOs Estados Unidos (EUA) retiraram o visto de 26 autoridades e empresários latino-americanas do Peru, da Colômbia, Equador e Bolívia. Entre eles, o do procurador-geral da Bolívia, Roger Mariaca, responsável pela investigação contra o argentino Fernando Cerimedo, operador dig...",
-      "source": "Agência Brasil",
-      "origin": "brasil",
-      "image": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-      "published_at": "2026-09-30T18:46:00+00:00",
-      "region": "América do Sul",
-      "theme": "Direito Internacional e Instituições"
-    },
-    {
-      "title": "Brasil e EUA criam grupo específico para negociar tarifaço",
-      "url": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-09/brasil-e-eua-criam-grupo-especifico-para-negociar-tarifaco",
-      "summary": "\n                    \n\t\t\t\tOs governos do Brasil e dos Estados Unidos decidiram criar um grupo de trabalho para discutir as tarifas aplicadas por Washington sobre produtos brasileiros e outros temas da relação comercial entre os dois países. \n\nO acordo foi anunciado nesta quarta-feira (30), após reun...",
-      "source": "Agência Brasil",
-      "origin": "brasil",
-      "image": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-      "published_at": "2026-09-30T18:32:00+00:00",
-      "region": "América do Sul",
-      "theme": "Comércio e Finanças"
-    },
-    {
-      "title": "Gilmar Mendes critica vazamento seletivo de investigações no STF",
-      "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/gilmar-mendes-critica-vazamento-seletivo-de-investigacoes-no-stf",
-      "summary": "\n                    \n\t\t\t\tO ministro Gilmar Mendes, do Supremo Tribunal Federal (STF), voltou a criticar nesta quarta-feira (30) os \"vazamentos seletivos\" de investigações que estão em andamento na Corte.\n\nDurante a abertura da sessão desta tarde, Gilmar Mendes proferiu um discurso em homenagem ao p...",
-      "source": "Agência Brasil",
-      "origin": "brasil",
-      "image": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-      "published_at": "2026-09-30T18:25:00+00:00",
-      "region": "América do Sul",
-      "theme": "Política Brasileira"
-    },
-    {
-      "title": "UK Believes Iran Played a Part in RAF Fairford Air Base Incident, Burnham Says",
-      "url": "https://www.nytimes.com/2026/09/30/world/europe/uk-iran-raf-fairford-burnham.html",
-      "summary": "The British prime minister, Andy Burnham, said there were “strong indications” Iran played a part in the events at R.A.F. Fairford on Sunday, without providing details why.",
-      "source": "The New York Times",
-      "origin": "internacional",
-      "image": "https://static01.nyt.com/images/2026/09/30/multimedia/30int-uk-airbase-plot-1-wfgc/30int-uk-airbase-plot-1-wfgc-mediumSquareAt3X.jpg",
-      "published_at": "2026-09-30T18:12:27+00:00",
-      "region": "Europa",
-      "theme": "Cultura, Mídia e Sociedade"
-    },
-    {
-      "title": "Mudanças na emissão e no controle de receitas médicas entram em vigor",
-      "url": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-09/mudancas-na-emissao-e-no-controle-de-receitas-medicas-entram-em-vigor",
-      "summary": "\n                    \n\t\t\t\tA partir desta quarta-feira (30), o Sistema Nacional de Controle de Receituários (SNCR) da Agência Nacional de Vigilância Sanitária (Anvisa) passa a disponibilizar funcionalidades específicas para a emissão e o controle eletrônico de receitas médicas.\n\nEm nota, a Anvisa des...",
-      "source": "Agência Brasil",
-      "origin": "brasil",
-      "image": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-      "published_at": "2026-09-30T17:56:00+00:00",
-      "region": "América do Sul",
-      "theme": "Meio Ambiente e Clima"
     },
     {
       "title": "'Puxei os controles e parei a queda do avião': passageiro conta como impediu tragédia após copiloto esfaquear piloto",
@@ -750,17 +915,6 @@
       "theme": "Geopolítica e Segurança"
     },
     {
-      "title": "Termina nesta quarta prazo para pedir dinheiro do fundo PIS/Pasep",
-      "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-09/termina-nesta-quarta-prazo-para-pedir-dinheiro-do-fundo-pispasep",
-      "summary": "\n                    \n\t\t\t\tEmpregados com carteira assinada e servidores públicos que trabalharam de 1971 a 1988 que querem sacar as cotas do antigo fundo Programa de Integração Social (PIS) e Programa de Formação do Patrimônio do Servidor Público (Pasep) precisam estar atentos. Acaba nesta quarta-fe...",
-      "source": "Agência Brasil",
-      "origin": "brasil",
-      "image": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-      "published_at": "2026-09-30T17:48:00+00:00",
-      "region": "América do Sul",
-      "theme": "Cultura, Mídia e Sociedade"
-    },
-    {
       "title": "O que Xi sinalizou para Trump sobre Taiwan em Washington",
       "url": "https://redir.folha.com.br/redir/online/mundo/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/o-que-xi-sinalizou-para-trump-sobre-taiwan-em-washington.shtml",
       "summary": "Esta é a edição da newsletter China, terra do meio desta terça-feira (29). Quer recebê-la toda semana no seu email? Inscreva-se abaixo:\nLeia mais (09/30/2026 - 14h42)",
@@ -770,17 +924,6 @@
       "published_at": "2026-09-30T17:42:00+00:00",
       "region": "América do Sul",
       "theme": "Direito Internacional e Instituições"
-    },
-    {
-      "title": "Imersão científica leva alunas e professoras a centros tecnológicos",
-      "url": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-09/imersao-cientifica-leva-alunas-e-professoras-centros-tecnologicos",
-      "summary": "\n                    \n\t\t\t\tAlunas do ensino médio e professoras de escolas públicas estaduais de todo o Brasil podem se inscrever, até o próximo dia 26 de outubro, para conhecer os maiores laboratórios e espaços de desenvolvimento científico e tecnológico do país.\n\nA oportunidade faz parte do Program...",
-      "source": "Agência Brasil",
-      "origin": "brasil",
-      "image": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-      "published_at": "2026-09-30T17:40:00+00:00",
-      "region": "América do Sul",
-      "theme": "Cultura, Mídia e Sociedade"
     },
     {
       "title": "American Forces Withdraw From Iraq 23 Years After Invading",
@@ -816,17 +959,6 @@
       "theme": "Ciência, Tecnologia e Inovação"
     },
     {
-      "title": "UK-France 'one in, one out' migrant scheme scrapped",
-      "url": "https://www.bbc.co.uk/news/articles/c64gvnv4eqylo?at_medium=RSS&at_campaign=rss",
-      "summary": "Some 1,500 people have been removed to France since the scheme began just over a year ago.",
-      "source": "BBC News - World",
-      "origin": "internacional",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3390/live/d0d6c780-bce7-11f1-8ce2-417f8f7cb095.jpg",
-      "published_at": "2026-09-30T17:11:08+00:00",
-      "region": "América do Norte",
-      "theme": "Direitos Humanos, Sociedade e Migrações"
-    },
-    {
       "title": "Confronto em avião: pilotos 'reserva' fizeram pouso de emergência após ataque com faca em voo",
       "url": "https://g1.globo.com/mundo/noticia/2026/09/30/confronto-aviao-israel-pilotos-reserva-fizeram-pouso-de-emergencia-apos-ataque-com-faca.ghtml",
       "summary": "     Vídeo mostra sangue e pilotos feridos na cabine após briga em voo desviado\nO r\nDois pilotos da FlyDubai que estavam a bordo do voo FZ1073 mas não estavam no cockpit estabilizaram a aeronave e realizaram o pouso de emergência na Arábia Saudita nesta quarta-feira (30) após o copiloto ter esfaquea...",
@@ -836,17 +968,6 @@
       "published_at": "2026-09-30T17:03:39+00:00",
       "region": "América do Sul",
       "theme": "Geopolítica e Segurança"
-    },
-    {
-      "title": "Museu de Ciências da Terra leva \"dinossauros\" ao Morro da Urca, no Rio",
-      "url": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-09/museu-de-ciencias-da-terra-leva-dinossauros-ao-morro-da-urca-no-rio",
-      "summary": "\n                    \n\t\t\t\tO Morro da Urca, na Zona Sul do Rio de Janeiro, vai se tornar um lugar de descobertas sobre fósseis e dinossauros com a exposição de peças do acervo do Museu de Ciências da Terra (MCTer). A exposição A Aventura Pré-Histórica será entre os dias 5 e 18 de outubro, das 10h às ...",
-      "source": "Agência Brasil",
-      "origin": "brasil",
-      "image": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-      "published_at": "2026-09-30T16:46:00+00:00",
-      "region": "América do Sul",
-      "theme": "Ciência, Tecnologia e Inovação"
     },
     {
       "title": "Avião para Israel despenca no ar após piloto esfaquear outro, e reação dos passageiros evita desastre; o que se sabe",
@@ -893,28 +1014,6 @@
       "theme": "Direito Internacional e Instituições"
     },
     {
-      "title": "Portaria libera doação de sangue de pessoas com mais de 70 anos",
-      "url": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-09/portaria-libera-doacao-de-sangue-de-pessoas-com-mais-de-70-anos",
-      "summary": "\n                    \n\t\t\t\tPessoas com 70 anos ou mais que permaneçam saudáveis poderão ser doadoras de sangue, segundo o novo regulamento técnico da hemoterapia no Brasil. A mudança foi estabelecida na Portaria GM/MS 11.685/2026, do Ministério da Saúde, que foi publicada em julho e passa a valer a p...",
-      "source": "Agência Brasil",
-      "origin": "brasil",
-      "image": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-      "published_at": "2026-09-30T16:08:00+00:00",
-      "region": "América do Sul",
-      "theme": "Saúde"
-    },
-    {
-      "title": "Execution of US murderer Christa Pike halted shortly before it was due to happen",
-      "url": "https://www.bbc.co.uk/news/articles/cw20vxxn876no?at_medium=RSS&at_campaign=rss",
-      "summary": "Pike was convicted and sentenced to death in 1996 for the murder of Colleen Slemmer.",
-      "source": "BBC News - World",
-      "origin": "internacional",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d7cd/live/e4a1ffd0-bbdb-11f1-bd21-bdf910f2cec6.jpg",
-      "published_at": "2026-09-30T15:29:11+00:00",
-      "region": "América do Norte",
-      "theme": "Outros / Multitemático"
-    },
-    {
       "title": "Eiffel Tower Chief Resigns After Female Staff Moved for Hindu Group’s Visit",
       "url": "https://www.nytimes.com/2026/09/30/world/europe/eiffel-tower-director-resigns.html",
       "summary": "Patrick Branco Ruivo, who ran the tower’s operating company, will step down after an internal inquiry cited “problems and shortcomings” over the moving of female employees.",
@@ -935,17 +1034,6 @@
       "published_at": "2026-09-30T15:12:24+00:00",
       "region": "América do Sul",
       "theme": "Ciência, Tecnologia e Inovação"
-    },
-    {
-      "title": "Ethiopia fighting escalates in Tigray killing 52 civilians, medic tells the BBC",
-      "url": "https://www.bbc.co.uk/news/articles/c6grveejg1e2o?at_medium=RSS&at_campaign=rss",
-      "summary": "The deadly fighting has also spread to neighbouring regions, stranding tourists in Lalibela.",
-      "source": "BBC News - World",
-      "origin": "internacional",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0c58/live/f0312b90-bcdb-11f1-bc2e-018d645d8d21.png",
-      "published_at": "2026-09-30T15:04:32+00:00",
-      "region": "Global",
-      "theme": "Outros / Multitemático"
     },
     {
       "title": "Russia launches largest attack on Ukraine energy infrastructure since spring",
@@ -1030,7 +1118,7 @@
       "summary": "Bogong moths have been in decline since the 1980s, but this spring the insects have been sighted in the thousands across southeastern Australia, delighting scientists.",
       "source": "The New York Times",
       "origin": "internacional",
-      "image": "https://loremflickr.com/800/450/news?lock=534",
+      "image": "https://loremflickr.com/800/450/news?lock=373",
       "published_at": "2026-09-30T13:10:47+00:00",
       "region": "América do Norte",
       "theme": "Outros / Multitemático"
@@ -1047,39 +1135,6 @@
       "theme": "Geopolítica e Segurança"
     },
     {
-      "title": "VÍDEO: Veja trajeto do voo que estava a caminho de Israel e foi desviado para a Arábia Saudita após briga entre pilotos",
-      "url": "https://g1.globo.com/mundo/noticia/2026/09/30/video-veja-trajeto-do-voo-que-estava-a-caminho-de-israel-e-foi-desviado-para-a-arabia-saudita-apos-briga-entre-pilotos.ghtml",
-      "summary": "     Veja trajeto do voo que foi desviado a caminho de Israel\nImagens feitas a partir do Flightradar24 mostram a rota do voo que partiu de Dubai, nos Emirados Árabes Unidos, com destino a Tel Aviv, em Israel, e que foi desviado para a Arábia Saudita após uma briga entre pilotos nesta quarta-feira (3...",
-      "source": "G1 - Mundo",
-      "origin": "brasil",
-      "image": "https://s2-g1.glbimg.com/95fEICl8roBBL0rFbJqSZO_MB34=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Z/9/ek7oTVRvOoDavrm3fqlg/design-sem-nome-2026-09-30t093855.118.jpg",
-      "published_at": "2026-09-30T12:51:13+00:00",
-      "region": "América do Sul",
-      "theme": "Cultura, Mídia e Sociedade"
-    },
-    {
-      "title": "VÍDEO mostra passageiro ensanguentado e homens caídos em avião que desviou de Tel Aviv por suposto atentado",
-      "url": "https://g1.globo.com/mundo/noticia/2026/09/30/video-mostra-passageiro-ensanguentado-e-homens-caidos-em-aviao-com-destino-a-tel-aviv.ghtml",
-      "summary": "     Vídeo mostra sangue e pilotos feridos na cabine após briga em voo desviado\nImagens registradas dentro do avião da FlyDubai com destino a Tel Aviv, que foi desviado nesta quarta-feira (30) após um suposto atentado terrorista, mostraram um passageiro ensanguentado e homens no chão com ferimentos....",
-      "source": "G1 - Mundo",
-      "origin": "brasil",
-      "image": "https://s2-g1.glbimg.com/95fEICl8roBBL0rFbJqSZO_MB34=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Z/9/ek7oTVRvOoDavrm3fqlg/design-sem-nome-2026-09-30t093855.118.jpg",
-      "published_at": "2026-09-30T12:36:36+00:00",
-      "region": "América do Sul",
-      "theme": "Geopolítica e Segurança"
-    },
-    {
-      "title": "After Two Decades, U.S. Forces Leave Iraq to an Uncertain Future",
-      "url": "https://www.nytimes.com/2026/09/30/world/middleeast/iraq-us-forces.html",
-      "summary": "Some Iraqis are celebrating the end of an American military presence that unleashed waves of bloodshed. Others fear what happens next for their country, trapped between Washington and Tehran.",
-      "source": "The New York Times",
-      "origin": "internacional",
-      "image": "https://static01.nyt.com/images/2026/09/30/multimedia/30int-iraq-us-withdrawal-mkqv/30int-iraq-us-withdrawal-mkqv-mediumSquareAt3X.jpg",
-      "published_at": "2026-09-30T12:29:23+00:00",
-      "region": "América do Norte",
-      "theme": "Geopolítica e Segurança"
-    },
-    {
       "title": "Rússia faz rara ameaça nuclear explícita contra a Europa",
       "url": "https://redir.folha.com.br/redir/online/mundo/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/russia-faz-rara-ameaca-nuclear-explicita-contra-a-europa.shtml",
       "summary": "A Rússia fez uma rara ameaça explícita de emprego de armas nucleares contra países europeus da aliança militar Otan, e disse nesta quarta-feira (30) que o aviso é um lembrete aos \"cabeças quentes\" do continente sobre sua política de defesa.\nLeia mais (09/30/2026 - 09h18)",
@@ -1089,6 +1144,17 @@
       "published_at": "2026-09-30T12:18:00+00:00",
       "region": "América do Sul",
       "theme": "Geopolítica e Segurança"
+    },
+    {
+      "title": "Who gets to shape AI? UN debate centres on power, trust and inclusion",
+      "url": "https://news.un.org/feed/view/en/story/2026/09/1168498",
+      "summary": "Artificial Intelligence or AI – and the technology behind it – is moving fast. The question being asked across the world is who gets a seat at the table deciding how it's used and who gets to benefit.",
+      "source": "UN News",
+      "origin": "internacional",
+      "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/08/21-08-2026-UNICEF-Sudan-01.jpg/image560x340cropped.jpg",
+      "published_at": "2026-09-30T12:00:00+00:00",
+      "region": "América do Norte",
+      "theme": "Política Internacional"
     },
     {
       "title": "World News in Brief: Storm clouds over Gaza, deadly obstacles face Mexican women rights defenders, Latvia booze ban proves lifesaver",
@@ -1159,35 +1225,13 @@
     {
       "title": "Piloto esfaqueou comandante e tentou derrubar avião que ia a Israel, diz Netanyahu; ministros falam em ataque terrorista",
       "url": "https://redir.folha.com.br/redir/online/mundo/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/ministro-de-israel-diz-que-houve-tentativa-de-ataque-terrorista-em-voo-desviado-a-arabia-saudita.shtml",
-      "summary": "O primeiro-ministro de Israel, Binyamin Netanyahu, afirmou nesta quarta-feira (30) que um dos pilotos de um voo da Flydubai de Dubai para Tel Aviv esfaqueou o outro e tentou derrubar o avião com todos os passageiros a bordo. O episódio, tratado como um possível ataque terrorista, obrigou a aeronave ...",
+      "summary": "O primeiro-ministro de Israel, Binyamin Netanyahu, afirmou nesta quarta-feira (30) que um dos pilotos de um voo de Dubai para Tel Aviv esfaqueou o outro e tentou derrubar o avião com todos os passageiros a bordo. O episódio, tratado como um possível ataque terrorista, obrigou a aeronave da Flydubai ...",
       "source": "Folha de S.Paulo - Mundo",
       "origin": "brasil",
       "image": "https://f.i.uol.com.br/fotografia/2026/09/30/17907816696abd28e5d9044_1790781669_3x2_rt.jpg",
       "published_at": "2026-09-30T11:40:00+00:00",
       "region": "América do Sul",
       "theme": "Geopolítica e Segurança"
-    },
-    {
-      "title": "Last UK and US troops leave Iraq as anti-Islamic State mission ends",
-      "url": "https://www.bbc.co.uk/news/articles/c65ym1dyn92mo?at_medium=RSS&at_campaign=rss",
-      "summary": "The withdrawal of coalition forces, under a deal agreed two years ago, was a key demand of the Iraqi government.",
-      "source": "BBC News - World",
-      "origin": "internacional",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a1f4/live/bfefaa90-bcba-11f1-babe-4199b0e7ccea.jpg",
-      "published_at": "2026-09-30T11:36:23+00:00",
-      "region": "América do Norte",
-      "theme": "Geopolítica e Segurança"
-    },
-    {
-      "title": "Ataque em avião: governo israelense diz que houve tentativa de atentado e que homem queria derrubar voo",
-      "url": "https://g1.globo.com/mundo/noticia/2026/09/30/briga-entre-pilotos-governo-isarelense-diz-que-houve-tentativa-de-ataque-terrorista.ghtml",
-      "summary": "     Avião com destino a Israel é desviado após briga entre pilotos\nO ministro de Segurança Nacional de Israel, Itamar Ben Gvir, afirmou nesta quarta-feira (30) que o incidente em um voo com destino a Tel Aviv — que despencou no ar após uma suposta briga entre pilotos — foi uma tentativa de ataque t...",
-      "source": "G1 - Mundo",
-      "origin": "brasil",
-      "image": "https://s2-g1.glbimg.com/pZDU9yUm30ssphGAhpODIvU4QnY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/0/i/dGRpViQXWzvsZGXT7T2A/globo-canal-4-20260930-0800-frame-62720.jpeg",
-      "published_at": "2026-09-30T11:24:34+00:00",
-      "region": "América do Sul",
-      "theme": "Política Internacional"
     },
     {
       "title": "BBC News Brasil fará cobertura AO VIVO sobre debate e jornada eleitoral, apuração e resultados do primeiro turno das eleições 2026",
@@ -1267,17 +1311,6 @@
       "theme": "Política Internacional"
     },
     {
-      "title": "Girl has multiple surgeries to control infections after strike in Gaza",
-      "url": "https://www.bbc.co.uk/news/videos/c8n5d0e0n6wdo?at_medium=RSS&at_campaign=rss",
-      "summary": "Witnesses say Raseel's tent was hit by an Israeli helicopter strike. Israel’s military says it has no record of the attack.",
-      "source": "BBC News - World",
-      "origin": "internacional",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e9c7/live/7d112a00-bc92-11f1-bc1f-3f186ca4140c.jpg",
-      "published_at": "2026-09-30T05:02:50+00:00",
-      "region": "Oriente Médio",
-      "theme": "Geopolítica e Segurança"
-    },
-    {
       "title": "EUA passam a exigir redes sociais abertas de jornalistas que solicitarem visto",
       "url": "https://redir.folha.com.br/redir/online/mundo/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/eua-passam-a-exigir-redes-sociais-abertas-de-jornalistas-que-solicitarem-visto.shtml",
       "summary": "A partir de quinta-feira (1º), os Estados Unidos vão ampliar a análise de redes sociais de solicitantes de vistos e passarão a exigir que candidatos de três novas categorias mantenham seus perfis públicos ou abertos. A medida alcança, entre outros grupos, jornalistas estrangeiros que pedem autorizaç...",
@@ -1287,28 +1320,6 @@
       "published_at": "2026-09-30T02:26:00+00:00",
       "region": "América do Sul",
       "theme": "Ciência, Tecnologia e Inovação"
-    },
-    {
-      "title": "Se eleito, Flávio planeja implementar no Itamaraty reforma importada do governo Trump",
-      "url": "https://redir.folha.com.br/redir/online/mundo/rss091/*https://www1.folha.uol.com.br/mundo/2026/09/se-eleito-flavio-planeja-implementar-no-itamaraty-reforma-importada-do-governo-trump.shtml",
-      "summary": "O senador Flávio Bolsonaro (PL-RJ) planeja implementar o modelo do secretário de Estado americano, Marco Rubio, no Itamaraty, caso vença a eleição. Essa é a ideia que Marcos Degaut, braço-direito do ex-deputado Eduardo Bolsonaro em política externa, vem passando em reuniões fechadas com diplomatas e...",
-      "source": "Folha de S.Paulo - Mundo",
-      "origin": "brasil",
-      "image": "https://f.i.uol.com.br/fotografia/2026/09/29/17907198276abc3753f0117_1790719827_3x2_rt.jpg",
-      "published_at": "2026-09-30T02:00:00+00:00",
-      "region": "América do Sul",
-      "theme": "Direito Internacional e Instituições"
-    },
-    {
-      "title": "O que a guerra cultural sobre Nossa Senhora pode ensinar ao mundo",
-      "url": "https://redir.folha.com.br/redir/online/mundo/rss091/*https://www1.folha.uol.com.br/colunas/rui-tavares/2026/09/o-que-a-guerra-cultural-sobre-nossa-senhora-pode-ensinar-ao-mundo.shtml",
-      "summary": "Em bom rigor, eu não queria escrever sobre as eleições no Brasil; mas escrevi um livrinho sobre guerras culturais (\"Hipocritões e Olhigarcas: Passado e Futuro das Guerras Culturais\", que saiu há uns meses no Brasil pela editora Tinta da China) e o que aconteceu esta semana no Brasil parecia quase um...",
-      "source": "Folha de S.Paulo - Mundo",
-      "origin": "brasil",
-      "image": "https://f.i.uol.com.br/fotografia/2025/10/12/176028265468ebc81e96b23_1760282654_3x2_rt.jpg",
-      "published_at": "2026-09-30T02:00:00+00:00",
-      "region": "América do Sul",
-      "theme": "Geopolítica e Segurança"
     },
     {
       "title": "Piketty prevê fim do dólar como moeda global: 'Muito em breve'",
@@ -1330,17 +1341,6 @@
       "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production+Library/06-05-20-UNHCR-Rohingya-boat-people-bay-of-bengal-andaman-sea.jpg/image560x340cropped.jpg",
       "published_at": "2026-09-29T12:00:00+00:00",
       "region": "Oriente Médio",
-      "theme": "Direitos Humanos, Sociedade e Migrações"
-    },
-    {
-      "title": "Funding cuts put 8.3 million refugees at risk of losing vital assistance",
-      "url": "https://news.un.org/feed/view/en/story/2026/09/1168486",
-      "summary": "Haji Mohammad Shafi spent 44 years in Pakistan before he was forced to leave. He sold everything he owned and returned to Afghanistan with his five children, arriving with almost nothing.",
-      "source": "UN News",
-      "origin": "internacional",
-      "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/09/29-09-2026-UNHCR-Burundi.jpg/image560x340cropped.jpg",
-      "published_at": "2026-09-29T12:00:00+00:00",
-      "region": "Global",
       "theme": "Direitos Humanos, Sociedade e Migrações"
     },
     {
