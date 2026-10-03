@@ -1,36 +1,586 @@
 {
-  "last_updated": "2026-10-03T18:37:12.828481+00:00",
+  "last_updated": "2026-10-03T21:55:39.799048+00:00",
   "articles": [
     {
-      "title": "Mercado diz que ativos só serão recalibrados com surpresa nas urnas",
-      "url": "https://www.poder360.com.br/poder-eleicoes-2026/mercado-diz-que-ativos-so-serao-recalibrados-com-surpresa-nas-urnas/",
-      "summary": "Analistas dizem que pesquisas já estão incorporadas aos preços e que fiscal e Congresso serão decisivos após eleição",
+      "title": "Datafolha PE: Raquel tem 49% dos votos válidos no 1º turno; João, 48%",
+      "url": "https://www.cnnbrasil.com.br/eleicoes/datafolha-pe-raquel-tem-49-dos-votos-validos-no-1o-turno-joao-48/",
+      "summary": "Levantamento ouviu 1.650 eleitores de 16 anos ou mais, entre os dias 2 e 3 de outubro; margem de erro é de dois pontos percentuais, com nível de confiança é de 95%",
+      "source": "CNN Brasil",
+      "origin": "brasil",
+      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/05/Renata-18.jpg?w=1200&h=630&crop=1",
+      "published_at": "2026-10-03T21:51:58+00:00",
+      "region": "América do Sul",
+      "theme": "Direito Internacional e Instituições"
+    },
+    {
+      "title": "Equipe de Lula quer realinhar ações com candidatos ao governo e Senado",
+      "url": "https://www.poder360.com.br/poder-eleicoes-2026/equipe-de-lula-quer-realinhar-acoes-com-candidatos-ao-governo-e-senado/",
+      "summary": "Encontro na próxima semana visa a tratar de estratégias com aliados apoiados pelo petista nos Estados caso seja confirmada disputa com Flávio Bolsonaro no 2º turno",
       "source": "Poder360",
       "origin": "brasil",
-      "image": "https://static.poder360.com.br/uploads/2026/09/tre-df-brasilia-eleicoes-urnas-eletronicas-3-1200x675.jpg",
-      "published_at": "2026-10-03T18:35:26+00:00",
+      "image": "https://static.poder360.com.br/uploads/2026/10/lula-haddad-ato-2-1200x675.jpg",
+      "published_at": "2026-10-03T21:50:04+00:00",
+      "region": "América do Sul",
+      "theme": "Política Brasileira"
+    },
+    {
+      "title": "Deltan pede que Fachin retire de Gilmar pedido para anular seus votos",
+      "url": "https://www.poder360.com.br/poder-eleicoes-2026/deltan-pede-que-fachin-retire-de-gilmar-pedido-para-anular-seus-votos/",
+      "summary": "Advogados dizem que ação de Zeca Dirceu foi juntada irregularmente a processo relatado por Gilmar e deveria passar pelo filtro criado pelo STF",
+      "source": "Poder360",
+      "origin": "brasil",
+      "image": "https://static.poder360.com.br/uploads/2026/09/Deltan-dallagnol-1200x675.jpg",
+      "published_at": "2026-10-03T21:45:25+00:00",
+      "region": "América do Sul",
+      "theme": "Política Brasileira"
+    },
+    {
+      "title": "Lula tem 45% e Flávio, 42% dos votos válidos no 1º turno, diz Datafolha",
+      "url": "https://www.poder360.com.br/poder-eleicoes-2026/lula-tem-45-e-flavio-42-dos-votos-validos-no-1o-turno-diz-datafolha/",
+      "summary": "Levantamento ouviu 4.006 eleitores em todo o território brasileiro, de 2 a 3 de outubro; a margem de erro é de 2 pontos percentuais",
+      "source": "Poder360",
+      "origin": "brasil",
+      "image": "https://static.poder360.com.br/uploads/2026/08/lula-flavio-sergio-lima-poder360-1200x675.webp",
+      "published_at": "2026-10-03T21:45:18+00:00",
+      "region": "América do Sul",
+      "theme": "Política Brasileira"
+    },
+    {
+      "title": "Datafolha: Lula tem 47% em votos totais no 2º turno; Flávio, 46%",
+      "url": "https://www.cnnbrasil.com.br/eleicoes/datafolha-2-turno/",
+      "summary": "Foram ouvidos 2.002 eleitores entre os dias 1º e 3 de outubro; margem de erro é de dois pontos percentuais, para mais ou para menos",
+      "source": "CNN Brasil",
+      "origin": "brasil",
+      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/10/Lula-e-Flavio-3.png?w=1200&h=630&crop=1",
+      "published_at": "2026-10-03T21:44:14+00:00",
+      "region": "América do Sul",
+      "theme": "Política Brasileira"
+    },
+    {
+      "title": "Fábio tem 46,5% dos votos válidos e Valmir, 40,8% em SE, diz AtlasIntel",
+      "url": "https://www.poder360.com.br/poder-eleicoes-2026/fabio-tem-465-dos-votos-validos-e-valmir-408-em-se-diz-atlasintel/",
+      "summary": "Levantamento ouviu 1.261 eleitores de 27 de setembro a 2 de outubro; margem de erro é de 3 pontos percentuais",
+      "source": "Poder360",
+      "origin": "brasil",
+      "image": "https://static.poder360.com.br/uploads/2026/09/urna-eletronica-1200x675.jpg",
+      "published_at": "2026-10-03T21:43:55+00:00",
+      "region": "América do Sul",
+      "theme": "Direito Internacional e Instituições"
+    },
+    {
+      "title": "Datafolha DF: Celina tem 55% dos votos válidos; Grass, 27%",
+      "url": "https://www.cnnbrasil.com.br/eleicoes/datafolha-df-celina-tem-55-dos-votos-validos-grass-27/",
+      "summary": "Instituto entrevistou 1620 eleitores entre os dias 2 e 3 de outubro; margem de erro é de dois pontos percentuais, para mais ou para menos",
+      "source": "CNN Brasil",
+      "origin": "brasil",
+      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/09/Celina-Leao-e-Leandro-Grass.png?w=1200&h=630&crop=1",
+      "published_at": "2026-10-03T21:41:32+00:00",
+      "region": "América do Sul",
+      "theme": "Direito Internacional e Instituições"
+    },
+    {
+      "title": "São Paulo empata com o Corinthians e conquista o Brasileirão feminino",
+      "url": "https://www.cnnbrasil.com.br/esportes/brasileirao/sao-paulo-empata-com-o-corinthians-e-conquista-o-brasileirao-feminino/",
+      "summary": "Rivais se enfrentaram neste sábado (3), no Estádio do Morumbis, e o time tricolor assegurou o troféu",
+      "source": "CNN Brasil",
+      "origin": "brasil",
+      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/10/sp-e1791063392377.jpg?w=800&h=451&crop=1",
+      "published_at": "2026-10-03T21:39:24+00:00",
+      "region": "América do Sul",
+      "theme": "Direito Internacional e Instituições"
+    },
+    {
+      "title": "Datafolha RJ: Paes tem 46% dos votos válidos no 1º turno; Ruas, 38%",
+      "url": "https://www.cnnbrasil.com.br/eleicoes/datafolha-rj-paes-tem-46-dos-votos-validos-no-1o-turno-ruas-38/",
+      "summary": "Levantamento ouviu 2.002 eleitores fluminenses, entre os dias 2 e 3 de outubro; margem de erro de dois pontos percentuais, para mais ou para menos",
+      "source": "CNN Brasil",
+      "origin": "brasil",
+      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/04/eduardo-paes-e-douglas-ruas.png?w=900&h=506&crop=1",
+      "published_at": "2026-10-03T21:36:11+00:00",
+      "region": "América do Sul",
+      "theme": "Direito Internacional e Instituições"
+    },
+    {
+      "title": "Datafolha: Lula tem 45% dos votos válidos no 1º turno; Flávio, 42%",
+      "url": "https://www.cnnbrasil.com.br/eleicoes/datafolha-lula-tem-45-dos-votos-validos-no-1o-turno-flavio-42/",
+      "summary": "Pesquisa divulgada neste sábado (3) ouviu 2.002 eleitores em todo o país entre os dias 1º e 3 de outubro; margem de erro é de dois pontos percentuais, para mais ou para menos, com nível de confiança de 95%",
+      "source": "CNN Brasil",
+      "origin": "brasil",
+      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/02/Flavio-e-Lula-1.png?w=1200&h=630&crop=1",
+      "published_at": "2026-10-03T21:34:13+00:00",
+      "region": "América do Sul",
+      "theme": "Política Brasileira"
+    },
+    {
+      "title": "Trump anuncia pagamento de US$ 90 a idosos antes das eleições legislativas nos EUA",
+      "url": "https://g1.globo.com/mundo/noticia/2026/10/03/trump-anuncia-pagamento-de-us-90-a-idosos-antes-das-eleicoes-legislativas-nos-eua.ghtml",
+      "summary": "     EMBAIXADA DOS EUA\nO presidente dos Estados Unidos, Donald Trump, anunciou um pagamento de US$ 90  (equivalentes a  R$ 468,97) para mais de 20 milhões de idosos que recebem o Medicare, programa público de saúde americano. \nO dinheiro será destinado ao pagamento de parte dos custos do seguro e de...",
+      "source": "G1 - Mundo",
+      "origin": "brasil",
+      "image": "https://s2-g1.glbimg.com/7BJm_zCzTmQG7at_K5Y_vRDtpPw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/H/p/Q63mXSSC2weBMNBmAZdA/trump-onu.jpg",
+      "published_at": "2026-10-03T21:33:32+00:00",
+      "region": "América do Sul",
+      "theme": "Direito Internacional e Instituições"
+    },
+    {
+      "title": "Portugal investiga uso de base aérea pelos EUA em conflito com o Irã",
+      "url": "https://www.cnnbrasil.com.br/internacional/portugal-investiga-uso-de-base-aerea-pelos-eua-em-conflito-com-o-ira/",
+      "summary": "Ação foi aberta pelo Ministério Público após denúncia do partido Bloco de Esquerda sobre a legalidade dos voos autorizados pelo governo",
+      "source": "CNN Brasil",
+      "origin": "brasil",
+      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/04/Bandeira-de-Portugal.jpg?w=1200&h=630&crop=1",
+      "published_at": "2026-10-03T21:31:27+00:00",
+      "region": "América do Sul",
+      "theme": "Geopolítica e Segurança"
+    },
+    {
+      "title": "Quaest Senado/PE: Marília, 30%; Humberto, 27%; Mendonça, 18%; Eduardo, 15%",
+      "url": "https://www.cnnbrasil.com.br/eleicoes/quaest-senado-pe-marilia-30-humberto-27-mendonca-18-eduardo-15/",
+      "summary": "Levantamento ouviu 2.652 eleitores de 16 anos ou mais, entre os dias 2 e 3 de outubro; margem de erro é de dois pontos percentuais, com nível de confiança é de 95%",
+      "source": "CNN Brasil",
+      "origin": "brasil",
+      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/10/Os-candidatos-ao-Senado-em-Pernambuco-Marilia-Arraes-PDT-Humberto-Costa-PT-Mendonca-Filho-PL-e-Eduardo-da-FOnte-PP.png?w=1200&h=630&crop=1",
+      "published_at": "2026-10-03T21:30:11+00:00",
       "region": "América do Sul",
       "theme": "Política Internacional"
     },
     {
-      "title": "Clientes do BB e do Bradesco têm transtornos com limite e cartões",
-      "url": "https://www.poder360.com.br/poder-economia/clientes-do-bb-e-do-bradesco-tem-transtornos-com-limite-e-cartoes/",
-      "summary": "Bancos negam o fim de categorias de cartões, enquanto clientes relatam bloqueios antecipados e recusas na função débito",
+      "title": "Atlas RJ: Paes tem 48% dos votos válidos; Douglas Ruas tem 39%",
+      "url": "https://www.cnnbrasil.com.br/eleicoes/atlas-rj-paes-tem-48-dos-votos-validos-douglas-ruas-tem-39/",
+      "summary": "Levantamento ouviu 1.206 pessoas entre 27 de setembro e 2 de outubro; o levantamento considera apenas os votos válidos",
+      "source": "CNN Brasil",
+      "origin": "brasil",
+      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/09/Marcelo-Crivella-e-Benedita-da-Silva-11.jpg?w=1200&h=630&crop=1",
+      "published_at": "2026-10-03T21:29:16+00:00",
+      "region": "América do Sul",
+      "theme": "Outros / Multitemático"
+    },
+    {
+      "title": "Nova Zelândia e Austrália iniciam votação de brasileiros no exterior",
+      "url": "https://www.poder360.com.br/poder-eleicoes-2026/nova-zelandia-e-australia-iniciam-votacao-de-brasileiros-no-exterior/",
+      "summary": "Países foram os primeiros a receber eleitores nas urnas para as eleições 2026",
       "source": "Poder360",
       "origin": "brasil",
-      "image": "https://static.poder360.com.br/uploads/2026/05/operacao-rio-clonagem-cartao-20mai26.png",
-      "published_at": "2026-10-03T18:34:39+00:00",
+      "image": "https://static.poder360.com.br/uploads/2026/10/Urna-UrnaEletronica-Eleicoes-JusticaEleitoral-TSE-17-848x477-1.webp",
+      "published_at": "2026-10-03T21:28:32+00:00",
+      "region": "América do Sul",
+      "theme": "Direito Internacional e Instituições"
+    },
+    {
+      "title": "Datafolha MG: Cleitinho 53% dos votos válidos; Patrus, 21%; Kalil, 9%",
+      "url": "https://www.cnnbrasil.com.br/eleicoes/datafolha-mg-cleitinho-53-dos-votos-validos-patrus-21-kalil-9/",
+      "summary": "Pesquisa entrevistou 2.010 eleitores mineiros entre os dias 2 e 3 de outubro; margem de erro é de 2 p.p., para mais ou para menos, com intervalo de confiança de 95%",
+      "source": "CNN Brasil",
+      "origin": "brasil",
+      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/09/Cleitinho-Patrus-e-Kalil-.png?w=1200&h=630&crop=1",
+      "published_at": "2026-10-03T21:25:48+00:00",
+      "region": "América do Sul",
+      "theme": "Direito Internacional e Instituições"
+    },
+    {
+      "title": "Em 48 horas, Flávio tem mais engajamento que Lula no Instagram",
+      "url": "https://www.poder360.com.br/poder-eleicoes-2026/em-48-horas-flavio-tem-mais-engajamento-que-lula-no-instagram/",
+      "summary": "Candidato do PL registrou 4,1 milhões de interações ante 3,8 milhões do presidente; levantamento é da DSC Lab",
+      "source": "Poder360",
+      "origin": "brasil",
+      "image": "https://static.poder360.com.br/uploads/2026/08/Lula-Flavio-entrevistas-Globo-ago2026-1200x675.png",
+      "published_at": "2026-10-03T21:24:52+00:00",
+      "region": "América do Sul",
+      "theme": "Política Brasileira"
+    },
+    {
+      "title": "Viúva de Rick posta reflexão sobre luto após morte do cantor: “Devastadora”",
+      "url": "https://www.cnnbrasil.com.br/pop/celebridades/viuva-de-rick-posta-reflexao-sobre-luto-apos-morte-do-cantor-devastadora/",
+      "summary": "Geralda Helena comentou sobre saudade; cantor morreu no dia 21 de setembro, em um acidente de helicóptero",
+      "source": "CNN Brasil",
+      "origin": "brasil",
+      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/09/geralda-e-rick-e1790073537697.jpg?w=1200&h=630&crop=1",
+      "published_at": "2026-10-03T21:23:44+00:00",
+      "region": "América do Sul",
+      "theme": "Outros / Multitemático"
+    },
+    {
+      "title": "Datafolha/SP: Tarcísio tem 60% dos votos válidos no 1º turno; Haddad, 35%",
+      "url": "https://www.cnnbrasil.com.br/eleicoes/datafolha-sp-tarcisio-tem-60-dos-votos-validos-no-1o-turno-haddad-35/",
+      "summary": "Levantamento do instituto ouviu 2.520 eleitores e tem margem de erro de dois pontos percentuais",
+      "source": "CNN Brasil",
+      "origin": "brasil",
+      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2022/10/Site_0710.png?w=1200&h=630&crop=1",
+      "published_at": "2026-10-03T21:23:19+00:00",
+      "region": "América do Sul",
+      "theme": "Economia Brasileira"
+    },
+    {
+      "title": "Celina Leão tem 53% dos votos válidos no DF, diz Quaest",
+      "url": "https://www.poder360.com.br/poder-eleicoes-2026/celina-leao-tem-53-dos-votos-validos-no-df-diz-quaest/",
+      "summary": "Estudo feito de 2 a 3 de outubro mostra Leandro Grass com 32%; margem de erro é de 2 pontos percentuais",
+      "source": "Poder360",
+      "origin": "brasil",
+      "image": "https://static.poder360.com.br/uploads/2026/07/Celina-Leao-5jun2025-848x477-1.webp",
+      "published_at": "2026-10-03T21:23:18+00:00",
+      "region": "América do Sul",
+      "theme": "Outros / Multitemático"
+    },
+    {
+      "title": "Quaest: Jordy tem 17% ao Senado no Rio; Benedita e Portinho, 16%",
+      "url": "https://www.cnnbrasil.com.br/eleicoes/quaest-jordy-tem-17-ao-senado-no-rio-benedita-e-portinho-16/",
+      "summary": "Levantamento ouviu 3.204 eleitores entre os dias 2 e 3 de outubro; margem de erro é de 2 pontos percentuais, para mais ou para menos",
+      "source": "CNN Brasil",
+      "origin": "brasil",
+      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/09/JORDY-BENETIDA-PORTINHO.png?w=900&h=506&crop=1",
+      "published_at": "2026-10-03T21:23:11+00:00",
+      "region": "América do Sul",
+      "theme": "Política Internacional"
+    },
+    {
+      "title": "Cleitinho tem 54% e Patrus, 23% no 1º turno em MG, diz pesquisa",
+      "url": "https://www.poder360.com.br/poder-eleicoes-2026/cleitinho-tem-54-e-patrus-23-no-1o-turno-em-mg-diz-pesquisa/",
+      "summary": "Levantamento Quaest considera os votos válidos e ouviu 3.204 eleitores no Estado, de 2 a 3 de outubro; a margem de erro é de 2 pontos percentuais",
+      "source": "Poder360",
+      "origin": "brasil",
+      "image": "https://static.poder360.com.br/uploads/2026/03/rbr2526-scaled-1.jpg",
+      "published_at": "2026-10-03T21:21:03+00:00",
+      "region": "América do Sul",
+      "theme": "Direito Internacional e Instituições"
+    },
+    {
+      "title": "Medical plane with 6 on board missing off Massachusetts coast",
+      "url": "https://www.bbc.co.uk/news/articles/cme3x85013llo?at_medium=RSS&at_campaign=rss",
+      "summary": "The aircraft lost communication with flight controllers after significantly dropping in altitude, according to flight data.",
+      "source": "BBC News - World",
+      "origin": "internacional",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5084/live/3748e6a0-bf41-11f1-8acc-0bb5649ca116.jpg",
+      "published_at": "2026-10-03T21:16:21+00:00",
+      "region": "América do Norte",
+      "theme": "Outros / Multitemático"
+    },
+    {
+      "title": "Israeli settlers attack Palestinian farmers during olive harvest",
+      "url": "https://www.aljazeera.com/video/2026/10/3/israeli-settlers-attack-palestinian-farmers-during-olive-harvest-2?traffic_source=rss",
+      "summary": "Israeli settlers attack Palestinian farmers during olive harvest",
+      "source": "Al Jazeera English",
+      "origin": "internacional",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/olive-harvest-Horizontal-thumb-1791062060.jpg?resize=1920%2C1080&quality=80",
+      "published_at": "2026-10-03T21:15:05+00:00",
+      "region": "Oriente Médio",
+      "theme": "Geopolítica e Segurança"
+    },
+    {
+      "title": "Nikolas diz que Lula lhe deu “um presentão” ao dizer que não o conhece",
+      "url": "https://www.poder360.com.br/poder-eleicoes-2026/nikolas-diz-que-lula-lhe-deu-um-presentao-ao-dizer-que-nao-o-conhece/",
+      "summary": "Deputado federal fez vídeo para contar sua trajetória desde a infância no Cabana do Pai Tomás, favela em Belo Horizonte",
+      "source": "Poder360",
+      "origin": "brasil",
+      "image": "https://static.poder360.com.br/uploads/2026/10/nikolas-video-lula-1200x675.jpg",
+      "published_at": "2026-10-03T21:14:39+00:00",
+      "region": "América do Sul",
+      "theme": "Política Brasileira"
+    },
+    {
+      "title": "Trump publica telefone de senador republicano em briga por horário de verão",
+      "url": "https://www.cnnbrasil.com.br/internacional/trump-publica-telefone-de-senador-republicano-em-briga-por-horario-de-verao/",
+      "summary": "Presidente americano acusa parlamentar de bloquear projeto para tornar o horário de verão permanente no país; Tom Cotton, senador pelo estado do Arkansas, diz que quer proteger a população",
+      "source": "CNN Brasil",
+      "origin": "brasil",
+      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/09/Presidente-americano.webp?w=1200&h=630&crop=1",
+      "published_at": "2026-10-03T21:14:38+00:00",
+      "region": "América do Sul",
+      "theme": "Política Internacional"
+    },
+    {
+      "title": "'Presenciei quase 500 execuções de presos e nunca vi uma como a de Christa Pike', diz repórter",
+      "url": "https://redir.folha.com.br/redir/online/mundo/rss091/*https://www1.folha.uol.com.br/mundo/2026/10/presenciei-quase-500-execucoes-de-presos-e-nunca-vi-uma-como-a-de-christa-pike-diz-reporter.shtml",
+      "summary": "O repórter Michael Graczyk acompanhou quase 500 execuções de presos realizadas no estado americano do Texas e não parou nem depois de se aposentar da agência AP (Associated Press), em 2018.\nLeia mais (10/03/2026 - 18h12)",
+      "source": "Folha de S.Paulo - Mundo",
+      "origin": "brasil",
+      "image": "https://f.i.uol.com.br/fotografia/2026/10/03/17910592266ac1651a890f2_1791059226_3x2_xl.jpg",
+      "published_at": "2026-10-03T21:12:00+00:00",
+      "region": "América do Sul",
+      "theme": "Economia Brasileira"
+    },
+    {
+      "title": "Rádio MEC estreia série Eu Gosto de Música, apresentada por Ruy Castro",
+      "url": "https://agenciabrasil.ebc.com.br/cultura/noticia/2026-10/radio-mec-estreia-serie-eu-gosto-de-musica-apresentada-por-ruy-castro",
+      "summary": "\n                    \n\t\t\t\tA Rádio MEC estreia neste domingo (4), às 21h, a série original Eu Gosto de Música, apresentada pelo jornalista e escritor Ruy Castro. Inspirada no livro mais recente do autor, a produção especial terá quatro episódios dedicados aos gêneros samba, carnaval, bossa nova e jaz...",
+      "source": "Agência Brasil",
+      "origin": "brasil",
+      "image": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+      "published_at": "2026-10-03T21:12:00+00:00",
       "region": "América do Sul",
       "theme": "Cultura, Mídia e Sociedade"
     },
     {
-      "title": "PF apreende R$ 500 mil e prende 2 suspeitos de crimes eleitorais em AL",
-      "url": "https://www.poder360.com.br/poder-eleicoes-2026/pf-apreende-r-500-mil-e-prende-2-suspeitos-de-crimes-eleitorais-em-al/",
-      "summary": "Polícia identificou suspeita de compra de votos após grupo realizar saques atípicos",
+      "title": "Dr. Daniel tem 57% dos votos válidos no Pará; Hana, 40%, diz Quaest",
+      "url": "https://www.poder360.com.br/poder-eleicoes-2026/dr-daniel-tem-57-dos-votos-validos-no-para-hana-40-diz-quaest/",
+      "summary": "Pesquisa ouviu 1.800 eleitores de 2 a 3 de outubro; margem de erro é de 2 pontos percentuais",
       "source": "Poder360",
       "origin": "brasil",
-      "image": "https://static.poder360.com.br/uploads/2026/10/imagem-pf-ia.jpeg",
-      "published_at": "2026-10-03T18:28:28+00:00",
+      "image": "https://static.poder360.com.br/uploads/2026/08/prismada-dr-daniel-hana-ghassan-1200x675.jpg",
+      "published_at": "2026-10-03T21:11:39+00:00",
+      "region": "América do Sul",
+      "theme": "Direito Internacional e Instituições"
+    },
+    {
+      "title": "Rituais sagrados: por que os egípcios gravavam mensagens para o além nas paredes de tumbas milenares",
+      "url": "https://www.cnnbrasil.com.br/curiosidades/rituais-sagrados-por-que-os-egipcios-gravavam-mensagens-para-o-alem-nas-paredes-de-tumbas-milenares/",
+      "summary": "Achado recente no Egito revela rituais antigos de proteção e recado emocionante de filho para pai em sepultura da Antiguidade",
+      "source": "CNN Brasil",
+      "origin": "brasil",
+      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/09/Tumulo-piramidal-no-Egito-Foto-Ministerio-do-Turismo-e-AntiguidadesGaleria-de-6-Imagens.png?w=1200&h=630&crop=1",
+      "published_at": "2026-10-03T21:09:56+00:00",
+      "region": "América do Sul",
+      "theme": "Ciência, Tecnologia e Inovação"
+    },
+    {
+      "title": "Fernandes denies Portugal rift, hails Ronaldo after walk out",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/3/fernandes-denies-portugal-rift-hails-ronaldo-after-walk-out?traffic_source=rss",
+      "summary": "Bruno Fernandes says he has spoken to Cristiano Ronaldo and denies a rift within Portugal’s squad.",
+      "source": "Al Jazeera English",
+      "origin": "internacional",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/Screenshot-2026-10-03-at-21.56.32-1791061124.png?resize=1200%2C675",
+      "published_at": "2026-10-03T21:02:22+00:00",
+      "region": "Global",
+      "theme": "Outros / Multitemático"
+    },
+    {
+      "title": "Latvia exit polls put PM's pro-Ukraine party ahead but coalition partners stumble",
+      "url": "https://www.france24.com/en/europe/20261003-latvia-elections-pm-kulbergs-pro-ukraine-party-ahead-coalition-partners-stumble",
+      "summary": "Latvian Prime Minister Andris Kulbergs' pro-Ukraine and pro-Europe party was seen winning a parliamentary election on Saturday by an unexpectedly wide margin, exit polls showed, even as projected results for other coalition parties suggested the centrist PM would have to form a new ruling coalition.",
+      "source": "France 24",
+      "origin": "internacional",
+      "image": "https://s.france24.com/media/display/2928feea-bf6c-11f1-8285-dd51fcab6130/w:1024/p:16x9/2026-10-03T092541Z-1228379656-RC2KVNAISL7K-RTRMADP-3-LATVIA-ELECTION.jpg",
+      "published_at": "2026-10-03T20:58:30+00:00",
+      "region": "Europa",
+      "theme": "Política Internacional"
+    },
+    {
+      "title": "Ataque de Israel mata cinco pessoas e destrói prédio residencial em Gaza",
+      "url": "https://redir.folha.com.br/redir/online/mundo/rss091/*https://www1.folha.uol.com.br/mundo/2026/10/ataque-de-israel-mata-cinco-pessoas-e-destroi-predio-residencial-em-gaza.shtml",
+      "summary": "Um ataque aéreo do Exército de Israel matou cinco palestinos, incluindo quatro mulheres, em um prédio de apartamentos na Cidade de Gaza na madrugada deste sábado (3), segundo autoridades dos serviços de saúde e Defesa Civil.\nLeia mais (10/03/2026 - 17h57)",
+      "source": "Folha de S.Paulo - Mundo",
+      "origin": "brasil",
+      "image": "https://f.i.uol.com.br/fotografia/2026/10/03/17910597026ac166f6c0e63_1791059702_3x2_rt.jpg",
+      "published_at": "2026-10-03T20:57:00+00:00",
+      "region": "América do Sul",
+      "theme": "Geopolítica e Segurança"
+    },
+    {
+      "title": "Brasileiros no exterior começam a votar pela Nova Zelândia",
+      "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/03/brasileiros-no-exterior-comecam-a-votar-pela-nova-zelandia-e-australia.ghtml",
+      "summary": "     Agora no g1\nA votação para brasileiros que vivem no exterior começou pela Oceania neste domingo (4). A Nova Zelândia foi o primeiro país a abrir as urnas, às 8h no horário local, o equivalente às 16h deste sábado (3) pelo horário de Brasília.\nAs primeiras seções foram abertas na capital do país...",
+      "source": "G1 - Mundo",
+      "origin": "brasil",
+      "image": "https://s2-g1.glbimg.com/_vFGD6qnTw6gc63QJ8h8w6s9ERY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/I/lqIZYvQxG17yVffvT1cg/embaixada.png",
+      "published_at": "2026-10-03T20:25:57+00:00",
+      "region": "América do Sul",
+      "theme": "Direito Internacional e Instituições"
+    },
+    {
+      "title": "Russia Turns to Striking Kyiv’s Bridges, Threatening a Vital Lifeline",
+      "url": "https://www.nytimes.com/2026/10/03/world/europe/russia-ukraine-bridges-kyiv.html",
+      "summary": "The bridges, used by many commuters in the Ukrainian capital, are the latest target in a broad Russian bombing campaign against infrastructure.",
+      "source": "The New York Times",
+      "origin": "internacional",
+      "image": "https://static01.nyt.com/images/2026/10/03/multimedia/03int-ukraine-bridges-qcpk/03int-ukraine-bridges-qcpk-mediumSquareAt3X.jpg",
+      "published_at": "2026-10-03T20:17:31+00:00",
+      "region": "América do Norte",
+      "theme": "Outros / Multitemático"
+    },
+    {
+      "title": "Tribunais distribuem urnas e preparam seções para eleição",
+      "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/tribunais-distribuem-urnas-e-preparam-se%C3%A7oes-para-eleicao",
+      "summary": "\n                    \n\t\t\t\tOs tribunais regionais eleitorais de todo o país realizam neste sábado (3), véspera do primeiro turno da eleição, os últimos procedimentos para o pleito. \n\nMais de 560 mil urnas eletrônicas estão sendo levadas aos locais de votação, onde serão posicionadas, preparadas e man...",
+      "source": "Agência Brasil",
+      "origin": "brasil",
+      "image": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+      "published_at": "2026-10-03T20:17:00+00:00",
+      "region": "América do Sul",
+      "theme": "Política Internacional"
+    },
+    {
+      "title": "Trump ramps up pressure on US Republicans to end US clock switching",
+      "url": "https://www.aljazeera.com/news/2026/10/3/trump-ramps-up-pressure-on-us-republicans-to-end-us-clock-switching?traffic_source=rss",
+      "summary": "The US president published a lawmaker&#039;s cell phone number as he called for the passage of a bill making DST permanent.",
+      "source": "Al Jazeera English",
+      "origin": "internacional",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/ap_6ac14c3e85b15-1791052862.jpg?resize=1920%2C1440",
+      "published_at": "2026-10-03T20:16:50+00:00",
+      "region": "América do Norte",
+      "theme": "Direito Internacional e Instituições"
+    },
+    {
+      "title": "Lula and Bolsonaro make final push for votes ahead of Brazil's knife-edge election",
+      "url": "https://www.france24.com/en/americas/20261003-lula-and-bolsonaro-make-final-push-for-votes-ahead-of-brazil-s-knife-edge-election",
+      "summary": "Brazil's President Luiz Inacio Lula da Silva and his main challenger Flavio Bolsonaro wrapped up their campaigns on Saturday in the powerhouse state of Sao Paulo, where a fifth of the nation's vote is based, seeking to rally supporters and convince the undecided on the eve of Sunday's nail-biter ele...",
+      "source": "France 24",
+      "origin": "internacional",
+      "image": "https://s.france24.com/media/display/4ae32c90-bf62-11f1-bcb8-dd51fcab6130/w:1024/p:16x9/2026-10-03T181839Z-337218467-RC2QVNAP2RHU-RTRMADP-3-BRAZIL-ELECTION-LULA.jpg",
+      "published_at": "2026-10-03T20:16:01+00:00",
+      "region": "América do Norte",
+      "theme": "Outros / Multitemático"
+    },
+    {
+      "title": "El partido conservador Lista Unida gana las generales en Letonia, según los sondeos",
+      "url": "https://elpais.com/internacional/2026-10-03/el-partido-conservador-lista-unida-gana-las-generales-en-letonia-segun-los-sondeos.html",
+      "summary": "La formación del primer ministro, Andris Kulbergs, se impone con más de 20 puntos de ventaja respecto al segundo pero tendrá que pactar",
+      "source": "El País - Internacional",
+      "origin": "internacional",
+      "image": "https://imagenes.elpais.com/resizer/v2/U65SXMCCJVLITPYULAUIQ23GUY.jpg?auth=3117602e9ec43ea451d3aab10417d3a44af60484f116a6cd485722f83fc97131",
+      "published_at": "2026-10-03T20:15:56+00:00",
+      "region": "Global",
+      "theme": "Política Internacional"
+    },
+    {
+      "title": "Trump divulga número de celular atribuído a senador republicano em briga sobre horário de verão",
+      "url": "https://redir.folha.com.br/redir/online/mundo/rss091/*https://www1.folha.uol.com.br/mundo/2026/10/trump-divulga-numero-de-celular-atribuido-a-senador-republicano-em-briga-sobre-horario-de-verao.shtml",
+      "summary": "O presidente dos Estados Unidos, Donald Trump, divulgou na internet, neste sábado (3), o suposto número de telefone de um senador Partido Republicano, em meio a uma disputa sobre tornar permanente o horário de verão no país.\nLeia mais (10/03/2026 - 17h14)",
+      "source": "Folha de S.Paulo - Mundo",
+      "origin": "brasil",
+      "image": "https://f.i.uol.com.br/fotografia/2026/10/03/17910542046ac1517c6846d_1791054204_3x2_rt.jpg",
+      "published_at": "2026-10-03T20:14:00+00:00",
+      "region": "América do Sul",
+      "theme": "Ciência, Tecnologia e Inovação"
+    },
+    {
+      "title": "Funeral held at Gaza church for mother and daughter killed in Gaza strike",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/3/funeral-held-at-gaza-church-for-mother-and-daughter-killed-in-gaza-strike?traffic_source=rss",
+      "summary": "Funeral prayers were held at Gaza City’s Saint Porphyrius Greek Orthodox Church for a Palestinian mother and daughter.",
+      "source": "Al Jazeera English",
+      "origin": "internacional",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/Screenshot-2026-10-03-at-21.05.08-1791058139.png?resize=1200%2C675",
+      "published_at": "2026-10-03T20:10:17+00:00",
+      "region": "América do Norte",
+      "theme": "Direitos Humanos, Sociedade e Migrações"
+    },
+    {
+      "title": "Por que a Espanha, que construía casas demais, vive hoje uma grave crise de moradia",
+      "url": "https://g1.globo.com/mundo/noticia/2026/10/03/por-que-a-espanha-que-construia-casas-demais-vive-hoje-uma-grave-crise-de-moradia.ghtml",
+      "summary": "     Milhares foram às ruas de Madri neste sábado\nEPA\nNos últimos dias, o nome da aposentada Maricarmen Abascal, de 87 anos, esteve presente em muitas rodas de conversa na Espanha.\nAs imagens da idosa sendo retirada de maca pelos paramédicos do apartamento no centro de Madri, onde ela morou de alugu...",
+      "source": "G1 - Mundo",
+      "origin": "brasil",
+      "image": "https://s2-g1.glbimg.com/MeAeysbdtcj6g_TNtoG1NaVOgzs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/d/P/FvE6G4RB6qj6YRyIAWdg/61d77bb0-bcf4-11f1-8ce2-417f8f7cb095.jpg",
+      "published_at": "2026-10-03T19:36:31+00:00",
+      "region": "América do Sul",
+      "theme": "Saúde"
+    },
+    {
+      "title": "Operação Rastilho: PF cumpre mandados em investigação eleitoral no CE",
+      "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/operacao-rastilho-pf-cumpre-mandados-em-investigacao-eleitoral-no-ce",
+      "summary": "\n                    \n\t\t\t\tA Polícia Federal (PF) deflagrou, na manhã deste sábado (3), a Operação Rastilho, para aprofundar a investigação sobre possíveis irregularidades eleitorais no Ceará.\n\nA ação é o desdobramento da Operação Rastro, deflagrada no último dia 31 de agosto, quando foram apreendido...",
+      "source": "Agência Brasil",
+      "origin": "brasil",
+      "image": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+      "published_at": "2026-10-03T19:25:00+00:00",
+      "region": "América do Sul",
+      "theme": "Direito Internacional e Instituições"
+    },
+    {
+      "title": "Por que a Espanha, que construía casas demais, vive hoje uma grave crise de moradia",
+      "url": "https://www.bbc.com/portuguese/articles/c3vgygl0r9v2o?at_medium=RSS&at_campaign=rss",
+      "summary": "Para muitos especialistas, a crise financeira de 2008, que levou ao desaparecimento de diversas empresas do setor da construção civil, é um dos principais fatores do déficit de moradias que enfrenta hoje o país, aliado ao aumento da população e dos aluguéis para turismo",
+      "source": "BBC News Brasil",
+      "origin": "brasil",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/6609/live/99fac8d0-bd0d-11f1-8a64-4f07fd1a6b57.jpg",
+      "published_at": "2026-10-03T19:16:16+00:00",
+      "region": "América do Sul",
+      "theme": "Economia Internacional"
+    },
+    {
+      "title": "Remains of Bulgaria’s Czar Samuel return ‘home’ after 1,000 years",
+      "url": "https://www.aljazeera.com/news/2026/10/3/remains-of-bulgarias-czar-samuel-return-home-after-1000-years?traffic_source=rss",
+      "summary": "The emperor is a symbol of Bulgarian national identity whose repatriation stoked tensions with Greece.",
+      "source": "Al Jazeera English",
+      "origin": "internacional",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/AP26276365509888-1791046364.jpg?resize=1920%2C1440",
+      "published_at": "2026-10-03T19:14:43+00:00",
+      "region": "Global",
+      "theme": "Outros / Multitemático"
+    },
+    {
+      "title": "Is the CJP changing India’s political landscape?",
+      "url": "https://www.aljazeera.com/video/inside-story/2026/10/3/is-the-cjp-changing-indias-political-landscape?traffic_source=rss",
+      "summary": "Youth-led movement demands resignation of chief election commissioner.",
+      "source": "Al Jazeera English",
+      "origin": "internacional",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/image-1791051728.jpg?resize=1920%2C1080&quality=80",
+      "published_at": "2026-10-03T19:00:01+00:00",
+      "region": "Ásia",
+      "theme": "Política Internacional"
+    },
+    {
+      "title": "França vai suspender carteira de motoristas flagrados ao celular no volante",
+      "url": "https://redir.folha.com.br/redir/online/mundo/rss091/*https://www1.folha.uol.com.br/mundo/2026/10/franca-vai-suspender-carteira-de-motoristas-flagrados-ao-celular-no-volante.shtml",
+      "summary": "A suspensão temporária da carteira de motorista para quem for flagrado usando o celular ao volante, já adotada em vários departamentos da França, passará a valer em todo o território nacional, anunciou a ministra delegada responsável pela Cidadania, Marie-Pierre Vedrenne.\nLeia mais (10/03/2026 - 15h...",
+      "source": "Folha de S.Paulo - Mundo",
+      "origin": "brasil",
+      "image": "https://f.i.uol.com.br/fotografia/2026/10/03/17910533266ac14e0e3ea98_1791053326_3x2_rt.jpg",
+      "published_at": "2026-10-03T18:58:00+00:00",
+      "region": "América do Sul",
+      "theme": "Cultura, Mídia e Sociedade"
+    },
+    {
+      "title": "Ministério Público de Portugal investiga uso de base militar pelos EUA em conflito com o Irã",
+      "url": "https://g1.globo.com/mundo/noticia/2026/10/03/ministerio-publico-de-portugal-investiga-uso-de-base-militar-pelos-eua-em-conflito-com-o-ira.ghtml",
+      "summary": "     Presidente dos Estados Unidos, Donald Trump, durante pronunciamento na Casa Branca em 18 de setembro de 2026.\nEvan Vucci/ Reuters\nO Ministério Público de Portugal abriu uma investigação para apurar se o governo agiu dentro da lei ao autorizar o uso da Base das Lajes, nos Açores, pelos Estados U...",
+      "source": "G1 - Mundo",
+      "origin": "brasil",
+      "image": "https://s2-g1.glbimg.com/NyjfY7ENDK74ktyUbmxKLYsa1Ok=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/p/B/Ve47ARQrKArjtCGAUkZA/2026-09-18t195212z-62894382-rc2vlnabp7lj-rtrmadp-3-usa-trump-1-.jpg",
+      "published_at": "2026-10-03T18:56:36+00:00",
+      "region": "América do Sul",
+      "theme": "Geopolítica e Segurança"
+    },
+    {
+      "title": "'Presenciei quase 500 execuções de presos – e nunca vi uma como a de Christa Pike'",
+      "url": "https://g1.globo.com/mundo/noticia/2026/10/03/presenciei-quase-500-execucoes-de-presos-e-nunca-vi-uma-como-a-de-christa-pike.ghtml",
+      "summary": "     O repórter Michael Graczyk acompanhou quase 500 execuções de presos realizadas no estado americano do Texas.\nAP via BBC\nO repórter Michael Graczyk acompanhou quase 500 execuções de presos realizadas no estado americano do Texas e não parou nem depois de se aposentar da agência Associated Press ...",
+      "source": "G1 - Mundo",
+      "origin": "brasil",
+      "image": "https://s2-g1.glbimg.com/DO0b5ajhwt9Gpk4lx17ohGa_qb0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/l/Y/IGDCixRyWz9ENixDuJsQ/o-reporter-michael-graczyk-acompanhou-quase-500-execucoes-de-presos-realizadas-no-estado-americano-do-texas.webp",
+      "published_at": "2026-10-03T18:51:03+00:00",
+      "region": "América do Sul",
+      "theme": "Economia Brasileira"
+    },
+    {
+      "title": "Al Jazeera speaks to Palestinian schoolboy from viral photograph",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/3/al-jazeera-speaks-to-palestinian-schoolboy-from-viral-photograph?traffic_source=rss",
+      "summary": "A photo went viral of a Palestinian boy hiding from Israeli forces on his way home from class in the occupied West Bank.",
+      "source": "Al Jazeera English",
+      "origin": "internacional",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/Screenshot-2026-10-03-at-19.44.06-1791053147.png?resize=1200%2C675",
+      "published_at": "2026-10-03T18:49:03+00:00",
+      "region": "Oriente Médio",
+      "theme": "Outros / Multitemático"
+    },
+    {
+      "title": "American High School Students Are Selling Guns Bound for Cartels",
+      "url": "https://www.nytimes.com/2026/10/03/world/americas/high-school-arms-dealing-mexican-cartels.html",
+      "summary": "Drawn by money and status, teenagers in Arizona are buying, stealing and selling weapons destined for criminal groups in Mexico.",
+      "source": "The New York Times",
+      "origin": "internacional",
+      "image": "https://static01.nyt.com/images/2026/09/10/multimedia/00int-mexico-guns-promo/00int-mexico-guns-jbkp-mediumSquareAt3X.jpg",
+      "published_at": "2026-10-03T18:40:49+00:00",
+      "region": "América do Norte",
+      "theme": "Cultura, Mídia e Sociedade"
+    },
+    {
+      "title": "Chefe de prisões do Tennessee renuncia após tentativa fracassada de executar Christa Pike",
+      "url": "https://g1.globo.com/mundo/noticia/2026/10/03/chefe-de-prisoes-do-tennessee-renuncia-apos-tentativa-fracassada-de-executar-christa-pike.ghtml",
+      "summary": "     Christa Pike sobrevive a duas injeções letais nos EUA; entenda o caso\nFrank Strada, chefe do Departamento de Correções do Tennessee, deixará o cargo ainda este mês, informaram autoridades estaduais neste sábado (3). A decisão acontece dias depois de Christa Pike ficar em estado grave após uma t...",
+      "source": "G1 - Mundo",
+      "origin": "brasil",
+      "image": "https://s2-g1.glbimg.com/HDK2ke8q3xiVWdFGMTwrMZisG2M=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/j/W/XLzzudQs295Kyy1E4Blw/2026-10-01t075544z-184107085-rc2ptnayxsrm-rtrmadp-3-tennessee-execution.jpg",
+      "published_at": "2026-10-03T18:38:38+00:00",
+      "region": "América do Sul",
+      "theme": "Cultura, Mídia e Sociedade"
+    },
+    {
+      "title": "Chefe da polícia de Paris afirma que protesto estudantil está fora de controle",
+      "url": "https://g1.globo.com/mundo/noticia/2026/10/03/chefe-da-policia-de-paris-afirma-que-protesto-estudantil-esta-fora-de-controle.ghtml",
+      "summary": "     Alunos da França fazem protestos com foto em Saint-Denis, próximo a Paris.\nAbdul Saboor/Reuters\nO protesto estudantil que se espalhou pela França está agora \"fora de controle\", afirmou o chefe da polícia de Paris neste sábado (03). Ele pediu que os manifestantes retomassem ações pacíficas e ale...",
+      "source": "G1 - Mundo",
+      "origin": "brasil",
+      "image": "https://s2-g1.glbimg.com/kfehrL374cM51_5eEd8HUZgQ-MI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/M/h/tg0FsPTy6SvUUShLYLgQ/2026-10-01t122810z-2020480420-rc2bunawwhbo-rtrmadp-3-france-protest.jpg",
+      "published_at": "2026-10-03T18:35:10+00:00",
       "region": "América do Sul",
       "theme": "Direitos Humanos, Sociedade e Migrações"
     },
@@ -46,15 +596,15 @@
       "theme": "Outros / Multitemático"
     },
     {
-      "title": "PF investiga R$ 4 milhões com suspeita de uso eleitoral",
-      "url": "https://www.poder360.com.br/poder-justica/pf-investiga-r-4-milhoes-com-suspeita-de-uso-eleitoral/",
-      "summary": "Operação Moriarty cumpriu mandados em Roraima; os valores foram apreendidos com um empresário e um PM aposentado",
-      "source": "Poder360",
-      "origin": "brasil",
-      "image": "https://static.poder360.com.br/uploads/2026/07/policia-federal-crime-cibernetico-golpe-anuncios-falsos-1-jun-2026.jpg",
-      "published_at": "2026-10-03T18:27:05+00:00",
-      "region": "América do Sul",
-      "theme": "Direito Internacional e Instituições"
+      "title": "Fernandes hails Ronaldo and calls for Portugal unity ahead of Norway game",
+      "url": "https://www.aljazeera.com/sports/2026/10/3/fernandes-hails-ronaldo-and-calls-for-portugal-unity-ahead-of-norway-game?traffic_source=rss",
+      "summary": "Cristiano Ronaldo withdrew from the Portugal squad, but Bruno Fernandes says forward remains team&#039;s &#039;greatest symbol&#039;.",
+      "source": "Al Jazeera English",
+      "origin": "internacional",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/2026-09-24T201417Z_1191515867_UP1EM9O1K7SZG_RTRMADP_3_SOCCER-UEFANATIONS-POR-WAL-1-1791050832.jpg?resize=1920%2C1440",
+      "published_at": "2026-10-03T18:23:29+00:00",
+      "region": "Global",
+      "theme": "Outros / Multitemático"
     },
     {
       "title": "Svetlana Tijanóvskaya: “Si dejamos que Ucrania pierda la guerra, la pregunta será quién es el siguiente”",
@@ -68,202 +618,15 @@
       "theme": "Geopolítica e Segurança"
     },
     {
-      "title": "Sorteio da Mega-Sena será neste sábado; prêmio é de R$ 82 milhões",
-      "url": "https://www.poder360.com.br/poder-brasil/sorteio-da-mega-sena-sera-neste-sabado-premio-e-de-r-82-milhoes/",
-      "summary": "Apostas podem ser feitas até às 20h; o jogo simples, com 6 dezenas, custa R$ 6.",
-      "source": "Poder360",
-      "origin": "brasil",
-      "image": "https://static.poder360.com.br/uploads/2026/05/loterias-mega-sena-agencia-brasil-apostas.jpg",
-      "published_at": "2026-10-03T18:23:10+00:00",
-      "region": "América do Sul",
-      "theme": "Outros / Multitemático"
-    },
-    {
-      "title": "Atlas/Senado BA: Rui tem 27,3%; Jaques, 24,6%; Angelo, 21,9% e João, 21,2%",
-      "url": "https://www.cnnbrasil.com.br/eleicoes/atlas-senado-ba-rui-tem-273-jaques-246-angelo-219-e-joao-212/",
-      "summary": "Pesquisa ouviu 2.199 eleitores entre os dias 27 de setembro e 2 de outubro; margem de erro é de dois pontos percentuais, para mais ou para menos, com nível de confiança de 95%",
-      "source": "CNN Brasil",
-      "origin": "brasil",
-      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/10/Senado-BA.png?w=1200&h=630&crop=1",
-      "published_at": "2026-10-03T18:20:21+00:00",
-      "region": "América do Sul",
-      "theme": "Política Internacional"
-    },
-    {
-      "title": "Amigos de Lito Sousa se reúnem para manter canal do YouTube após morte",
-      "url": "https://www.cnnbrasil.com.br/pop/celebridades/amigos-de-lito-sousa-se-reunem-para-manter-canal-do-youtube-apos-morte/",
-      "summary": "Equipe se reuniu um dia após o velório do influeciador; especialista em aviação morreu vítima de doença rara e degenerativa",
-      "source": "CNN Brasil",
-      "origin": "brasil",
-      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/10/lito-sousa-amigos.jpg?w=1200&h=630&crop=1",
-      "published_at": "2026-10-03T18:15:53+00:00",
-      "region": "América do Sul",
-      "theme": "Saúde"
-    },
-    {
-      "title": "Veja o processo de montagem de uma urna eletrônica",
-      "url": "https://www.poder360.com.br/poder-eleicoes-2026/veja-o-processo-de-montagem-de-uma-urna-eletronica/",
-      "summary": "Equipamentos estão sendo instalados neste sábado (3.out) nas seções eleitorais; o 1º turno das eleições é no domingo (4.out)",
-      "source": "Poder360",
-      "origin": "brasil",
-      "image": "https://static.poder360.com.br/uploads/2026/10/Urnas-Correios-Eleicoes-Distribuicao-Escolas-TRE-DF-02-Out-2026-4-1200x675.jpg",
-      "published_at": "2026-10-03T18:15:27+00:00",
-      "region": "América do Sul",
-      "theme": "Política Brasileira"
-    },
-    {
-      "title": "Inglaterra humilha a Croácia e faz 7 a 0 pela Nations League",
-      "url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/inglaterra-humilha-a-croacia-e-faz-7-a-0-pela-nations-league/",
-      "summary": "Time inglês teve atuação soberana neste sábado (3), pela terceira rodada do Grupo A3 da competição de seleções",
-      "source": "CNN Brasil",
-      "origin": "brasil",
-      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/10/inglaterra-e1791051257816.png?w=491&h=277&crop=1",
-      "published_at": "2026-10-03T18:15:19+00:00",
-      "region": "América do Sul",
-      "theme": "Outros / Multitemático"
-    },
-    {
-      "title": "Portugal vs Norway: UEFA Nations League – Ronaldo latest, Haaland, teams",
-      "url": "https://www.aljazeera.com/sports/2026/10/3/portugal-vs-norway-uefa-nations-league-ronaldo-latest-haaland-teams?traffic_source=rss",
-      "summary": "Nations League title holders Portugal hosts Erling Haaland&#039;s Norway, days after Cristiano Ronaldo&#039;s exit from the camp.",
-      "source": "Al Jazeera English",
+      "title": "Putin's war for the history books: Dmytro Kuleba speaks to France 24",
+      "url": "https://www.france24.com/en/tv-shows/spotlight/20261003-putin-s-war-for-the-history-books-dmytro-kuleba-speaks-to-france-24",
+      "summary": "The Bronze Horseman, the iconic equestrian statue in Senate Square in St Petersburg, was commissioned by Catherine the Great in honor of Peter the Great, the city's founder. The pedestal of the statue bears a laconic dedication, \"To Peter the First, Catherine the Second, 1782\". Does Putin want to be...",
+      "source": "France 24",
       "origin": "internacional",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/GettyImages-2297064782-1791026511.jpg?resize=1920%2C1440",
-      "published_at": "2026-10-03T18:13:41+00:00",
-      "region": "Global",
-      "theme": "Outros / Multitemático"
-    },
-    {
-      "title": "Análise: Abstenção preocupa campanhas de Lula e Flávio Bolsonaro",
-      "url": "https://www.cnnbrasil.com.br/eleicoes/analise-abstencao-preocupa-campanhas-de-lula-e-flavio-bolsonaro/",
-      "summary": "Segundo Larissa Rodrigues, leitores facultativos, como jovens de 16 a 18 anos e idosos acima de 70, são foco das estratégias para reduzir ausências nas urnas em 2026",
-      "source": "CNN Brasil",
-      "origin": "brasil",
-      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/06/1_b39111.png?w=1200&h=630&crop=1",
-      "published_at": "2026-10-03T18:11:13+00:00",
-      "region": "América do Sul",
-      "theme": "Política Brasileira"
-    },
-    {
-      "title": "Em ato em São Paulo, Janja manda Ricardo Nunes “plantar batata”",
-      "url": "https://www.poder360.com.br/poder-eleicoes-2026/em-ato-em-sao-paulo-janja-manda-ricardo-nunes-plantar-batata/",
-      "summary": "Primeira-dama afirmou que campanha de Lula ocupará avenida Paulista no domingo (4.out) para “comemorar vitória no 1º turno”",
-      "source": "Poder360",
-      "origin": "brasil",
-      "image": "https://static.poder360.com.br/uploads/2026/10/janja-lula-augusta-ricardo-stuckert-3out2026-1200x675.jpg",
-      "published_at": "2026-10-03T18:09:04+00:00",
-      "region": "América do Sul",
-      "theme": "Política Brasileira"
-    },
-    {
-      "title": "PF realiza operação Rastilho contra ilícitos eleitorais no Ceará",
-      "url": "https://www.poder360.com.br/poder-eleicoes-2026/pf-realiza-operacao-rastilho-contra-ilicitos-eleitorais-no-ceara/",
-      "summary": "Ação conjunta com MPE e CGU apreende R$ 120 mil em espécie e cumpre 19 mandados de busca e apreensão",
-      "source": "Poder360",
-      "origin": "brasil",
-      "image": "https://static.poder360.com.br/uploads/2026/10/PF-operacao-1200x675.jpg",
-      "published_at": "2026-10-03T18:09:00+00:00",
-      "region": "América do Sul",
-      "theme": "Economia Brasileira"
-    },
-    {
-      "title": "Um mosquito ficou preso no avião durante a decolagem e atravessou o mundo, causando mortes por malária na Europa",
-      "url": "https://www.cnnbrasil.com.br/curiosidades/um-mosquito-ficou-preso-no-aviao-durante-a-decolagem-e-atravessou-o-mundo-causando-mortes-por-malaria-na-europa/",
-      "summary": "A 'malária de aeroporto' afetou mais de 145 pessoas na Europa desde 1969; o surto atual causou seis infecções e ainda está sendo investigado",
-      "source": "CNN Brasil",
-      "origin": "brasil",
-      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/09/Um-mosquito-Anopheles-que-embarcou-e-ficou-preso-num-aviao-causou-infeccoes-por-malaria-na-Alemanha.png?w=1200&h=630&crop=1",
-      "published_at": "2026-10-03T18:08:59+00:00",
-      "region": "América do Sul",
-      "theme": "Outros / Multitemático"
-    },
-    {
-      "title": "Medical plane with 6 on board missing off Massachusetts coast",
-      "url": "https://www.bbc.co.uk/news/articles/cme3x85013llo?at_medium=RSS&at_campaign=rss",
-      "summary": "The aircraft lost communication with flight controllers after significantly dropping in altitude, according to flight data.",
-      "source": "BBC News - World",
-      "origin": "internacional",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5084/live/3748e6a0-bf41-11f1-8acc-0bb5649ca116.jpg",
-      "published_at": "2026-10-03T18:06:47+00:00",
-      "region": "América do Norte",
-      "theme": "Outros / Multitemático"
-    },
-    {
-      "title": "Visão positiva da China no Brasil e na América Latina supera a dos EUA",
-      "url": "https://www.poder360.com.br/poder-china/influencia-da-china-no-brasil-e-america-latina-supera-a-dos-eua/",
-      "summary": "Levantamento indica que 64% dos brasileiros têm visão positiva sobre a China, enquanto influência norte-americana é aprovada por 49%",
-      "source": "Poder360",
-      "origin": "brasil",
-      "image": "https://static.poder360.com.br/uploads/2026/09/bandeiras-china-eua-xinhua-1200x675.jpeg",
-      "published_at": "2026-10-03T18:04:09+00:00",
-      "region": "América do Sul",
-      "theme": "Direito Internacional e Instituições"
-    },
-    {
-      "title": "Caiado nega desistir para apoiar Flávio: “Isso não existe”",
-      "url": "https://www.poder360.com.br/poder-eleicoes-2026/caiado-nega-desistir-para-apoiar-flavio-isso-nao-existe/",
-      "summary": "Candidato do PSD diz que nunca cogitou deixar corrida eleitoral e nega ter sido procurado pelo senador do PL",
-      "source": "Poder360",
-      "origin": "brasil",
-      "image": "https://static.poder360.com.br/uploads/2026/10/caiado-goiania-1200x675.png",
-      "published_at": "2026-10-03T18:04:09+00:00",
-      "region": "América do Sul",
-      "theme": "Política Internacional"
-    },
-    {
-      "title": "Atlas: na BA, Lula tem 60,5% dos votos válidos no 1º turno; Flávio, 29,8%",
-      "url": "https://www.cnnbrasil.com.br/eleicoes/atlas-na-ba-lula-tem-605-dos-votos-validos-no-1o-turno-flavio-298/",
-      "summary": "Foram entrevistados 2.199 eleitores, entre os dias 27 de setembro e 2 de outubro; margem de erro é de dois pontos percentuais, para mais ou para menos",
-      "source": "CNN Brasil",
-      "origin": "brasil",
-      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/03/Lula-e-Flavio.png?w=1200&h=630&crop=1",
-      "published_at": "2026-10-03T18:03:43+00:00",
-      "region": "América do Sul",
-      "theme": "Política Brasileira"
-    },
-    {
-      "title": "Algeria sent fighter jets to Niger to thwart ‘coup attempt’, president says",
-      "url": "https://www.aljazeera.com/news/2026/10/3/algeria-sent-fighter-jets-to-niger-to-thwart-coup-attempt-president-says?traffic_source=rss",
-      "summary": "President Abdelmadjid Tebboune says Algiers deployed warplanes to Niamey in late August following an attack by mutineers.",
-      "source": "Al Jazeera English",
-      "origin": "internacional",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/getty_6ac13a0828-1791048200.jpg?resize=1920%2C1440",
-      "published_at": "2026-10-03T18:03:08+00:00",
-      "region": "América do Norte",
-      "theme": "Cultura, Mídia e Sociedade"
-    },
-    {
-      "title": "Lula e Flávio chegam à reta final com atenção redobrada em Minas",
-      "url": "https://www.cnnbrasil.com.br/eleicoes/lula-e-flavio-chegam-a-reta-final-com-atencao-redobrada-em-minas/",
-      "summary": "Considerado decisivo na disputa eleitoral, estado motiva apreensão na campanha bolsonarista e alimenta expectativa de alívio no PT",
-      "source": "CNN Brasil",
-      "origin": "brasil",
-      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/03/Renata-9.jpg?w=1200&h=630&crop=1",
-      "published_at": "2026-10-03T18:02:14+00:00",
-      "region": "América do Sul",
-      "theme": "Política Brasileira"
-    },
-    {
-      "title": "Brasil lidera adoção de cripto com avanço das stablecoins",
-      "url": "https://www.cnnbrasil.com.br/economia/money/mercado/brasil-lidera-adocao-de-cripto-com-avanco-das-stablecoins/",
-      "summary": "Criptoativo ganham espaço entre investidores brasileiros ao oferecer exposição a ativos como dólar e ouro por meio da negociação digital",
-      "source": "CNN Brasil",
-      "origin": "brasil",
-      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2022/02/pexels-alesia-kozik-6765367.jpg?w=1200&h=630&crop=1",
-      "published_at": "2026-10-03T18:00:37+00:00",
-      "region": "América do Sul",
-      "theme": "Economia Brasileira"
-    },
-    {
-      "title": "“A Fazenda”: 7 brigas que chocaram o público do reality show",
-      "url": "https://www.cnnbrasil.com.br/pop/realities/a-fazenda-7-brigas-que-chocaram-o-publico-do-reality-show/",
-      "summary": "Relembre confrontos marcantes, expulsões e momentos de tensão que movimentaram o reality rural da Record ao longo das temporadas",
-      "source": "CNN Brasil",
-      "origin": "brasil",
-      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/07/realities-brigas.png?w=820&h=492&crop=1",
-      "published_at": "2026-10-03T18:00:21+00:00",
-      "region": "América do Sul",
-      "theme": "Economia Brasileira"
+      "image": "https://s.france24.com/media/display/39db6df8-bf4f-11f1-a837-13420ab900a2/w:1024/p:16x9/capture-20813474576ac13a318fedb5-47858484.jpg",
+      "published_at": "2026-10-03T18:08:42+00:00",
+      "region": "Europa",
+      "theme": "Geopolítica e Segurança"
     },
     {
       "title": "Veto a pedras 'de tropeço' impõe debate sobre memória do Holocausto na Alemanha",
@@ -284,17 +647,6 @@
       "origin": "brasil",
       "image": "https://f.i.uol.com.br/fotografia/2026/10/03/17910431616ac12659428d0_1791043161_3x2_rt.jpg",
       "published_at": "2026-10-03T17:59:00+00:00",
-      "region": "América do Sul",
-      "theme": "Direito Internacional e Instituições"
-    },
-    {
-      "title": "Atlas: Fonteles tem 68,4% dos votos válidos no 1º turno do PI; Joel, 29,7%",
-      "url": "https://www.cnnbrasil.com.br/eleicoes/atlas-fonteles-tem-684-dos-votos-validos-no-1o-turno-do-pi-joel-297/",
-      "summary": "Levantamento ouviu 1.230 eleitores entre os dias 27 de setembro e 2 de outubro; margem de erro é de 3 pontos percentuais, para mais ou para menos",
-      "source": "CNN Brasil",
-      "origin": "brasil",
-      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/09/PI-Rafael-Fontele-x-Joel-Rodrigues-Foto_-Fabio-Rodrigues-Pozzebom_-Agencia-Brasil-e-ASCOM-Joel-Rodrigues.png?w=1200&h=630&crop=1",
-      "published_at": "2026-10-03T17:53:07+00:00",
       "region": "América do Sul",
       "theme": "Direito Internacional e Instituições"
     },
@@ -321,39 +673,6 @@
       "theme": "Ciência, Tecnologia e Inovação"
     },
     {
-      "title": "Vitória da Seleção não empolga jornal espanhol: “Mais flashes que futebol”",
-      "url": "https://www.cnnbrasil.com.br/esportes/futebol/selecao-brasileira/vitoria-da-selecao-nao-empolga-jornal-espanhol-mais-flashes-que-futebol/",
-      "summary": "Time comandado pelo italiano Carlo Ancelotti encerrou a Data Fifa com uma goleada de 4 a 0 sobre a Índia neste sábado (3), em Calcutá",
-      "source": "CNN Brasil",
-      "origin": "brasil",
-      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/10/brasil-india-amistoso-e1791049875662.jpg?w=1200&h=630&crop=1",
-      "published_at": "2026-10-03T17:51:44+00:00",
-      "region": "América do Sul",
-      "theme": "Cultura, Mídia e Sociedade"
-    },
-    {
-      "title": "Atlas: Jerônimo tem 51,5% dos votos válidos no 1º turno da BA; ACM, 47,4%",
-      "url": "https://www.cnnbrasil.com.br/eleicoes/atlas-jeronimo-tem-515-dos-votos-validos-no-1o-turno-da-ba-acm-474/",
-      "summary": "Levantamento ouviu 2.199 pessoas entre os dias 27 de setembro e 2 de outubro; margem de erro é de 2 pontos percentuais, para mais ou para menos, com nível de confiança de 95%",
-      "source": "CNN Brasil",
-      "origin": "brasil",
-      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/02/jeronimo-neto.jpg?w=1200&h=630&crop=1",
-      "published_at": "2026-10-03T17:50:08+00:00",
-      "region": "América do Sul",
-      "theme": "Outros / Multitemático"
-    },
-    {
-      "title": "França vai suspender carteira de motorista de quem usar celular ao volante",
-      "url": "https://www.cnnbrasil.com.br/internacional/franca-vai-suspender-carteira-de-motorista-de-quem-usar-celular-ao-volante/",
-      "summary": "Decisão administrativa em todo o país busca conscientizar motoristas e promover uma transformação cultural sobre a gravidade da distração",
-      "source": "CNN Brasil",
-      "origin": "brasil",
-      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2022/08/GettyImages-172301500-e1659552057154.jpg?w=1200&h=630&crop=1",
-      "published_at": "2026-10-03T17:49:04+00:00",
-      "region": "América do Sul",
-      "theme": "Cultura, Mídia e Sociedade"
-    },
-    {
       "title": "Tennessee prison chief to resign after Christa Pike's failed execution",
       "url": "https://www.bbc.co.uk/news/articles/c8zxl62yzxzxo?at_medium=RSS&at_campaign=rss",
       "summary": "Pike's lawyers said the failure \"goes far beyond any one person\". Pike is in critical condition after surviving two lethal injections.",
@@ -376,50 +695,6 @@
       "theme": "Saúde"
     },
     {
-      "title": "Russia Turns to Striking Kyiv’s Bridges, Threatening a Vital Lifeline",
-      "url": "https://www.nytimes.com/2026/10/03/world/europe/russia-ukraine-bridges-kyiv.html",
-      "summary": "The bridges, used by many commuters in the Ukrainian capital, are the latest target in a broad Russian bombing campaign against infrastructure.",
-      "source": "The New York Times",
-      "origin": "internacional",
-      "image": "https://static01.nyt.com/images/2026/10/03/multimedia/03int-ukraine-bridges-qcpk/03int-ukraine-bridges-qcpk-mediumSquareAt3X.jpg",
-      "published_at": "2026-10-03T17:47:09+00:00",
-      "region": "América do Norte",
-      "theme": "Outros / Multitemático"
-    },
-    {
-      "title": "Lula leva 6×1 à reta final, enquanto Flávio critica STF antes do 1º turno",
-      "url": "https://www.cnnbrasil.com.br/eleicoes/lula-leva-6x1-a-reta-final-enquanto-flavio-critica-stf-antes-do-1o-turno/",
-      "summary": "Presidente e candidato à reeleição esteve em ato na capital paulista; Flávio, por outro lado, apostou no interior de SP antes de agenda no Rio",
-      "source": "CNN Brasil",
-      "origin": "brasil",
-      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/03/1-Lula-Flavio-e-Tarcisio-e1776107235291.png?w=1059&h=597&crop=1",
-      "published_at": "2026-10-03T17:46:41+00:00",
-      "region": "América do Sul",
-      "theme": "Política Brasileira"
-    },
-    {
-      "title": "Paul McCartney revela novos detalhes sobre casamento de Taylor Swift",
-      "url": "https://www.cnnbrasil.com.br/pop/celebridades/paul-mccartney-revela-novos-detalhes-sobre-casamento-de-taylor-swift/",
-      "summary": "Ex-Beatle cantou \"I Want to Hold Your Hand\" para os convidados da cerimônia de casamento da cantora com o jogador americano Travis Kelce",
-      "source": "CNN Brasil",
-      "origin": "brasil",
-      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2024/06/taylor-swift-paul-mccartney-londres.png?w=900&h=506&crop=1",
-      "published_at": "2026-10-03T17:44:02+00:00",
-      "region": "América do Sul",
-      "theme": "Cultura, Mídia e Sociedade"
-    },
-    {
-      "title": "Tennessee prisons official resigns after Christa Pike’s failed US execution",
-      "url": "https://www.aljazeera.com/news/2026/10/3/tennessee-prisons-official-resigns-after-christa-pikes-failed-us-execution?traffic_source=rss",
-      "summary": "The state&#039;s governor said Frank Strada would step down as an independent review examines what went wrong.",
-      "source": "Al Jazeera English",
-      "origin": "internacional",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/ap_6ac12e9f7a12b-1791045279.jpg?resize=1920%2C1440",
-      "published_at": "2026-10-03T17:31:54+00:00",
-      "region": "América do Norte",
-      "theme": "Política Internacional"
-    },
-    {
       "title": "Madri reúne 70 mil em protesto e amplia pressão sobre governo Sánchez; atos se espalham pelo país",
       "url": "https://redir.folha.com.br/redir/online/mundo/rss091/*https://www1.folha.uol.com.br/mundo/2026/10/madri-reune-70-mil-em-protesto-e-amplia-pressao-sobre-governo-sanchez-atos-se-espalham-pelo-pais.shtml",
       "summary": "Dezenas de milhares de pessoas foram às ruas de Madri e de outras cidades espanholas neste sábado (3), intensificando as exigências por medidas para enfrentar uma crescente crise de habitação, depois que dois decretos do governo de Pedro Sánchez foram derrubadas pela oposição.\nLeia mais (10/03/2026 ...",
@@ -429,17 +704,6 @@
       "published_at": "2026-10-03T17:26:00+00:00",
       "region": "América do Sul",
       "theme": "Direitos Humanos, Sociedade e Migrações"
-    },
-    {
-      "title": "Israeli reporter’s ‘verbal attack’ ends Ireland football news conference",
-      "url": "https://www.aljazeera.com/sports/2026/10/3/israeli-reporters-verbal-attack-ends-ireland-football-news-conference?traffic_source=rss",
-      "summary": "Israeli journalists asked coach Hallgrimsson about the Flydubai attack and alleged racist abuse by Ireland&#039;s players.",
-      "source": "Al Jazeera English",
-      "origin": "internacional",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/GettyImages-2297780943-1791045945.jpg?resize=1200%2C675",
-      "published_at": "2026-10-03T17:25:28+00:00",
-      "region": "América do Norte",
-      "theme": "Geopolítica e Segurança"
     },
     {
       "title": "Tennessee prison chief who oversaw botched Christa Pike execution resigns",
@@ -486,31 +750,9 @@
       "theme": "Direito Internacional e Instituições"
     },
     {
-      "title": "Copiloto usou machado em ataque a comandante de avião para Israel",
-      "url": "https://www.bbc.com/portuguese/articles/cr86zldp7gv2o?at_medium=RSS&at_campaign=rss",
-      "summary": "O copiloto atacou o piloto com um machado e tentou derrubar o avião, que despencou 5.200 metros. Passageiros dominaram o agressor e a aeronave pousou em segurança na Arábia Saudita.",
-      "source": "BBC News Brasil",
-      "origin": "brasil",
-      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/2448/live/1043b780-befe-11f1-bc2e-018d645d8d21.jpg",
-      "published_at": "2026-10-03T16:52:48+00:00",
-      "region": "América do Sul",
-      "theme": "Geopolítica e Segurança"
-    },
-    {
-      "title": "American High School Students Are Selling Guns Bound for Cartels",
-      "url": "https://www.nytimes.com/2026/10/03/world/americas/high-school-arms-dealing-mexican-cartels.html",
-      "summary": "Drawn by money and status, teenagers in Arizona are buying, stealing and selling weapons destined for criminal groups in Mexico.",
-      "source": "The New York Times",
-      "origin": "internacional",
-      "image": "https://static01.nyt.com/images/2026/09/10/multimedia/00int-mexico-guns-promo/00int-mexico-guns-jbkp-mediumSquareAt3X.jpg",
-      "published_at": "2026-10-03T16:47:21+00:00",
-      "region": "América do Norte",
-      "theme": "Cultura, Mídia e Sociedade"
-    },
-    {
       "title": "TSE faz teste final de sistemas e emite zerézima",
       "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/tse-faz-teste-final-de-sistemas-e-emite-zer%C3%A9zima",
-      "summary": "\n                    \n\t\t\t\tO Tribunal Superior Eleitoral (TSE) fez neste sábado (3), véspera do primeiro turno das Eleições 2026, um teste que confirmou a integridade e autenticidade dos sistemas eleitorais.\n\nDurante cerimônia na sede da corte em Brasília, foi também emitida a chamada Zerézima, proce...",
+      "summary": "\n                    \n\t\t\t\tO Tribunal Superior Eleitoral (TSE) fez neste sábado (3), véspera do primeiro turno das Eleições 2026, um teste que confirmou a integridade e autenticidade dos sistemas eleitorais.\n\nDurante cerimônia na sede da Corte em Brasília, foi emitida a chamada zerézima, procedimento...",
       "source": "Agência Brasil",
       "origin": "brasil",
       "image": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
@@ -563,17 +805,6 @@
       "theme": "Cultura, Mídia e Sociedade"
     },
     {
-      "title": "Somalia won’t accept Israeli presence ‘under any circumstances’: President",
-      "url": "https://www.aljazeera.com/news/2026/10/3/somalia-wont-accept-israeli-presence-under-any-circumstances-president?traffic_source=rss",
-      "summary": "In exclusive Al Jazeera interview, President Hassan Sheikh Mohamud says Israel planning a naval base in Berbera.",
-      "source": "Al Jazeera English",
-      "origin": "internacional",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/reuters_6ac1214d-1791041869_b03600-1791042527.jpg?resize=1200%2C630&quality=80",
-      "published_at": "2026-10-03T16:25:03+00:00",
-      "region": "América do Norte",
-      "theme": "Outros / Multitemático"
-    },
-    {
       "title": "Em ritmo de treino, Brasil vence a Índia em Calcutá: 4 a 0",
       "url": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-10/em-ritmo-de-treino-brasil-vence-india-em-calcuta-4-0",
       "summary": "\n                    \n\t\t\t\tO Brasil confirmou o favoritismo e não teve dificuldades para derrotar a Índia neste sábado (3), em Calcutá, por 4 a 0. No primeiro confronto da história entre as duas seleções, a diferença técnica ficou evidente. Sem forçar, a equipe de Carlo Ancelotti, que representa o pa...",
@@ -596,17 +827,6 @@
       "theme": "Direito Internacional e Instituições"
     },
     {
-      "title": "Jerusalem Daily: UAE says Flydubai co-pilot attempted ‘terrorist’ attack",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/3/jerusalem-daily-uae-says-flydubai-co-pilot-attempted-terrorist-attack?traffic_source=rss",
-      "summary": "Jerusalem Daily: UAE says Flydubai co-pilot attempted ‘terrorist’ attack",
-      "source": "Al Jazeera English",
-      "origin": "internacional",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/clean-5-1791044179.jpg?resize=1920%2C1080&quality=80",
-      "published_at": "2026-10-03T16:17:23+00:00",
-      "region": "América do Norte",
-      "theme": "Geopolítica e Segurança"
-    },
-    {
       "title": "Russia hits second major bridge in Ukraine's capital Kyiv",
       "url": "https://www.bbc.co.uk/news/articles/c83vqxzdg1yko?at_medium=RSS&at_campaign=rss",
       "summary": "The strike on the Pivnichnyi (Northern) Bridge comes after repeat attacks on another major bridge in Ukraine's capital.",
@@ -615,17 +835,6 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/554e/live/87c08780-bf1b-11f1-9b47-174f268aae1d.jpg",
       "published_at": "2026-10-03T16:16:49+00:00",
       "region": "América do Norte",
-      "theme": "Geopolítica e Segurança"
-    },
-    {
-      "title": "Israeli reporters’ ‘verbal attack’ cuts short Ireland press conference",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/3/israeli-reporters-verbal-attack-cuts-short-ireland-press-conference?traffic_source=rss",
-      "summary": "Israeli reporters’ ‘verbal attack’ cuts short Ireland press conference",
-      "source": "Al Jazeera English",
-      "origin": "internacional",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/Israel-Ireland-Horizontal-thumb-1791044142.jpg?resize=1920%2C1080&quality=80",
-      "published_at": "2026-10-03T16:16:32+00:00",
-      "region": "Oriente Médio",
       "theme": "Geopolítica e Segurança"
     },
     {
@@ -640,17 +849,6 @@
       "theme": "Política Brasileira"
     },
     {
-      "title": "Petrobras atinge recorde de valor de mercado após descoberta no Amapá",
-      "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/petrobras-atinge-recorde-de-valor-de-mercado-apos-descoberta-no-amapa",
-      "summary": "\n                    \n\t\t\t\tA Petrobras atingiu R$ 700,08 bilhões no encerramento do pregão na B3, a Bolsa de Valores de São Paulo, nesta sexta-feira (2), batendo o recorde de valor de mercado, como informado pela própria companhia. \n\nO recorde ocorreu após o anúncio de uma nova descoberta de petróleo...",
-      "source": "Agência Brasil",
-      "origin": "brasil",
-      "image": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-      "published_at": "2026-10-03T16:03:00+00:00",
-      "region": "América do Sul",
-      "theme": "Economia Internacional"
-    },
-    {
       "title": "As surreais eleições dos anos 80 e 90 em que uma marca de cerveja estampou as cabines de votação no Brasil",
       "url": "https://www.bbc.com/portuguese/articles/cqm272zvp8n4o?at_medium=RSS&at_campaign=rss",
       "summary": "Da redemocratização do Brasil até meados dos anos 1990, a Antarctica tinha seu logo e nome em letras garrafais estampados nas cabines que protegem o sigilo do voto do eleitor brasileiro.",
@@ -662,28 +860,6 @@
       "theme": "Política Brasileira"
     },
     {
-      "title": "Na Malásia, Verstappen faz sua primeira pole position da temporada",
-      "url": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-10/na-malasia-verstappen-faz-sua-primeira-pole-position-da-temporada",
-      "summary": "\n                    \n\t\t\t\tNa manhã deste sábado (3), o holandês Max Verstappen, da Red Bull Racing, fez o que ainda não havia conseguido em 2026. Na 16ª etapa da temporada, enfim, veio a primeira pole position para o piloto tetracampeão do mundo de Fórmula 1.\n\nNo GP do Bahrein, que este ano está sen...",
-      "source": "Agência Brasil",
-      "origin": "brasil",
-      "image": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-      "published_at": "2026-10-03T15:54:00+00:00",
-      "region": "América do Sul",
-      "theme": "Ciência, Tecnologia e Inovação"
-    },
-    {
-      "title": "Idosos votam primeiro: conheça outros eleitores com prioridade",
-      "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/idosos-votam-primeiro-conheca-outros-eleitores-com-prioridade",
-      "summary": "Neste domingo (4), os 158,7 mil eleitores que comparecerão às urnas deverão votar em cinco cargos em disputa no primeiro turno - deputado federal, deputado estadual ou distrital, dois senadores, governador e presidente da República. Caso haja fila nas seções de votação, a legislação estabelece públi...",
-      "source": "Agência Brasil",
-      "origin": "brasil",
-      "image": "https://agenciabrasil.ebc.com.br/ebc.png?id=1703950&amp;o=rss",
-      "published_at": "2026-10-03T15:53:00+00:00",
-      "region": "América do Sul",
-      "theme": "Política Internacional"
-    },
-    {
       "title": "Italy’s Ustica enigma: Can French files solve mystery crash blamed on stray missile?",
       "url": "https://www.france24.com/en/europe/20261003-italy-ustica-enigma-can-french-files-solve-mystery-crash-blamed-on-stray-missile-gaddafi",
       "summary": "France’s decision to share defence documents with the Italian judiciary has raised hopes of a breakthrough in investigations into the 1980 crash of a passenger jet near the island of Ustica, which a former Italian president claimed was mistakenly shot down by a French fighter jet. Sceptics caution t...",
@@ -691,17 +867,6 @@
       "origin": "internacional",
       "image": "https://s.france24.com/media/display/cc7cbc12-bf35-11f1-9acd-1ff0321dbbd3/w:1024/p:16x9/AP23245467521507.jpg",
       "published_at": "2026-10-03T15:42:45+00:00",
-      "region": "América do Norte",
-      "theme": "Geopolítica e Segurança"
-    },
-    {
-      "title": "What we know about the co-pilot accused in Flydubai attack",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/3/what-we-know-about-the-co-pilot-accused-in-flydubai-attack?traffic_source=rss",
-      "summary": "The co-pilot accused of attacking a Flydubai captain has reportedly been identified as Hamam al-Hammami.",
-      "source": "Al Jazeera English",
-      "origin": "internacional",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/Screenshot-2026-10-03-at-16.33.25-1791041854.png?resize=1200%2C630",
-      "published_at": "2026-10-03T15:39:10+00:00",
       "region": "América do Norte",
       "theme": "Geopolítica e Segurança"
     },
@@ -761,23 +926,12 @@
       "theme": "Geopolítica e Segurança"
     },
     {
-      "title": "Al menos cinco muertos por un ataque israelí en Ciudad de Gaza",
-      "url": "https://elpais.com/internacional/2026-10-03/varios-muertos-por-un-ataque-israeli-en-ciudad-de-gaza.html",
-      "summary": "Hay cuatro mujeres entre las víctimas. Las autoridades de la Franja cifran en 1.400 los palestinos fallecidos desde el alto el fuego",
-      "source": "El País - Internacional",
-      "origin": "internacional",
-      "image": "https://imagenes.elpais.com/resizer/v2/W5VJRATM5BCVVP2KUMDA7BGJTU.jpg?auth=ef427823875e185e865454874c620c4e59f1fe33ac9f1755adf77939850ee163",
-      "published_at": "2026-10-03T14:32:58+00:00",
-      "region": "Oriente Médio",
-      "theme": "Geopolítica e Segurança"
-    },
-    {
-      "title": "Loud blasts rock Sanaa as Houthis accuse Saudi forces of pounding Yemeni capital",
+      "title": "Houthis claim strike on oil facilty near Riyadh, accuse Saudi forces of pounding Yemen's capital",
       "url": "https://www.france24.com/en/middle-east/20261003-houthis-blame-saudi-air-strikes-loud-blasts-rock-yemen-capital-sanaa",
-      "summary": "Houthi rebels accused Saudi forces of launching 26 strikes on Sanaa on Saturday after loud explosions rocked the Yemeni capital, which is controlled by the Iran-backed group. In Saudi Arabia, flames and a large plume of smoke were seen rising from a facility belonging to oil giant Aramco south of th...",
+      "summary": "Houthi rebels accused Saudi forces of launching 26 strikes on Sanaa on Saturday after loud explosions rocked the Yemeni capital. The Iran-backed group said it struck an oil facility south of Riyadh, where flames and a large plume of smoke were seen rising from a plant belonging to oil giant Aramco.",
       "source": "France 24",
       "origin": "internacional",
-      "image": "https://s.france24.com/media/display/d995bc2a-bf2e-11f1-8327-1ff0321dbbd3/w:1024/p:16x9/000-D22M8WE.jpg",
+      "image": "https://s.france24.com/media/display/84e4ed72-bf65-11f1-8c8d-13420ab900a2/w:1024/p:16x9/000-D26B6KC.jpg",
       "published_at": "2026-10-03T14:31:30+00:00",
       "region": "América do Norte",
       "theme": "Economia Internacional"
@@ -840,7 +994,7 @@
     {
       "title": "'Anger in the streets': Tens of thousands protest in Spain over housing crisis",
       "url": "https://www.bbc.co.uk/news/articles/cm2kej47095no?at_medium=RSS&at_campaign=rss",
-      "summary": "More than 50 protests are taking place on Saturday after the government failed to get emergency legislation through parliament.",
+      "summary": "More than 50 protests took place on Saturday after the government failed to get emergency legislation through parliament.",
       "source": "BBC News - World",
       "origin": "internacional",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/225b/live/a58f5d00-bf24-11f1-bc2e-018d645d8d21.jpg",
@@ -937,28 +1091,6 @@
       "theme": "Política Brasileira"
     },
     {
-      "title": "Ataque israelense mata 5 em Gaza, incluindo mãe e filha cristãs, dizem autoridades",
-      "url": "https://g1.globo.com/mundo/noticia/2026/10/03/ataque-israelense-em-gaza-mata-incluindo-mae-e-filha-cristas-dizem-autoridades.ghtml",
-      "summary": "     Crianças palestinas passam pelo local de um ataque israelense contra um prédio residencial na Cidade de Gaza, em 3 de outubro de 2026.\nREUTERS/Dawoud Abu Alkas\nUm ataque aéreo israelense matou pelo menos cinco palestinos, incluindo quatro mulheres, em um prédio residencial na Cidade de Gaza nes...",
-      "source": "G1 - Mundo",
-      "origin": "brasil",
-      "image": "https://s2-g1.glbimg.com/_eHw6p-_IFc_ihSLPVqylQmfx_c=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/N/0/0MWjMsTBSNSAi43pAV9Q/2026-10-03t060145z-993445354-rc2hvnadd7bq-rtrmadp-3-israel-palestinians-gaza-1-.jpg",
-      "published_at": "2026-10-03T10:44:11+00:00",
-      "region": "América do Sul",
-      "theme": "Geopolítica e Segurança"
-    },
-    {
-      "title": "Enchentes no sudeste da Espanha matam mulher de 102 anos e deixam 90 pessoas resgatadas",
-      "url": "https://g1.globo.com/mundo/noticia/2026/10/03/enchentes-no-sudeste-da-espanha-matam-mulher-de-102-anos-e-deixam-pessoas-resgatadas.ghtml",
-      "summary": "     Homem caminha entre destroços após enchentes provocadas por fortes chuvas em Madrigueras, na Espanha, em 3 de outubro de 2026.\nREUTERS/Eva Manez\nUma mulher de 102 anos morreu e outras 90 pessoas foram resgatadas por bombeiros após fortes chuvas provocarem enchentes na cidade de Madrigueras, no ...",
-      "source": "G1 - Mundo",
-      "origin": "brasil",
-      "image": "https://s2-g1.glbimg.com/GHRv_fRRofhGFvVB2PdYDt2d8MA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/c/h/sEAsUTTOKFfgpXXWuVBw/2026-10-03t102211z-821642453-rc2mvnarvk19-rtrmadp-3-europe-weather-spain-floods-1-1-.jpg",
-      "published_at": "2026-10-03T10:29:18+00:00",
-      "region": "América do Sul",
-      "theme": "Meio Ambiente e Clima"
-    },
-    {
       "title": "Iraq Wins U.S. Permission to Resume Iran Flights, Prime Minister Says",
       "url": "https://www.nytimes.com/2026/10/03/world/middleeast/iraq-iran-flights-us-sanctions.html",
       "summary": "Flights between the neighboring countries had been halted after broad U.S. penalties on Iran’s aviation industry.",
@@ -1003,17 +1135,6 @@
       "theme": "Saúde"
     },
     {
-      "title": "Barricades & the blame game: the French school protests",
-      "url": "https://www.france24.com/en/tv-shows/the-debate/20261003-barricades-the-blame-game-the-french-school-protests",
-      "summary": "In a week that’s seen the heroism of the captain, crew and passengers on board FlyDubai flight 1073 heralded, eye witnesses report seeing the co-pilot trying to kill the pilot and destroying the cockpit controls in order to crash the plane. Despite being stabbed repeatedly, Captan Smit Machchhar man...",
-      "source": "France 24",
-      "origin": "internacional",
-      "image": "https://s.france24.com/media/display/dbd3aa78-be8f-11f1-876e-1ff0321dbbd3/w:1024/p:16x9/2026-10-02T095924Z-137875311-RC2XUNAPQQOF-RTRMADP-3-FRANCE-PROTEST.jpg",
-      "published_at": "2026-10-03T09:25:58+00:00",
-      "region": "Global",
-      "theme": "Direitos Humanos, Sociedade e Migrações"
-    },
-    {
       "title": "Separatists Are Poised to Win Quebec’s Election. Independence Is Still a Hard Sell.",
       "url": "https://www.nytimes.com/2026/10/03/world/canada/quebec-election-independence-parti-quebecois-separatism.html",
       "summary": "The Parti Québécois has vowed to hold a referendum on independence, three decades after Quebec voted “no.” Voters want change, but maybe not that much.",
@@ -1023,17 +1144,6 @@
       "published_at": "2026-10-03T09:02:05+00:00",
       "region": "Global",
       "theme": "Política Internacional"
-    },
-    {
-      "title": "'Elefante na sala' e 'polêmicas em vez de propostas': como a imprensa internacional está noticiando as eleições no Brasil",
-      "url": "https://g1.globo.com/mundo/noticia/2026/10/03/elefante-na-sala-e-polemicas-em-vez-de-propostas-como-a-imprensa-internacional-esta-noticiando-as-eleicoes-no-brasil.ghtml",
-      "summary": "     Jornal 'New York Times' dedica página na edição impressa à eleição no Brasil\nA eleição presidencial no Brasil deste domingo (4) ganhou destaque na imprensa internacional. Reportagens de jornais dos Estados Unidos e da Europa destacam a disputa acirrada, o cenário econômico brasileiro e a possív...",
-      "source": "G1 - Mundo",
-      "origin": "brasil",
-      "image": "https://s2-g1.glbimg.com/Vgm21WtB6j032B9vxsyb-DP8nLo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/3/B/mSCJBKStis3VvBxGZ4Sw/ntimes.jpg",
-      "published_at": "2026-10-03T09:00:00+00:00",
-      "region": "América do Sul",
-      "theme": "Política Brasileira"
     },
     {
       "title": "Esquerda latino-americana lamenta nas redes sociais não poder votar em Lula",
@@ -1047,50 +1157,6 @@
       "theme": "Política Brasileira"
     },
     {
-      "title": "No fairytale return for Zidane as Italy hold France at the Stade de France",
-      "url": "https://www.france24.com/en/tv-shows/sports/20261003-no-fairytale-return-for-zidane-as-italy-hold-france-at-the-stade-de-france",
-      "summary": "The Stade de France was filled to capacity as the new French national team manager, Zinedine Zidane, prepared to make his home debut. The very side against whom he had ended his playing career in 2006 was once again the opponent he faced. Despite Michael Olise’s splendid free kick, the French were q...",
-      "source": "France 24",
-      "origin": "internacional",
-      "image": "https://s.france24.com/media/display/b360cab6-becc-11f1-927e-1ff0321dbbd3/w:1024/p:16x9/000-D2488ZX.jpg",
-      "published_at": "2026-10-03T08:20:56+00:00",
-      "region": "Global",
-      "theme": "Outros / Multitemático"
-    },
-    {
-      "title": "Christa Pike: como condenada sobreviveu a duas injeções letais nos EUA",
-      "url": "https://g1.globo.com/mundo/noticia/2026/10/03/christa-pike-como-condenada-sobreviveu-a-duas-injecoes-letais-nos-eua.ghtml",
-      "summary": "     Christa Pike sobrevive a duas injeções letais nos EUA; entenda o caso\nO caso da americana Christa Pike, condenada por um homicídio cometido na década de 1990 que sobreviveu a duas injeções letais administradas nesta quarta-feira (30) no Tennessee, Estados Unidos, reacendeu o debate sobre a pena...",
-      "source": "G1 - Mundo",
-      "origin": "brasil",
-      "image": "https://s2-g1.glbimg.com/HDK2ke8q3xiVWdFGMTwrMZisG2M=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/j/W/XLzzudQs295Kyy1E4Blw/2026-10-01t075544z-184107085-rc2ptnayxsrm-rtrmadp-3-tennessee-execution.jpg",
-      "published_at": "2026-10-03T08:00:00+00:00",
-      "region": "América do Sul",
-      "theme": "Cultura, Mídia e Sociedade"
-    },
-    {
-      "title": "Ethiopia's Tigray rebels abandon regional capital Mekelle as pro-government forces advance",
-      "url": "https://www.france24.com/en/africa/20261003-ethiopia-s-tigray-rebels-abandon-regional-capital-of-mekelle-as-pro-government-forces-advance",
-      "summary": "Rebels from the Tigray People's Liberation Front (TPLF) in Ethiopia were abandoning their regional capital of Mekkele in the north of the country on Saturday, according to local reports. The TPLF has been fighting against federal forces and pro-government militias since September 23 and launching at...",
-      "source": "France 24",
-      "origin": "internacional",
-      "image": "https://s.france24.com/media/display/c5c37128-bf07-11f1-ba42-1ff0321dbbd3/w:1024/p:16x9/2026-09-24T101038Z-2032759567-RC2KPNA9407F-RTRMADP-3-ETHIOPIA-SECURITY.jpg",
-      "published_at": "2026-10-03T07:58:45+00:00",
-      "region": "Global",
-      "theme": "Outros / Multitemático"
-    },
-    {
-      "title": "Voo da FlyDubai para Israel: copiloto usou machado para atacar piloto em 'ato terrorista', dizem Emirados Árabes",
-      "url": "https://g1.globo.com/mundo/noticia/2026/10/03/voo-da-flydubai-para-israel-emirados-dizem-que-copiloto-atacou-piloto-com-machado-em-ato-terrorista.ghtml",
-      "summary": "     Emirados Árabes e Israel investigam copiloto que tentou derrubar avião\nOs Emirados Árabes Unidos disseram neste sábado (3) que o copiloto do voo da FlyDubai atacou o comandante com um machado de emergência e tentou assumir o controle da aeronave durante o incidente ocorrido na quarta-feira (30)...",
-      "source": "G1 - Mundo",
-      "origin": "brasil",
-      "image": "https://s2-g1.glbimg.com/tZ9BakkjBv8UNhE2-7qCeqrdAXE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/4/V/0yfebyRpKMzwBWRv7AfA/2026-09-30t153849z-1608112834-rc2rtna5arxa-rtrmadp-3-israel-gulf-flight.jpg",
-      "published_at": "2026-10-03T07:16:56+00:00",
-      "region": "América do Sul",
-      "theme": "Geopolítica e Segurança"
-    },
-    {
       "title": "Pela primeira vez, latino-americanos gostam mais da China do que dos Estados Unidos, diz pesquisa",
       "url": "https://redir.folha.com.br/redir/online/mundo/rss091/*https://www1.folha.uol.com.br/mundo/2026/10/pela-primeira-vez-latino-americanos-gostam-mais-da-china-do-que-dos-estados-unidos-diz-pesquisa.shtml",
       "summary": "Nos 20 meses desde que Donald Trump voltou à Casa Branca, candidatos de direita venceram as sete eleições presidenciais realizadas na América Latina. Muitos deles concorreram como imitadores de Trump, vociferando contra a imprensa e o \"marxismo cultural\".\nLeia mais (10/03/2026 - 04h00)",
@@ -1102,17 +1168,6 @@
       "theme": "Política Internacional"
     },
     {
-      "title": "Motosserra e moedor de carne: provas de assassinato de modelo chocam em julgamento de Hong Kong",
-      "url": "https://g1.globo.com/mundo/noticia/2026/10/03/motosserra-e-moedor-de-carne-provas-de-assassinato-de-modelo-chocam-em-julgamento-de-hong-kong.ghtml",
-      "summary": "     Abby Choi, modelo e influenciadora de Hong Kong que foi encontrada morta aos 28 anos\nReprodução/Instagram\nUma motosserra, um martelo e um moedor de carne foram apresentados nesta sexta-feira (2) durante o julgamento pelo assassinato da modelo e influenciadora Abby Choi, de 28 anos. O caso, que ...",
-      "source": "G1 - Mundo",
-      "origin": "brasil",
-      "image": "https://s2-g1.glbimg.com/hStWliklpg6LoR5byNC_AamHbwk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/N/m/4cqb13T3eDHgsC4SUfDQ/abbi.jpg",
-      "published_at": "2026-10-03T06:00:00+00:00",
-      "region": "América do Sul",
-      "theme": "Geopolítica e Segurança"
-    },
-    {
       "title": "G7 to release millions of barrels of oil and diesel after Trump threat",
       "url": "https://www.bbc.co.uk/news/articles/ck87zg8jnwngo?at_medium=RSS&at_campaign=rss",
       "summary": "The co-ordinated release is aimed at heading off further price spikes and avoiding a ban on US diesel exports.",
@@ -1122,17 +1177,6 @@
       "published_at": "2026-10-03T04:38:31+00:00",
       "region": "América do Norte",
       "theme": "Economia Internacional"
-    },
-    {
-      "title": "O que se sabe sobre brasileira suspeita de matar filha de 4 anos nos EUA após perder a guarda",
-      "url": "https://g1.globo.com/mundo/noticia/2026/10/03/o-que-se-sabe-sobre-brasileira-suspeita-de-matar-filha-de-4-anos-nos-eua-apos-perder-a-guarda.ghtml",
-      "summary": "     Caso ocorreu em Houston horas depois de um juiz conceder a custódia da criança ao pai.\nReprodução: Facebook\nUma brasileira de 35 anos é suspeita de matar a própria filha, de quatro anos, poucas horas depois de perder na Justiça dos Estados Unidos uma disputa pela guarda da criança. O caso acont...",
-      "source": "G1 - Mundo",
-      "origin": "brasil",
-      "image": "https://s2-g1.glbimg.com/bcA1rGI7UNs0NFVyzZuFXcQbqJc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/a/0/85IPdBQ8GdwsfUF7Dc8g/cibelle.jpg",
-      "published_at": "2026-10-03T03:00:00+00:00",
-      "region": "América do Sul",
-      "theme": "Direito Internacional e Instituições"
     },
     {
       "title": "Lula pede que TSE investigue suspensão de serviços de embaixadas dos EUA",
@@ -1157,28 +1201,6 @@
       "theme": "Ciência, Tecnologia e Inovação"
     },
     {
-      "title": "Eleição no Brasil pode ser freio ou impulso a projeto de Trump na América Latina, diz pesquisadora",
-      "url": "https://redir.folha.com.br/redir/online/mundo/rss091/*https://www1.folha.uol.com.br/mundo/2026/10/eleicao-no-brasil-pode-ser-freio-ou-impulso-a-projeto-de-trump-na-america-latina-diz-pesquisadora.shtml",
-      "summary": "As eleições deste domingo (4) no Brasil tem um significado inédito para a América Latina, afirma a cientista política Guadalupe González. A vitória de Luiz Inácio Lula da Silva (PT), diz, pode significar um freio para os planos dos Estados Unidos na região; a de Flávio Bolsonaro (PL), um alinhamento...",
-      "source": "Folha de S.Paulo - Mundo",
-      "origin": "brasil",
-      "image": "https://f.i.uol.com.br/fotografia/2026/10/02/17909779516ac0279f4941c_1790977951_3x2_rt.jpg",
-      "published_at": "2026-10-03T02:00:00+00:00",
-      "region": "América do Sul",
-      "theme": "Direito Internacional e Instituições"
-    },
-    {
-      "title": "Pesquisa aponta que EUA já interferiram em duas eleições no Brasil",
-      "url": "https://redir.folha.com.br/redir/online/mundo/rss091/*https://www1.folha.uol.com.br/mundo/2026/10/pesquisa-aponta-que-eua-ja-interferiram-em-duas-eleicoes-no-brasil.shtml",
-      "summary": "Os Estados Unidos já interferiram em ao menos duas eleições brasileiras, em 1955 e 1962, documentadas em relatórios oficiais da diplomacia americana e em depoimentos de ex-agentes da CIA, a agência de inteligência do país. As duas intervenções, no entanto, fracassaram na tentativa de influenciar o r...",
-      "source": "Folha de S.Paulo - Mundo",
-      "origin": "brasil",
-      "image": "https://f.i.uol.com.br/fotografia/2026/09/12/17892386526aa59d7c6a64a_1789238652_3x2_rt.jpg",
-      "published_at": "2026-10-03T02:00:00+00:00",
-      "region": "América do Sul",
-      "theme": "Direito Internacional e Instituições"
-    },
-    {
       "title": "Women given shorts at Oktoberfest to prevent upskirting",
       "url": "https://www.bbc.co.uk/news/articles/cjwyzyqvx1zxo?at_medium=RSS&at_campaign=rss",
       "summary": "The step at the Munich festival comes after thousands of voyeuristic videos emerged on social media.",
@@ -1199,28 +1221,6 @@
       "published_at": "2026-10-02T23:13:34+00:00",
       "region": "América do Sul",
       "theme": "Política Brasileira"
-    },
-    {
-      "title": "Países emitem alertas de segurança para viagem ao Brasil citando eleições",
-      "url": "https://redir.folha.com.br/redir/online/mundo/rss091/*https://www1.folha.uol.com.br/mundo/2026/10/paises-emitem-alertas-de-seguranca-para-viagem-ao-brasil-citando-eleicoes.shtml",
-      "summary": "Canadá, Reino Unido, Alemanha e Irlanda emitiram alertas recentes para viajantes que vão ao Brasil advertindo sobre riscos de segurança antes, durante e depois das eleições presidenciais, cujo primeiro turno acontece neste domingo (4).\nLeia mais (10/02/2026 - 19h52)",
-      "source": "Folha de S.Paulo - Mundo",
-      "origin": "brasil",
-      "image": "https://f.i.uol.com.br/fotografia/2026/10/02/17909712356ac00d639c2fe_1790971235_3x2_rt.jpg",
-      "published_at": "2026-10-02T22:52:00+00:00",
-      "region": "América do Sul",
-      "theme": "Política Brasileira"
-    },
-    {
-      "title": "Argentina de Milei vai começar a oferecer cidadania por até R$ 4 mi para investidores",
-      "url": "https://redir.folha.com.br/redir/online/mundo/rss091/*https://www1.folha.uol.com.br/mercado/2026/10/argentina-vai-comecar-a-oferecer-cidadania-para-investidores-ate-o-fim-deste-ano.shtml",
-      "summary": "A Argentina lançará até o fim do ano um programa que oferecerá cidadania em troca de investimentos. A iniciativa exemplifica a busca do governo de direita de Javier Milei por novas fontes de recursos para reduzir a vultosa dívida do país.\nLeia mais (10/02/2026 - 19h37)",
-      "source": "Folha de S.Paulo - Mundo",
-      "origin": "brasil",
-      "image": "https://f.i.uol.com.br/fotografia/2025/04/25/1745592186680b9f7a75b3d_1745592186_3x2_rt.jpg",
-      "published_at": "2026-10-02T22:37:00+00:00",
-      "region": "América do Sul",
-      "theme": "Ciência, Tecnologia e Inovação"
     },
     {
       "title": "PF investiga suposto plano de atacar embaixada dos EUA: o que se sabe e como o governo brasileiro avalia",
