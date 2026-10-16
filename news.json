@@ -1,27 +1,511 @@
 {
-  "last_updated": "2026-10-16T02:26:56.252466+00:00",
+  "last_updated": "2026-10-16T07:44:02.848534+00:00",
   "articles": [
     {
-      "title": "Lula na Globo: o que disse o candidato à Presidência na segunda entrevista à emissora",
+      "title": "France’s student protests: Larger crowds risk overshadowing students’ demands",
+      "url": "https://www.france24.com/en/france-s-student-protests-larger-crowds-risk-overshadowing-students-demands",
+      "summary": "“We cannot tolerate violence from people representing the state. On the other side, we cannot accept violence from the students.”\n \nAs student protests converge with broader public discontent over the rising cost of living in France, Genie Godula is joined by Sébastien Vieille, national secretary of...",
+      "source": "France 24",
+      "origin": "internacional",
+      "image": "https://s.france24.com/media/display/a18a362e-c7e1-11f1-a44a-4dd8ac2cf3bf/w:1024/p:16x9/EN-20261014-130115-130938-CS.jpg",
+      "published_at": "2026-10-16T07:41:39+00:00",
+      "region": "Global",
+      "theme": "Direitos Humanos, Sociedade e Migrações"
+    },
+    {
+      "title": "Cerveja de sorgo abre caminho para novos usos do grão no Brasil",
+      "url": "https://www.cnnbrasil.com.br/agro/cerveja-de-sorgo-abre-caminho-para-novos-usos-do-grao-no-brasil/",
+      "summary": "A demanda internacional e a busca por alimentos de maior valor agregado ampliam as oportunidades para o cereal além da ração animal e da silagem",
+      "source": "CNN Brasil",
+      "origin": "brasil",
+      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/10/sorgo.jpg?w=960&h=450&crop=1",
+      "published_at": "2026-10-16T07:20:38+00:00",
+      "region": "América do Sul",
+      "theme": "Economia Brasileira"
+    },
+    {
+      "title": "Apple inicia vendas do iPhone Duo no Brasil; veja preços e detalhes",
+      "url": "https://www.cnnbrasil.com.br/economia/money/tecnologia/apple-inicia-vendas-do-iphone-duo-no-brasil-veja-precos-e-detalhes/",
+      "summary": "Modelo é o primeiro celular dobrável da empresa; lançamento oficial nas lojas está marcado para 23 de outubro",
+      "source": "CNN Brasil",
+      "origin": "brasil",
+      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/09/John-Turnos-.png?w=1200&h=630&crop=1",
+      "published_at": "2026-10-16T07:10:57+00:00",
+      "region": "América do Sul",
+      "theme": "Ciência, Tecnologia e Inovação"
+    },
+    {
+      "title": "Tesla unveils car that can drive upside down and jump through the air",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/16/10-16-tesla-flying-car-clip?traffic_source=rss",
+      "summary": "Tesla has unveiled an electric car that can drive upside down and use rocket-like thrusters to jump and turn mid-air.",
+      "source": "Al Jazeera English",
+      "origin": "internacional",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/image-1792134582.jpg?resize=1830%2C1080&quality=80",
+      "published_at": "2026-10-16T07:10:42+00:00",
+      "region": "América do Norte",
+      "theme": "Outros / Multitemático"
+    },
+    {
+      "title": "Think Policy: Câmara renova geração e 10 mais votados têm média de 32 anos",
+      "url": "https://www.cnnbrasil.com.br/politica/think-policy-camara-renova-geracao-e-10-mais-votados-tem-media-de-32-anos/",
+      "summary": "Levantamento aponta que os 10 deputados mais votados têm média de idade de 32 anos, sinalizando mudança histórica na política brasileira; Leonardo Barreto explica ao WW",
+      "source": "CNN Brasil",
+      "origin": "brasil",
+      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/10/urna.jpg?w=1024&h=630&crop=1",
+      "published_at": "2026-10-16T07:06:16+00:00",
+      "region": "América do Sul",
+      "theme": "Política Brasileira"
+    },
+    {
+      "title": "Após euforia, mercado refaz contas e vê disputa mais apertada no 2º turno",
+      "url": "https://www.cnnbrasil.com.br/economia/money/mercado/apos-euforia-mercado-refaz-contas-e-ve-disputa-mais-apertada-no-2o-turno/",
+      "summary": "Bolsa em queda e dólar e juros para cima expressam maior temor com o resultado do pleito entre Flávio e Lula",
+      "source": "CNN Brasil",
+      "origin": "brasil",
+      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2022/09/GettyImages-1235995414.jpg?w=1200&h=630&crop=1",
+      "published_at": "2026-10-16T07:05:15+00:00",
+      "region": "América do Sul",
+      "theme": "Economia Internacional"
+    },
+    {
+      "title": "How Israel’s elections will affect Palestinians",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/16/how-israels-elections-will-affect-palestinians?traffic_source=rss",
+      "summary": "How Israel votes this month will shape the future of over 5.5 million Palestinians who have no say in the election.",
+      "source": "Al Jazeera English",
+      "origin": "internacional",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/Screenshot-2026-10-16-at-08.01.02-1792134179.png?resize=1200%2C675",
+      "published_at": "2026-10-16T07:04:54+00:00",
+      "region": "Oriente Médio",
+      "theme": "Política Internacional"
+    },
+    {
+      "title": "Defesa Civil emite alerta severo para chuva forte em São Paulo",
+      "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/defesa-civil-emite-alerta-severo-para-chuva-forte-em-sao-paulo/",
+      "summary": "Comunicado foi enviado a celulares na madrugada desta sexta-feira (16); capital está em estado de atenção para alagamentos",
+      "source": "CNN Brasil",
+      "origin": "brasil",
+      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/10/Notificacao-Defesa-Civil.jpeg?w=1170&h=457&crop=1",
+      "published_at": "2026-10-16T07:04:02+00:00",
+      "region": "América do Sul",
+      "theme": "Geopolítica e Segurança"
+    },
+    {
+      "title": "Dionne Warwick fala sobre voltar ao Brasil para a turnê de despedida",
+      "url": "https://www.cnnbrasil.com.br/pop/musica/dionne-warwick-fala-sobre-voltar-ao-brasil-para-a-turne-de-despedida/",
+      "summary": "Em entrevista à CNN Brasil, a artista explicou por que decidiu encerrar a carreira após mais de seis décadas",
+      "source": "CNN Brasil",
+      "origin": "brasil",
+      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/10/dionne_c7dab5.jpg?w=640&h=360&crop=1",
+      "published_at": "2026-10-16T07:00:50+00:00",
+      "region": "América do Sul",
+      "theme": "Cultura, Mídia e Sociedade"
+    },
+    {
+      "title": "Faltam cinco rodadas! Veja as chances de acesso e rebaixamento na Série B",
+      "url": "https://www.cnnbrasil.com.br/esportes/faltam-cinco-rodadas-veja-as-chances-de-acesso-e-rebaixamento-na-serie-b/",
+      "summary": "Dois clubes já estão rebaixados, enquanto outros cinco disputam duas vagas diretas para a elite do futebol brasileiro",
+      "source": "CNN Brasil",
+      "origin": "brasil",
+      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2024/03/trofeu-serie-b-brasileiro-e1743646912167.jpeg?w=1200&h=630&crop=1",
+      "published_at": "2026-10-16T07:00:41+00:00",
+      "region": "América do Sul",
+      "theme": "Direito Internacional e Instituições"
+    },
+    {
+      "title": "Vorcaro celebrou revelação de acordo com mulher de Moraes: “Melhor matéria”",
+      "url": "https://www.cnnbrasil.com.br/politica/vorcaro-celebrou-revelacao-de-acordo-com-mulher-de-moraes-melhor-materia/",
+      "summary": "Em conversa com um ex-sócio, o ex-banqueiro disse que reportagem sobre a existência do contrato era a “melhor” da semana",
+      "source": "CNN Brasil",
+      "origin": "brasil",
+      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/03/BR_CNN_040326_NVD_CLEAN_frame_159449.jpeg?w=1200&h=630&crop=1",
+      "published_at": "2026-10-16T07:00:02+00:00",
+      "region": "América do Sul",
+      "theme": "Política Brasileira"
+    },
+    {
+      "title": "Na 'zona da morte', cidade da Ucrânia é ameaçada pela fome durante a guerra",
+      "url": "https://redir.folha.com.br/redir/online/mundo/rss091/*https://www1.folha.uol.com.br/mundo/2026/10/na-zona-da-morte-cidade-da-ucrania-e-ameacada-pela-fome-durante-a-guerra.shtml",
+      "summary": "Poucas notícias conseguem sair da cidade sitiada de Oleshki, um deserto na linha de frente, isolado por minas e drones do restante da Ucrânia ocupada pela Rússia.\nLeia mais (10/16/2026 - 04h00)",
+      "source": "Folha de S.Paulo - Mundo",
+      "origin": "brasil",
+      "image": "https://f.i.uol.com.br/fotografia/2026/10/05/17912184306ac3d2fe9e54a_1791218430_3x2_rt.jpg",
+      "published_at": "2026-10-16T07:00:00+00:00",
+      "region": "América do Sul",
+      "theme": "Geopolítica e Segurança"
+    },
+    {
+      "title": "Com regras duras de Milei, número de estrangeiros barrados cresce na Argentina",
+      "url": "https://redir.folha.com.br/redir/online/mundo/rss091/*https://www1.folha.uol.com.br/mundo/2026/10/com-regras-duras-de-milei-numero-de-estrangeiros-barrados-cresce-na-argentina.shtml",
+      "summary": "O caso do jornalista brasileiro Rogério Tomaz Jr., impedido de entrar na Argentina na segunda-feira (12), reflete uma política migratória cada vez mais dura de Javier Milei. Desde que assumiu, em dezembro de 2023, o governo do ultraliberal endureceu regras por decreto, e o número de pessoas impedida...",
+      "source": "Folha de S.Paulo - Mundo",
+      "origin": "brasil",
+      "image": "https://f.i.uol.com.br/fotografia/2026/10/15/17920893266ad11cee91bf4_1792089326_3x2_rt.jpg",
+      "published_at": "2026-10-16T07:00:00+00:00",
+      "region": "América do Sul",
+      "theme": "Direito Internacional e Instituições"
+    },
+    {
+      "title": "Redução de maioridade domina PEC da Segurança e votação fica indefinida",
+      "url": "https://www.cnnbrasil.com.br/politica/reducao-de-maioridade-domina-pec-da-seguranca-e-votacao-fica-indefinida/",
+      "summary": "Governo diz ser a favor de discutir a redução para 16 anos, mas que tema deve ser tratado em outra proposta para não inviabilizar aprovação da PEC antes das eleições",
+      "source": "CNN Brasil",
+      "origin": "brasil",
+      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/08/0d9a8667_1-e1787103766231.webp?w=1024&h=577&crop=1",
+      "published_at": "2026-10-16T06:50:30+00:00",
+      "region": "América do Sul",
+      "theme": "Política Internacional"
+    },
+    {
+      "title": "Think Policy: Centrão faz jogo duplo e cria dúvidas sobre apoio a Flávio",
+      "url": "https://www.cnnbrasil.com.br/eleicoes/think-policy-centrao-faz-jogo-duplo-e-cria-duvidas-sobre-apoio-a-flavio/",
+      "summary": "Ao WW, o sócio da consultoria Think Policy Leonardo Barreto aponta que partidos do Centrão apoiam Flávio Bolsonaro, mas trabalham para fornecer pautas que beneficiam Lula no 2º turno",
+      "source": "CNN Brasil",
+      "origin": "brasil",
+      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2021/06/552_76FD98FA91B5418E.jpg?w=1200&h=630&crop=1",
+      "published_at": "2026-10-16T06:49:53+00:00",
+      "region": "América do Sul",
+      "theme": "Política Brasileira"
+    },
+    {
+      "title": "“CNN”, “Axios” e “FT” entram em programa de IA do Google",
+      "url": "https://www.poder360.com.br/poder-midia/cnn-axios-e-ft-entram-em-programa-de-ia-do-google/",
+      "summary": "Empresas de comunicação farão parte do programa de licenciamento de conteúdos jornalísticos",
+      "source": "Poder360",
+      "origin": "brasil",
+      "image": "https://static.poder360.com.br/uploads/2026/10/google-1200x675.jpeg",
+      "published_at": "2026-10-16T06:43:01+00:00",
+      "region": "América do Sul",
+      "theme": "Ciência, Tecnologia e Inovação"
+    },
+    {
+      "title": "O Grande Debate: ônibus de graça; até onde vai o vale tudo por votos?",
+      "url": "https://www.cnnbrasil.com.br/eleicoes/o-grande-debate-onibus-de-graca-ate-onde-vai-o-vale-tudo-por-votos/",
+      "summary": "Comentaristas debatem proposta de Lula de zerar tarifa do transporte público aos fins de semana e o uso eleitoreiro de políticas públicas",
+      "source": "CNN Brasil",
+      "origin": "brasil",
+      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/10/Lula-quer-onibus-de-graca-ate-onde-vai-o-vale-tudo-por-votos.png?w=1200&h=451&crop=1",
+      "published_at": "2026-10-16T06:43:00+00:00",
+      "region": "América do Sul",
+      "theme": "Ciência, Tecnologia e Inovação"
+    },
+    {
+      "title": "In Israel, Netanyahu’s ultimate legacy is the opposition he has forged",
+      "url": "https://www.aljazeera.com/news/2026/10/16/in-israel-netanyahus-ultimate-legacy-is-the-opposition-he-has-forged?traffic_source=rss",
+      "summary": "As Israel heads to the polls, PM Netanyahu’s most enduring domestic legacy may be the right-wing opposition he faces.",
+      "source": "Al Jazeera English",
+      "origin": "internacional",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/AFP__20260817__C4VA8T6__v1__HighRes__IsraelPoliticsElection-1788673288.jpg?resize=1920%2C1440",
+      "published_at": "2026-10-16T06:41:15+00:00",
+      "region": "Oriente Médio",
+      "theme": "Outros / Multitemático"
+    },
+    {
+      "title": "Indian authorities heighten security, close park ahead of 'cockroach' movement rally",
+      "url": "https://www.france24.com/en/asia-pacific/20261016-indian-authorities-heighten-security-close-park-ahead-cockroach-movement-rally",
+      "summary": "Authorities have closed a central park in the Indian capital ahead of the latest protest by the youth-led \"Cockroach Janta Party\". The group has held near-daily demonstrations calling for the national election authority chief's resignation over the removal of more than 130 million people from voter ...",
+      "source": "France 24",
+      "origin": "internacional",
+      "image": "https://s.france24.com/media/display/b8a2bfba-c927-11f1-8e00-4dd8ac2cf3bf/w:1024/p:16x9/AP26288364408466.jpg",
+      "published_at": "2026-10-16T06:39:48+00:00",
+      "region": "Ásia",
+      "theme": "Política Internacional"
+    },
+    {
+      "title": "Dinossauros e mastodontes: museu no Rio com mais de 250 mil fósseis é gratuito para pesquisadores de todo Brasil",
+      "url": "https://www.cnnbrasil.com.br/ciencia/dinossauros-e-mastodontes-museu-no-rio-com-mais-de-250-mil-fosseis-e-gratuito-para-pesquisadores-de-todo-brasil/",
+      "summary": "Coleção conta com dinossauros e mamíferos disponíveis gratuitamente para pesquisas científicas mediante agendamento prévio",
+      "source": "CNN Brasil",
+      "origin": "brasil",
+      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/10/APURACAO-CNN-BRASIL-8.jpg?w=1200&h=630&crop=1",
+      "published_at": "2026-10-16T06:37:26+00:00",
+      "region": "América do Sul",
+      "theme": "Outros / Multitemático"
+    },
+    {
+      "title": "Inmet mantém alerta laranja de perigo para tempestade no Centro-Sul",
+      "url": "https://www.cnnbrasil.com.br/nacional/sudeste/inmet-mantem-alerta-laranja-de-perigo-para-tempestade-no-centro-sul/",
+      "summary": "Previsão é de precipitação de 60 mm/h ou 100 mm ao longo do dia, ventos intensos de até 100 km/h e queda de granizo; regiões do RJ, SP, MG, ES, GO, MS e DF estão sob o alerta",
+      "source": "CNN Brasil",
+      "origin": "brasil",
+      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/10/ALERTA-INMET-11.png?w=1200&h=630&crop=1",
+      "published_at": "2026-10-16T06:33:39+00:00",
+      "region": "América do Sul",
+      "theme": "Outros / Multitemático"
+    },
+    {
+      "title": "Médicos dizem que coçar os olhos pode indicar avanço de doenças crônica",
+      "url": "https://www.cnnbrasil.com.br/saude/medicos-dizem-que-cocar-os-olhos-pode-indicar-avanco-de-doencas-cronica/",
+      "summary": "Organização Mundial da Saúde calcula que um bilhão de casos de deficiência visual no mundo poderiam ter sido evitados com diagnóstico precoce",
+      "source": "CNN Brasil",
+      "origin": "brasil",
+      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2022/05/exame_de_vista.jpg?w=1200&h=630&crop=1",
+      "published_at": "2026-10-16T06:33:31+00:00",
+      "region": "América do Sul",
+      "theme": "Saúde"
+    },
+    {
+      "title": "Lula participa hoje de promulgação da PEC da 6×1 e retoma atos de campanha",
+      "url": "https://www.cnnbrasil.com.br/eleicoes/lula-participa-hoje-de-promulgacao-da-pec-da-6x1-e-retoma-atos-de-campanha/",
+      "summary": "Depois de ir à cerimônia no Congresso Nacional, candidato à reeleição vai a duas caminhadas em Minas Gerais: em Juiz de Fora e Ipatinga",
+      "source": "CNN Brasil",
+      "origin": "brasil",
+      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/10/55587352288_1646f0bda4_k-e1791943020700.jpg?w=1200&h=630&crop=1",
+      "published_at": "2026-10-16T06:31:58+00:00",
+      "region": "América do Sul",
+      "theme": "Política Brasileira"
+    },
+    {
+      "title": "Which countries waste the most food, and how to reduce waste at home",
+      "url": "https://www.aljazeera.com/news/2026/10/16/which-countries-waste-the-most-food-and-how-to-reduce-waste-at-home?traffic_source=rss",
+      "summary": "This World Food Day, 645 million people are going hungry, yet more than a billion tonnes of food is wasted annually.",
+      "source": "Al Jazeera English",
+      "origin": "internacional",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/INTERACTIVE-HUNGER-COVER-1792066566.png?resize=1200%2C630",
+      "published_at": "2026-10-16T06:31:57+00:00",
+      "region": "Global",
+      "theme": "Outros / Multitemático"
+    },
+    {
+      "title": "Midterms 2026: Can Democrats capitalise on Latino voter regret?",
+      "url": "https://www.france24.com/en/video/20261016-midterms-2026-can-democrats-capitalise-on-latino-voter-regret",
+      "summary": "In 2024, a 46 percent share of the Latino vote helped propel Donald Trump to the White House. But two years on, polls show that support has plummeted in spectacular fashion. Amid an immigration crackdown, violent ICE raids and the spiraling cost of living, some Latino voters say they regret having b...",
+      "source": "France 24",
+      "origin": "internacional",
+      "image": "https://s.france24.com/media/display/bae1a1c0-c8f9-11f1-953c-d1d2c32ebb87/w:1024/p:16x9/Midterms-latinos-vignette.jpg",
+      "published_at": "2026-10-16T06:22:18+00:00",
+      "region": "América do Norte",
+      "theme": "Política Internacional"
+    },
+    {
+      "title": "UK bookstores scramble as Sally Rooney's novels are pulled over Palestine Action support",
+      "url": "https://www.france24.com/en/europe/20261016-uk-bookstores-scramble-as-sally-rooney-novels-pulled-over-palestine-action-support",
+      "summary": "Critically acclaimed Irish novelist Sally Rooney's announcement that her books could no longer be sold in the UK due to her support for proscribed group Palestine Action has left British booksellers rushing to stock up on her works before distributors run out. The British government's ban on the gro...",
+      "source": "France 24",
+      "origin": "internacional",
+      "image": "https://s.france24.com/media/display/0420bd06-c924-11f1-923c-4dd8ac2cf3bf/w:1024/p:16x9/2026-10-14T151142Z-1755491356-RC233OAKW8RS-RTRMADP-3-BRITAIN-SALLY-ROONEY.jpg",
+      "published_at": "2026-10-16T06:15:10+00:00",
+      "region": "América do Norte",
+      "theme": "Política Internacional"
+    },
+    {
+      "title": "Vibe coding: Game-changer or risky business?",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/16/vibe-coding-game-changer-or-risky-business?traffic_source=rss",
+      "summary": "Vibe coding lets users build software with AI, but free alternatives to popular programmes raise security concerns.",
+      "source": "Al Jazeera English",
+      "origin": "internacional",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/image-1792130408.jpg?resize=1920%2C1080&quality=80",
+      "published_at": "2026-10-16T06:01:34+00:00",
+      "region": "América do Norte",
+      "theme": "Economia Internacional"
+    },
+    {
+      "title": "Alone in Gaza: Genocide leaves Palestinian man without family or a home",
+      "url": "https://www.aljazeera.com/features/2026/10/16/alone-in-gaza-genocide-leaves-palestinian-man-without-family-or-a-home?traffic_source=rss",
+      "summary": "One man wanders Gaza in search of somewhere to sleep, having lost his family in an Israeli strike.",
+      "source": "Al Jazeera English",
+      "origin": "internacional",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/873A3642-copy-1791276123.jpg?resize=1920%2C1440",
+      "published_at": "2026-10-16T05:55:23+00:00",
+      "region": "Oriente Médio",
+      "theme": "Direitos Humanos, Sociedade e Migrações"
+    },
+    {
+      "title": "US sanctions leave Iranians facing flight cancellations and soaring costs",
+      "url": "https://www.aljazeera.com/news-analysis/2026/10/16/us-sanctions-leave-iranians-facing-flight-cancellations-and-soaring-costs?traffic_source=rss",
+      "summary": "New US aviation sanctions force Iranians to take longer, costlier journeys as international flight routes disappear.",
+      "source": "Al Jazeera English",
+      "origin": "internacional",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/afp_6abaa2d07d97-1790616272.jpg?resize=1920%2C1440",
+      "published_at": "2026-10-16T05:51:40+00:00",
+      "region": "América do Norte",
+      "theme": "Outros / Multitemático"
+    },
+    {
+      "title": "Marseille's woes continue with second consecutive Europa League defeat",
+      "url": "https://www.france24.com/en/tv-shows/sports/20261016-marseille-woes-continue-with-a-second-consecutive-europa-league-defeat",
+      "summary": "Things are going from bad to worse for Marseille. The French side suffered their second defeat in as many Europa League matches, losing 1-0 to Olympiakos. Lyon, meanwhile, are heading in the opposite direction, having secured a win over Premier League side Crystal Palace. Rennes, for their part, cla...",
+      "source": "France 24",
+      "origin": "internacional",
+      "image": "https://s.france24.com/media/display/97af6844-c8ff-11f1-a23f-638c1c1f5fd6/w:1024/p:16x9/000-D3FC7GN.jpg",
+      "published_at": "2026-10-16T05:41:13+00:00",
+      "region": "Europa",
+      "theme": "Cultura, Mídia e Sociedade"
+    },
+    {
+      "title": "Rubio presses Lebanon on confiscation of weapons from Hezbollah",
+      "url": "https://www.aljazeera.com/news/2026/10/16/rubio-presses-lebanon-on-confiscation-of-weapons-from-hezbollah?traffic_source=rss",
+      "summary": "Lebanon&#039;s president reaffirms the commitment to bring all arms under state control.",
+      "source": "Al Jazeera English",
+      "origin": "internacional",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/reuters_6ad19bfd-1792121853.jpg?resize=1920%2C1440",
+      "published_at": "2026-10-16T05:28:29+00:00",
+      "region": "Oriente Médio",
+      "theme": "Geopolítica e Segurança"
+    },
+    {
+      "title": "Ship attack reports near Hormuz reach record high as oil exports slow",
+      "url": "https://www.bbc.co.uk/news/articles/cmde8dpg8g0no?at_medium=RSS&at_campaign=rss",
+      "summary": "BBC Verify analysis of data from a UK maritime agency shows 12 vessels were struck in a week.",
+      "source": "BBC News - World",
+      "origin": "internacional",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/139a/live/0f24b0c0-c8b3-11f1-bc2e-018d645d8d21.png",
+      "published_at": "2026-10-16T05:00:17+00:00",
+      "region": "Europa",
+      "theme": "Geopolítica e Segurança"
+    },
+    {
+      "title": "The Sexual Abuse Crisis in Paris’s Public Schools",
+      "url": "https://www.nytimes.com/2026/10/16/world/europe/paris-schools-abuse-crisis.html",
+      "summary": "A surge of abuse accusations has led Parisian authorities to acknowledge a “collective failure” to prevent sexual offenders from working in schools.",
+      "source": "The New York Times",
+      "origin": "internacional",
+      "image": "https://static01.nyt.com/images/2026/09/22/multimedia/00int-france-abuse-01-lzgh/00int-france-abuse-01-lzgh-mediumSquareAt3X.jpg",
+      "published_at": "2026-10-16T04:01:07+00:00",
+      "region": "América do Norte",
+      "theme": "Outros / Multitemático"
+    },
+    {
+      "title": "El Niño Threatens Global Sugar Supply",
+      "url": "https://www.nytimes.com/2026/10/16/climate/india-sugarcane-production-sugar-prices.html",
+      "summary": "A poor sugarcane crop in India, the world’s second-largest producer, is hurting consumers and farmers — plus undermining the country’s energy security goals.",
+      "source": "The New York Times",
+      "origin": "internacional",
+      "image": "https://static01.nyt.com/images/2026/10/05/multimedia/05-INT-INDIA-SUGAR-01-jbfv/05-INT-INDIA-SUGAR-01-jbfv-mediumSquareAt3X.jpg",
+      "published_at": "2026-10-16T04:00:14+00:00",
+      "region": "América do Norte",
+      "theme": "Outros / Multitemático"
+    },
+    {
+      "title": "Rússia é atingida por terremoto de magnitude 7",
+      "url": "https://g1.globo.com/mundo/noticia/2026/10/16/russia-terremoto.ghtml",
+      "summary": "Um terremoto de magnitude 7 atingiu nesta sexta-feira (16) a região da Península de Kamchatka, no extremo leste da Rússia, segundo o Centro Sismológico Euro-Mediterrânico (EMSC).\nDe acordo com o órgão, o tremor ocorreu a uma profundidade de 140 quilômetros.\nAté a última atualização desta reportagem,...",
+      "source": "G1 - Mundo",
+      "origin": "brasil",
+      "image": "https://s2-g1.glbimg.com/0DF8JvbZYk2dFXopn_3FZQ5R65w=/1280x0/filters:format(jpeg)/https://thumbor.globoi.com/unsafe/fit-in/1280x720/s04.video.glbimg.com/deo/vi/55/20/992055",
+      "published_at": "2026-10-16T03:54:53+00:00",
+      "region": "América do Sul",
+      "theme": "Outros / Multitemático"
+    },
+    {
+      "title": "Three children and teacher killed in US primary school shooting",
+      "url": "https://www.bbc.co.uk/news/articles/cm89zp48k4kzo?at_medium=RSS&at_campaign=rss",
+      "summary": "The suspect was shot dead by an armed bystander who followed him into the Oregon school, police said.",
+      "source": "BBC News - World",
+      "origin": "internacional",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ff29/live/cc0232d0-c90d-11f1-bc2e-018d645d8d21.jpg",
+      "published_at": "2026-10-16T03:45:09+00:00",
+      "region": "América do Norte",
+      "theme": "Saúde"
+    },
+    {
+      "title": "Trump regala a Putin un nuevo balón de oxígeno con el acuerdo sobre el diésel",
+      "url": "https://elpais.com/internacional/2026-10-16/trump-regala-a-putin-un-nuevo-balon-de-oxigeno-con-el-acuerdo-sobre-el-diesel.html",
+      "summary": "El pacto, que apenas tendrá impacto en los precios, dinamita la posición común de Occidente y afloja la soga financiera al Kremlin",
+      "source": "El País - Internacional",
+      "origin": "internacional",
+      "image": "https://imagenes.elpais.com/resizer/v2/AL3SQCCWKBOAXNN2BXMZTCVWHA.jpg?auth=fc32b0dfbd1624ed50456941adcf647a5f7c554b1a5fd7c36cad9ecbac267591",
+      "published_at": "2026-10-16T03:45:01+00:00",
+      "region": "América do Norte",
+      "theme": "Política Internacional"
+    },
+    {
+      "title": "Ucrania necesita usar los satélites de Starlink en la guerra, pero el Pentágono tiene el control",
+      "url": "https://elpais.com/internacional/2026-10-16/ucrania-necesita-usar-los-satelites-de-starlink-en-la-guerra-pero-el-pentagono-tiene-el-control.html",
+      "summary": "La información del sistema de comunicación de la empresa de Elon Musk permite a las fuerzas ucranias ser más certeras en las operaciones de interceptación de proyectiles rusos y en ataques en el frente. No hay alternativa europea semejante",
+      "source": "El País - Internacional",
+      "origin": "internacional",
+      "image": "https://imagenes.elpais.com/resizer/v2/YCG6HDUAIZNIPB27YV7M52ZG4A.jpg?auth=256db47d7c2c7629ecb27ae30ca45c6a92252f7fc8504e1209ca21f5dd191bd4",
+      "published_at": "2026-10-16T03:30:01+00:00",
+      "region": "América do Norte",
+      "theme": "Geopolítica e Segurança"
+    },
+    {
+      "title": "Carolyn Rodrigues-Birkett, candidata a liderar la ONU: “No elegir a una mujer sería un mensaje muy negativo para el mundo”",
+      "url": "https://elpais.com/internacional/2026-10-16/carolyn-rodrigues-birkett-candidata-a-liderar-la-onu-no-elegir-a-una-mujer-seria-un-mensaje-muy-negativo-para-el-mundo.html",
+      "summary": "La embajadora de Guyana pide que en la selección de secretario general se respete el turno de América Latina y que si surgen nuevos nombres se sometan al mismo escrutinio que han pasado los candidatos oficiales",
+      "source": "El País - Internacional",
+      "origin": "internacional",
+      "image": "https://imagenes.elpais.com/resizer/v2/YYHYORVC6RCCVHUC3JCVQW2NLQ.jpg?auth=3b5bf9853df62bed1b72fff36077bc0bc6286700d02425a00feae9effd072f35",
+      "published_at": "2026-10-16T03:30:01+00:00",
+      "region": "América do Sul",
+      "theme": "Política Internacional"
+    },
+    {
+      "title": "'Mãe de todas as bombas': como é a GBU-43/B, arma poderosa que os EUA planejam usar contra o Irã",
+      "url": "https://g1.globo.com/mundo/noticia/2026/10/16/mae-de-todas-as-bombas-como-e-a-gbu-43b-arma-poderosa-que-os-eua-planejam-usar-contra-o-ira.ghtml",
+      "summary": "     O que está por trás do impasse entre Irã e EUA\nOs Estados Unidos planejam usar a bomba GBU-43/B, conhecida como \"mãe de todas as bombas\", em eventuais novos ataques contra o Irã. As informações foram divulgadas pela imprensa americana nesta quinta-feira (15).\n✅ Siga o canal de notícias internac...",
+      "source": "G1 - Mundo",
+      "origin": "brasil",
+      "image": "https://s2-g1.glbimg.com/aJChQPJZLVrzZerxEPnHzKuGgoQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2017/N/3/zurtIPS2OhCbmX9gDmwA/moab.jpg",
+      "published_at": "2026-10-16T03:00:01+00:00",
+      "region": "América do Sul",
+      "theme": "Geopolítica e Segurança"
+    },
+    {
+      "title": "Zelensky Says Ukraine Will Resume Russian Refinery Strikes, Defying Trump",
+      "url": "https://www.nytimes.com/2026/10/15/world/europe/ukraine-russia-oil-strikes-zelensky-us-intelligence.html",
+      "summary": "President Volodymyr Zelensky expressed overt frustration with the United States in an interview with The Financial Times. He had paused the strikes to comply with a demand from the United States.",
+      "source": "The New York Times",
+      "origin": "internacional",
+      "image": "https://static01.nyt.com/images/2026/10/15/multimedia/15xp-zelensky-fbcz/15xp-zelensky-fbcz-mediumSquareAt3X.jpg",
+      "published_at": "2026-10-16T02:48:41+00:00",
+      "region": "América do Norte",
+      "theme": "Direitos Humanos, Sociedade e Migrações"
+    },
+    {
+      "title": "Lula na Globo: o que disse o candidato na 2ª entrevista à emissora",
       "url": "https://www.bbc.com/portuguese/articles/cq4g161xg3d3o?at_medium=RSS&at_campaign=rss",
       "summary": "Presidente e candidato à reeleição respondeu sobre assuntos como a relação com Donald Trump, o caso Master e o endividamento das famílias.",
       "source": "BBC News Brasil",
       "origin": "brasil",
       "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/41c7/live/d21cdbe0-c8f7-11f1-8ea2-676e2a4fc394.jpg",
-      "published_at": "2026-10-16T02:24:20+00:00",
+      "published_at": "2026-10-16T02:45:31+00:00",
       "region": "América do Sul",
       "theme": "Direito Internacional e Instituições"
     },
     {
-      "title": "Palmeiras vence Universitario na estreia da Libertadores Feminina",
-      "url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/libertadores-da-america/palmeiras-vence-universitario-na-estreia-da-libertadores-feminina/",
-      "summary": "Equipes se enfrentaram na noite desta quinta-feira (15), no Banco Guayaquil, na Região Metropolitana de Quito, no Equador, pelo Grupo B",
-      "source": "CNN Brasil",
+      "title": "Lula defende redução da maioridade penal para crimes hediondos",
+      "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/lula-defende-reducao-da-maioridade-penal-para-crimes-hediondos",
+      "summary": "Candidato à reeleição, o presidente da República Luiz Inácio Lula da Silva (PT) participou de sabatina no Jornal Nacional (TV Globo) nesta quinta-feira (15) e defendeu a redução da maioridade penal de 18 para 16 anos em casos de crimes hediondos.\n\nLula disse ser favorável à discussão sobre o assunto...",
+      "source": "Agência Brasil",
       "origin": "brasil",
-      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/10/Palmeiras-vence-Universitario-na-estreia-da-Libertadores-Feminina_2-e1792117280909.jpg?w=1200&h=630&crop=1",
-      "published_at": "2026-10-16T02:21:31+00:00",
+      "image": "https://agenciabrasil.ebc.com.br/ebc.png?id=1705525&amp;o=rss",
+      "published_at": "2026-10-16T02:44:00+00:00",
       "region": "América do Sul",
-      "theme": "Outros / Multitemático"
+      "theme": "Política Brasileira"
+    },
+    {
+      "title": "Estudantes argentinos protestam contra cortes de Milei na educação",
+      "url": "https://www.poder360.com.br/poder-internacional/estudantes-argentinos-protestam-contra-cortes-de-milei-na-educacao/",
+      "summary": "Multidão pede cumprimento de lei que garante repasses orçamentários para a educação universitária; também houve protestos contra a flexibilização na venda de terras a estrangeiros",
+      "source": "Poder360",
+      "origin": "brasil",
+      "image": "https://static.poder360.com.br/uploads/2026/10/protesto-argentina-15-out-2026-1200x675.png",
+      "published_at": "2026-10-16T02:35:39+00:00",
+      "region": "América do Sul",
+      "theme": "Direito Internacional e Instituições"
+    },
+    {
+      "title": "Campanha de Lula reclama da Meta a observadores internacionais",
+      "url": "https://www.poder360.com.br/poder-eleicoes-2026/campanha-de-lula-reclama-da-meta-a-observadores-internacionais/",
+      "summary": "Coordenação política do presidente entrega 8 ocorrências à União Europeia, à OEA e a outros 4 grupos",
+      "source": "Poder360",
+      "origin": "brasil",
+      "image": "https://static.poder360.com.br/uploads/2026/10/lula-pos-primeiro-turno-1200x675.jpg",
+      "published_at": "2026-10-16T02:26:42+00:00",
+      "region": "América do Sul",
+      "theme": "Política Brasileira"
+    },
+    {
+      "title": "Nikolas divulga vídeo de IA com Flávio bebendo e disparando míssil",
+      "url": "https://www.poder360.com.br/poder-eleicoes-2026/nikolas-divulga-video-de-ia-com-flavio-bebendo-e-disparando-missil/",
+      "summary": "As cenas são acompanhadas pela música Free Bird, da banda norte-americana Lynyrd Skynyrd",
+      "source": "Poder360",
+      "origin": "brasil",
+      "image": "https://static.poder360.com.br/uploads/2026/10/5084588705888013851-1200x675.jpg",
+      "published_at": "2026-10-16T02:20:13+00:00",
+      "region": "América do Sul",
+      "theme": "Geopolítica e Segurança"
     },
     {
       "title": "Lula liga Flávio a Canella, preso pela PF, durante sabatina na “Globo”",
@@ -46,17 +530,6 @@
       "theme": "Política Brasileira"
     },
     {
-      "title": "Prestes a casar, Juliette diz: “Não sonhava com príncipe e me surpreendi”",
-      "url": "https://www.cnnbrasil.com.br/pop/celebridades/prestes-a-casar-juliette-diz-nao-sonhava-com-principe-e-me-surpreendi/",
-      "summary": "Ex-BBB revela surpresa com relação real e leal ao se preparar para a união com Kaique Cerveny",
-      "source": "CNN Brasil",
-      "origin": "brasil",
-      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/05/juliette-kaique.jpg?w=1200&h=630&crop=1",
-      "published_at": "2026-10-16T02:10:42+00:00",
-      "region": "América do Sul",
-      "theme": "Economia Brasileira"
-    },
-    {
       "title": "Lula defende crescimento contra dívida e descarta corte de gastos",
       "url": "https://www.poder360.com.br/poder-eleicoes-2026/lula-defende-crescimento-contra-divida-e-descarta-corte-de-gastos/",
       "summary": "Em entrevista, presidente defendeu estímulo à economia contra a dívida e descartou ajustes que afetem os pobres",
@@ -64,17 +537,6 @@
       "origin": "brasil",
       "image": "https://static.poder360.com.br/uploads/2026/09/lula-canal-livre-27-set-20263-1200x675.png",
       "published_at": "2026-10-16T02:08:03+00:00",
-      "region": "América do Sul",
-      "theme": "Política Brasileira"
-    },
-    {
-      "title": "Campanha de Lula apresenta “falhas” da Meta a observadores internacionais",
-      "url": "https://www.cnnbrasil.com.br/eleicoes/campanha-de-lula-apresenta-falhas-da-meta-a-observadores-internacionais/",
-      "summary": "Documentos entregues a entidades internacionais apontam \"tratamentos assimétricos\" favorecendo Flávio Bolsonaro nas redes sociais",
-      "source": "CNN Brasil",
-      "origin": "brasil",
-      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/10/LULA-29-10-26.jpg?w=1200&h=630&crop=1",
-      "published_at": "2026-10-16T02:06:55+00:00",
       "region": "América do Sul",
       "theme": "Política Brasileira"
     },
@@ -112,92 +574,26 @@
       "theme": "Direito Internacional e Instituições"
     },
     {
-      "title": "STF aprova plano que prevê reforçar confiança pública na Corte até 2031",
-      "url": "https://www.cnnbrasil.com.br/politica/stf-aprova-plano-que-preve-reforcar-confianca-publica-na-corte-ate-2031/",
-      "summary": "Documento inclui transparência, integridade e prestação de contas entre prioridades e diz que tribunal é “alvo frequente de narrativas distorcidas”",
-      "source": "CNN Brasil",
-      "origin": "brasil",
-      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/10/ministros-stf-entrada-plenario.jpg?w=1200&h=630&crop=1",
-      "published_at": "2026-10-16T01:54:15+00:00",
-      "region": "América do Sul",
-      "theme": "Política Brasileira"
-    },
-    {
       "title": "“PCC e CV são terroristas para a comunidade brasileira”, diz Lula",
       "url": "https://www.poder360.com.br/poder-eleicoes-2026/pcc-e-cv-sao-terroristas-para-a-comunidade-brasileira-diz-lula/",
       "summary": "Presidente afirmou que facções \"querem dinheiro\" e diferenciou sua atuação da classificação dos EUA",
       "source": "Poder360",
       "origin": "brasil",
-      "image": "https://static.poder360.com.br/uploads/2026/10/Lula-desenrola-mei-13-out-2026-3-1200x675.jpg",
+      "image": "https://static.poder360.com.br/uploads/2026/10/lula-na-sabatina-da-globo-1200x675.png",
       "published_at": "2026-10-16T01:53:27+00:00",
       "region": "América do Sul",
       "theme": "Geopolítica e Segurança"
     },
     {
-      "title": "Lula diz que “não sabia” que Bolsa Família não havia sido reajustado",
-      "url": "https://www.cnnbrasil.com.br/eleicoes/lula-diz-que-nao-sabia-que-bolsa-familia-nao-havia-sido-reajustado/",
-      "summary": "Durante sabatina da TV Globo, presidente classificou falta de correção como “inexplicável” e afirmou haver espaço fiscal para o aumento anunciado em setembro",
-      "source": "CNN Brasil",
-      "origin": "brasil",
-      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/10/Lula-na-Globo-3.png?w=1094&h=615&crop=1",
-      "published_at": "2026-10-16T01:52:21+00:00",
-      "region": "América do Sul",
-      "theme": "Política Brasileira"
-    },
-    {
-      "title": "Na SPFW, Xamã conecta moda e música: “Um desfile é como lançar um disco”",
-      "url": "https://www.cnnbrasil.com.br/style/moda/na-spfw-xama-conecta-moda-e-musica-um-desfile-e-como-lancar-um-disco/",
-      "summary": "Músico citou artistas como Tupac e Tyler The Creator entre suas principais referências de estilo no processo criativo",
-      "source": "CNN Brasil",
-      "origin": "brasil",
-      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/10/1-xama-desfile-dario-mittmann-spfw.jpg?w=1154&h=630&crop=1",
-      "published_at": "2026-10-16T01:45:58+00:00",
-      "region": "América do Sul",
-      "theme": "Cultura, Mídia e Sociedade"
-    },
-    {
-      "title": "Lula diz que não sabia que Bolsa Família ficou 3 anos sem reajuste",
-      "url": "https://www.poder360.com.br/poder-eleicoes-2026/lula-diz-que-nao-sabia-que-bolsa-familia-ficou-3-anos-sem-reajuste/",
-      "summary": "Reajuste foi anunciado 17 dias antes do 1º turno, mesmo com a equipe econômica tendo sinalizado que não haveria mudança",
-      "source": "Poder360",
-      "origin": "brasil",
-      "image": "https://static.poder360.com.br/uploads/2026/10/Lula-desenrola-mei-13-out-2026-17-1200x675.jpg",
-      "published_at": "2026-10-16T01:43:27+00:00",
-      "region": "América do Sul",
-      "theme": "Política Brasileira"
-    },
-    {
-      "title": "Camilo nega pedido do PT para adiar PEC da Segurança e rebate oposição",
-      "url": "https://www.poder360.com.br/poder-congresso/camilo-nega-pedido-do-pt-para-adiar-pec-da-seguranca-e-rebate-oposicao/",
-      "summary": "Líder do PT no Senado afirma que Planalto queria votar a PEC para viabilizar promulgação na 6ª feira, junto à PEC do fim da escala 6 X 1",
-      "source": "Poder360",
-      "origin": "brasil",
-      "image": "https://static.poder360.com.br/uploads/2026/10/camilo-santana-senado-1200x675.jpg",
-      "published_at": "2026-10-16T01:41:12+00:00",
-      "region": "América do Sul",
-      "theme": "Política Brasileira"
-    },
-    {
-      "title": "Ordem para limitar satélites da Ucrânia partiu da Casa Branca, diz fonte",
-      "url": "https://www.cnnbrasil.com.br/internacional/ordem-para-limitar-satelites-da-ucrania-partiu-da-casa-branca-diz-fonte/",
-      "summary": "Autoridades não especificaram quem tomou a decisão; sistema utilizado pelo exército ucraniano na guerra contra a Rússia teve desempenho limitado",
-      "source": "CNN Brasil",
-      "origin": "brasil",
-      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/Reuters_Direct_Media/BrazilOnlineReportBusinessNews/tagreuters.com2026binary_LYNXMPEM1413Y-BASEIMAGE.jpg?w=800&h=528&crop=1",
-      "published_at": "2026-10-16T01:40:25+00:00",
-      "region": "América do Sul",
+      "title": "Live: Trump calls renewed Ukraine attacks on Russian oil refineries 'a disgrace'",
+      "url": "https://www.france24.com/en/europe/20261016-live-trump-calls-renewed-ukraine-attacks-on-russian-oil-refineries-a-disgrace",
+      "summary": "US President Donald Trump called Ukraine's renewed strikes on Russian oil refineries a \"disgrace\" after Ukrainian President Volodymyr Zelensky rejected his calls for an \"energy ceasefire\". Zelensky on Thursday sought support from European allies on the sidelines of an EU summit in Brussels. Follow o...",
+      "source": "France 24",
+      "origin": "internacional",
+      "image": "https://s.france24.com/media/display/72deca9a-c900-11f1-a741-4dd8ac2cf3bf/w:1024/p:16x9/AP26288658174476.jpg",
+      "published_at": "2026-10-16T01:50:10+00:00",
+      "region": "América do Norte",
       "theme": "Geopolítica e Segurança"
-    },
-    {
-      "title": "Fluminense vence Flamengo e larga em vantagem na Copa do Brasil Feminina",
-      "url": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-brasil/fluminense-vence-flamengo-e-larga-em-vantagem-na-copa-do-brasil-feminina/",
-      "summary": "Equipes se enfrentaram na noite desta quinta-feira (15), no estádio Luso-Brasileiro, no Rio de Janeiro (RJ), pela partida de ida das quartas de final",
-      "source": "CNN Brasil",
-      "origin": "brasil",
-      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/10/Flamengo-x-Fluminense-Copa-do-Brasil-Feminina-2026_2-e1792114292503.jpg?w=1200&h=630&crop=1",
-      "published_at": "2026-10-16T01:38:09+00:00",
-      "region": "América do Sul",
-      "theme": "Direito Internacional e Instituições"
     },
     {
       "title": "'It's really hard to believe' - How Oregon primary school shooting unfolded",
@@ -209,149 +605,6 @@
       "published_at": "2026-10-16T01:36:45+00:00",
       "region": "América do Norte",
       "theme": "Outros / Multitemático"
-    },
-    {
-      "title": "Lula diz que o jeito de resolver problema fiscal é fazer economia crescer",
-      "url": "https://www.cnnbrasil.com.br/eleicoes/lula-diz-que-o-jeito-de-resolver-problema-fiscal-e-fazer-economia-crescer/",
-      "summary": "Presidente defendeu a expansão da atividade econômica em vez de cortes que afetem a população pobre e disse apostar em medidas de renegociação de dívidas e crédito",
-      "source": "CNN Brasil",
-      "origin": "brasil",
-      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/10/Lula-na-Globo.png?w=1067&h=630&crop=1",
-      "published_at": "2026-10-16T01:35:34+00:00",
-      "region": "América do Sul",
-      "theme": "Política Brasileira"
-    },
-    {
-      "title": "Myanmar’s coup leader-turned-president wins back neighbours despite war",
-      "url": "https://www.aljazeera.com/news/2026/10/16/as-war-rages-myanmars-coup-leader-turned-president-wins-back-neighbours?traffic_source=rss",
-      "summary": "ASEAN leaders are embracing Min Aung Hlaing, but critics warn it emboldens a military still bombing civilians.",
-      "source": "Al Jazeera English",
-      "origin": "internacional",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/2026-10-08T020751Z_22596828_RC2OYNAMA7HM_RTRMADP_3_MALAYSIA-MYANMAR-1792058776.jpg?resize=1920%2C1440",
-      "published_at": "2026-10-16T01:34:47+00:00",
-      "region": "Global",
-      "theme": "Geopolítica e Segurança"
-    },
-    {
-      "title": "Three children and a teacher killed by 16-year-old at Oregon primary school",
-      "url": "https://www.bbc.co.uk/news/articles/cm89zp48k4kzo?at_medium=RSS&at_campaign=rss",
-      "summary": "A teen assailant was pursued into the school by an armed community member, who shot him dead, said police.",
-      "source": "BBC News - World",
-      "origin": "internacional",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5bc6/live/40d818d0-c8f6-11f1-977f-01c60c7120c0.jpg",
-      "published_at": "2026-10-16T01:29:24+00:00",
-      "region": "Global",
-      "theme": "Saúde"
-    },
-    {
-      "title": "Flávio diz que PT terá de “aturar Bolsonaro” na Presidência",
-      "url": "https://www.poder360.com.br/poder-eleicoes-2026/flavio-diz-que-pt-tera-de-aturar-bolsonaro-na-presidencia/",
-      "summary": "Senador afirma, em ato de campanha em Minas Gerais, que vai dar continuidade ao projeto do pai",
-      "source": "Poder360",
-      "origin": "brasil",
-      "image": "https://static.poder360.com.br/uploads/2026/10/flavio-capelinha-mg-1200x675.jpg",
-      "published_at": "2026-10-16T01:28:56+00:00",
-      "region": "América do Sul",
-      "theme": "Política Brasileira"
-    },
-    {
-      "title": "No começo do século passado, pesquisadores diziam que ler antes de dormir fazia mal para crianças e adolescentes; e hoje em dia?",
-      "url": "https://www.cnnbrasil.com.br/curiosidades/no-comeco-do-seculo-passado-pesquisadores-diziam-que-ler-antes-de-dormir-fazia-mal-para-criancas-e-adolescentes-e-hoje-em-dia/",
-      "summary": "Estudos associavam risco de miopia a ler na cama com luz inadequada; recomendação chegou a ser de que fosse o hábito fosse \"estritamente proibido\" para menores de 18 anos",
-      "source": "CNN Brasil",
-      "origin": "brasil",
-      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/10/ler-antes-de-dormir.jpg?w=1200&h=630&crop=1",
-      "published_at": "2026-10-16T01:22:17+00:00",
-      "region": "América do Sul",
-      "theme": "Outros / Multitemático"
-    },
-    {
-      "title": "Marinho critica alta cúpula da AGU por apoio à reeleição de Lula",
-      "url": "https://www.poder360.com.br/poder-eleicoes-2026/marinho-critica-alta-cupula-da-agu-por-apoio-a-reeleicao-de-lula/",
-      "summary": "Coordenador de campanha de Flávio afirma que Jorge Messias e Flávio Roman descumprem cartilha de neutralidade eleitoral da entidade",
-      "source": "Poder360",
-      "origin": "brasil",
-      "image": "https://static.poder360.com.br/uploads/2026/06/RogerioMarinho-PL-Senador-PoderEntrevista-32.jpg",
-      "published_at": "2026-10-16T01:20:55+00:00",
-      "region": "América do Sul",
-      "theme": "Política Brasileira"
-    },
-    {
-      "title": "Israel deve interromper “estabelecimento forçado” na Cisjordânia, diz China",
-      "url": "https://www.cnnbrasil.com.br/internacional/israel-deve-interromper-estabelecimento-forcado-na-cisjordania-diz-china/",
-      "summary": "Ministro das Relações Exteriores de Pequim afirmou que movimentação israelense com assentamentos na região é a maior injustiça histórica do século",
-      "source": "CNN Brasil",
-      "origin": "brasil",
-      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/Reuters_Direct_Media/BrazilOnlineReportTopNews/tagreuters.com2023binary_LYNXMPEJ1H06A-FILEDIMAGE.jpg?w=1200&h=630&crop=1",
-      "published_at": "2026-10-16T01:20:14+00:00",
-      "region": "América do Sul",
-      "theme": "Política Internacional"
-    },
-    {
-      "title": "Clashes erupt at protest over university funding law in Argentina",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/16/clashes-erupt-at-protest-over-university-funding-law-in-argentina?traffic_source=rss",
-      "summary": "Protesters in Buenos Aires demanded the government implement a law to boost university funding.",
-      "source": "Al Jazeera English",
-      "origin": "internacional",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/image-1792113491.jpg?resize=1920%2C1080&quality=80",
-      "published_at": "2026-10-16T01:19:25+00:00",
-      "region": "América do Sul",
-      "theme": "Direitos Humanos, Sociedade e Migrações"
-    },
-    {
-      "title": "Flávio ironiza mudança de posicionamento do PT sobre maioridade penal",
-      "url": "https://www.cnnbrasil.com.br/eleicoes/flavio-critica-mudanca-de-posicionamento-do-pt-sobre-maioridade-penal/",
-      "summary": "Líder do partido do presidente Luiz Inácio Lula da Silva, o senador Camilo Santana apresentou uma emenda pedindo a mudança para 16 anos",
-      "source": "CNN Brasil",
-      "origin": "brasil",
-      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/10/1-Live-de-quinta-Flavio-Bolsonaro.png?w=1200&h=630&crop=1",
-      "published_at": "2026-10-16T01:18:00+00:00",
-      "region": "América do Sul",
-      "theme": "Política Brasileira"
-    },
-    {
-      "title": "Trump diz que está conversando com Rússia e China sobre a desnuclearização",
-      "url": "https://www.cnnbrasil.com.br/internacional/trump-diz-que-esta-conversando-com-russia-e-china-sobre-a-desnuclearizacao/",
-      "summary": "Em entrevista ao canal Newsmax, presidente americano afirmou \"adoraria promover a desnuclearização\" e que a China deve alcançar os EUA em número de ogivas nos próximos anos",
-      "source": "CNN Brasil",
-      "origin": "brasil",
-      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/09/putin-trump-xi.jpg?w=1200&h=630&crop=1",
-      "published_at": "2026-10-16T01:13:31+00:00",
-      "region": "América do Sul",
-      "theme": "Geopolítica e Segurança"
-    },
-    {
-      "title": "Can Zimbabwe’s ZiG win trust and replace the US dollar?",
-      "url": "https://www.aljazeera.com/economy/2026/10/16/can-zimbabwes-zig-win-trust-and-replace-the-us-dollar?traffic_source=rss",
-      "summary": "After repeated currency crises, Zimbabweans remain wary of the ZiG.",
-      "source": "Al Jazeera English",
-      "origin": "internacional",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/IMG-20261006-WA0038-1791554102.jpg?resize=1200%2C675",
-      "published_at": "2026-10-16T01:12:26+00:00",
-      "region": "América do Norte",
-      "theme": "Outros / Multitemático"
-    },
-    {
-      "title": "Waack: Lula dobra aposta com promessa sem recurso no caixa",
-      "url": "https://www.cnnbrasil.com.br/eleicoes/waack-lula-dobra-aposta-com-promessa-sem-recurso-no-caixa/",
-      "summary": "Dado aos custos que ninguém tem estimativa clara, e ao cipoal jurídico no qual ninguém sabe como se mover; mas a proposta precisa ser levada a sério, embora seja apenas promessa, por um outro motivo",
-      "source": "CNN Brasil",
-      "origin": "brasil",
-      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/10/LULA-29-10-26.jpg?w=1200&h=630&crop=1",
-      "published_at": "2026-10-16T01:02:53+00:00",
-      "region": "América do Sul",
-      "theme": "Política Brasileira"
-    },
-    {
-      "title": "Lula diz que justificativa de Andrei sobre festa de Vorcaro não convenceu",
-      "url": "https://www.cnnbrasil.com.br/eleicoes/lula-diz-que-justificativa-de-andrei-sobre-festa-de-vorcaro-nao-convenceu/",
-      "summary": "Em sabatina à TV Globo nesta quinta-feira (15), presidente disse que o trabalho do diretor-geral da PF é \"extraordinário\", mas o repreendeu por viagem com ex-banqueiro preso",
-      "source": "CNN Brasil",
-      "origin": "brasil",
-      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/10/Lula-na-Globo-2.png?w=1059&h=630&crop=1",
-      "published_at": "2026-10-16T00:59:40+00:00",
-      "region": "América do Sul",
-      "theme": "Política Brasileira"
     },
     {
       "title": "Papa volta a trabalhar durante tratamento e pode fazer oração da janela do hospital no domingo",
@@ -370,13 +623,13 @@
       "summary": "",
       "source": "France 24",
       "origin": "internacional",
-      "image": "https://loremflickr.com/800/450/news?lock=775",
+      "image": "https://loremflickr.com/800/450/news?lock=966",
       "published_at": "2026-10-16T00:57:46+00:00",
       "region": "Global",
       "theme": "Outros / Multitemático"
     },
     {
-      "title": "19 injured as minibus crashes into train at Channel Tunnel entrance",
+      "title": "Minibus crashes into train at French Channel Tunnel entrance, injuring 19",
       "url": "https://www.france24.com/en/europe/20261016-19-injured-as-minibus-crashes-into-train-at-channel-tunnel-entrance",
       "summary": "Nineteen people were injured Thursday when a minibus carrying truck drivers crashed into a vehicle shuttle train at the French entrance to the Channel Tunnel near Calais, forcing a 90-minute suspension of shuttle services. Two people were hospitalised with serious but non-life-threatening injuries, ...",
       "source": "France 24",
@@ -387,14 +640,25 @@
       "theme": "Saúde"
     },
     {
-      "title": "Iraq parliament approves al-Zaidi’s cabinet amid growing economic concerns",
-      "url": "https://www.aljazeera.com/news/2026/10/16/iraq-parliament-approves-al-zaidis-cabinet-amid-growing-economic-concerns?traffic_source=rss",
-      "summary": "Iraq&#039;s parliament has finalised key minister appointments five months after al-Zaidi&#039;s government took office.",
-      "source": "Al Jazeera English",
-      "origin": "internacional",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/reuters_6ad148b5-1792100533.jpg?resize=1920%2C1440",
-      "published_at": "2026-10-16T00:31:18+00:00",
-      "region": "Global",
+      "title": "Fluminense vence Flamengo e abre vantagem na Copa do Brasil Feminina",
+      "url": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-10/fluminense-vence-flamengo-e-abre-vantagem-na-copa-do-brasil-feminina",
+      "summary": "\n                    \n\t\t\t\tNo primeiro Fla-Flu pelas quartas de final da Copa do Brasil Feminina, melhor para as tricolores. Na noite desta quinta-feira (15), o Fluminense venceu o Flamengo por 2 a 1 no clássico realizado no Estádio Luso-Brasileiro.\n\nO jogo de volta também será no estádio da zona nor...",
+      "source": "Agência Brasil",
+      "origin": "brasil",
+      "image": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+      "published_at": "2026-10-16T00:41:00+00:00",
+      "region": "América do Sul",
+      "theme": "Economia Brasileira"
+    },
+    {
+      "title": "Congresso aprova exame obrigatório para exercício da medicina",
+      "url": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-10/congresso-aprova-exame-obrigatorio-para-exercicio-da-medicina",
+      "summary": "\n                    \n\t\t\t\tO Congresso Nacional aprovou nesta quinta-feira (15) a Medida Provisória (MP) 1370/26, que condiciona o registro profissional de médicos à aprovação no Exame Nacional de Avaliação da Formação Médica (Enamed). O texto passou nos plenários da Câmara dos Deputados e do Senado ...",
+      "source": "Agência Brasil",
+      "origin": "brasil",
+      "image": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+      "published_at": "2026-10-16T00:41:00+00:00",
+      "region": "América do Sul",
       "theme": "Política Internacional"
     },
     {
@@ -403,7 +667,7 @@
       "summary": "Five people were killed when the Houthi militia struck the Maashiq Palace in Aden, a Yemeni minister said.",
       "source": "The New York Times",
       "origin": "internacional",
-      "image": "https://static01.nyt.com/images/2026/10/15/15vid-yemen-hq-strike-54513-cover/15vid-yemen-hq-strike-54513-cover-facebookJumbo-v2.jpg",
+      "image": "https://loremflickr.com/800/450/culture,art?lock=591",
       "published_at": "2026-10-16T00:14:38+00:00",
       "region": "Global",
       "theme": "Cultura, Mídia e Sociedade"
@@ -420,17 +684,6 @@
       "theme": "Política Brasileira"
     },
     {
-      "title": "Iran war live: Saudi blasts Houthi ‘war crimes’; US warns on Saudi airports",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/10/16/iran-war-live-saudi-blasts-houthi-war-crimes-us-warns-on-saudi-airports?traffic_source=rss",
-      "summary": "Saudi Arabia calls Houthi attacks &#039;full-fledged war crimes&#039; while the US warns of possible attacks on Saudi airports.",
-      "source": "Al Jazeera English",
-      "origin": "internacional",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/epa_6ad1569d9dbe-1792104093.jpg?resize=1920%2C1440",
-      "published_at": "2026-10-16T00:02:37+00:00",
-      "region": "América do Norte",
-      "theme": "Geopolítica e Segurança"
-    },
-    {
       "title": "Dólar sobe 1,15% e fecha a R$ 5,09 em dia de cautela",
       "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/dolar-sobe-115-e-fecha-r-509-em-dia-de-cautela",
       "summary": "\n                    \n\t\t\t\tO dólar subiu cerca de 1% e fechou próximo de R$ 5,09 nesta quinta-feira (15), enquanto a Bolsa brasileira recuou também em torno de 1%, aos 204 mil pontos. O mercado teve um dia de cautela, com investidores atentos ao cenário eleitoral e a possíveis medidas econômicas do g...",
@@ -440,39 +693,6 @@
       "published_at": "2026-10-15T23:49:00+00:00",
       "region": "América do Sul",
       "theme": "Economia Brasileira"
-    },
-    {
-      "title": "France and Germany agree to ease EU car emissions rules in new deal",
-      "url": "https://www.france24.com/en/europe/20261015-france-and-germany-agree-to-ease-eu-car-emissions-rules-in-new-deal",
-      "summary": "France and Germany have backed looser EU emissions rules for carmakers and agreed to include Britain in a “made in Europe” scheme, in a provisional deal reached Thursday that could reshape the bloc’s automotive and climate policies.",
-      "source": "France 24",
-      "origin": "internacional",
-      "image": "https://s.france24.com/media/display/af286218-c8e7-11f1-8247-2d1c143cdef3/w:1024/p:16x9/AP26270718148994.jpg",
-      "published_at": "2026-10-15T23:48:57+00:00",
-      "region": "Europa",
-      "theme": "Meio Ambiente e Clima"
-    },
-    {
-      "title": "Two Syrian pipelines damaged amid spate of attacks on energy infrastructure",
-      "url": "https://www.aljazeera.com/economy/2026/10/15/two-syrian-pipelines-damaged-amid-spate-of-attacks-on-energy-infrastructure?traffic_source=rss",
-      "summary": "Fuel theft cited in Baniyas-Homs leak as gas export line in Hasakah catches fire.",
-      "source": "Al Jazeera English",
-      "origin": "internacional",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/getty_6ad14bc3c7-1792101315.jpg?resize=1920%2C1440",
-      "published_at": "2026-10-15T23:35:26+00:00",
-      "region": "Oriente Médio",
-      "theme": "Geopolítica e Segurança"
-    },
-    {
-      "title": "Tip-off foiled US teen suspect's plot to attack Hindu temple, police say",
-      "url": "https://www.bbc.co.uk/news/articles/cqgm0j4kjvevo?at_medium=RSS&at_campaign=rss",
-      "summary": "The alleged plot only failed because the 19-year-old suspect's gun jammed outside the place of worship, say police.",
-      "source": "BBC News - World",
-      "origin": "internacional",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/316e/live/9caab030-c88a-11f1-a2e8-f71844f8002e.jpg",
-      "published_at": "2026-10-15T23:27:21+00:00",
-      "region": "América do Norte",
-      "theme": "Geopolítica e Segurança"
     },
     {
       "title": "TSE determina isonomia após IA da Meta barrar imagens de Lula",
@@ -519,17 +739,6 @@
       "theme": "Ciência, Tecnologia e Inovação"
     },
     {
-      "title": "Zelensky rallies European allies as US support for Ukraine wanes",
-      "url": "https://www.france24.com/en/europe/20261015-zelensky-rallies-european-allies-as-us-support-for-ukraine-wanes",
-      "summary": "Ukrainian President Volodymyr Zelensky sought European backing Thursday after vowing to resume strikes on Russian oil refineries despite US President Donald Trump’s demands, as tensions with Washington escalated over sanctions, energy infrastructure attacks and restrictions on satellite communicatio...",
-      "source": "France 24",
-      "origin": "internacional",
-      "image": "https://s.france24.com/media/display/28bbd5dc-c8d5-11f1-aec7-2d1c143cdef3/w:1024/p:16x9/80c62e6fc13f8d6a5641fe9e16da5b4e0ca12147.jpg",
-      "published_at": "2026-10-15T23:06:00+00:00",
-      "region": "América do Norte",
-      "theme": "Geopolítica e Segurança"
-    },
-    {
       "title": "Senado aprova aumento de limite e perdão de dívida para MEIs",
       "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/senado-aprova-aumento-de-limite-e-perdao-de-divida-para-meis",
       "summary": "\n                    \n\t\t\t\tO Senado Federal aprovou nesta quinta-feira (15) o projeto que aumenta o teto da receita bruta anual do microempreendedor individual (MEI) e o perdão de dívidas inscritas na dívida ativa da União até 13 de outubro de 2026. De forma unânime, a proposta foi aprovada por 78 vo...",
@@ -539,17 +748,6 @@
       "published_at": "2026-10-15T22:52:00+00:00",
       "region": "América do Sul",
       "theme": "Política Internacional"
-    },
-    {
-      "title": "Three children, one teacher killed in Oregon school shooting",
-      "url": "https://www.aljazeera.com/news/2026/10/15/at-least-4-including-3-children-killed-in-us-elementary-school-shooting?traffic_source=rss",
-      "summary": "The police chief in Bend, Oregon, identified the shooter as a 16-year-old who was killed by a bystander at the school.",
-      "source": "Al Jazeera English",
-      "origin": "internacional",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/AP26288796036302-1792102181.jpg?resize=1920%2C1440",
-      "published_at": "2026-10-15T22:51:56+00:00",
-      "region": "Global",
-      "theme": "Saúde"
     },
     {
       "title": "Governo Trump processa Califórnia para barrar voto de 20 mil pessoas que alega não serem cidadãos",
@@ -596,50 +794,6 @@
       "theme": "Geopolítica e Segurança"
     },
     {
-      "title": "Museu da UFRJ irá receber mais R$ 10 milhões para restauração",
-      "url": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-10/museu-da-ufrj-ira-receber-mais-r-10-milhoes-para-restauracao",
-      "summary": "O Museu Nacional da Universidade Federal do Rio de Janeiro (UFRJ) irá receber o investimento de R$ 10 milhões para dar continuidade aos trabalhos de recuperação após o incêndio sofrido em 2018. O anúncio foi feito pelo ministro da Educação, Leonardo Barchini.\n\nA instituição passou por um grande incê...",
-      "source": "Agência Brasil",
-      "origin": "brasil",
-      "image": "https://agenciabrasil.ebc.com.br/ebc.png?id=1705508&amp;o=rss",
-      "published_at": "2026-10-15T22:30:00+00:00",
-      "region": "América do Sul",
-      "theme": "Política Internacional"
-    },
-    {
-      "title": "Hospital Geral de Bonsucesso chegou à marca de 450 leitos para o SUS",
-      "url": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-10/hospital-geral-de-bonsucesso-chegou-marca-de-450-leitos-para-o-sus",
-      "summary": "\n                    \n\t\t\t\tO Hospital Geral de Bonsucesso chegou à marca de 450 leitos em operação para atendimento do Sistema Único de Saúde (SUS). Parte do Plano de Reestruturação dos Hospitais Federais do Rio de Janeiro, o hospital retomou o funcionamento da emergência 24 horas e chegou a 390 leit...",
-      "source": "Agência Brasil",
-      "origin": "brasil",
-      "image": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-      "published_at": "2026-10-15T22:25:00+00:00",
-      "region": "América do Sul",
-      "theme": "Saúde"
-    },
-    {
-      "title": "Corinthians abre Libertadores Feminina com vitória sobre Colo-Colo",
-      "url": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-10/corinthians-abre-libertadores-feminina-com-vitoria-sobre-colo-colo",
-      "summary": "\n                    \n\t\t\t\tO Corinthians iniciou com vitória a caminhada em busca do sétimo título - o quarto consecutivo - da Libertadores Feminina, que está sendo disputada em Quito (Equador). Nesta quinta-feira (15), as Brabas derrotaram o Colo-Colo (Chile) por 2 a 0 no Estádio Casa Blanca, pelo G...",
-      "source": "Agência Brasil",
-      "origin": "brasil",
-      "image": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-      "published_at": "2026-10-15T22:14:00+00:00",
-      "region": "América do Sul",
-      "theme": "Cultura, Mídia e Sociedade"
-    },
-    {
-      "title": "Israel halts commercial goods from entering Gaza; Hamas denies tax claims",
-      "url": "https://www.aljazeera.com/news/2026/10/15/israel-halts-commercial-goods-from-entering-gaza-hamas-denies-tax-claims?traffic_source=rss",
-      "summary": "The halt to commercial shipments, including fruit and winter clothing, cuts off a key source of critical supplies.",
-      "source": "Al Jazeera English",
-      "origin": "internacional",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/getty_6ad134ad9b-1792095405.jpg?resize=1920%2C1440",
-      "published_at": "2026-10-15T21:57:58+00:00",
-      "region": "Oriente Médio",
-      "theme": "Ciência, Tecnologia e Inovação"
-    },
-    {
       "title": "Tiroteio em escola nos EUA mata 3 crianças e professor; atirador também morreu",
       "url": "https://g1.globo.com/mundo/noticia/2026/10/15/tiroteio-em-escola-de-ensino-fundamental-nos-eua-deixa-ao-menos-dois-hospitalizados-atirador-morre.ghtml",
       "summary": "     Fita de isolamento policial em frente à Escola Primária Silver Rail, onde ocorreu um tiroteio.\nJoe Kline / AP\nUm tiroteio em uma escola de ensino fundamental em Bend, no estado do Oregon, nos Estados Unidos, matou três crianças e um professor nesta quinta-feira (15). O atirador, de 16 anos, tam...",
@@ -657,7 +811,7 @@
       "source": "The New York Times",
       "origin": "internacional",
       "image": "https://static01.nyt.com/images/2026/10/15/multimedia/15int-albania-protests-tczw/15int-albania-protests-tczw-mediumSquareAt3X.jpg",
-      "published_at": "2026-10-15T21:40:23+00:00",
+      "published_at": "2026-10-15T21:40:24+00:00",
       "region": "América do Norte",
       "theme": "Direitos Humanos, Sociedade e Migrações"
     },
@@ -684,28 +838,6 @@
       "theme": "Direito Internacional e Instituições"
     },
     {
-      "title": "Sally Rooney books cannot be sold in UK amid Palestine Action ban: publisher",
-      "url": "https://www.france24.com/en/tv-shows/a-propos/20261015-sally-rooney-books-cannot-be-sold-in-uk-amid-palestine-action-ban-publisher",
-      "summary": "Irish author Sally Rooney can no longer sell her books in the UK because of her support for the activist group Palestine Action, her publisher Faber said Wednesday. Rooney has previously expressed her support for the group, which was banned as a \"terrorist\" organisation by the UK government in July ...",
-      "source": "France 24",
-      "origin": "internacional",
-      "image": "https://s.france24.com/media/display/284ebba0-c8da-11f1-bf25-d1d2c32ebb87/w:1024/p:16x9/EN-20261015-223115-224454-CS.jpg",
-      "published_at": "2026-10-15T21:15:11+00:00",
-      "region": "América do Norte",
-      "theme": "Geopolítica e Segurança"
-    },
-    {
-      "title": "Sally Rooney books cannot be sold in UK amid Palestine Action ban: publisher",
-      "url": "https://www.france24.com/en/sally-rooney-books-cannot-be-sold-in-uk-amid-palestine-action-ban-publisher",
-      "summary": "Irish author Sally Rooney can no longer sell her books in the UK because of her support for the activist group Palestine Action, her publisher Faber said Wednesday. Rooney has previously expressed her support for the group, which was banned as a \"terrorist\" organisation by the UK government in July ...",
-      "source": "France 24",
-      "origin": "internacional",
-      "image": "https://s.france24.com/media/display/284ebba0-c8da-11f1-bf25-d1d2c32ebb87/w:1024/p:16x9/EN-20261015-223115-224454-CS.jpg",
-      "published_at": "2026-10-15T21:07:06+00:00",
-      "region": "América do Norte",
-      "theme": "Geopolítica e Segurança"
-    },
-    {
       "title": "Vorcaro disse 'te amo' para Gusttavo Lima e tratava cantor como 'sócio' em bet",
       "url": "https://www.bbc.com/portuguese/articles/c6m2d4x73dz9o?at_medium=RSS&at_campaign=rss",
       "summary": "Defesa do cantor diz que seu nome nunca constou do contrato social da VaiDeBet",
@@ -728,17 +860,6 @@
       "theme": "Direitos Humanos, Sociedade e Migrações"
     },
     {
-      "title": "Oxfam takes France to court over 'tax inequality': 'Problem' with tax system, public service funding",
-      "url": "https://www.france24.com/en/tv-shows/spotlight/20261015-oxfam-takes-france-to-court-over-tax-inequality-problem-with-tax-system-public-service-funding",
-      "summary": "François Picard is pleased to welcome Layla Abdelké Yakoub, Tax Justice and Inequality Advocacy Officer at Oxfam France. \"Today in France a billionaire pays less taxes proportionally than a nurse or a firefighter,\" explains Yakoub. She challenges the foundations of France's fiscal system, arguing th...",
-      "source": "France 24",
-      "origin": "internacional",
-      "image": "https://s.france24.com/media/display/5e748ac4-c8d6-11f1-b56b-6313a763b466/w:1024/p:16x9/EN-20261015-183333-184231-CS.jpg",
-      "published_at": "2026-10-15T20:41:16+00:00",
-      "region": "América do Norte",
-      "theme": "Ciência, Tecnologia e Inovação"
-    },
-    {
       "title": "Protesto estudantil contra cortes em universidades termina em confronto com a polícia na Argentina",
       "url": "https://g1.globo.com/mundo/noticia/2026/10/15/professores-e-estudantes-protestam-na-argentina-contra-cortes-nas-universidades.ghtml",
       "summary": "     Protesto estudantil contra cortes nas universidades da Argentina termina em confronto com a polícia\nMilhares de estudantes e professores argentinos foram às ruas nesta quinta-feira (15) em protesto contra o governo de Javier Milei, na Argentina. Em Buenos Aires, a manifestação terminou em confr...",
@@ -747,17 +868,6 @@
       "image": "https://s2-g1.glbimg.com/NeHxA_wWl4YPIyZBj8e1kAvJemc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/F/R/ko5tSMRrabDeCLpgEUcg/afp-20261015-d3fc2c3-v1-midres-argentinapoliticseducationprotest.jpg",
       "published_at": "2026-10-15T20:39:07+00:00",
       "region": "América do Sul",
-      "theme": "Direitos Humanos, Sociedade e Migrações"
-    },
-    {
-      "title": "Zelensky Says Ukraine Will Resume Russian Refinery Strikes, Defying Trump",
-      "url": "https://www.nytimes.com/2026/10/15/world/europe/ukraine-russia-oil-strikes-zelensky-us-intelligence.html",
-      "summary": "President Volodymyr Zelensky expressed overt frustration with the United States in an interview with The Financial Times. He had paused the strikes to comply with a demand from the United States.",
-      "source": "The New York Times",
-      "origin": "internacional",
-      "image": "https://static01.nyt.com/images/2026/10/15/multimedia/15xp-zelensky-fbcz/15xp-zelensky-fbcz-mediumSquareAt3X.jpg",
-      "published_at": "2026-10-15T20:35:58+00:00",
-      "region": "América do Norte",
       "theme": "Direitos Humanos, Sociedade e Migrações"
     },
     {
@@ -792,17 +902,6 @@
       "published_at": "2026-10-15T19:29:45+00:00",
       "region": "América do Sul",
       "theme": "Economia Internacional"
-    },
-    {
-      "title": "La dura negociación sobre el presupuesto de la UE amenaza el acuerdo antes del superaño electoral en Europa",
-      "url": "https://elpais.com/internacional/2026-10-15/la-dura-negociacion-sobre-el-presupuesto-de-la-ue-amenaza-el-acuerdo-antes-del-superano-electoral-en-europa.html",
-      "summary": "El presidente del Consejo, António Costa, se hace cargo de una negociación con posiciones muy enconadas",
-      "source": "El País - Internacional",
-      "origin": "internacional",
-      "image": "https://imagenes.elpais.com/resizer/v2/EB4XAIBU4NMZZJDC5GQMX7QI74.jpg?auth=95133c4208bdd0227127e0f0c3f2c79446c3650c7b7b2804b6347ee627af21da",
-      "published_at": "2026-10-15T19:26:51+00:00",
-      "region": "Europa",
-      "theme": "Outros / Multitemático"
     },
     {
       "title": "Batida entre trem e ônibus na entrada do Eurotúnel deixa 19 feridos na França",
@@ -882,9 +981,9 @@
       "theme": "Outros / Multitemático"
     },
     {
-      "title": "Netanyahu chama Brasil de país pequeno ao relembrar viagem à posse de Bolsonaro",
+      "title": "Netanyahu diz que pode voltar ao Brasil para posse de Bolsonaro",
       "url": "https://redir.folha.com.br/redir/online/mundo/rss091/*https://www1.folha.uol.com.br/mundo/2026/10/netanyahu-chama-brasil-de-pais-pequeno-ao-relembrar-viagem-a-posse-de-bolsonaro.shtml",
-      "summary": "O primeiro-ministro de Israel, Binyamin Netanyahu, chamou o Brasil de \"pequeno país\" ao relembrar sua viagem à nação, em janeiro de 2019, para a posse do então presidente, Jair Bolsonaro (PL).\nLeia mais (10/15/2026 - 14h38)",
+      "summary": "\"Fomos a um pequeno país chamado Brasil para a posse do presidente Bolsonaro. Quem sabe? Talvez façamos isso novamente\", declarou nesta quarta (14) o primeiro-ministro de Israel, Binyamin Netanyahu, em referência às chances de vitória de Flávio Bolsonaro (PL), filho do ex-presidente, na disputa à Pr...",
       "source": "Folha de S.Paulo - Mundo",
       "origin": "brasil",
       "image": "https://f.i.uol.com.br/fotografia/2026/10/02/17909754136ac01db5b7068_1790975413_3x2_rt.jpg",
@@ -913,17 +1012,6 @@
       "published_at": "2026-10-15T17:22:00+00:00",
       "region": "América do Sul",
       "theme": "Saúde"
-    },
-    {
-      "title": "Meet Neha Bora, Activist and Face of India’s Young Protesters",
-      "url": "https://www.nytimes.com/2026/10/15/world/asia/india-student-leader-neha.html",
-      "summary": "When police cracked down, Neha Bora helped rally Gen Z protesters with a mix of boundless energy, street theatrics and satirical humor.",
-      "source": "The New York Times",
-      "origin": "internacional",
-      "image": "https://static01.nyt.com/images/2026/10/14/multimedia/00int-india-activist-02-bctw/00int-india-activist-02-bctw-mediumSquareAt3X.jpg",
-      "published_at": "2026-10-15T17:02:49+00:00",
-      "region": "Ásia",
-      "theme": "Direitos Humanos, Sociedade e Migrações"
     },
     {
       "title": "Maduro pleads not guilty to new torture-related charges in New York",
@@ -1045,28 +1133,6 @@
       "published_at": "2026-10-15T15:26:16+00:00",
       "region": "Global",
       "theme": "Saúde"
-    },
-    {
-      "title": "Nova porta-voz de Trump diz ter atuado como advogada mesmo sem ter licença",
-      "url": "https://redir.folha.com.br/redir/online/mundo/rss091/*https://www1.folha.uol.com.br/mundo/2026/10/nova-porta-voz-de-trump-diz-ter-atuado-como-advogada-mesmo-sem-ter-licenca.shtml",
-      "summary": "A nova secretária de imprensa da Casa Branca, Katie Zacharia, foi questionada na quarta-feira (15) sobre sua carreira jurídica antes de se tornar a principal porta-voz do presidente dos Estados Unidos, Donald Trump.\nLeia mais (10/15/2026 - 12h07)",
-      "source": "Folha de S.Paulo - Mundo",
-      "origin": "brasil",
-      "image": "https://f.i.uol.com.br/fotografia/2026/10/15/17920745486ad0e334f0e81_1792074548_3x2_rt.jpg",
-      "published_at": "2026-10-15T15:07:00+00:00",
-      "region": "América do Sul",
-      "theme": "Direito Internacional e Instituições"
-    },
-    {
-      "title": "Costa Rica inaugura nova prisão inspirada em Bukele para combater crime organizado",
-      "url": "https://redir.folha.com.br/redir/online/mundo/rss091/*https://www1.folha.uol.com.br/mundo/2026/10/costa-rica-inaugura-nova-prisao-inspirada-em-bukele-para-combater-crime-organizado.shtml",
-      "summary": "A Costa Rica inaugurou nesta quarta-feira (14) uma prisão de segurança máxima enquanto intensifica o combate ao crime organizado, após um aumento no número de homicídios em um país que por muito tempo foi considerado um dos mais seguros da América Latina.\nLeia mais (10/15/2026 - 11h40)",
-      "source": "Folha de S.Paulo - Mundo",
-      "origin": "brasil",
-      "image": "https://f.i.uol.com.br/fotografia/2026/10/15/17920745706ad0e34ae81bb_1792074570_3x2_rt.jpg",
-      "published_at": "2026-10-15T14:40:00+00:00",
-      "region": "América do Sul",
-      "theme": "Direito Internacional e Instituições"
     },
     {
       "title": "Governo Trump envia centenas de soldados para a América Latina, diz 'New York Times'",
@@ -1223,28 +1289,6 @@
       "theme": "Saúde"
     },
     {
-      "title": "Exames do papa Leão XIV mostram boa recuperação de pulmão, diz Vaticano",
-      "url": "https://g1.globo.com/mundo/noticia/2026/10/15/exames-do-papa-leao-xiv-mostram-boa-recuperacao-de-pulmao-diz-vaticano.ghtml",
-      "summary": "     Papa Leão chega ao Hospital Gemelli antes da cirurgia para remoção de um nódulo pulmonar, em Roma 13 de outubro de 2026\nREUTERS/Ciro de Luca\nExames do papa Leão XIV mostraram uma boa recuperação de seu pulmão após a cirurgia que retirou uma parte do órgão, de acordo com um boletim médico divulg...",
-      "source": "G1 - Mundo",
-      "origin": "brasil",
-      "image": "https://s2-g1.glbimg.com/Pp6YZcMKClEeJao-qymVRSqPp3E=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/7/b/y9q8myT5eoJz8vEhL2jQ/2026-10-13t180543z-1-lynxmpem9c1p8-rtroptp-4-pope-health.jpg",
-      "published_at": "2026-10-15T11:57:45+00:00",
-      "region": "América do Sul",
-      "theme": "Saúde"
-    },
-    {
-      "title": "Rússia constrói nova base militar em apenas 6 semanas para ataques com drones de propulsão a jato contra Ucrânia, diz agência",
-      "url": "https://g1.globo.com/mundo/ucrania-russia/noticia/2026/10/15/russia-constroi-nova-base-militar-em-6-semanas-drones-propulsao-a-jato-diz-agencia.ghtml",
-      "summary": "     Rússia constrói nova base militar de drones em poucas semanas, mostram imagens de satélite\nA Rússia está próxima de concluir a construção de uma nova base militar próxima à fronteira com a Ucrânia e que será estratégica para o lançamento de drones de propulsão a jato contra o país vizinho, segu...",
-      "source": "G1 - Mundo",
-      "origin": "brasil",
-      "image": "https://s2-g1.glbimg.com/Qp16p_LfF1lWI2TQfKXrhBM3adU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/u/5/FmUBCATxqhgayOtSBtfQ/2026-10-15t085048z-46737876-rc2z2oat8blx-rtrmadp-3-ukraine-crisis-russia-drones.jpg",
-      "published_at": "2026-10-15T11:37:49+00:00",
-      "region": "América do Sul",
-      "theme": "Geopolítica e Segurança"
-    },
-    {
       "title": "Aplicativo BBC News Brasil: como baixar e receber alerta de notícias e análises",
       "url": "https://www.bbc.com/portuguese/articles/cqe9l2z988g5o?at_medium=RSS&at_campaign=rss",
       "summary": "Por meio do aplicativo da BBC World Service você pode escolher a BBC News Brasil para receber alertas de notícias e análises diretamente no celular.",
@@ -1256,17 +1300,6 @@
       "theme": "Política Brasileira"
     },
     {
-      "title": "Corea del Norte y China abren un nuevo puente tras 12 años de retrasos",
-      "url": "https://elpais.com/internacional/2026-10-15/corea-del-norte-y-china-abren-un-nuevo-puente-tras-12-anos-de-retrasos.html",
-      "summary": "La infraestructura está llamada a convertirse en la principal ruta comercial por carretera entre ambos aliados",
-      "source": "El País - Internacional",
-      "origin": "internacional",
-      "image": "https://imagenes.elpais.com/resizer/v2/X762J5B44FM75HEQNQXAYCMX2Y.jpg?auth=d639606f769131fa5275ad0708180aa9d1005e27d77c59496414f545dbf97cd3",
-      "published_at": "2026-10-15T10:18:22+00:00",
-      "region": "Ásia",
-      "theme": "Política Internacional"
-    },
-    {
       "title": "'Razão e Sensibilidade': 4 erros das adaptações de Jane Austen, segundo especialistas",
       "url": "https://www.bbc.com/portuguese/articles/c862eyd6lp5wo?at_medium=RSS&at_campaign=rss",
       "summary": "Nova adaptação de 'Razão e Sensibilidade' - que chega aos cinemas brasileiros em outubro - é mais uma tentativa de traduzir as clássicas histórias de Jane Austen para a tela. Será que ela irá repetir os erros que marcaram as adaptações anteriores?",
@@ -1276,28 +1309,6 @@
       "published_at": "2026-10-15T09:33:35+00:00",
       "region": "América do Sul",
       "theme": "Comércio e Finanças"
-    },
-    {
-      "title": "The Race to Defend Kyiv Against Terrifying New Jet-Powered Drones",
-      "url": "https://www.nytimes.com/2026/10/15/world/europe/ukraine-jet-drone-interceptor.html",
-      "summary": "Ukrainian engineers are rushing to perfect A.I.-guided, jet-driven interceptors. Their goal: to stop a fast Russian threat in the latest round of a deadly tech duel.",
-      "source": "The New York Times",
-      "origin": "internacional",
-      "image": "https://static01.nyt.com/images/2026/10/14/multimedia/14int-ukraine-jet-drones-03-qkbj/14int-ukraine-jet-drones-03-qkbj-mediumSquareAt3X.jpg",
-      "published_at": "2026-10-15T09:03:54+00:00",
-      "region": "América do Norte",
-      "theme": "Ciência, Tecnologia e Inovação"
-    },
-    {
-      "title": "Un Trump desaforado emprende una huida hacia delante para salvar las ‘midterms’",
-      "url": "https://elpais.com/us/2026-10-15/la-desenfrenada-huida-hacia-delante-de-trump-para-salvar-las-midterms.html",
-      "summary": "El presidente de EE UU está embarcado en una gira de mítines en los que da rienda suelta a sus obsesiones sin importarle la influencia de sus devaneos en las encuestas",
-      "source": "El País - Internacional",
-      "origin": "internacional",
-      "image": "https://imagenes.elpais.com/resizer/v2/LKZHMTH3RNI7DNPRFH7XNLT3KQ.jpg?auth=c29bcdaa7b77a0167d556f613362967f9a661883839ec079eef5a53ab9c83033",
-      "published_at": "2026-10-15T04:00:00+00:00",
-      "region": "América do Norte",
-      "theme": "Política Internacional"
     },
     {
       "title": "Brasil aprova maior mudança da jornada de trabalho desde 1988",
@@ -1386,94 +1397,6 @@
       "published_at": "2026-10-05T02:28:15+00:00",
       "region": "América do Sul",
       "theme": "Cultura, Mídia e Sociedade"
-    },
-    {
-      "title": "Inflação na zona do euro atinge novo recorde",
-      "url": "https://www.dw.com/pt-br/inflação-na-zona-do-euro-atinge-novo-recorde/a-63609109?maca=bra-rss-br-all-1030-xml-mrss",
-      "summary": "Alta anual de preços na região que abrange 19 países atinge 10,7% em outubro, impulsionada pela energia. Economia da região tem leve crescimento de 0,2% no terceiro trimestre.",
-      "source": "Deutsche Welle",
-      "origin": "internacional",
-      "image": "https://static.dw.com/image/56855691_6.jpg",
-      "published_at": "2022-10-31T17:22:00+00:00",
-      "region": "Global",
-      "theme": "Economia Internacional"
-    },
-    {
-      "title": "Com Lula, UE aposta em recomeço para a relação com o Brasil",
-      "url": "https://www.dw.com/pt-br/com-lula-ue-aposta-em-recomeço-para-a-relação-com-o-brasil/a-63608550?maca=bra-rss-br-all-1030-xml-mrss",
-      "summary": "Para a União Europeia, novo presidente deverá agir de modo mais aberto e pragmático do que Bolsonaro e traz novas perspectivas para negócios e principalmente para a proteção ambiental.",
-      "source": "Deutsche Welle",
-      "origin": "internacional",
-      "image": "https://static.dw.com/image/63291514_6.jpg",
-      "published_at": "2022-10-31T16:30:00+00:00",
-      "region": "América do Sul",
-      "theme": "Política Brasileira"
-    },
-    {
-      "title": "Caminhoneiros bolsonaristas bloqueiam estradas em 11 estados e no DF",
-      "url": "https://www.dw.com/pt-br/caminhoneiros-bolsonaristas-bloqueiam-estradas-em-11-estados-e-no-df/a-63608293?maca=bra-rss-br-all-1030-xml-mrss",
-      "summary": "Manifestantes se recusam a aceitar derrota de Bolsonaro e tentam incentivar golpe de Estado fechando estradas pelo país. Bloqueios ocorrem em ao menos 70 pontos. Representantes da categoria se distanciam da ação.",
-      "source": "Deutsche Welle",
-      "origin": "internacional",
-      "image": "https://static.dw.com/image/63608509_6.jpg",
-      "published_at": "2022-10-31T15:06:00+00:00",
-      "region": "América do Norte",
-      "theme": "Outros / Multitemático"
-    },
-    {
-      "title": "Acabou o pesadelo!",
-      "url": "https://www.dw.com/pt-br/acabou-o-pesadelo/a-63606906?maca=bra-rss-br-all-1030-xml-mrss",
-      "summary": "Ganhou o defensor da democracia, perdeu o incendiário. O Brasil dá a volta por cima, e Lula obtém uma vitória histórica sobre Bolsonaro.",
-      "source": "Deutsche Welle",
-      "origin": "internacional",
-      "image": "https://static.dw.com/image/63603291_6.jpg",
-      "published_at": "2022-10-31T13:36:00+00:00",
-      "region": "América do Sul",
-      "theme": "Política Brasileira"
-    },
-    {
-      "title": "Noruega anuncia que vai desbloquear Fundo Amazônia",
-      "url": "https://www.dw.com/pt-br/noruega-anuncia-que-vai-desbloquear-fundo-amazônia/a-63606257?maca=bra-rss-br-all-1030-xml-mrss",
-      "summary": "Após vitória de Lula, ministro norueguês do Meio Ambiente afirma que pretende em breve retomar iniciativa suspensa durante governo Bolsonaro. Fundo tem cerca de R$ 2,5 bilhões parados.",
-      "source": "Deutsche Welle",
-      "origin": "internacional",
-      "image": "https://static.dw.com/image/63593278_6.jpg",
-      "published_at": "2022-10-31T13:00:00+00:00",
-      "region": "América do Norte",
-      "theme": "Meio Ambiente e Clima"
-    },
-    {
-      "title": "Governo alemão parabeniza Lula pela vitória e espera cooperação",
-      "url": "https://www.dw.com/pt-br/governo-alemão-parabeniza-lula-pela-vitória-e-espera-cooperação/a-63604967?maca=bra-rss-br-all-1030-xml-mrss",
-      "summary": "Chanceler federal da Alemanha publica mensagem de parabéns em português. Ministra do Exterior do país considera a democracia brasileira e o clima os grandes vencedores da eleição no Brasil.",
-      "source": "Deutsche Welle",
-      "origin": "internacional",
-      "image": "https://static.dw.com/image/59808358_6.jpg",
-      "published_at": "2022-10-31T10:59:00+00:00",
-      "region": "América do Sul",
-      "theme": "Política Brasileira"
-    },
-    {
-      "title": "Brasil retorna à normalidade democrática com vitória de Lula",
-      "url": "https://www.dw.com/pt-br/brasil-retorna-à-normalidade-democrática-com-vitória-de-lula/a-63603903?maca=bra-rss-br-all-1030-xml-mrss",
-      "summary": "Mensagem mais importante de Lula em primeiro discurso foi apelo à reconciliação e união do Brasil. Resta saber como será diálogo com uma oposição que glorifica violência e alimenta ódio ao PT.",
-      "source": "Deutsche Welle",
-      "origin": "internacional",
-      "image": "https://static.dw.com/image/63602446_6.jpg",
-      "published_at": "2022-10-31T10:35:00+00:00",
-      "region": "América do Sul",
-      "theme": "Política Brasileira"
-    },
-    {
-      "title": "Avenida Paulista celebra vitória de Lula \"metade alegre, metade preocupada\"",
-      "url": "https://www.dw.com/pt-br/avenida-paulista-celebra-vitória-de-lula-metade-alegre-metade-preocupada/a-63602916?maca=bra-rss-br-all-1030-xml-mrss",
-      "summary": "Eleitores do petista festejam vitória sobre Bolsonaro, mas preveem que futuro governo terá dificuldades com o Congresso e expressam desejo de superar polarização que divide o Brasil.",
-      "source": "Deutsche Welle",
-      "origin": "internacional",
-      "image": "https://static.dw.com/image/63603210_6.jpg",
-      "published_at": "2022-10-31T09:26:00+00:00",
-      "region": "América do Sul",
-      "theme": "Política Brasileira"
     }
   ]
 }
