@@ -1,82 +1,753 @@
 {
-  "last_updated": "2026-10-26T00:54:00.793175+00:00",
+  "last_updated": "2026-10-26T05:38:27.457381+00:00",
   "articles": [
     {
-      "title": "Eleições 2026 ao vivo: Lula é reeleito presidente, declara TSE; siga",
+      "title": "Lula é reeleito presidente, e Flávio diz que vai pedir anulação das eleições; siga",
       "url": "https://www.bbc.co.uk/portuguese/live/c6vg0rrxzx13t?at_medium=RSS&at_campaign=rss",
-      "summary": "Com 96% dos votos apurados, petista venceu disputa contra Flávio Bolsonaro (PL), segundo cálculos da Justiça eleitoral; acompanhe a cobertura completa. BBC News Brasil faz transmissão ao vivo com apuração dos votos.",
+      "summary": "Com 100% dos votos apurados, petista venceu disputa contra Flávio Bolsonaro (PL) por 4,4 milhões de votos; acompanhe a cobertura completa.",
       "source": "BBC News Brasil",
       "origin": "brasil",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/38ad/live/31683380-d0d5-11f1-ac2b-09beb944cac6.jpg",
-      "published_at": "2026-10-26T00:53:54.257899+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dc90/live/baf47270-d0e0-11f1-ad70-07daa2562508.jpg",
+      "published_at": "2026-10-26T05:38:17.521938+00:00",
       "region": "América do Sul",
       "theme": "Política Brasileira"
     },
     {
-      "title": "Live Updates: Brazil Re-Elects Lula, Rejecting Predecessor’s Son",
+      "title": "Lula amplia recorde de tempo na Presidência pelo voto direto",
+      "url": "https://www.poder360.com.br/poder-eleicoes-2026/lula-amplia-recorde-de-tempo-na-presidencia-pelo-voto-direto/",
+      "summary": "Petista poderá somar 16 anos e 4 dias no cargo; Vargas governou por mais tempo, mas a maior parte sem eleição direta",
+      "source": "Poder360",
+      "origin": "brasil",
+      "image": "https://static.poder360.com.br/uploads/2026/10/lula-debate-globo-1-1200x675.jpg",
+      "published_at": "2026-10-26T05:32:54+00:00",
+      "region": "América do Sul",
+      "theme": "Política Brasileira"
+    },
+    {
+      "title": "Zema diz que Lula aplicou “golpe à la Venezuela” na eleição",
+      "url": "https://www.poder360.com.br/poder-eleicoes-2026/zema-diz-que-lula-aplicou-golpe-a-la-venezuela-na-eleicao/",
+      "summary": "Decisão de Zanin ampliou votação até as 19h; campanha de Flávio também pediu mais tempo em 19 cidades",
+      "source": "Poder360",
+      "origin": "brasil",
+      "image": "https://static.poder360.com.br/uploads/2026/10/zema-1200x675.jpg",
+      "published_at": "2026-10-26T05:31:10+00:00",
+      "region": "América do Sul",
+      "theme": "Política Brasileira"
+    },
+    {
+      "title": "Partidos reconhecem vitória de Lula",
+      "url": "https://www.poder360.com.br/poder-eleicoes-2026/partidos-reconhecem-vitoria-de-lula/",
+      "summary": "O chefe do Executivo contou com 7 partidos de esquerda e centro-esquerda em sua aliança já no 1º turno",
+      "source": "Poder360",
+      "origin": "brasil",
+      "image": "https://static.poder360.com.br/uploads/2026/10/lula-debate-globo-1-1200x675.jpg",
+      "published_at": "2026-10-26T05:27:03+00:00",
+      "region": "América do Sul",
+      "theme": "Política Brasileira"
+    },
+    {
+      "title": "41 anos de democracia e nova chance para Lula",
+      "url": "https://www.poder360.com.br/editorial-do-poder360/41-anos-de-democracia-e-nova-chance-para-lula/",
+      "summary": "Presidente eleito para o 4º mandato tem capital político para pacificar e harmonizar a relação entre os Três Poderes",
+      "source": "Poder360",
+      "origin": "brasil",
+      "image": "https://static.poder360.com.br/uploads/2026/10/editorial-41-anos-democracia-26-out-2026-1200x675.png",
+      "published_at": "2026-10-26T05:26:24+00:00",
+      "region": "América do Sul",
+      "theme": "Política Brasileira"
+    },
+    {
+      "title": "Aleksandar Vucic, the Serbian leader brought down by students",
+      "url": "https://www.aljazeera.com/news/2026/10/26/aleksandar-vucic-the-serbian-leader-brought-down-by-students?traffic_source=rss",
+      "summary": "Serbia&#039;s longtime leader concedes defeat to a student-led protest movement in parliamentary elections.",
+      "source": "Al Jazeera English",
+      "origin": "internacional",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/ap_6adde5c816be3-1792927176.jpg?resize=1920%2C1440",
+      "published_at": "2026-10-26T05:24:59+00:00",
+      "region": "Global",
+      "theme": "Política Internacional"
+    },
+    {
+      "title": "Brazil Live Updates: Lula Wins Re-election as Bolsonaro Rejects Result",
       "url": "https://www.nytimes.com/live/2026/10/25/world/brazil-election",
-      "summary": "President Luiz Inácio Lula da Silva fended off a right-wing movement led by Flávio Bolsonaro, whose father was convicted of a coup attempt after the 2022 election. Transportation delays and bad weather disrupted Election Day.",
+      "summary": "President Luiz Inácio Lula da Silva’s win ended a string of conservative victories in Latin America. His opponent, Flávio Bolsonaro, called for the election to be annulled.",
       "source": "The New York Times",
       "origin": "internacional",
-      "image": "https://static01.nyt.com/images/2026/10/25/multimedia/25brazil-election-promo-9pm/25brazil-election-promo-9pm-mediumSquareAt3X.jpg",
-      "published_at": "2026-10-26T00:48:19+00:00",
+      "image": "https://static01.nyt.com/images/2026/10/26/multimedia/26brazil-live-promo-1amET-qztf/26brazil-live-promo-1amET-qztf-mediumSquareAt3X.jpg",
+      "published_at": "2026-10-26T05:22:04+00:00",
       "region": "América do Sul",
       "theme": "Outros / Multitemático"
     },
     {
-      "title": "6 Estados terão governadores negros a partir de 2027",
-      "url": "https://www.poder360.com.br/poder-eleicoes-2026/6-estados-terao-governadores-negros-a-partir-de-2027/",
-      "summary": "Os eleitos representam 22,22% dos governadores que tomarão posse em janeiro; IBGE considera negras as pessoas que se autodeclaram pretas ou pardas",
+      "title": "“É um fato histórico que devo ao povo”, diz Lula sobre 4º mandato",
+      "url": "https://www.poder360.com.br/poder-eleicoes-2026/e-um-fato-historico-que-devo-ao-povo-diz-lula-sobre-4o-mandato/",
+      "summary": "Presidente promete fazer seu melhor governo, fortalecer a comunicação digital e ampliar investimentos em educação",
       "source": "Poder360",
       "origin": "brasil",
-      "image": "https://static.poder360.com.br/uploads/2026/03/rbr2526-scaled-1.jpg",
-      "published_at": "2026-10-26T00:47:45+00:00",
-      "region": "América do Sul",
-      "theme": "Cultura, Mídia e Sociedade"
-    },
-    {
-      "title": "Lula comemora reeleição ao lado de Janja e aliados",
-      "url": "https://www.poder360.com.br/poder-eleicoes-2026/lula-comemora-reeleicao-ao-lado-de-janja-e-aliados/",
-      "summary": "Presidente consegue virada histórica com 51,76% dos votos válidos contra 48,24% de Flávio Bolsonaro (PL)",
-      "source": "Poder360",
-      "origin": "brasil",
-      "image": "https://static.poder360.com.br/uploads/2026/10/lula-e-apoiadores-em-sao-paulo-1200x675.jpg",
-      "published_at": "2026-10-26T00:47:19+00:00",
+      "image": "https://static.poder360.com.br/uploads/2026/10/lula-discurso-reeleicao-1200x675.jpg",
+      "published_at": "2026-10-26T05:21:59+00:00",
       "region": "América do Sul",
       "theme": "Política Brasileira"
     },
     {
-      "title": "Flávio perde para Lula e futuro do bolsonarismo é incerto",
-      "url": "https://www.poder360.com.br/poder-eleicoes-2026/flavio-perde-para-lula-e-futuro-do-bolsonarismo-e-incerto/",
-      "summary": "Derrota interrompe tentativa de retorno da família Bolsonaro ao Planalto; resultado abre disputa na direita e mantém o PT no poder até 2030",
+      "title": "Virada de Lula frustra festa bolsonarista na Esplanada",
+      "url": "https://www.poder360.com.br/poder-eleicoes-2026/virada-de-lula-frustra-festa-bolsonarista-na-esplanada/",
+      "summary": "Enquanto apoiadores de Flávio deixaram o local, motoristas celebraram a vitória do petista com buzinaço na região da Rodoviária de Brasília",
       "source": "Poder360",
       "origin": "brasil",
-      "image": "https://static.poder360.com.br/uploads/2025/11/Flavio-Bolsonaro-1080.png",
-      "published_at": "2026-10-26T00:44:30+00:00",
+      "image": "https://static.poder360.com.br/uploads/2026/10/capa-ato-bolsonarista-esplanada-26.out_.2026-1200x675.jpg",
+      "published_at": "2026-10-26T05:21:40+00:00",
       "region": "América do Sul",
       "theme": "Política Brasileira"
     },
     {
-      "title": "EWZ: Principal ETF do Brasil em NY cai mais de 19% após reeleição de Lula",
-      "url": "https://www.cnnbrasil.com.br/economia/money/mercado/ewz-principal-etf-do-brasil-em-ny-cai-mais-de-19-apos-reeleicao-de-lula/",
-      "summary": "No último pregão antes do segundo turno, ativo havia subido 1,77%",
+      "title": "Venezuelan opposition leader María Machado returns after months in exile",
+      "url": "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo?at_medium=RSS&at_campaign=rss",
+      "summary": "Machado had left the country just a month before the US government seized Venezuelan President Nicolás Maduro.",
+      "source": "BBC News - World",
+      "origin": "internacional",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a26f/live/3f12cea0-d0f8-11f1-b5b1-192f0fa11760.jpg",
+      "published_at": "2026-10-26T05:20:19+00:00",
+      "region": "América do Norte",
+      "theme": "Política Internacional"
+    },
+    {
+      "title": "María Corina Machado Returns to Venezuela",
+      "url": "https://www.nytimes.com/2026/10/25/world/americas/machado-venezuela-return.html",
+      "summary": "After nearly 10 months in exile, Ms. Machado, a Nobel laureate, came back to challenge leaders who have sidelined her and press for new elections.",
+      "source": "The New York Times",
+      "origin": "internacional",
+      "image": "https://static01.nyt.com/images/2026/11/25/multimedia/25int-venezuela-machado-pwtq/25int-venezuela-machado-pwtq-mediumSquareAt3X.jpg",
+      "published_at": "2026-10-26T05:18:47+00:00",
+      "region": "América do Sul",
+      "theme": "Política Internacional"
+    },
+    {
+      "title": "The Gambia’s first blind magistrate tests a system built for the sighted",
+      "url": "https://www.aljazeera.com/news/2026/10/26/the-gambias-first-blind-magistrate-tests-a-system-built-for-the-sighted?traffic_source=rss",
+      "summary": "For a decade, Muhammed Krubally has shown what is possible and what still needs to change.",
+      "source": "Al Jazeera English",
+      "origin": "internacional",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/He-follows-proceedings-on-his-computer-1788798143.jpg?resize=1920%2C1440",
+      "published_at": "2026-10-26T05:18:00+00:00",
+      "region": "Global",
+      "theme": "Outros / Multitemático"
+    },
+    {
+      "title": "Israel’s election: Five key things to know",
+      "url": "https://www.aljazeera.com/news/2026/10/26/israels-election-five-key-things-to-know?traffic_source=rss",
+      "summary": "Vote comes as Israel is embroiled in multiple wars, faces international criticism and grapples with domestic divisions.",
+      "source": "Al Jazeera English",
+      "origin": "internacional",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/epa_6ac7339d5de8-1791439773.jpg?resize=1920%2C1440",
+      "published_at": "2026-10-26T05:16:38+00:00",
+      "region": "Oriente Médio",
+      "theme": "Política Internacional"
+    },
+    {
+      "title": "Social video captures moment Brazil’s election turned",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/26/social-video-captures-moment-brazils-election-turned?traffic_source=rss",
+      "summary": "Video shot by supporters of the candidates in Brazil’s presidential runoff show the moment the result began changing",
+      "source": "Al Jazeera English",
+      "origin": "internacional",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/image-1792990911.jpg?resize=1920%2C1005&quality=80",
+      "published_at": "2026-10-26T05:01:59+00:00",
+      "region": "América do Sul",
+      "theme": "Outros / Multitemático"
+    },
+    {
+      "title": "“Vocês renovam minha esperança”, diz Lula após vitória",
+      "url": "https://www.poder360.com.br/poder-eleicoes-2026/voces-renovam-minha-esperanca-diz-lula-apos-vitoria/",
+      "summary": "Presidente foi reeleito para inédito 4º mandato; nas redes sociais, agradeceu à juventude e ao povo brasileiro",
+      "source": "Poder360",
+      "origin": "brasil",
+      "image": "https://static.poder360.com.br/uploads/2026/10/Lula-celebra-resultado-do-2o-turno-26-out-2026-1200x675.jpg",
+      "published_at": "2026-10-26T04:59:58+00:00",
+      "region": "América do Sul",
+      "theme": "Política Brasileira"
+    },
+    {
+      "title": "“É coisa de Deus e de vocês”, diz Lula sobre vitória no 2º turno",
+      "url": "https://www.poder360.com.br/poder-eleicoes-2026/e-coisa-de-deus-e-de-voces-diz-lula-sobre-vitoria-no-2o-turno/",
+      "summary": "Presidente atribuiu sua trajetória política à fé e à confiança dos brasileiros; petista foi eleito pela 4ª vez para comandar o país",
+      "source": "Poder360",
+      "origin": "brasil",
+      "image": "https://static.poder360.com.br/uploads/2026/10/lula-janones-foto-1-1200x675.jpeg",
+      "published_at": "2026-10-26T04:52:57+00:00",
+      "region": "América do Sul",
+      "theme": "Política Brasileira"
+    },
+    {
+      "title": "Chances de anulação ou 'terceiro turno' a pedido de Flávio são remotas, veem especialistas",
+      "url": "https://www.bbc.com/portuguese/articles/cqdjvnppkdnyo?at_medium=RSS&at_campaign=rss",
+      "summary": "Flávio Bolsonaro disse ser 'impossível reconhecer' vitória de Lula; extensão do horário de votação causou confusão no domingo do 2º turno, mas especialistas entendem que margem de vitória mais ampla reduz chances de questionamentos prosperarem",
+      "source": "BBC News Brasil",
+      "origin": "brasil",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/2c89/live/0e30c4e0-d0f8-11f1-b5b1-192f0fa11760.jpg",
+      "published_at": "2026-10-26T04:51:25+00:00",
+      "region": "América do Sul",
+      "theme": "Política Brasileira"
+    },
+    {
+      "title": "Resultado do 2º turno das eleições vira meme nas redes sociais",
+      "url": "https://www.poder360.com.br/poder-eleicoes-2026/resultado-do-2o-turno-das-eleicoes-vira-meme-nas-redes-sociais/",
+      "summary": "Apoiadores de Lula comemoram vitória e virada inédita sobre Flávio Bolsonaro",
+      "source": "Poder360",
+      "origin": "brasil",
+      "image": "https://static.poder360.com.br/uploads/2026/10/memes-eleicoes-2026-1200x675.png",
+      "published_at": "2026-10-26T04:51:17+00:00",
+      "region": "América do Sul",
+      "theme": "Política Brasileira"
+    },
+    {
+      "title": "Lula pede Hino da Independência na festa da vitória",
+      "url": "https://www.poder360.com.br/poder-eleicoes-2026/lula-pede-hino-da-independencia-nao-cabemos-no-quintal-de-ninguem/",
+      "summary": "Na Paulista, presidente diz que Brasil não cabe no “quintal de ninguém” e agradece a mulheres e jovens",
+      "source": "Poder360",
+      "origin": "brasil",
+      "image": "https://static.poder360.com.br/uploads/2026/10/lula-janones-foto-1200x675.jpeg",
+      "published_at": "2026-10-26T04:51:11+00:00",
+      "region": "América do Sul",
+      "theme": "Política Brasileira"
+    },
+    {
+      "title": "Bolsonaro calls for Brazil election result to be annulled",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/26/bolsonaro-calls-for-brazil-election-result-to-be-annulled?traffic_source=rss",
+      "summary": "Brazil’s right-wing Senator Flavio Bolsonaro has called for the presidential election result to be ‘annulled’.",
+      "source": "Al Jazeera English",
+      "origin": "internacional",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/Screenshot-2026-10-26-at-04.32.04-1792989256.png?resize=1200%2C675",
+      "published_at": "2026-10-26T04:36:46+00:00",
+      "region": "América do Sul",
+      "theme": "Geopolítica e Segurança"
+    },
+    {
+      "title": "US appeals court sceptical of Trump’s lawsuit over California voter rolls",
+      "url": "https://www.aljazeera.com/news/2026/10/26/us-appeals-court-sceptical-of-trumps-lawsuit-over-california-voter-rolls?traffic_source=rss",
+      "summary": "Judge questions Trump-led effort to exert greater influence over the electoral process ahead of upcoming midterm vote.",
+      "source": "Al Jazeera English",
+      "origin": "internacional",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/reuters_6ade9a0f-1792973327.jpg?resize=1920%2C1440",
+      "published_at": "2026-10-26T04:32:48+00:00",
+      "region": "América do Norte",
+      "theme": "Política Internacional"
+    },
+    {
+      "title": "Os argumentos de Flávio para pedir anulação da eleição — e o que dizem especialistas",
+      "url": "https://www.bbc.com/portuguese/articles/crkg7ywjj8l0o?at_medium=RSS&at_campaign=rss",
+      "summary": "Advogados de Flávio teriam de provar que a quantidade de votos depositada após prorrogação faria diferença no resultado final",
+      "source": "BBC News Brasil",
+      "origin": "brasil",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f59a/live/08574250-d0f4-11f1-b8a6-5fe3ae821671.png",
+      "published_at": "2026-10-26T04:22:03+00:00",
+      "region": "América do Sul",
+      "theme": "Política Internacional"
+    },
+    {
+      "title": "Attackers kill nurse, injure health worker responding to DRC Ebola case",
+      "url": "https://www.aljazeera.com/news/2026/10/26/attackers-kill-nurse-injure-health-worker-responding-to-drc-ebola-case?traffic_source=rss",
+      "summary": "The attack in eastern Dr Congo is the latest on health workers and responders to the deadly Ebola outbreak.",
+      "source": "Al Jazeera English",
+      "origin": "internacional",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/2026-10-16T194805Z_1852803134_RC2F4OAT0BYO_RTRMADP_3_HEALTH-EBOLA-CONGO-1792981072.jpg?resize=1920%2C1440",
+      "published_at": "2026-10-26T04:21:26+00:00",
+      "region": "África",
+      "theme": "Geopolítica e Segurança"
+    },
+    {
+      "title": "TSE informa que 1.551 urnas precisaram ser substituídas no segundo turno",
+      "url": "https://www.cnnbrasil.com.br/eleicoes/tse-informa-que-1-551-urnas-precisaram-ser-substituidas-no-segundo-turno/",
+      "summary": "Trocas normalmente ocorrem em razão de falhas técnicas ou de danos externos aos equipamentos, como teclas danificadas propositalmente por eleitores; substituição dos equipamentos não compromete a integridade dos votos",
       "source": "CNN Brasil",
       "origin": "brasil",
-      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/02/wall-street-wall-street.jpg?w=1200&h=630&crop=1",
-      "published_at": "2026-10-26T00:43:20+00:00",
+      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/10/urna.jpg?w=1024&h=630&crop=1",
+      "published_at": "2026-10-26T04:16:43+00:00",
       "region": "América do Sul",
       "theme": "Política Brasileira"
     },
     {
-      "title": "Lula conquista virada inédita e terá quarto mandato como presidente",
+      "title": "Lula conquista a 1ª vitória da esquerda na América Latina desde que Trump voltou ao poder; veja mapa",
+      "url": "https://www.bbc.com/portuguese/articles/ck5ynlp6qq57o?at_medium=RSS&at_campaign=rss",
+      "summary": "A vitória de Lula é primeira eleição presidencial vencida pela esquerda na região desde que Trump voltou à Casa Branca em 2025: na Colômbia, no Peru, na Costa Rica, em Honduras, no Chile, na Bolívia e no Equador, triunfaram candidatos conservadores.",
+      "source": "BBC News Brasil",
+      "origin": "brasil",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/ea1e/live/2d737380-d0f2-11f1-a9f3-d75f98ab0d20.png",
+      "published_at": "2026-10-26T04:13:49+00:00",
+      "region": "América do Sul",
+      "theme": "Direito Internacional e Instituições"
+    },
+    {
+      "title": "US military says it helped Gulf states export 1.5 billion barrels of oil",
+      "url": "https://www.aljazeera.com/economy/2026/10/26/us-military-says-it-helped-gulf-states-export-1-5-billion-barrels-of-oil?traffic_source=rss",
+      "summary": "US Central Command says more than 3,000 commercial vessels have transited the Strait of Hormuz with its support.",
+      "source": "Al Jazeera English",
+      "origin": "internacional",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/AP26294467880245-1792978753.jpg?resize=1920%2C1440",
+      "published_at": "2026-10-26T04:05:44+00:00",
+      "region": "América do Norte",
+      "theme": "Geopolítica e Segurança"
+    },
+    {
+      "title": "Australian murderer loses bid to eat Vegemite in prison",
+      "url": "https://www.bbc.co.uk/news/articles/cvwy7wz9x12go?at_medium=RSS&at_campaign=rss",
+      "summary": "Andre McKechnie, who murdered a property developer, argued it was his right to enjoy Australian culture.",
+      "source": "BBC News - World",
+      "origin": "internacional",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0bc0/live/da50eaa0-c44c-11f0-86a7-5d9864ba6ed6.jpg",
+      "published_at": "2026-10-26T04:05:28+00:00",
+      "region": "América do Norte",
+      "theme": "Saúde"
+    },
+    {
+      "title": "PSG x Lyon: horário e onde assistir ao jogo da Ligue 1",
+      "url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/psg-x-lyon-horario-e-onde-assistir-ao-jogo-da-ligue-1/",
+      "summary": "Equipes se enfrentam nesta segunda-feira, às 16h30, em partida válida pela oitava rodada do Campeonato Francês",
+      "source": "CNN Brasil",
+      "origin": "brasil",
+      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/05/PSG-e1747082365866.jpeg?w=1080&h=608&crop=1",
+      "published_at": "2026-10-26T04:00:34+00:00",
+      "region": "América do Sul",
+      "theme": "Ciência, Tecnologia e Inovação"
+    },
+    {
+      "title": "Lula conquista virada inédita e terá quarto mandato como presidente do Brasil: 'Vamos ter que regular as plataformas digitais'",
       "url": "https://www.bbc.com/portuguese/articles/cx8dzrgq569go?at_medium=RSS&at_campaign=rss",
       "summary": "Campanha renasceu após a derrota no primeiro turno, com manifestações nas ruas e ação nas redes sob comando de André Janones (Rede-MG). Petista está diante da conjuntura mais difícil desde 2003, com Congresso mais à direita da história.",
       "source": "BBC News Brasil",
       "origin": "brasil",
-      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/a2c8/live/6e24a4b0-d0d6-11f1-ac2b-09beb944cac6.jpg",
-      "published_at": "2026-10-26T00:42:04+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/74f9/live/a78295b0-d0e4-11f1-ad70-07daa2562508.jpg",
+      "published_at": "2026-10-26T03:54:24+00:00",
       "region": "América do Sul",
       "theme": "Política Brasileira"
+    },
+    {
+      "title": "Lula diz para Janones: “Nosso Exército tem que continuar”",
+      "url": "https://www.cnnbrasil.com.br/eleicoes/lula-diz-para-janones-nosso-exercito-tem-que-continuar/",
+      "summary": "Durante comemoração na Avenida Paulista, presidente destacou atuação do deputado na campanha e pediu que apoiadores mantenham mobilização após a vitória nas urnas",
+      "source": "CNN Brasil",
+      "origin": "brasil",
+      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/10/55611360312_148c70343a_k.jpg?w=1200&h=630&crop=1",
+      "published_at": "2026-10-26T03:50:19+00:00",
+      "region": "América do Sul",
+      "theme": "Geopolítica e Segurança"
+    },
+    {
+      "title": "213 cidades que escolheram Flávio no 1º turno deram vitória a Lula no 2º",
+      "url": "https://www.cnnbrasil.com.br/eleicoes/213-cidades-que-escolheram-flavio-no-1o-turno-deram-vitoria-a-lula-no-2o/",
+      "summary": "Minas Gerais, estado decisivo no pleito, concentra o maior número de municípios \"virados\" pelo petista; Rio de Janeiro e Macapá estão entre as capitas que mudaram de vencedor",
+      "source": "CNN Brasil",
+      "origin": "brasil",
+      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/10/Flavio-e-Lula.png?w=1200&h=630&crop=1",
+      "published_at": "2026-10-26T03:43:47+00:00",
+      "region": "América do Sul",
+      "theme": "Política Brasileira"
+    },
+    {
+      "title": "La remontada histórica de Lula es una derrota para Trump",
+      "url": "https://elpais.com/america/2026-10-26/la-remontada-historica-de-lula-es-una-derrota-para-trump.html",
+      "summary": "La derrota de Flávio Bolsonaro abre la disputa por el liderazgo de la derecha brasileña",
+      "source": "El País - Internacional",
+      "origin": "internacional",
+      "image": "https://imagenes.elpais.com/resizer/v2/WP27YLYMNNJPFP23P2ENEO5JGQ.jpg?auth=4d98a8919a3690fc1764280b90631acaf0107aaca5b5b1fda74dedaabe4d7311",
+      "published_at": "2026-10-26T03:42:37+00:00",
+      "region": "América do Norte",
+      "theme": "Outros / Multitemático"
+    },
+    {
+      "title": "Análise: PL quer manter militância energizada e nas ruas",
+      "url": "https://www.cnnbrasil.com.br/eleicoes/analise-pl-quer-manter-militancia-energizada-e-nas-ruas/",
+      "summary": "Após a derrota de Flávio para Lula no segundo turno, partido do ex-presidente Jair Bolsonaro busca preservar engajamento de apoiadores e levar para as ruas mobilização construída durante campanha",
+      "source": "CNN Brasil",
+      "origin": "brasil",
+      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/04/WhatsApp-Image-2025-04-06-at-14.38.17.jpeg?w=1200&h=630&crop=1",
+      "published_at": "2026-10-26T03:36:57+00:00",
+      "region": "América do Sul",
+      "theme": "Política Brasileira"
+    },
+    {
+      "title": "Peru, Chile, Equador, Bolívia, Paraguai: líderes da direita parabenizam Lula, que contrariou a 'onda azul' na América Latina",
+      "url": "https://g1.globo.com/mundo/noticia/2026/10/26/peru-chile-equador-bolivia-paraguai-lideres-da-direita-parabenizam-lula-que-contrariou-a-onda-azul-na-america-latina.ghtml",
+      "summary": "     Lula é reeleito presidente do Brasil\nPresidentes de direita da América Latina parabenizaram neste domingo (25) Luiz Inácio Lula da Silva (PT) pela reeleição à Presidência do Brasil. \nEntre eles estão os presidentes do Chile, José Antonio Kast, do Paraguai, Santiago Peña, e da Bolívia, Rodrigo P...",
+      "source": "G1 - Mundo",
+      "origin": "brasil",
+      "image": "https://s2-g1.glbimg.com/GXPXvWRzXB9MGisgJX6tOLUU1LI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/k/U/hAj5IcRkyjZqNgBOR4Qg/55064871929-7f647de889-k.jpg",
+      "published_at": "2026-10-26T03:36:37+00:00",
+      "region": "América do Sul",
+      "theme": "Política Brasileira"
+    },
+    {
+      "title": "Por que o STF ordenou prorrogar votação por duas horas - e o que dizem os juristas sobre medida",
+      "url": "https://www.bbc.com/portuguese/articles/c64g13y5k303o?at_medium=RSS&at_campaign=rss",
+      "summary": "O ministro Cristiano Zanin atendeu a um pedido da campanha de Lula, que apontou falhas no transporte público de cidades na Bahia; a campanha de Flávio Bolsonaro também pediu prorrogação da votação em alguns Estados por conta da chuva",
+      "source": "BBC News Brasil",
+      "origin": "brasil",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/baca/live/dd1cbb30-d0e2-11f1-ad70-07daa2562508.jpg",
+      "published_at": "2026-10-26T03:18:11+00:00",
+      "region": "América do Sul",
+      "theme": "Política Brasileira"
+    },
+    {
+      "title": "Os recordes de Lula na vitória histórica de 2026",
+      "url": "https://www.dw.com/pt-br/os-recordes-de-lula-na-vitória-histórica-de-2026/a-79758927?maca=bra-rss-br-all-1030-xml-mrss",
+      "summary": "Ao conquistar 4° mandato, Lula quebrou tabu ao protagonizar primeira virada num 2° turno presidencial, além de obter recorde de 64 milhões de votos.",
+      "source": "Deutsche Welle",
+      "origin": "internacional",
+      "image": "https://static.dw.com/image/79754294_6.jpg",
+      "published_at": "2026-10-26T03:13:00+00:00",
+      "region": "América do Sul",
+      "theme": "Outros / Multitemático"
+    },
+    {
+      "title": "Após apoio a Flávio, presidente do Republicanos parabeniza Lula",
+      "url": "https://www.cnnbrasil.com.br/eleicoes/apos-apoio-a-flavio-presidente-do-republicanos-parabeniza-lula/",
+      "summary": "Marcos Pereira, que declarou apoio ao candidato do PL no segundo turno, defendeu o diálogo com o Congresso e afirmou esperar que o petista governe para todos os brasileiros",
+      "source": "CNN Brasil",
+      "origin": "brasil",
+      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/03/reppp.png?w=944&h=500&crop=1",
+      "published_at": "2026-10-26T03:10:34+00:00",
+      "region": "América do Sul",
+      "theme": "Política Brasileira"
+    },
+    {
+      "title": "Davi Alcolumbre pede humildade a Lula e diz que é preciso “unir o país”",
+      "url": "https://www.cnnbrasil.com.br/eleicoes/davi-alcolumbre-pede-humildade-a-lula-e-diz-que-e-preciso-unir-o-pais/",
+      "summary": "Presidente do Senado Federal discursou ao lado de Hugo Motta e pregou união entre as casas para \"pacificar o país\"",
+      "source": "CNN Brasil",
+      "origin": "brasil",
+      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/05/DAVI-ALCOLUMBRE-19-05-26.jpg?w=1200&h=630&crop=1",
+      "published_at": "2026-10-26T03:06:10+00:00",
+      "region": "América do Sul",
+      "theme": "Política Brasileira"
+    },
+    {
+      "title": "Flávio Bolsonaro ficará sem mandato pela primeira vez em 24 anos",
+      "url": "https://www.cnnbrasil.com.br/eleicoes/flavio-bolsonaro-ficara-sem-mandato-pela-primeira-vez-em-24-anos/",
+      "summary": "Derrotado por Lula na disputa presidencial, senador encerrará mandato em janeiro de 2027; trajetória no Legislativo começou em 2003",
+      "source": "CNN Brasil",
+      "origin": "brasil",
+      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/09/flavio-bolsonaro_8eb753.jpg?w=1200&h=630&crop=1",
+      "published_at": "2026-10-26T03:02:45+00:00",
+      "region": "América do Sul",
+      "theme": "Política Brasileira"
+    },
+    {
+      "title": "2º turno teve menos votos brancos e nulos do que o 1º",
+      "url": "https://www.cnnbrasil.com.br/eleicoes/2o-turno-teve-menos-votos-brancos-e-nulos-do-que-o-1o/",
+      "summary": "Ao todo, cerca de 1,4 milhão e 2,7 milhões de eleitores votaram respectivamente em branco e nulo neste domingo (25)",
+      "source": "CNN Brasil",
+      "origin": "brasil",
+      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2024/10/29465768436_616b38d846_o_e57e87.jpg?w=1200&h=630&crop=1",
+      "published_at": "2026-10-26T03:00:03+00:00",
+      "region": "América do Sul",
+      "theme": "Direito Internacional e Instituições"
+    },
+    {
+      "title": "Campanha de Lula confere virada e mobilização “orgânica” nas ruas e redes",
+      "url": "https://www.cnnbrasil.com.br/eleicoes/campanha-de-lula-confere-virada-e-mobilizacao-organica-nas-ruas-e-redes/",
+      "summary": "Integrantes admitem que principais motores da virada nas urnas estão fora de sua campanha",
+      "source": "CNN Brasil",
+      "origin": "brasil",
+      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/10/55611360312_148c70343a_k.jpg?w=1200&h=630&crop=1",
+      "published_at": "2026-10-26T02:52:37+00:00",
+      "region": "América do Sul",
+      "theme": "Política Brasileira"
+    },
+    {
+      "title": "Lula agradece votos e diz que teve de vencer intromissão vinda de fora",
+      "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/lula-agradece-votos-e-diz-que-teve-de-vencer-intromissao-vinda-de-fora",
+      "summary": "\n                    \n\t\t\t\tEm primeiro discurso após a vitória nas eleições presidenciais deste domingo (25), o presidente da República Luiz Inácio Lula da Silva, reeleito com mais de 64 milhões de votos, agradeceu ao povo brasileiro pela generosidade e afirmou que teve que vencer a interferência das...",
+      "source": "Agência Brasil",
+      "origin": "brasil",
+      "image": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+      "published_at": "2026-10-26T02:49:00+00:00",
+      "region": "América do Sul",
+      "theme": "Política Brasileira"
+    },
+    {
+      "title": "Lula bate o próprio recorde e é o presidente mais votado da história",
+      "url": "https://www.cnnbrasil.com.br/eleicoes/lula-bate-o-proprio-recorde-e-e-o-presidente-mais-votado-da-historia/",
+      "summary": "Presidente foi reeleito na noite deste domingo (25) em segundo turno contra o senador Flávio Bolsonaro (PL)",
+      "source": "CNN Brasil",
+      "origin": "brasil",
+      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/10/55610494325_d924d27f72_k.jpg?w=1200&h=630&crop=1",
+      "published_at": "2026-10-26T02:47:20+00:00",
+      "region": "América do Sul",
+      "theme": "Política Brasileira"
+    },
+    {
+      "title": "Flávio acena à base e usará jurídico para questionar eleição, diz advogado",
+      "url": "https://www.cnnbrasil.com.br/eleicoes/flavio-acena-a-base-e-usara-juridico-para-questionar-eleicao-diz-advogado/",
+      "summary": "Alberto Rollo, especialista em direito eleitoral, avalia que Flávio Bolsonaro deve contestar resultado decretado pelo TSE e prolongar disputas judiciais",
+      "source": "CNN Brasil",
+      "origin": "brasil",
+      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/10/Flavio-1.png?w=714&h=354&crop=1",
+      "published_at": "2026-10-26T02:40:57+00:00",
+      "region": "América do Sul",
+      "theme": "Direito Internacional e Instituições"
+    },
+    {
+      "title": "Flávio não reconhece vitória de Lula e tentará anulação do pleito",
+      "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/flavio-nao-reconhece-vitoria-de-lula-e-tentara-anulacao-do-pleito",
+      "summary": "\n                    \n\t\t\t\tO senador Flávio Bolsonaro (PL), candidato derrotado no segundo turno das eleições presidenciais, anunciou na noite deste domingo (25) que não vai reconhecer o resultado das urnas, apesar da diferença de mais de 4,4 milhões de votos a favor de Luiz Inácio Lula da Silva (PT)...",
+      "source": "Agência Brasil",
+      "origin": "brasil",
+      "image": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+      "published_at": "2026-10-26T02:39:00+00:00",
+      "region": "América do Sul",
+      "theme": "Política Brasileira"
+    },
+    {
+      "title": "Lula vence Flávio por 4,4 milhões de votos; em 2022, diferença foi menor",
+      "url": "https://www.cnnbrasil.com.br/eleicoes/lula-vence-flavio-por-44-milhoes-de-votos-em-2022-diferenca-foi-menor/",
+      "summary": "Petista venceu com uma diferença de votos quase duas vezes maior que a registrada em 2022, quando derrotou Jair Bolsonaro (PL) por 2,1 milhões de votos",
+      "source": "CNN Brasil",
+      "origin": "brasil",
+      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/10/55609732770_1a1a1c8db3_o-1.jpg?w=1200&h=630&crop=1",
+      "published_at": "2026-10-26T02:38:41+00:00",
+      "region": "América do Sul",
+      "theme": "Política Brasileira"
+    },
+    {
+      "title": "“Vamos mudar o jeito de governar este país”, diz Lula",
+      "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/vamos-mudar-o-jeito-de-governar-este-pais-diz-lula",
+      "summary": "\n                    \n\t\t\t\tNo primeiro discurso após a reeleição, o presidente Luiz Inácio Lula da Silva afirmou que mudará o jeito de governar o Brasil. \n\nCom 100% das urnas apuradas, Lula registrou mais de 64,2 milhões de votos, o que corresponde a 51,79% dos votos válidos. \n\nNotícias relacionadas:...",
+      "source": "Agência Brasil",
+      "origin": "brasil",
+      "image": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+      "published_at": "2026-10-26T02:35:00+00:00",
+      "region": "América do Sul",
+      "theme": "Política Brasileira"
+    },
+    {
+      "title": "Kassio diz que prorrogação não comprometeu eleição: “Absoluta confiança”",
+      "url": "https://www.cnnbrasil.com.br/eleicoes/kassio-diz-que-prorrogacao-nao-comprometeu-eleicao-absoluta-confianca/",
+      "summary": "Presidente do TSE afirmou que, apesar de dificuldades que surgiram, equipe técnica do TSE permitiu apuração sem contratempos; Flávio diz que pedirá anulação do pleito",
+      "source": "CNN Brasil",
+      "origin": "brasil",
+      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/10/ministro-kassio-nunes-marques-tse_fb3005.jpg?w=1200&h=630&crop=1",
+      "published_at": "2026-10-26T02:34:55+00:00",
+      "region": "América do Sul",
+      "theme": "Política Brasileira"
+    },
+    {
+      "title": "Celina Leão é a primeira mulher eleita governadora do DF",
+      "url": "https://www.cnnbrasil.com.br/eleicoes/celina-leao-e-a-primeira-mulher-eleita-governadora-do-df/",
+      "summary": "Atual mandatária foi a segunda vice na história a assumir o comando da localidade, sendo a primeira Maria de Lourdes Abadia, que assumiu o posto de Joaquim Roriz",
+      "source": "CNN Brasil",
+      "origin": "brasil",
+      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/04/celina-leao-e1784550535723.jpg?w=1200&h=630&crop=1",
+      "published_at": "2026-10-26T02:31:39+00:00",
+      "region": "América do Sul",
+      "theme": "Direito Internacional e Instituições"
+    },
+    {
+      "title": "Motta e Alcolumbre, líderes do Congresso Nacional, parabenizam Lula",
+      "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/motta-e-alcolumbre-lideres-do-congresso-nacional-parabenizam-lula",
+      "summary": "\n                    \n\t\t\t\tOs líderes do Congresso Nacional fizeram um pronunciamento conjunto à imprensa, na noite deste domingo (25), em Brasília, para saudar a reeleição do presidente Luiz Inácio Lula da Silva.\n\nPara o presidente da Câmara dos Deputados, Hugo Motta, a eleição consagrou o president...",
+      "source": "Agência Brasil",
+      "origin": "brasil",
+      "image": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+      "published_at": "2026-10-26T02:31:00+00:00",
+      "region": "América do Sul",
+      "theme": "Política Brasileira"
+    },
+    {
+      "title": "Os primeiros líderes mundiais a parabenizarem Lula pela vitória",
+      "url": "https://www.bbc.com/portuguese/articles/c679prgnn48qo?at_medium=RSS&at_campaign=rss",
+      "summary": "Presidentes de países latino-americanos, inclusive da direita, enviaram saudações ao petista, que terá quarto mandato como presidente do Brasil.",
+      "source": "BBC News Brasil",
+      "origin": "brasil",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/07dd/live/e8a236c0-d0e1-11f1-ad70-07daa2562508.jpg",
+      "published_at": "2026-10-26T02:17:58+00:00",
+      "region": "América do Sul",
+      "theme": "Política Brasileira"
+    },
+    {
+      "title": "Os números que mostram de onde vieram os 10 milhões de votos que deram virada histórica a Lula",
+      "url": "https://www.bbc.com/portuguese/articles/cqe8rekpg9lxo?at_medium=RSS&at_campaign=rss",
+      "summary": "Vitória do petista combinou uma virada em Minas Gerais, a redução de desvantagens em grandes colégios eleitorais do Sudeste e o reforço da liderança no Nordeste.",
+      "source": "BBC News Brasil",
+      "origin": "brasil",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/8798/live/f6672260-d0dd-11f1-ad70-07daa2562508.jpg",
+      "published_at": "2026-10-26T02:12:51+00:00",
+      "region": "América do Sul",
+      "theme": "Política Brasileira"
+    },
+    {
+      "title": "Fachin diz que vontade dos eleitores deve ser respeitada",
+      "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/fachin-diz-que-vontade-dos-eleitores-deve-ser-respeitada",
+      "summary": "\n                    \n\t\t\t\tO presidente do Supremo Tribunal Federal (STF), ministro Edson Fachin, declarou neste domingo (25) que a vontade manifestada pelos eleitores nas urnas deve ser respeitada. \n\nA manifestação de Fachin foi divulgada após a confirmação de que o presidente Luiz Inácio Lula da Si...",
+      "source": "Agência Brasil",
+      "origin": "brasil",
+      "image": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+      "published_at": "2026-10-26T02:11:00+00:00",
+      "region": "América do Sul",
+      "theme": "Política Brasileira"
+    },
+    {
+      "title": "Brasil elege últimos 6 governadores e confirma avanço da direita nos estados",
+      "url": "https://www.dw.com/pt-br/brasil-elege-últimos-6-governadores-e-confirma-avanço-da-direita-nos-estados/a-79757623?maca=bra-rss-br-all-1030-xml-mrss",
+      "summary": "Partido Liberal (PL) garantiu seis estados, incluindo o Rio de Janeiro. Partido dos Trabalhadores (PT), do presidente reeleito Lula, terá quatro.",
+      "source": "Deutsche Welle",
+      "origin": "internacional",
+      "image": "https://static.dw.com/image/79758275_6.jpg",
+      "published_at": "2026-10-26T02:11:00+00:00",
+      "region": "América do Sul",
+      "theme": "Política Brasileira"
+    },
+    {
+      "title": "🔴 Live: Bolsonaro refuses to recognise Brazil election results",
+      "url": "https://www.france24.com/en/americas/20261025-live-voting-under-way-across-brazil-in-tight-presidential-run-off-between-lula-and-bolsonaro",
+      "summary": "",
+      "source": "France 24",
+      "origin": "internacional",
+      "image": "https://loremflickr.com/800/450/news?lock=412",
+      "published_at": "2026-10-26T02:01:30+00:00",
+      "region": "América do Norte",
+      "theme": "Outros / Multitemático"
+    },
+    {
+      "title": "À sombra do 7 de Outubro, Israel vai às urnas dividido sobre Netanyahu e o futuro do país",
+      "url": "https://redir.folha.com.br/redir/online/mundo/rss091/*https://www1.folha.uol.com.br/mundo/2026/10/a-sombra-do-7-de-outubro-israel-vai-as-urnas-dividido-sobre-netanyahu-e-o-futuro-do-pais.shtml",
+      "summary": "Os israelenses vão às urnas pela primeira vez desde o maior ataque terrorista da história de seu país. À sombra do 7 de Outubro, que cravou uma inflexão na política interna de Israel há três anos, os pouco mais de 7 milhões de eleitores aptos a votar escolhem na terça-feira (27) o novo Parlamento, d...",
+      "source": "Folha de S.Paulo - Mundo",
+      "origin": "brasil",
+      "image": "https://f.i.uol.com.br/fotografia/2026/10/25/17929615936ade6c398d427_1792961593_3x2_rt.jpg",
+      "published_at": "2026-10-26T02:00:00+00:00",
+      "region": "América do Sul",
+      "theme": "Geopolítica e Segurança"
+    },
+    {
+      "title": "Eleições em Israel revolvem incertezas de israelenses e palestinos",
+      "url": "https://redir.folha.com.br/redir/online/mundo/rss091/*https://www1.folha.uol.com.br/mundo/2026/10/eleicoes-em-israel-revolvem-incertezas-de-israelenses-e-palestinos.shtml",
+      "summary": "Enquanto os israelenses se preparam para eleger um novo Parlamento na terça-feira (27), o que pode levar ao fim da era do primeiro-ministro Binyamin Netanyahu, os palestinos lidam com mais um adiamento das eleições legislativas e presidenciais inicialmente previstas para novembro, mas remarcadas par...",
+      "source": "Folha de S.Paulo - Mundo",
+      "origin": "brasil",
+      "image": "https://f.i.uol.com.br/fotografia/2026/10/25/17929618766ade6d5442b5f_1792961876_3x2_rt.jpg",
+      "published_at": "2026-10-26T02:00:00+00:00",
+      "region": "América do Sul",
+      "theme": "Política Internacional"
+    },
+    {
+      "title": "Derrota de Flávio enfraquece os Bolsonaro, mas não ofusca nova força da direita com eleições",
+      "url": "https://www.bbc.com/portuguese/articles/cm93zvwkgd1zo?at_medium=RSS&at_campaign=rss",
+      "summary": "No segundo embate direto entre Lula e o bolsonarismo, o petista levou a melhor e ganhou uma eleição em que Flávio aparecia como favorito.",
+      "source": "BBC News Brasil",
+      "origin": "brasil",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/5d29/live/578cd430-d0f8-11f1-b5b1-192f0fa11760.jpg",
+      "published_at": "2026-10-26T01:58:40+00:00",
+      "region": "América do Sul",
+      "theme": "Política Brasileira"
+    },
+    {
+      "title": "Aleksandar Vucic Concedes Defeat in Serbian Election",
+      "url": "https://www.nytimes.com/2026/10/25/world/europe/serbia-vucic-election-defeat.html",
+      "summary": "“It is clear that we have lost these elections,” Aleksandar Vucic said in a surprisingly early speech congratulating his opponents.",
+      "source": "The New York Times",
+      "origin": "internacional",
+      "image": "https://static01.nyt.com/images/2026/10/25/multimedia/25int-serbia-vucic-mpgv/25int-serbia-vucic-mpgv-mediumSquareAt3X.jpg",
+      "published_at": "2026-10-26T01:57:25+00:00",
+      "region": "Global",
+      "theme": "Política Internacional"
+    },
+    {
+      "title": "Nas redes sociais, líderes latino-americanos saúdam Lula pela vitória",
+      "url": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-10/nas-redes-sociais-lideres-latino-americanos-saudam-lula-pela-vitoria",
+      "summary": "\n                    \n\t\t\t\tMomentos após a confirmação oficial da vitória de Luiz Inácio Lula da Silva nas eleições presidenciais do Brasil, líderes de países vizinhos foram às redes sociais cumprimentar o presidente reeleito.\n\nUm deles foi o presidente do Uruguai, Yamandu Orsi, que disse ter se comu...",
+      "source": "Agência Brasil",
+      "origin": "brasil",
+      "image": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+      "published_at": "2026-10-26T01:50:00+00:00",
+      "region": "América do Sul",
+      "theme": "Política Brasileira"
+    },
+    {
+      "title": "Líderes de direita a esquerda na América Latina parabenizam Lula; Milei silencia",
+      "url": "https://redir.folha.com.br/redir/online/mundo/rss091/*https://www1.folha.uol.com.br/mundo/2026/10/lideres-de-direita-a-esquerda-na-america-latina-parabenizam-lula-milei-silencia.shtml",
+      "summary": "Até o final da noite deste domingo (25) os líderes de Bolívia, México, Uruguai, Paraguai, Chile, Peru, Equador e Cuba haviam parabenizado o presidente Luiz Inácio Lula da Silva (PT) pela vitória sobre o senador Flávio Bolsonaro (PL) nas eleições presidenciais -um grupo que engloba dirigentes de dire...",
+      "source": "Folha de S.Paulo - Mundo",
+      "origin": "brasil",
+      "image": "https://f.i.uol.com.br/fotografia/2026/06/30/17828346926a43e604ddf04_1782834692_3x2_xl.jpg",
+      "published_at": "2026-10-26T01:46:00+00:00",
+      "region": "América do Sul",
+      "theme": "Política Brasileira"
+    },
+    {
+      "title": "Presidente do TSE liga para Lula para parabenizar reeleição",
+      "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/presidente-do-tse-liga-para-lula-para-parabenizar-reeleicao",
+      "summary": "\n                    \n\t\t\t\tO presidente do Tribunal Superior Eleitoral (TSE), ministro Kassio Nunes Marques, ligou neste domingo (25) para o presidente Luiz Inácio Lula da Silva para parabenizá-lo pela reeleição no segundo turno das eleições. \n\nApós a totalização dos votos atingir 99,9%, Kassio telef...",
+      "source": "Agência Brasil",
+      "origin": "brasil",
+      "image": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+      "published_at": "2026-10-26T01:39:00+00:00",
+      "region": "América do Sul",
+      "theme": "Política Brasileira"
+    },
+    {
+      "title": "Nunes Maques diz que decisão de Zanin dificultou processo eleitoral",
+      "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/nunes-maques-diz-que-decisao-de-zanin-dificultou-processo-eleitoral",
+      "summary": "\n                    \n\t\t\t\tO presidente do Tribunal Superior Eleitoral (TSE), ministro Kassio Nunes Marques, disse neste domingo (25) que a decisão do ministro do Supremo Tribunal Federal (STF) Cristiano Zanin que ampliou em duas horas o período de votação gerou “dificuldades para o processo eleitora...",
+      "source": "Agência Brasil",
+      "origin": "brasil",
+      "image": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+      "published_at": "2026-10-26T01:34:00+00:00",
+      "region": "América do Sul",
+      "theme": "Política Brasileira"
+    },
+    {
+      "title": "Imprensa internacional destaca vitória histórica de Lula",
+      "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/imprensa-internacional-destaca-vitoria-historica-de-lula",
+      "summary": "\n                    \n\t\t\t\tA vitória histórica do presidente Luiz Inácio Lula da Silva (PT), reeleito neste domingo (25) para um quarto mandato, estampou a página digital de alguns dos principais jornais do planeta.\n\nNa página do jornal americano The New York Times na internet, a manchete no fim da n...",
+      "source": "Agência Brasil",
+      "origin": "brasil",
+      "image": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+      "published_at": "2026-10-26T01:30:00+00:00",
+      "region": "América do Sul",
+      "theme": "Política Brasileira"
+    },
+    {
+      "title": "Vitória de Lula após dia de votação 'caótico' é destaque na imprensa internacional",
+      "url": "https://www.bbc.com/portuguese/articles/cxly4g78zlg5o?at_medium=RSS&at_campaign=rss",
+      "summary": "Os principais veículos da imprensa mundial, como New York Times, The Guardian e Le Monde, deram amplo destaque à vitória do petista.",
+      "source": "BBC News Brasil",
+      "origin": "brasil",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/48f4/live/ad1fd060-d0d9-11f1-ac2b-09beb944cac6.png",
+      "published_at": "2026-10-26T01:08:12+00:00",
+      "region": "América do Sul",
+      "theme": "Política Brasileira"
+    },
+    {
+      "title": "Elation across Serbia after veteran ruler Vučić concedes to student-led protest movement",
+      "url": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss",
+      "summary": "The populist right-wing leader of 12 years says it is \"clear\" his party has lost the vote billed as a referendum on the country's future.",
+      "source": "BBC News - World",
+      "origin": "internacional",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a400/live/789d12b0-d0f9-11f1-93e1-3b657b665bcf.jpg",
+      "published_at": "2026-10-26T01:07:05+00:00",
+      "region": "Global",
+      "theme": "Política Internacional"
+    },
+    {
+      "title": "Abstenção tem a maior queda entre turnos desde a redemocratização",
+      "url": "https://www.bbc.com/portuguese/articles/cmq8n4pn08p4o?at_medium=RSS&at_campaign=rss",
+      "summary": "Em termos percentuais, a abstenção deste segundo turno era a menor desde 2006, quando foi de 18,99%, com 99,91% das urnas apuradas.",
+      "source": "BBC News Brasil",
+      "origin": "brasil",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/1297/live/3a28ca10-d0d1-11f1-a058-dfc7f6e2951c.jpg",
+      "published_at": "2026-10-26T01:01:52+00:00",
+      "region": "América do Sul",
+      "theme": "Outros / Multitemático"
+    },
+    {
+      "title": "What challenges await Brazil's Lula in his fourth term as president?",
+      "url": "https://www.france24.com/en/americas/20261026-what-challenges-await-brazil-s-lula-in-his-fourth-term-as-president",
+      "summary": "President Luiz Inacio Lula da Silva will have to wrestle with a divided Brazil, an unfriendly Congress, feeble public finances and a Donald Trump-shaped menace during his unprecedented fourth term.",
+      "source": "France 24",
+      "origin": "internacional",
+      "image": "https://s.france24.com/media/display/92b1f50c-d0d7-11f1-9469-bdb9616e85cf/w:1024/p:16x9/0498b5dbd26c81f0b76b2b0960050a2224c1a10b.jpg",
+      "published_at": "2026-10-26T00:52:54+00:00",
+      "region": "América do Norte",
+      "theme": "Outros / Multitemático"
     },
     {
       "title": "Mapa das Eleições 2026: veja o resultado para presidente e governador no 2º turno",
@@ -90,24 +761,13 @@
       "theme": "Política Brasileira"
     },
     {
-      "title": "Eleições 2026: virada de Lula sobre Flávio ocorreu às 20h26",
-      "url": "https://www.cnnbrasil.com.br/eleicoes/eleicoes-2026-virada-de-lula-sobre-flavio-ocorreu-as-20h26/",
-      "summary": "Eleito para um inédito quarto mandato como presidente da República na noite deste domingo (25), Luiz Inácio Lula da Silva (PT) iniciou a apuração à frente de seu adversário, foi ultrapassado, mas retomou a liderança",
-      "source": "CNN Brasil",
+      "title": "Prorrogação da votação teve baixa procura e frustração de eleitores",
+      "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/prorrogacao-da-votacao-teve-baixa-procura-e-frustracao-de-eleitores",
+      "summary": "\n                    \n\t\t\t\tApós a decisão do Supremo Tribunal Federal (STF) pela prorrogação das votações até as 19h, quem não tinha conseguido votar, viu na medida a possibilidade de garantir o voto. Mas, muitos acabaram dando de cara com portões fechados. Para os eleitores isso causou confusão e fr...",
+      "source": "Agência Brasil",
       "origin": "brasil",
-      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/10/55609732770_1a1a1c8db3_o-1.jpg?w=1200&h=630&crop=1",
-      "published_at": "2026-10-26T00:41:43+00:00",
-      "region": "América do Sul",
-      "theme": "Política Brasileira"
-    },
-    {
-      "title": "Corinthians parabeniza Lula por reeleição: “Viva a democracia do Brasil”",
-      "url": "https://www.cnnbrasil.com.br/esportes/futebol/corinthians/corinthians-parabeniza-lula-por-reeleicao-viva-a-democracia-do-brasil/",
-      "summary": "Corintiano de coração, petista vence Flávio Bolsonaro (PL) no segundo turno e se torna o primeiro presidente da história com quatro mandatos",
-      "source": "CNN Brasil",
-      "origin": "brasil",
-      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/10/lula_estadao.jpg?w=1200&h=630&crop=1",
-      "published_at": "2026-10-26T00:37:33+00:00",
+      "image": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+      "published_at": "2026-10-26T00:38:00+00:00",
       "region": "América do Sul",
       "theme": "Política Brasileira"
     },
@@ -123,196 +783,9 @@
       "theme": "Ciência, Tecnologia e Inovação"
     },
     {
-      "title": "Lula tem 64,98% dos votos válidos no Canadá no 2º turno",
-      "url": "https://www.cnnbrasil.com.br/eleicoes/lula-tem-6498-dos-votos-validos-no-canada-no-2o-turno/",
-      "summary": "Candidato do PT teve 15.776 votos, 7.275 a mais que Flavio Bolsonaro (PL)",
-      "source": "CNN Brasil",
-      "origin": "brasil",
-      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/cpt-api/__cnn-import_api-40f172dbf2de608957905ce8df1abb73.png?w=1200&h=630&crop=1",
-      "published_at": "2026-10-26T00:36:35+00:00",
-      "region": "América do Sul",
-      "theme": "Política Brasileira"
-    },
-    {
-      "title": "Votação prorrogada: veja cronologia que levou a impasse entre STF e TSE",
-      "url": "https://www.cnnbrasil.com.br/eleicoes/votacao-prorrogada-veja-cronologia-que-levou-a-impasse-entre-stf-e-tse/",
-      "summary": "Decisão de estender funcionamento das urnas partiu de Cristiano Zanin, do Supremo, mas Kassio Nunes Marques, presidente da Corte Eleitoral, também havia sido acionado",
-      "source": "CNN Brasil",
-      "origin": "brasil",
-      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/09/Design-sem-nome-2-6.png?w=1200&h=630&crop=1",
-      "published_at": "2026-10-26T00:36:33+00:00",
-      "region": "América do Sul",
-      "theme": "Política Brasileira"
-    },
-    {
-      "title": "Celina é reeleita governadora do DF e Aziz vence no Amazonas; quem são os governadores eleitos no 2º turno",
-      "url": "https://www.bbc.com/portuguese/articles/c9m2641r5rezo?at_medium=RSS&at_campaign=rss",
-      "summary": "Neste domingo (25/10), eleitores de cinco Estados e do Distrito Federal elegeram seus governadores no segundo turno das eleições.",
-      "source": "BBC News Brasil",
-      "origin": "brasil",
-      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/35c0/live/378858d0-d0d5-11f1-ac2b-09beb944cac6.png",
-      "published_at": "2026-10-26T00:36:21+00:00",
-      "region": "América do Sul",
-      "theme": "Meio Ambiente e Clima"
-    },
-    {
-      "title": "Veja fotos da festa petista na av. Paulista",
-      "url": "https://www.poder360.com.br/poder-eleicoes-2026/veja-fotos-da-festa-petista-na-av-paulista/",
-      "summary": "Presidente Lula venceu o senador Flávio Bolsonaro de virada e conquistou um 4º mandato de presidente",
-      "source": "Poder360",
-      "origin": "brasil",
-      "image": "https://static.poder360.com.br/uploads/2026/10/festa-pt-lula-paulista-2-1200x675.jpg",
-      "published_at": "2026-10-26T00:35:31+00:00",
-      "region": "América do Sul",
-      "theme": "Política Brasileira"
-    },
-    {
-      "title": "2º turno no Rio Grande do Sul: Flavio Bolsonaro tem 57,84% contra 42,16% de Lula",
-      "url": "https://www.cnnbrasil.com.br/eleicoes/2o-turno-no-rio-grande-do-sul-flavio-bolsonaro-tem-5784-contra-4216-de-lula/",
-      "summary": "Candidato do PL abriu 1.049.826 votos de vantagem no estado; em 2022, Jair Bolsonaro (PL) teve 56,35%",
-      "source": "CNN Brasil",
-      "origin": "brasil",
-      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/cpt-api/__cnn-import_api-a9cd47458d6cef5c9e678d460c08b1c8.png?w=1200&h=630&crop=1",
-      "published_at": "2026-10-26T00:34:35+00:00",
-      "region": "América do Sul",
-      "theme": "Política Brasileira"
-    },
-    {
-      "title": "Lula tem 69,53% dos votos válidos em Sergipe no 2º turno",
-      "url": "https://www.cnnbrasil.com.br/eleicoes/lula-tem-6953-dos-votos-validos-em-sergipe-no-2o-turno/",
-      "summary": "Candidato do PT teve 989.041 votos, 555.687 a mais que Flavio Bolsonaro (PL)",
-      "source": "CNN Brasil",
-      "origin": "brasil",
-      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/cpt-api/__cnn-import_api-02e5e26f19b73475d0cae2e148d2467e.png?w=1200&h=630&crop=1",
-      "published_at": "2026-10-26T00:34:35+00:00",
-      "region": "América do Sul",
-      "theme": "Política Brasileira"
-    },
-    {
-      "title": "2º turno em Fortaleza: Lula tem 60,07% contra 39,93% de Flavio Bolsonaro",
-      "url": "https://www.cnnbrasil.com.br/eleicoes/2o-turno-em-fortaleza-lula-tem-6007-contra-3993-de-flavio-bolsonaro/",
-      "summary": "Candidato do PT abriu 312.648 votos de vantagem na capital; em 2022, Lula (PT) teve 58,18%",
-      "source": "CNN Brasil",
-      "origin": "brasil",
-      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/cpt-api/__cnn-import_api-8e8f5dc68bf737e2887e7e9c222f27a2.png?w=1200&h=630&crop=1",
-      "published_at": "2026-10-26T00:34:33+00:00",
-      "region": "América do Sul",
-      "theme": "Política Brasileira"
-    },
-    {
-      "title": "2º turno em Goiás: Flavio Bolsonaro tem 59,66% contra 40,34% de Lula",
-      "url": "https://www.cnnbrasil.com.br/eleicoes/2o-turno-em-goias-flavio-bolsonaro-tem-5966-contra-4034-de-lula/",
-      "summary": "Candidato do PL abriu 759.779 votos de vantagem no estado; em 2022, Jair Bolsonaro (PL) teve 58,71%",
-      "source": "CNN Brasil",
-      "origin": "brasil",
-      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/cpt-api/__cnn-import_api-2a120d1353e05e07bd7663b4d0d2d7f7.png?w=1200&h=630&crop=1",
-      "published_at": "2026-10-26T00:34:33+00:00",
-      "region": "América do Sul",
-      "theme": "Política Brasileira"
-    },
-    {
-      "title": "María Corina Machado Returns to Venezuela",
-      "url": "https://www.nytimes.com/2026/10/25/world/americas/machado-venezuela-return.html",
-      "summary": "After nearly 10 months in exile, Ms. Machado, a Nobel laureate, came back to challenge leaders who have sidelined her and press for new elections.",
-      "source": "The New York Times",
-      "origin": "internacional",
-      "image": "https://static01.nyt.com/images/2026/10/25/multimedia/25int-venezuela-machado-fglh/25int-venezuela-machado-fglh-mediumSquareAt3X.jpg",
-      "published_at": "2026-10-26T00:32:49+00:00",
-      "region": "América do Sul",
-      "theme": "Política Internacional"
-    },
-    {
-      "title": "2º turno no Tocantins: Flavio Bolsonaro tem 51,37% contra 48,63% de Lula",
-      "url": "https://www.cnnbrasil.com.br/eleicoes/2o-turno-no-tocantins-flavio-bolsonaro-tem-5137-contra-4863-de-lula/",
-      "summary": "Candidato do PL abriu 24.954 votos de vantagem no estado; em 2022, Lula (PT) teve 51,36%",
-      "source": "CNN Brasil",
-      "origin": "brasil",
-      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/cpt-api/__cnn-import_api-27e86896ce86ae28f58aeee258e0abd8.png?w=1200&h=630&crop=1",
-      "published_at": "2026-10-26T00:32:36+00:00",
-      "region": "América do Sul",
-      "theme": "Política Brasileira"
-    },
-    {
-      "title": "Em Campo Grande, Flavio Bolsonaro é o mais votado no 2º turno, com 61,11% dos votos válidos",
-      "url": "https://www.cnnbrasil.com.br/eleicoes/em-campo-grande-flavio-bolsonaro-e-o-mais-votado-no-2o-turno-com-6111-dos-votos-validos/",
-      "summary": "Lula (PT) ficou com 38,89%; no 1º turno, candidato do PL tinha 58,68% na capital",
-      "source": "CNN Brasil",
-      "origin": "brasil",
-      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/cpt-api/__cnn-import_api-8ec6a9ee58c7b8c81b506ddaa6a06092.png?w=1200&h=630&crop=1",
-      "published_at": "2026-10-26T00:32:35+00:00",
-      "region": "América do Sul",
-      "theme": "Política Brasileira"
-    },
-    {
-      "title": "Flavio Bolsonaro tem 56,37% dos votos válidos no Espírito Santo no 2º turno",
-      "url": "https://www.cnnbrasil.com.br/eleicoes/flavio-bolsonaro-tem-5637-dos-votos-validos-no-espirito-santo-no-2o-turno/",
-      "summary": "Candidato do PL teve 1.294.504 votos, 292.539 a mais que Lula (PT)",
-      "source": "CNN Brasil",
-      "origin": "brasil",
-      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/cpt-api/__cnn-import_api-330ea6a57a34c7e23fff5ea41faa88a6.png?w=1200&h=630&crop=1",
-      "published_at": "2026-10-26T00:32:34+00:00",
-      "region": "América do Sul",
-      "theme": "Política Brasileira"
-    },
-    {
-      "title": "Presidente do TRE-SP diz que “ouviu falar” de falta de ônibus",
-      "url": "https://www.poder360.com.br/poder-eleicoes-2026/presidente-do-tre-sp-diz-que-ouviu-falar-de-falta-de-onibus/",
-      "summary": "José Antonio Encinas Manfré afirmou ter ouvido relatos e disse que cobrança à prefeitura cabia à 1ª Zona Eleitoral",
-      "source": "Poder360",
-      "origin": "brasil",
-      "image": "https://static.poder360.com.br/uploads/2026/10/presidente-do-TRE-1.png",
-      "published_at": "2026-10-26T00:32:18+00:00",
-      "region": "América do Sul",
-      "theme": "Direito Internacional e Instituições"
-    },
-    {
-      "title": "Lula aos 80 anos: a 'última dança' do presidente com virada histórica e vitória para quarto mandato",
-      "url": "https://www.bbc.com/portuguese/articles/cx240l916lneo?at_medium=RSS&at_campaign=rss",
-      "summary": "Ex-metalúrgico e presidente por três mandatos, Lula conquista virada histórica para mais quatro anos no Palácio do Planalto.",
-      "source": "BBC News Brasil",
-      "origin": "brasil",
-      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/e656/live/91806560-ce5c-11f1-a166-e30097724580.jpg",
-      "published_at": "2026-10-26T00:30:50+00:00",
-      "region": "América do Sul",
-      "theme": "Política Brasileira"
-    },
-    {
-      "title": "Flavio Bolsonaro tem 59,60% dos votos válidos em Mato Grosso do Sul no 2º turno",
-      "url": "https://www.cnnbrasil.com.br/eleicoes/flavio-bolsonaro-tem-5960-dos-votos-validos-em-mato-grosso-do-sul-no-2o-turno/",
-      "summary": "Candidato do PL teve 927.892 votos, 298.919 a mais que Lula (PT)",
-      "source": "CNN Brasil",
-      "origin": "brasil",
-      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/cpt-api/__cnn-import_api-e9b9ad260b71ea66253c18915799de08.png?w=1200&h=630&crop=1",
-      "published_at": "2026-10-26T00:30:35+00:00",
-      "region": "América do Sul",
-      "theme": "Política Brasileira"
-    },
-    {
-      "title": "Em Alagoas, Lula é o mais votado no 2º turno, com 60,77% dos votos válidos",
-      "url": "https://www.cnnbrasil.com.br/eleicoes/em-alagoas-lula-e-o-mais-votado-no-2o-turno-com-6077-dos-votos-validos/",
-      "summary": "Flavio Bolsonaro (PL) ficou com 39,23%; no 1º turno, candidato do PT tinha 54,73% no estado",
-      "source": "CNN Brasil",
-      "origin": "brasil",
-      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/cpt-api/__cnn-import_api-ceb483a3c26c18b1656edcc555b5c64f.png?w=1200&h=630&crop=1",
-      "published_at": "2026-10-26T00:30:34+00:00",
-      "region": "América do Sul",
-      "theme": "Política Brasileira"
-    },
-    {
-      "title": "2º turno em Maceió: Flavio Bolsonaro tem 52,01% contra 47,99% de Lula",
-      "url": "https://www.cnnbrasil.com.br/eleicoes/2o-turno-em-maceio-flavio-bolsonaro-tem-5201-contra-4799-de-lula/",
-      "summary": "Candidato do PL abriu 21.030 votos de vantagem na capital; em 2022, Jair Bolsonaro (PL) teve 57,18%",
-      "source": "CNN Brasil",
-      "origin": "brasil",
-      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/cpt-api/__cnn-import_api-263256b7c39bdc3272d6944dde77deff.png?w=1200&h=630&crop=1",
-      "published_at": "2026-10-26T00:30:34+00:00",
-      "region": "América do Sul",
-      "theme": "Política Brasileira"
-    },
-    {
-      "title": "Líderes mundiais parabenizam Lula pela reeleição; veja repercussão",
+      "title": "Presidentes de Canadá, Peru, Chile, Bolívia e Paraguai parabenizam Lula; veja repercussão",
       "url": "https://g1.globo.com/mundo/noticia/2026/10/25/lideres-mundiais-parabenizam-lula-pela-reeleicao-veja-repercussao.ghtml",
-      "summary": "     Lula é reeleito presidente do Brasil\nLíderes mundiais parabenizaram neste domingo (25) o presidente Luiz Inácio Lula da Silva (PT) pela sua reeleição. Em uma eleição acirrada e marcada por uma virada inédita, Lula conquistou seu quarto mandato à frente do Palácio do Planalto.\nÀs vésperas de com...",
+      "summary": "     Lula é reeleito presidente do Brasil\nLíderes mundiais parabenizaram neste domingo (25) o presidente Luiz Inácio Lula da Silva (PT) pela sua reeleição. Em uma eleição acirrada e marcada por uma virada inédita, Lula conquistou seu quarto mandato à frente do Palácio do Planalto.\nAté a última atual...",
       "source": "G1 - Mundo",
       "origin": "brasil",
       "image": "https://s2-g1.glbimg.com/xWpPkuEw-54Xg5z49KDD6nyIsIk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/L/y/wF1vjEScaSBEuzh5Fpcw/55610335795-a0c0d3c162-k.jpg",
@@ -321,70 +794,26 @@
       "theme": "Política Brasileira"
     },
     {
-      "title": "Brasil elege só 3 governadoras em 2026",
-      "url": "https://www.poder360.com.br/poder-eleicoes-2026/brasil-elege-so-3-governadoras-em-2026/",
-      "summary": "Resultado das eleições eleva a 16 o número de mulheres eleitas para governos estaduais desde 1994",
-      "source": "Poder360",
-      "origin": "brasil",
-      "image": "https://static.poder360.com.br/uploads/2026/10/mulheres-governadoras-historico-2turno-24-out-2026-1-02-1200x675.jpg",
-      "published_at": "2026-10-26T00:28:43+00:00",
-      "region": "América do Sul",
-      "theme": "Política Brasileira"
-    },
-    {
-      "title": "Conheça os 27 governadores eleitos em 2026",
-      "url": "https://www.poder360.com.br/poder-eleicoes-2026/conheca-os-27-governadores-eleitos-em-2026/",
-      "summary": "No 1º turno, foram definidos 21 governos estaduais, 6 a mais que em 2022",
-      "source": "Poder360",
-      "origin": "brasil",
-      "image": "https://static.poder360.com.br/uploads/2026/10/urna-eletronica-guia-de-como-votar-18set2026-1200x675.jpg",
-      "published_at": "2026-10-26T00:24:05+00:00",
-      "region": "América do Sul",
-      "theme": "Direito Internacional e Instituições"
-    },
-    {
-      "title": "Brazil's President Lula da Silva beats Flavio Bolsonaro to win re-election",
+      "title": "Brazil's Lula beats odds and seals re-election, rival Bolsonaro demands annulment",
       "url": "https://www.france24.com/en/americas/20261026-brazil-s-president-lula-da-silva-beats-flavio-bolsonaro-to-win-re-election",
-      "summary": "Brazilian President Luiz Inacio Lula da Silva, nearly 81 years old, clinched a fourth term in a tight runoff against Flavio Bolsonaro on Sunday. The leftist leader won 51.7 percent of the vote, compared to 48.2 percent for the son of former president Jair Bolsonaro, official results showed.",
+      "summary": "Brazilian President Luiz Inacio Lula da Silva, nearly 81 years old, clinched a fourth term in a tight runoff against Flavio Bolsonaro on Sunday. The leftist leader won 51.7% of the vote, compared to 48.2% for the son of former president Jair Bolsonaro, official results showed. Bolsonaro has refused ...",
       "source": "France 24",
       "origin": "internacional",
-      "image": "https://s.france24.com/media/display/a7aeab44-d0d2-11f1-b41f-5b4a75578ebb/w:1024/p:16x9/AP26299000355395.jpg",
+      "image": "https://s.france24.com/media/display/d08bd462-d0d0-11f1-ab21-bdb9616e85cf/w:1024/p:16x9/2026-10-25T220534Z-34599975-RC2KAOAZJ6YN-RTRMADP-3-BRAZIL-ELECTION.jpg",
       "published_at": "2026-10-26T00:23:59+00:00",
-      "region": "América do Sul",
+      "region": "América do Norte",
       "theme": "Outros / Multitemático"
     },
     {
       "title": "Lula reeleito: imprensa internacional repercute resultado do 2º turno da eleição no Brasil",
       "url": "https://g1.globo.com/mundo/noticia/2026/10/25/lula-reeleito-imprensa-internacional-repercute-resultado-do-2o-turno-da-eleicao-no-brasil.ghtml",
-      "summary": "A imprensa internacional repercute a vitória de Luiz Inácio Lula da Silva (PT) nas eleições presidenciais do Brasil, neste domingo (25). Lula (PT) disputava o cargo com o candidato à reeleição Flavio Bolsonaro (PL).\nThe New York Times\nO jornal americano The New York Times destacou que o presidente L...",
+      "summary": "     Apoiadores de Lula se reúnem na Cinelândia\nREUTERS/Raquel Cunha\nA imprensa internacional repercute a vitória de Luiz Inácio Lula da Silva (PT) nas eleições presidenciais do Brasil, neste domingo (25). Diversos veículos destacaram que esta é a primeira vez na história que um presidente cumpre ta...",
       "source": "G1 - Mundo",
       "origin": "brasil",
-      "image": "https://s2-g1.glbimg.com/oLVrfxGv4hQ2n-YoU3lC1EjjP-M=/3984x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/F/A/0AoRtbQBeUOQ0ARbO9Qg/2026-10-26t003637z-1998253343-rc2naoa4pvve-rtrmadp-3-brazil-election-1-.jpg",
+      "image": "https://s2-g1.glbimg.com/oq6bNUZgDDvrPrgvLaPqU-Aqvj0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/N/M7RWKcRySoKv3CGvo3Kg/nyt.png",
       "published_at": "2026-10-26T00:20:08+00:00",
       "region": "América do Sul",
       "theme": "Política Brasileira"
-    },
-    {
-      "title": "Saiba quem ganha e quem perde com a vitória de Lula",
-      "url": "https://www.poder360.com.br/poder-eleicoes-2026/saiba-quem-ganha-e-quem-perde-com-a-vitoria-de-lula/",
-      "summary": "Assalariados e ambientalistas terão mais benefícios do que se Flávio Bolsonaro fosse eleito; empresas terão menor perspectiva de lucro por causa dos juros altos",
-      "source": "Poder360",
-      "origin": "brasil",
-      "image": "https://static.poder360.com.br/uploads/2026/10/quem-ganha-quem-perde-com-Lula-presidente-capa-post-1200x675.png",
-      "published_at": "2026-10-26T00:16:33+00:00",
-      "region": "América do Sul",
-      "theme": "Economia Internacional"
-    },
-    {
-      "title": "Lula holds off far right with victory in Brazil presidential election",
-      "url": "https://www.aljazeera.com/news/2026/10/26/lula-holds-off-far-right-with-victory-in-brazil-presidential-election?traffic_source=rss",
-      "summary": "Leftist president mounts stunning comeback after unexpected first-round loss galvanised supporters of Flavio Bolsonaro.",
-      "source": "Al Jazeera English",
-      "origin": "internacional",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/reuters_6ade7eaf-1792966319.jpg?resize=1920%2C1440",
-      "published_at": "2026-10-26T00:16:29+00:00",
-      "region": "América do Sul",
-      "theme": "Outros / Multitemático"
     },
     {
       "title": "Lula terá Trump como principal desafio externo e apostará em diálogo após embates na eleição",
@@ -398,50 +827,6 @@
       "theme": "Direito Internacional e Instituições"
     },
     {
-      "title": "Cadu de Lula é eleito governador do Rio Grande do Norte",
-      "url": "https://www.poder360.com.br/poder-eleicoes-2026/cadu-de-lula-e-eleito-governador-do-rio-grande-do-norte/",
-      "summary": "Ex-secretário da Fazenda sucederá Fátima Bezerra e manterá o PT no comando do Estado",
-      "source": "Poder360",
-      "origin": "brasil",
-      "image": "https://static.poder360.com.br/uploads/2026/10/2-turno-eleicoes-estado-rn-1200x675.jpg",
-      "published_at": "2026-10-26T00:13:12+00:00",
-      "region": "América do Sul",
-      "theme": "Política Brasileira"
-    },
-    {
-      "title": "🔴 Live: Brazil's President Lula da Silva beats Flavio Bolsonaro in run-off to win re-election",
-      "url": "https://www.france24.com/en/americas/20261025-live-voting-under-way-across-brazil-in-tight-presidential-run-off-between-lula-and-bolsonaro",
-      "summary": "",
-      "source": "France 24",
-      "origin": "internacional",
-      "image": "https://loremflickr.com/800/450/news?lock=14",
-      "published_at": "2026-10-26T00:12:55+00:00",
-      "region": "América do Sul",
-      "theme": "Outros / Multitemático"
-    },
-    {
-      "title": "Ou a gente ganha, ou a gente ganha, diz Nikolas Ferreira",
-      "url": "https://www.poder360.com.br/poder-eleicoes-2026/ou-a-gente-ganha-ou-a-gente-ganha-diz-nikolas-ferreira/",
-      "summary": "Declaração foi feita após STF determinar a prorrogação das eleições até as 19h",
-      "source": "Poder360",
-      "origin": "brasil",
-      "image": "https://static.poder360.com.br/uploads/2026/10/nikolas-video-lula-1200x675.jpg",
-      "published_at": "2026-10-26T00:12:48+00:00",
-      "region": "América do Sul",
-      "theme": "Política Brasileira"
-    },
-    {
-      "title": "Lula é reeleito presidente do Brasil em virada histórica",
-      "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/lula-e-reeleito-presidente-do-brasil-em-virada-historica",
-      "summary": "Luiz Inácio Lula da Silva, 80 anos, foi reeleito neste domingo (25) para seu quarto mandato à Presidência da República pelo Partido dos Trabalhadores (PT).\n\nCom mais de 98,2% das urnas apuradas, Lula obteve 51,75% dos votos válidos, o equivalente a 64.060.863 votos em uma campanha que tomou fôlego n...",
-      "source": "Agência Brasil",
-      "origin": "brasil",
-      "image": "https://agenciabrasil.ebc.com.br/ebc.png?id=1706705&amp;o=rss",
-      "published_at": "2026-10-26T00:11:00+00:00",
-      "region": "América do Sul",
-      "theme": "Política Brasileira"
-    },
-    {
       "title": "Em virada histórica,  Lula derrota bolsonarismo e conquista 4° mandato",
       "url": "https://www.dw.com/pt-br/em-virada-histórica-lula-derrota-bolsonarismo-e-conquista-4°-mandato/a-79534613?maca=bra-rss-br-all-1030-xml-mrss",
       "summary": "Em virada nunca antes vista em eleições presidenciais e numa votação marcada por confusão nas horas finais, Lula supera rival Flávio Bolsonaro por mais de três pontos de vantagem, mantendo esquerda no poder.",
@@ -453,103 +838,15 @@
       "theme": "Direito Internacional e Instituições"
     },
     {
-      "title": "Trump escalates anti-Muslim rhetoric in fierce attack on El-Sayed",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/26/trump-escalates-anti-muslim-rhetoric-in-fierce-attack-on-el-sayed?traffic_source=rss",
-      "summary": "Trump has launched another fierce anti-Muslim attack on Democratic Senate candidate Abdul El-Sayed.",
-      "source": "Al Jazeera English",
-      "origin": "internacional",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/Screenshot-2026-10-25-at-23.53.09-1792972505.png?resize=1200%2C675",
-      "published_at": "2026-10-26T00:02:55+00:00",
-      "region": "América do Norte",
-      "theme": "Geopolítica e Segurança"
-    },
-    {
-      "title": "Iran war live: Trump rules out strikes ‘today’; Israeli forces raid Hebron",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/10/26/iran-war-live-trump-rules-out-strikes-today-israeli-forces-raid-hebron?traffic_source=rss",
-      "summary": "Trump&#039;s statement comes as Iran says renewed US-Israeli attacks &#039;will achieve no different outcome&#039;.",
-      "source": "Al Jazeera English",
-      "origin": "internacional",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/AFP__20261021__D3YC8TU__v1__HighRes__IranWarDailyLife-1792972215.jpg?resize=1920%2C1440",
-      "published_at": "2026-10-26T00:00:00+00:00",
-      "region": "América do Norte",
-      "theme": "Geopolítica e Segurança"
-    },
-    {
-      "title": "Lorenzo Pazolini vence o segundo turno e vai governar o Espírito Santo",
-      "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/lorenzo-pazolini-vence-o-segundo-turno-e-vai-governar-o-espirito-santo",
-      "summary": "\n                    \n\t\t\t\tCom 97,34% das urnas apuradas, o candidato Lorenzo Pazolini (Republicanos) foi eleito para governar o estado do Espírito Santo.\n\nSegundo os dados do Tribunal Superior Eleitoral (TSE), Pazolini recebeu, até o momento, 1.116.303 dos votos válidos, o que equivale a 52,01%. Ele...",
-      "source": "Agência Brasil",
-      "origin": "brasil",
-      "image": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-      "published_at": "2026-10-25T23:59:00+00:00",
-      "region": "América do Sul",
-      "theme": "Geopolítica e Segurança"
-    },
-    {
-      "title": "Arroio do Sal (RS) e Santana do Itararé (PR) definem novos prefeitos",
-      "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/arroio-do-sal-rs-e-santana-do-itarare-pr-definem-novos-prefeitos",
-      "summary": "\n                    \n\t\t\t\tEleitores de sete cidades brasileiras foram às urnas neste domingo (25) para escolher novos prefeitos e vice-prefeitos. As eleições suplementares tiveram que ser convocadas pela Justiça Eleitoral, por diferentes motivos.\n\nEm Arroio do Sal (RS), Felipe Valim (MDB) obteve 4.5...",
-      "source": "Agência Brasil",
-      "origin": "brasil",
-      "image": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-      "published_at": "2026-10-25T23:54:00+00:00",
-      "region": "América do Sul",
-      "theme": "Política Brasileira"
-    },
-    {
-      "title": "Ballon d’Or 2026: Can Barcelona phenom Lamine Yamal become youngest winner?",
-      "url": "https://www.aljazeera.com/sports/2026/10/25/ballon-dor-2026-can-barcelona-phenom-lamine-yamal-become-youngest-winner?traffic_source=rss",
-      "summary": "Still a teenager, Yamal could surpass Brazilian legend Ronaldo Nazario, who won the Ballon d&#039;Or at the age of 21.",
-      "source": "Al Jazeera English",
-      "origin": "internacional",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/GettyImages-2298421748-1791187874_93b20f-1792580469.jpg?resize=1200%2C630&quality=80",
-      "published_at": "2026-10-25T23:38:57+00:00",
-      "region": "América do Sul",
-      "theme": "Saúde"
-    },
-    {
-      "title": "Omar Aziz é eleito governador do Amazonas",
-      "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/omar-aziz-e-eleito-governador-do-amazonas",
-      "summary": "\n                    \n\t\t\t\tCom 85,84% das urnas apuradas, o candidato Omar Aziz (PSD) foi eleito governador do estado Amazonas. \n\nAziz recebeu, até o momento, 1.090.351 votos, o equivalente a 59,96% dos votos válidos. \n\nNotícias relacionadas:No Amazonas, eleitores vão escolher entre Aziz e Maria do C...",
-      "source": "Agência Brasil",
-      "origin": "brasil",
-      "image": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-      "published_at": "2026-10-25T23:34:00+00:00",
-      "region": "América do Sul",
-      "theme": "Meio Ambiente e Clima"
-    },
-    {
-      "title": "Venezuelan opposition leader María Machado returns after months in exile",
-      "url": "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo?at_medium=RSS&at_campaign=rss",
-      "summary": "Machado had left the country just a month before the US government seized Venezuelan President Nicolás Maduro.",
+      "title": "Rapper Nicki Minaj joins Trump onstage at Michigan rally",
+      "url": "https://www.bbc.co.uk/news/articles/cqrmyl1mljppo?at_medium=RSS&at_campaign=rss",
+      "summary": "The Super Bass singer is the latest big name to campaign in Michigan, where a tight Senate race is playing out ahead of the 3 November midterms.",
       "source": "BBC News - World",
       "origin": "internacional",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/116f/live/8cce05e0-d096-11f1-b441-2b33b063138f.jpg",
-      "published_at": "2026-10-25T23:33:14+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8395/live/f35a8d90-d0fc-11f1-9d25-c3fafb2ab4de.jpg",
+      "published_at": "2026-10-25T23:33:19+00:00",
       "region": "América do Norte",
       "theme": "Política Internacional"
-    },
-    {
-      "title": "Thousands protest in Prague against public media funding reforms",
-      "url": "https://www.aljazeera.com/news/2026/10/25/thousands-protest-in-prague-against-public-media-funding-reforms?traffic_source=rss",
-      "summary": "Demonstrators allege Prime Minister Andrej Babis and his coalition&#039;s proposed reforms pose a threat to press freedom.",
-      "source": "Al Jazeera English",
-      "origin": "internacional",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/getty_6ade7e134d-1792966163.jpg?resize=1920%2C1440",
-      "published_at": "2026-10-25T23:29:13+00:00",
-      "region": "América do Norte",
-      "theme": "Direitos Humanos, Sociedade e Migrações"
-    },
-    {
-      "title": "Mailza Assis é reeleita governadora do Acre",
-      "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/mailza-assis-e-reeleita-governadora-do-acre",
-      "summary": "\n                    \n\t\t\t\tCom  83,88% das urnas apuradas, a candidata Mailza Assis (PP) está matematicamente reeleita governadora do Acre. \n\nMailza, que é a atual governadora do estado, recebeu, até o momento, 229.835 votos, o equivalente a 66,16% dos votos válidos. \n\nNotícias relacionadas:Eleitores...",
-      "source": "Agência Brasil",
-      "origin": "brasil",
-      "image": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-      "published_at": "2026-10-25T23:28:00+00:00",
-      "region": "América do Sul",
-      "theme": "Direito Internacional e Instituições"
     },
     {
       "title": "Report: IDF chief pushes back on Netanyahu's order",
@@ -560,17 +857,6 @@
       "image": "https://s.france24.com/media/display/a4aad600-cf12-11f1-864d-bdb9616e85cf/w:1024/p:16x9/capture-56236f89.jpg",
       "published_at": "2026-10-25T23:24:14+00:00",
       "region": "América do Norte",
-      "theme": "Política Internacional"
-    },
-    {
-      "title": "Venezuela’s opposition leader Machado returns after months in exile",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/venezuelas-opposition-leader-machado-returns-after-months-in-exile?traffic_source=rss",
-      "summary": "Venezuela’s opposition leader and Nobel Peace Prize winner Maria Corina Machado returned home after more than 10 months.",
-      "source": "Al Jazeera English",
-      "origin": "internacional",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/Screenshot-2026-10-25-at-23.18.27-1792970405.png?resize=1200%2C675",
-      "published_at": "2026-10-25T23:23:25+00:00",
-      "region": "América do Sul",
       "theme": "Política Internacional"
     },
     {
@@ -585,83 +871,6 @@
       "theme": "Direito Internacional e Instituições"
     },
     {
-      "title": "'O STF passou por cima do TSE; mas o TSE demorou', diz especialista em Direito Eleitoral",
-      "url": "https://www.bbc.com/portuguese/articles/cqe9lypmxlpno?at_medium=RSS&at_campaign=rss",
-      "summary": "Para analista Alberto Rollo, o ministro Cristiano Zanin, do STF, 'passou por cima' do TSE",
-      "source": "BBC News Brasil",
-      "origin": "brasil",
-      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/e112/live/be29f260-d0c9-11f1-93e1-3b657b665bcf.jpg",
-      "published_at": "2026-10-25T23:15:36+00:00",
-      "region": "América do Sul",
-      "theme": "Política Brasileira"
-    },
-    {
-      "title": "Em SP, 80% das urnas estavam encerradas quando votação foi prorrogada",
-      "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/em-sp-80-das-urnas-estavam-encerradas-quando-votacao-foi-prorrogada",
-      "summary": "\n                    \n\t\t\t\tMais de 80% das seções eleitorais de São Paulo já estavam fechadas quando chegou a determinação do ministro do Supremo Tribunal Federal (STF), Cristiano Zanin, sobre a prorrogação do horário de votação de segundo turno até as 19h. A afirmação foi feita na noite de neste dom...",
-      "source": "Agência Brasil",
-      "origin": "brasil",
-      "image": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-      "published_at": "2026-10-25T23:14:00+00:00",
-      "region": "América do Sul",
-      "theme": "Política Brasileira"
-    },
-    {
-      "title": "Aleksandar Vucic Concedes Defeat in Serbian Election",
-      "url": "https://www.nytimes.com/2026/10/25/world/europe/serbia-vucic-election-defeat.html",
-      "summary": "“It is clear that we have lost these elections,” Aleksandar Vucic said in a surprisingly early speech congratulating his opponents.",
-      "source": "The New York Times",
-      "origin": "internacional",
-      "image": "https://static01.nyt.com/images/2026/10/25/multimedia/25int-serbia-vucic-mpgv/25int-serbia-vucic-mpgv-mediumSquareAt3X.jpg",
-      "published_at": "2026-10-25T23:10:41+00:00",
-      "region": "Global",
-      "theme": "Política Internacional"
-    },
-    {
-      "title": "Vicentinho Júnior é eleito governador do estado do Tocantins",
-      "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/vicentinho-junior-e-eleito-governador-do-estado-do-tocantins",
-      "summary": "\n                    \n\t\t\t\tCom 83,96% das urnas apuradas, o candidato Vicentinho Júnior (PSDB) foi eleito governador do estado do Tocantins.\n\nO candidato recebeu, até o momento, 467.130 votos válidos, o equivalente a 63,95%. Ele disputou o segundo turno com Professora Dorinha (União), que obteve 263....",
-      "source": "Agência Brasil",
-      "origin": "brasil",
-      "image": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-      "published_at": "2026-10-25T23:06:00+00:00",
-      "region": "América do Sul",
-      "theme": "Direito Internacional e Instituições"
-    },
-    {
-      "title": "Celina Leão é reeleita governadora do Distrito Federal",
-      "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/celina-leao-e-reeleita-governadora-do-distrito-federal",
-      "summary": "\n                    \n\t\t\t\tCom 91,78 % das urnas apuradas, Celina Leão (PP) está matematicamente reeleita governadora do Distrito Federal. \n\nA atual governadora recebeu, até o momento, 907.869 votos, o equivalente a 57,21% dos votos válidos.\n\nNotícias relacionadas:Eleitores do DF voltam às urnas para...",
-      "source": "Agência Brasil",
-      "origin": "brasil",
-      "image": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-      "published_at": "2026-10-25T23:04:00+00:00",
-      "region": "América do Sul",
-      "theme": "Direito Internacional e Instituições"
-    },
-    {
-      "title": "OEA acompanha denúncias de falta de ônibus no dia da eleição",
-      "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/oea-acompanha-denuncias-de-falta-de-onibus-no-dia-da-eleicao",
-      "summary": "\n                    \n\t\t\t\tA Organização dos Estados Americanos (OEA) informou neste domingo (25) que acompanha as denúncias de problemas no transporte público durante o segundo turno das eleições presidenciais no Brasil. Em nota divulgada nas redes sociais, a missão de observação eleitoral afirmou q...",
-      "source": "Agência Brasil",
-      "origin": "brasil",
-      "image": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-      "published_at": "2026-10-25T22:58:00+00:00",
-      "region": "América do Sul",
-      "theme": "Política Brasileira"
-    },
-    {
-      "title": "Bulgaria election heads to a run-off amid low voter turnout",
-      "url": "https://www.aljazeera.com/news/2026/10/25/bulgaria-election-heads-to-a-run-off-amid-low-voter-turnout?traffic_source=rss",
-      "summary": "Bulgarians will now choose between President Iliana Yotova and former caretaker Prime Minister Andrey Gyurov next week.",
-      "source": "Al Jazeera English",
-      "origin": "internacional",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/reuters_6ade68cb-1792960715.jpg?resize=1920%2C1440",
-      "published_at": "2026-10-25T22:57:17+00:00",
-      "region": "Global",
-      "theme": "Política Internacional"
-    },
-    {
       "title": "A cronologia que levou à prorrogação da votação no segundo turno",
       "url": "https://www.dw.com/pt-br/a-cronologia-que-levou-à-prorrogação-da-votação-no-segundo-turno/a-79758200?maca=bra-rss-br-all-1030-xml-mrss",
       "summary": "Denúncia sobre transporte e mau tempo no Sul levaram campanhas a pedir mais tempo de urnas abertas. Indecisão do TSE e envolvimento do STF levaram a determinação de última hora.",
@@ -673,29 +882,7 @@
       "theme": "Outros / Multitemático"
     },
     {
-      "title": "Serbia's veteran ruler Vučić concedes election to student-led protest movement",
-      "url": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss",
-      "summary": "The populist right-wing leader of 12 years says it is \"clear\" his party has lost the vote billed as a referendum on the country's future.",
-      "source": "BBC News - World",
-      "origin": "internacional",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e676/live/8534e970-d0c8-11f1-b441-2b33b063138f.jpg",
-      "published_at": "2026-10-25T22:54:57+00:00",
-      "region": "Global",
-      "theme": "Política Internacional"
-    },
-    {
-      "title": "Centrais sindicais criticam falta de ônibus no dia da eleição",
-      "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/centrais-sindicais-criticam-falta-de-onibus-no-dia-da-eleicao",
-      "summary": "\n                    \n\t\t\t\tDirigentes de sete centrais sindicais divulgaram uma nota neste domingo (25) criticando a falta de ônibus urbanos e as restrições relatadas em outros meios de transporte durante o segundo turno da eleição presidencial. No documento, as entidades afirmam que os problemas dif...",
-      "source": "Agência Brasil",
-      "origin": "brasil",
-      "image": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-      "published_at": "2026-10-25T22:54:00+00:00",
-      "region": "América do Sul",
-      "theme": "Política Internacional"
-    },
-    {
-      "title": "O que se sabe sobre as denúncias sobre falta de ônibus pelo Brasil?",
+      "title": "Transporte na eleição 2026: O que se sabe sobre as denúncias sobre falta de ônibus pelo Brasil?",
       "url": "https://www.bbc.com/portuguese/articles/cm93z1wyl706o?at_medium=RSS&at_campaign=rss",
       "summary": "O presidente e candidato à reeleição Luiz Inácio Lula da Silva (PT) pediu ao Tribunal Superior Eleitoral (TSE) a prorrogação do horário de votação nas cidades que registraram irregularidades.",
       "source": "BBC News Brasil",
@@ -704,17 +891,6 @@
       "published_at": "2026-10-25T22:34:34+00:00",
       "region": "América do Sul",
       "theme": "Política Brasileira"
-    },
-    {
-      "title": "Real Madrid beat Barcelona 2-1 at Camp Nou to halve gap to La Liga leaders",
-      "url": "https://www.aljazeera.com/sports/2026/10/25/real-madrid-beat-barcelona-2-1-at-camp-nou-to-halve-gap-to-la-liga-leaders?traffic_source=rss",
-      "summary": "French superstar Kylian Mbappe scores a brace for Madrid to inflict Barcelona&#039;s first domestic defeat of the campaign.",
-      "source": "Al Jazeera English",
-      "origin": "internacional",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/reuters_6ade7efb-1792966395.jpg?resize=1920%2C1440",
-      "published_at": "2026-10-25T22:22:53+00:00",
-      "region": "Global",
-      "theme": "Política Internacional"
     },
     {
       "title": "Deeply divided Israel braces for pivotal election",
@@ -728,12 +904,12 @@
       "theme": "Política Internacional"
     },
     {
-      "title": "Imprensa internacional destaca extensão da votação no Brasil",
+      "title": "Imprensa internacional destaca quarto mandato histórico de Lula",
       "url": "https://redir.folha.com.br/redir/online/mundo/rss091/*https://www1.folha.uol.com.br/mundo/2026/10/imprensa-internacional-destaca-extensao-da-votacao-no-brasil.shtml",
-      "summary": "A imprensa internacional repercutiu na noite deste domingo (25) a decisão do ministro do STF (Supremo Tribunal Federal) Cristiano Zanin de estender até as 19h a votação do segundo turno das eleições brasileiras.\nLeia mais (10/25/2026 - 19h07)",
+      "summary": "A imprensa internacional repercutiu na noite deste domingo (25) a reeleição do presidente Luiz Inácio Lula da Silva (PT), que derrotou o senador Flávio Bolsonaro (PL) no segundo turno das eleições.\nLeia mais (10/25/2026 - 19h07)",
       "source": "Folha de S.Paulo - Mundo",
       "origin": "brasil",
-      "image": "https://f.i.uol.com.br/fotografia/2026/10/25/17929355056ade06511ad2a_1792935505_3x2_rt.jpg",
+      "image": "https://f.i.uol.com.br/fotografia/2026/10/25/17929771636adea90b9a229_1792977163_3x2_lg.jpg",
       "published_at": "2026-10-25T22:07:00+00:00",
       "region": "América do Sul",
       "theme": "Política Brasileira"
@@ -893,17 +1069,6 @@
       "theme": "Política Internacional"
     },
     {
-      "title": "Lula's Legacy, Flavio's Future?",
-      "url": "https://www.france24.com/en/tv-shows/spotlight/20261025-lula-s-legacy-flavio-s-future",
-      "summary": "A coin-flip election in Brazil, with little separating the country's left-wing President, Lula, and his right-wing rival, Flávio Bolsonaro. The results of the run-off vote will become clear in a few hours.",
-      "source": "France 24",
-      "origin": "internacional",
-      "image": "https://s.france24.com/media/display/edc50934-d0a5-11f1-89fc-5b4a75578ebb/w:1024/p:16x9/WhatsApp-Image-2026-10-25-at-19-49-17-1.jpeg",
-      "published_at": "2026-10-25T19:00:19+00:00",
-      "region": "América do Sul",
-      "theme": "Outros / Multitemático"
-    },
-    {
       "title": "Homem dá soco em eleitora de Lula em Lisboa",
       "url": "https://www.dw.com/pt-br/homem-dá-soco-em-eleitora-de-lula-em-lisboa/a-79757045?maca=bra-rss-br-all-1030-xml-mrss",
       "summary": "Jovem de 17 anos foi agredida ao sair da votação. Agressor vestia camisa da seleção brasileira e seria apoiador de Flávio Bolsonaro, segundo testemunhas.",
@@ -926,17 +1091,6 @@
       "theme": "Direito Internacional e Instituições"
     },
     {
-      "title": "Voto no exterior: veja os resultados por país e a apuração de Lula x Flávio no 2º turno das eleições 2026",
-      "url": "https://www.bbc.com/portuguese/articles/cw5yn34exenno?at_medium=RSS&at_campaign=rss",
-      "summary": "Flávio Bolsonaro venceu Lula no Japão, nos Emirados Árabes Unidos e em Hong Kong, entre outros. Já o petista saiu na frente em países como China, Austrália e Nova Zelândia.",
-      "source": "BBC News Brasil",
-      "origin": "brasil",
-      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/ebbc/live/3797fef0-d082-11f1-93e1-3b657b665bcf.jpg",
-      "published_at": "2026-10-25T18:17:50+00:00",
-      "region": "América do Sul",
-      "theme": "Política Brasileira"
-    },
-    {
       "title": "Brasil pode ser próximo em 'onda MAGA' e última chance de Lula 'gigante da esquerda': como a imprensa internacional vê a eleição",
       "url": "https://redir.folha.com.br/redir/online/mundo/rss091/*https://www1.folha.uol.com.br/mundo/2026/10/brasil-pode-ser-proximo-em-onda-maga-e-ultima-chance-de-lula-gigante-da-esquerda-como-a-imprensa-internacional-ve-a-eleicao.shtml",
       "summary": "A eleição brasileira -disputada entre o presidente Luiz Inácio Lula da Silva (PT) e Flávio Bolsonaro (PL)- é destaque neste domingo (25) nos principais jornais do mundo.\nLeia mais (10/25/2026 - 15h14)",
@@ -957,28 +1111,6 @@
       "published_at": "2026-10-25T18:09:00+00:00",
       "region": "América do Sul",
       "theme": "Geopolítica e Segurança"
-    },
-    {
-      "title": "Lula amplia margem na Alemanha e vence segundo turno com 79%",
-      "url": "https://www.dw.com/pt-br/lula-amplia-margem-na-alemanha-e-vence-segundo-turno-com-79/a-79756287?maca=bra-rss-br-all-1030-xml-mrss",
-      "summary": "Flávio Bolsonaro obteve 20,91% dos votos no país europeu. Em cinco cidades onde eleitores votaram, presidente viu crescer apoio. Comparecimento às urnas superou 50%.",
-      "source": "Deutsche Welle",
-      "origin": "internacional",
-      "image": "https://static.dw.com/image/67630221_6.jpg",
-      "published_at": "2026-10-25T18:03:00+00:00",
-      "region": "América do Sul",
-      "theme": "Direito Internacional e Instituições"
-    },
-    {
-      "title": "France: Football fans take over Paris as NFL comes to country for the first time",
-      "url": "https://www.france24.com/en/video/20261025-france-football-fans-take-over-paris-as-nfl-comes-to-country-for-the-first-time",
-      "summary": "Paris's iconic Stade de France made history on Sunday, October 25, by hosting the first #NFL regular season game to ever be held in France. For this unprecedented match between the Saints and the Steelers fans flocked from New Orleans and Pittsburgh, as well as from France and other European countri...",
-      "source": "France 24",
-      "origin": "internacional",
-      "image": "https://s.france24.com/media/display/ec57181a-d09d-11f1-af62-5b4a75578ebb/w:1024/p:16x9/Thumbnail-EN-1.jpg",
-      "published_at": "2026-10-25T18:01:41+00:00",
-      "region": "Europa",
-      "theme": "Outros / Multitemático"
     },
     {
       "title": "A Day After Renewed Street Clashes in France, Relief and Anxiety Mix",
@@ -1014,37 +1146,15 @@
       "theme": "Política Brasileira"
     },
     {
-      "title": "Brasil pode ser próximo em 'onda MAGA' e última chance de Lula 'gigante da esquerda': como a imprensa internacional vê a eleição",
-      "url": "https://www.bbc.com/portuguese/articles/cwdd8g54j7qqo?at_medium=RSS&at_campaign=rss",
-      "summary": "A eleição brasileira — disputada entre o presidente Luiz Inácio Lula da Silva (PT) e Flávio Bolsonaro (PL) — é destaque neste domingo (25/10) nos principais jornais do mundo.",
-      "source": "BBC News Brasil",
-      "origin": "brasil",
-      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/5184/live/91fb3950-d08e-11f1-92f6-357f3b0f345f.jpg",
-      "published_at": "2026-10-25T17:14:25+00:00",
-      "region": "América do Sul",
-      "theme": "Política Brasileira"
-    },
-    {
       "title": "María Corina Machado regresa a Venezuela",
       "url": "https://elpais.com/america/2026-10-25/maria-corina-machado-regresa-a-venezuela.html",
       "summary": "La dirigente opositora, después de varios intentos y casi 10 meses fuera del país, logra regresar y reta con su presencia al chavismo",
       "source": "El País - Internacional",
       "origin": "internacional",
-      "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20261025/1229730_171702_video_1800.mp4",
+      "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20261026/1229891_032101_video_1800.mp4",
       "published_at": "2026-10-25T17:10:12+00:00",
       "region": "América do Sul",
       "theme": "Outros / Multitemático"
-    },
-    {
-      "title": "Entre destroços e esperança: o dia a dia em uma cidade perto do front na Ucrânia",
-      "url": "https://www.dw.com/pt-br/entre-destroços-e-esperança-o-dia-a-dia-em-uma-cidade-perto-do-front-na-ucrânia/a-79730803?maca=bra-rss-br-all-1030-xml-mrss",
-      "summary": "Moradores de Sloviansk resistem entre ruínas, ataques frequentes e a difícil escolha entre deixar a cidade ou permanecer perto de familiares, animais de estimação e da vida que ainda tentam preservar.",
-      "source": "Deutsche Welle",
-      "origin": "internacional",
-      "image": "https://static.dw.com/image/79680190_6.jpg",
-      "published_at": "2026-10-25T16:15:00+00:00",
-      "region": "Europa",
-      "theme": "Geopolítica e Segurança"
     },
     {
       "title": "Líder da oposição, María Corina Machado volta à Venezuela após quase um ano no exílio",
@@ -1080,17 +1190,6 @@
       "theme": "Direito Internacional e Instituições"
     },
     {
-      "title": "Flávio Bolsonaro: o herdeiro de Jair tenta levar o clã de volta ao Planalto",
-      "url": "https://www.bbc.com/portuguese/articles/cq7838ydk87jo?at_medium=RSS&at_campaign=rss",
-      "summary": "Senador estreia na disputa presidencial e tenta impor derrota a Lula quatro anos depois de seu pai não ter sido reeleito.",
-      "source": "BBC News Brasil",
-      "origin": "brasil",
-      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/ded2/live/34212cb0-4ee6-11f1-88a2-2b60a3feece0.jpg",
-      "published_at": "2026-10-25T15:33:29+00:00",
-      "region": "América do Sul",
-      "theme": "Política Brasileira"
-    },
-    {
       "title": "Suspect in deadly Paris suburb shooting sent for psychiatric observation",
       "url": "https://www.bbc.co.uk/news/articles/c6e3xek2457wo?at_medium=RSS&at_campaign=rss",
       "summary": "He will be observed to evaluate whether his \"psychiatric health is compatible with pursuing his interrogation\", authorities said.",
@@ -1113,26 +1212,15 @@
       "theme": "Direito Internacional e Instituições"
     },
     {
-      "title": "Gabon says access to social media restored after eight-month ban",
-      "url": "https://www.bbc.co.uk/news/articles/c6x2w0ngejneo?at_medium=RSS&at_campaign=rss",
-      "summary": "The authorities had justified the ban by saying online content was fuelling conflict, while the opposition had condemned it as an abuse of power.",
+      "title": "Russia to host first Olympic federation world event since Ukraine invasion",
+      "url": "https://www.bbc.co.uk/sport/olympics/articles/cmq5ny00gzy0o?at_medium=RSS&at_campaign=rss",
+      "summary": "The International Weightlifting Federation becomes the first Olympic federation to choose Russia to host a world championships since its invasion of Ukraine.",
       "source": "BBC News - World",
       "origin": "internacional",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e014/live/283eea50-d07c-11f1-a701-fddedf244c16.jpg",
-      "published_at": "2026-10-25T14:39:47+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/da4e/live/27561b80-d07d-11f1-a4ba-351760cfea6a.jpg",
+      "published_at": "2026-10-25T14:34:33+00:00",
       "region": "América do Norte",
       "theme": "Outros / Multitemático"
-    },
-    {
-      "title": "Como justificar seu voto no segundo turno e o que acontece se você não votar",
-      "url": "https://www.bbc.com/portuguese/articles/c9e8lz52dg70o?at_medium=RSS&at_campaign=rss",
-      "summary": "Confira essa e outras informações úteis para o segundo turno da eleição, que vai ocorrer nesse domingo (25/10).",
-      "source": "BBC News Brasil",
-      "origin": "brasil",
-      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/10f7/live/77b79c10-ce85-11f1-bc2e-018d645d8d21.png",
-      "published_at": "2026-10-25T14:35:10+00:00",
-      "region": "América do Sul",
-      "theme": "Política Internacional"
     },
     {
       "title": "Trump vota antecipado em eleições para o Congresso dos EUA e volta a falar em fraude, sem provas",
@@ -1155,17 +1243,6 @@
       "published_at": "2026-10-25T13:37:27+00:00",
       "region": "América do Sul",
       "theme": "Política Brasileira"
-    },
-    {
-      "title": "Exército de Israel diz que fechará entradas da Cisjordânia no dia da eleição",
-      "url": "https://redir.folha.com.br/redir/online/mundo/rss091/*https://www1.folha.uol.com.br/mundo/2026/10/exercito-de-israel-diz-que-fechara-entradas-da-cisjordania-no-dia-da-eleicao.shtml",
-      "summary": "O Exército de Israel informou neste domingo (25) que as entradas para a Cisjordânia ocupada ficarão bloqueadas na terça-feira (27), dia das eleições legislativas. O anúncio ocorre após Tel Aviv obrigar cerca de 2.000 palestinos a deixar suas casas em Hebron depois de um ataque matar dois soldados de...",
-      "source": "Folha de S.Paulo - Mundo",
-      "origin": "brasil",
-      "image": "https://f.i.uol.com.br/fotografia/2026/10/25/17929332906addfdaad6168_1792933290_3x2_rt.jpg",
-      "published_at": "2026-10-25T13:08:00+00:00",
-      "region": "América do Sul",
-      "theme": "Geopolítica e Segurança"
     },
     {
       "title": "Why do planes keep circling before landing? The UN has a plan to fix it",
@@ -1201,17 +1278,6 @@
       "theme": "Política Brasileira"
     },
     {
-      "title": "El Salvador president says bodies found in Haiti are not those of hostages",
-      "url": "https://www.bbc.co.uk/news/articles/c8ly097zw1xwo?at_medium=RSS&at_campaign=rss",
-      "summary": "Nayib Bukele says bodies delivered to soldiers are \"not our men\" amid search for Salvadorans abducted last week.",
-      "source": "BBC News - World",
-      "origin": "internacional",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2f31/live/75490920-d05e-11f1-b441-2b33b063138f.jpg",
-      "published_at": "2026-10-25T10:55:33+00:00",
-      "region": "Europa",
-      "theme": "Outros / Multitemático"
-    },
-    {
       "title": "Israel’s High-Stakes Election: What to Know",
       "url": "https://www.nytimes.com/2026/10/25/world/middleeast/israels-high-stakes-election-what-to-know.html",
       "summary": "Israelis head to the polls on Tuesday for an election that will determine the country’s next prime minister. But it can take weeks, months or longer to form a new government.",
@@ -1232,28 +1298,6 @@
       "published_at": "2026-10-25T09:00:00+00:00",
       "region": "América do Norte",
       "theme": "Ciência, Tecnologia e Inovação"
-    },
-    {
-      "title": "Corpos encontrados no Haiti podem ser de soldados de El Salvador, diz jornal",
-      "url": "https://redir.folha.com.br/redir/online/mundo/rss091/*https://www1.folha.uol.com.br/mundo/2026/10/corpos-encontrados-no-haiti-podem-ser-de-soldados-de-el-salvador-diz-jornal.shtml",
-      "summary": "Médicos examinaram restos mortais carbonizados encontrados no sábado (24) para determinar se eram os corpos de quatro militares salvadorenhos que desapareceram após serem enviados ao Haiti em uma missão internacional de combate às gangues, segundo quatro pessoas próximas à missão.\nLeia mais (10/25/2...",
-      "source": "Folha de S.Paulo - Mundo",
-      "origin": "brasil",
-      "image": "https://f.i.uol.com.br/fotografia/2026/10/25/17928977296add72c11c0d1_1792897729_3x2_rt.jpg",
-      "published_at": "2026-10-25T07:00:00+00:00",
-      "region": "América do Sul",
-      "theme": "Geopolítica e Segurança"
-    },
-    {
-      "title": "Israel to close West Bank crossings on election day as crackdown escalates",
-      "url": "https://www.bbc.co.uk/news/articles/c6y93ylpl5p2o?at_medium=RSS&at_campaign=rss",
-      "summary": "The Israeli Defense Forces announces restrictions on the movement of Palestinian workers in the run-up to Tuesday's election.",
-      "source": "BBC News - World",
-      "origin": "internacional",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5815/live/ca832c30-d019-11f1-b441-2b33b063138f.jpg",
-      "published_at": "2026-10-25T05:15:52+00:00",
-      "region": "Oriente Médio",
-      "theme": "Política Internacional"
     },
     {
       "title": "¡Otra Yalta no, por favor!",
@@ -1302,24 +1346,13 @@
     {
       "title": "Votação no exterior: veja em quais países Lula ou Flávio Bolsonaro venceram",
       "url": "https://g1.globo.com/mundo/noticia/2026/10/25/votacao-no-exterior-confira-os-resultados-do-2o-turno-entre-lula-e-flavio-bolsonaro.ghtml",
-      "summary": "     Mapa - votação no exterior - 20h43\nEditoria de Arte/g1\nQuase 1 milhão de brasileiros que vivem no exterior estão aptos a votar no segundo turno das eleições presidenciais. A votação é realizada em 186 cidades em mais de cem países.\nAté as 20h17 no horário de Brasília, Lula havia vencido em 50 p...",
+      "summary": "     Mapa - votação no exterior - 22h56\nEditoria de Arte/g1\nO presidente Luiz Inácio Lula da Silva, reeleito neste domingo (25), venceu no 2º turno em 62 países ou territórios no exterior, segundo os dados do Tribunal Superior Eleitoral (TSE), atualizados até as 22h30. Já o senador Flávio Bolsonaro ...",
       "source": "G1 - Mundo",
       "origin": "brasil",
-      "image": "https://s2-g1.glbimg.com/X_aoAYc6-GwZobjuT9mhohr2Ss8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/A/BBQkgvRaiFQJ9TRLMf4g/votacao-exterior-2026-10-25-world-no-antarctica-votos-por-pais-34-.png",
+      "image": "https://s2-g1.glbimg.com/IvuIyzzWyrJF-FBGqWJEbBqxL0A=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/l/1/7AasuCT92xR6drQLR5Vw/votacao-exterior-2026-10-25-world-no-antarctica-votos-por-pais-39-.png",
       "published_at": "2026-10-25T03:00:06+00:00",
       "region": "América do Sul",
       "theme": "Política Brasileira"
-    },
-    {
-      "title": "Geração Z de Portugal e Espanha tenta articular greve geral conjunta",
-      "url": "https://redir.folha.com.br/redir/online/mundo/rss091/*https://www1.folha.uol.com.br/mundo/2026/10/geracao-z-de-portugal-e-espanha-tenta-articular-greve-geral-conjunta.shtml",
-      "summary": "Uma \"conexão ibérica\" vem se formando entre os jovens da geração Z que protestam por melhores condições de moradia na Espanha e em Portugal. Os movimentos dos dois países se apoiam mutuamente, usam as mesmas estratégias para conseguir mudanças legislativas e pressionam suas centrais sindicais para c...",
-      "source": "Folha de S.Paulo - Mundo",
-      "origin": "brasil",
-      "image": "https://f.i.uol.com.br/fotografia/2026/10/24/17928755646add1c2c43d1b_1792875564_3x2_rt.jpg",
-      "published_at": "2026-10-25T02:00:00+00:00",
-      "region": "América do Sul",
-      "theme": "Direitos Humanos, Sociedade e Migrações"
     },
     {
       "title": "Vítimas de abuso sexual aprovam acordo de US$ 800 milhões com a Arquidiocese de Nova York",
@@ -1342,28 +1375,6 @@
       "published_at": "2026-10-24T23:40:50+00:00",
       "region": "América do Sul",
       "theme": "Política Internacional"
-    },
-    {
-      "title": "Protesto em Barcelona termina com 100 presos, lojas saqueadas e incêndios",
-      "url": "https://g1.globo.com/mundo/noticia/2026/10/24/protesto-em-barcelona-termina-com-presos-lojas-saqueadas-e-incendios.ghtml",
-      "summary": "     Cerca de 100 pessoas foram presas em Barcelona, na Espanha, na noite de sábado (24), após manifestantes encapuzados saquearem lojas e incendiarem mobiliário urbano nos arredores da Praça da Catalunha, no centro da cidade. \nOs participantes haviam se reunido em um ato contra o sistema político e...",
-      "source": "G1 - Mundo",
-      "origin": "brasil",
-      "image": "https://s2-g1.glbimg.com/u-0cMEn_VGuzhCvIZ7ItcKPU6xw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/3/V/nVBYkCRdCD5RFSs0GqdQ/ap26278854037490.jpg",
-      "published_at": "2026-10-24T22:25:48+00:00",
-      "region": "América do Sul",
-      "theme": "Direitos Humanos, Sociedade e Migrações"
-    },
-    {
-      "title": "3 motivos pelos quais duelo entre Lula e Flávio Bolsonaro é crucial para a América Latina — e para Trump",
-      "url": "https://www.bbc.com/portuguese/articles/cm62yvnkdwk7o?at_medium=RSS&at_campaign=rss",
-      "summary": "Especialistas dizem que resultado do segundo turno da eleição pode trazer consequências para toda a geopolítica, a segurança e o meio ambiente da região.",
-      "source": "BBC News Brasil",
-      "origin": "brasil",
-      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/9bb2/live/43c807c0-ced3-11f1-8507-45cb00a1c41c.jpg",
-      "published_at": "2026-10-24T15:59:34+00:00",
-      "region": "América do Sul",
-      "theme": "Meio Ambiente e Clima"
     },
     {
       "title": "La rebelión en la calle y un ejército digital impulsan a Lula",
@@ -1397,17 +1408,6 @@
       "published_at": "2026-10-24T12:00:00+00:00",
       "region": "América do Norte",
       "theme": "Geopolítica e Segurança"
-    },
-    {
-      "title": "Voto por primera vez en las elecciones y usé un chatbot de IA para informarme. Esto es lo que descubrí",
-      "url": "https://elpais.com/us/2026-10-24/voto-por-primera-vez-en-las-elecciones-y-use-un-chatbot-de-ia-para-informarme-esto-es-lo-que-descubri.html",
-      "summary": "Cada vez más votantes recurren a la inteligencia artificial para obtener información electoral, pero los expertos advierten de que los datos no son 100% confiables",
-      "source": "El País - Internacional",
-      "origin": "internacional",
-      "image": "https://imagenes.elpais.com/resizer/v2/QWQ2ZSEVQNFW5AOIIIDKQ67FBQ.jpg?auth=5ee68810373e10736858b4af051168764b41cdaa0c1d944c76d7b03a26e255c1",
-      "published_at": "2026-10-24T09:30:00+00:00",
-      "region": "América do Norte",
-      "theme": "Política Internacional"
     },
     {
       "title": "UN marks 81 years of global cooperation",
@@ -1474,17 +1474,6 @@
       "published_at": "2026-10-23T12:00:00+00:00",
       "region": "Global",
       "theme": "Economia Internacional"
-    },
-    {
-      "title": "BBC News Brasil faz transmissão AO VIVO para você acompanhar apuração e resultados do 2º turno",
-      "url": "https://www.bbc.com/portuguese/articles/cwrkyjpv5p7no?at_medium=RSS&at_campaign=rss",
-      "summary": "No domingo, dia da eleição, a cobertura em tempo real — na página da BBC News Brasil — acompanha a abertura das urnas, o clima da votação e os principais acontecimentos do dia.",
-      "source": "BBC News Brasil",
-      "origin": "brasil",
-      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/51b8/live/c644aca0-d070-11f1-a701-fddedf244c16.jpg",
-      "published_at": "2026-10-21T12:58:14+00:00",
-      "region": "América do Sul",
-      "theme": "Política Brasileira"
     }
   ]
 }
