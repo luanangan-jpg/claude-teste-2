@@ -1,16 +1,665 @@
 {
-  "last_updated": "2026-11-05T22:35:56.975450+00:00",
+  "last_updated": "2026-11-06T03:00:02.248886+00:00",
   "articles": [
     {
-      "title": "Presidente do Paraguai renuncia em meio à crise de um dos maiores bancos do país, que congelou dinheiro de milhões; siga",
+      "title": "Crise no Paraguai: Senado continuará análise de impeachment de Peña nessa 6ªf",
       "url": "https://www.bbc.co.uk/portuguese/live/cqwy7zykezl6t?at_medium=RSS&at_campaign=rss",
-      "summary": "O político do Partido Colorado e aliado de Trump anunciou nesta quinta-feira (5/11) que deixará o cargo em resposta à crise de solvência do banco digital Ueno, que levou ao bloqueio de recursos públicos e das economias de cidadãos e derrubou presidente do Banco Central.",
+      "summary": "O político do Partido Colorado e aliado de Trump anunciou nesta quinta-feira (5/11) que deixaria o cargo, mas Congresso não chancelou sua renúncia e preferiu seguir com processo de impeachment.",
       "source": "BBC News Brasil",
       "origin": "brasil",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8bb5/live/704d94f0-d936-11f1-8bce-2396c9c50357.jpg",
-      "published_at": "2026-11-05T22:35:46.005458+00:00",
+      "published_at": "2026-11-06T02:59:53.024423+00:00",
+      "region": "América do Sul",
+      "theme": "Política Internacional"
+    },
+    {
+      "title": "Global tech stocks plunge as US midterms add to AI slowdown fears",
+      "url": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss",
+      "summary": "Investors have reacted to possible tougher scrutiny of data centre construction and the AI industry.",
+      "source": "BBC News - World",
+      "origin": "internacional",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6e01/live/e1c54f70-d958-11f1-a800-d9dce9e5aa21.jpg",
+      "published_at": "2026-11-06T02:57:24+00:00",
+      "region": "América do Norte",
+      "theme": "Ciência, Tecnologia e Inovação"
+    },
+    {
+      "title": "Justiça de SP mantém prisão de homem suspeito de matar advogada e filho",
+      "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/justica-de-sp-mantem-prisao-de-homem-suspeito-de-matar-advogada-e-filho/",
+      "summary": "Decisão foi tomada após audiência de custódia realizada nesta quinta (5); Anna Gabriela e o filho, de 6 anos, foram encontrados mortos em apartamento em Cotia",
+      "source": "CNN Brasil",
+      "origin": "brasil",
+      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/11/Design-sem-nome-3-1.jpg?w=1200&h=630&crop=1",
+      "published_at": "2026-11-06T02:52:41+00:00",
+      "region": "América do Sul",
+      "theme": "Direito Internacional e Instituições"
+    },
+    {
+      "title": "Abel Ferreira critica não convocação de jogadores do Flamengo pela Seleção",
+      "url": "https://www.cnnbrasil.com.br/esportes/futebol/palmeiras/abel-ferreira-critica-nao-convocacao-de-jogadores-do-flamengo-pela-selecao/",
+      "summary": "Treinador questiona tratamento diferenciado da CBF entre Palmeiras e o atual líder do Brasileirão e elogia desempenho na goleada sobre o Remo",
+      "source": "CNN Brasil",
+      "origin": "brasil",
+      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/11/abel-ferreira-palmeiras-remo.png?w=1200&h=630&crop=1",
+      "published_at": "2026-11-06T02:41:46+00:00",
+      "region": "América do Sul",
+      "theme": "Direito Internacional e Instituições"
+    },
+    {
+      "title": "Banco da Inglaterra eleva juros a 4,00% ao ano, 1º aumento desde 2023",
+      "url": "https://www.poder360.com.br/poder-economia/banco-da-inglaterra-eleva-juros-a-400-ao-ano-1o-aumento-desde-2023/",
+      "summary": "Comitê inglês decidiu por 8 votos a 1 elevar a taxa em 0,25 p.p.; inflação anual no Reino Unido está em 3,50%, ante meta de 2,00%",
+      "source": "Poder360",
+      "origin": "brasil",
+      "image": "https://static.poder360.com.br/uploads/2026/11/banco-inglaterra-sobe-juros-para-4-5-nov-2026-2-1200x675.png",
+      "published_at": "2026-11-06T02:38:34+00:00",
       "region": "América do Sul",
       "theme": "Economia Internacional"
+    },
+    {
+      "title": "Tornados e enchentes: SC corre para fazer obras contra efeitos do El Niño",
+      "url": "https://www.cnnbrasil.com.br/nacional/sul/sc/tornados-e-enchentes-sc-corre-para-fazer-obras-contra-efeitos-do-el-nino/",
+      "summary": "Iniciativa privada tenta impulsionar construção de 'parque inundável' contra enchentes no Balneário Camboriú; empresários doam R$ 400 mil, mas valor total da construção pode chegar a quase R$ 100 milhões",
+      "source": "CNN Brasil",
+      "origin": "brasil",
+      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/11/INSTITUTO-BC.jpeg?w=1108&h=567&crop=1",
+      "published_at": "2026-11-06T02:36:41+00:00",
+      "region": "América do Sul",
+      "theme": "Meio Ambiente e Clima"
+    },
+    {
+      "title": "Em noite de golaços, Cruzeiro vence o Bahia com brilho de Kaio Jorge",
+      "url": "https://www.cnnbrasil.com.br/esportes/em-noite-de-golacos-cruzeiro-vence-o-bahia-com-brilho-de-kaio-jorge/",
+      "summary": "Com direito a golaço, VAR e reviravolta, equipes protagonizam partida eletrizante no Mineirão em partida válida pela 34ª rodada do Brasileirão",
+      "source": "CNN Brasil",
+      "origin": "brasil",
+      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/11/55635125676_ef923edaa1_o-e1793931152660.jpg?w=1200&h=630&crop=1",
+      "published_at": "2026-11-06T02:30:20+00:00",
+      "region": "América do Sul",
+      "theme": "Direito Internacional e Instituições"
+    },
+    {
+      "title": "Senadora do Paraguai pede prisão de Peña para evitar fuga e cita Flávio",
+      "url": "https://www.poder360.com.br/poder-internacional/senadora-do-paraguai-pede-prisao-de-pena-para-evitar-fuga-e-cita-flavio/",
+      "summary": "Esperanza Martinez afirmou que o presidente pode deixar o país e escapar da Justiça, como, segundo ela, fez o senador brasileiro",
+      "source": "Poder360",
+      "origin": "brasil",
+      "image": "https://static.poder360.com.br/uploads/2026/11/Santiago-Pena-Impeachment-5.nov_.2026-1200x675.png",
+      "published_at": "2026-11-06T02:26:59+00:00",
+      "region": "América do Sul",
+      "theme": "Direito Internacional e Instituições"
+    },
+    {
+      "title": "Big techs perdem valor após derrota de aliados de Trump nos EUA",
+      "url": "https://www.poder360.com.br/poder-economia/big-techs-perdem-valor-apos-derrota-de-aliados-de-trump-nos-eua/",
+      "summary": "Nasdaq registra perda histórica de US$ 2,5 trilhões; vitória democrata amplia incertezas sobre investimentos em inteligência artificial",
+      "source": "Poder360",
+      "origin": "brasil",
+      "image": "https://static.poder360.com.br/uploads/2026/09/bolsa-de-valores-1200x675.png",
+      "published_at": "2026-11-06T02:26:26+00:00",
+      "region": "América do Sul",
+      "theme": "Comércio e Finanças"
+    },
+    {
+      "title": "Ministério da Saúde vai comprar até 20.000 doses da vacina contra mpox",
+      "url": "https://www.poder360.com.br/poder-saude/ministerio-da-saude-vai-comprar-ate-20-000-doses-da-vacina-contra-mpox/",
+      "summary": "Aquisição tem caráter preventivo e estratégico, diz pasta; país já confirmou 665 casos da doença",
+      "source": "Poder360",
+      "origin": "brasil",
+      "image": "https://static.poder360.com.br/uploads/2026/11/ministerio-da-saude-fachada-1200x675.png",
+      "published_at": "2026-11-06T02:21:29+00:00",
+      "region": "América do Sul",
+      "theme": "Saúde"
+    },
+    {
+      "title": "Abel cita “fator chave” para domínio de Flamengo e Palmeiras no Brasileiro",
+      "url": "https://www.cnnbrasil.com.br/esportes/futebol/palmeiras/abel-cita-fator-chave-para-dominio-de-flamengo-e-palmeiras-no-brasileiro/",
+      "summary": "Apenas as duas equipes seguem com chances de conquistar o título do Campeonato Brasileiro desta temporada; time paulista está três pontos atrás da equipe carioca",
+      "source": "CNN Brasil",
+      "origin": "brasil",
+      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/10/Abel-2-e1793274263721.png?w=1024&h=576&crop=1",
+      "published_at": "2026-11-06T02:19:51+00:00",
+      "region": "América do Sul",
+      "theme": "Direito Internacional e Instituições"
+    },
+    {
+      "title": "Candidata socialista do Partido Democrata é eleita prefeita de Los Angeles",
+      "url": "https://www.cnnbrasil.com.br/internacional/candidata-socialista-do-partido-democrata-e-eleita-prefeita-de-los-angeles/",
+      "summary": "Nithya Raman venceu a disputa contra a atual chefe do Executivo municipal, Karen Bass, do mesmo partido; vereadora nascida na Índia pautou a população em situação de rua como tema central da campanha",
+      "source": "CNN Brasil",
+      "origin": "brasil",
+      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/11/Nithya-Raman.png?w=682&h=453&crop=1",
+      "published_at": "2026-11-06T02:19:44+00:00",
+      "region": "América do Sul",
+      "theme": "Política Brasileira"
+    },
+    {
+      "title": "Trump diz que talvez tenha que “destruir o resto” do Irã",
+      "url": "https://www.poder360.com.br/poder-internacional/trump-diz-que-talvez-tenha-que-destruir-o-resto-do-ira/",
+      "summary": "Presidente afirmou que os EUA estão \"prontos e carregados\" para intensificar ataques",
+      "source": "Poder360",
+      "origin": "brasil",
+      "image": "https://static.poder360.com.br/uploads/2026/11/presidente-EUA-Donald-Trump-30set2026-1200x675.jpg",
+      "published_at": "2026-11-06T02:16:32+00:00",
+      "region": "América do Sul",
+      "theme": "Geopolítica e Segurança"
+    },
+    {
+      "title": "'Caso Master do Paraguai': entenda a crise de banco que pode derrubar o presidente Santiago Peña",
+      "url": "https://www.bbc.com/portuguese/articles/cmq8njl81978o?at_medium=RSS&at_campaign=rss",
+      "summary": "A intervenção no Ueno Bank, uma das maiores instituições financeiras do Paraguai, abalou o sistema bancário do país e os mais altos escalões do poder político.",
+      "source": "BBC News Brasil",
+      "origin": "brasil",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/887e/live/b9721660-d86e-11f1-85ab-b3cc3b5498c6.jpg",
+      "published_at": "2026-11-06T02:16:08+00:00",
+      "region": "América do Sul",
+      "theme": "Outros / Multitemático"
+    },
+    {
+      "title": "Eduardo mostra encontro de Flávio com ator de filme sobre Jair Bolsonaro",
+      "url": "https://www.poder360.com.br/poder-gente/eduardo-mostra-encontro-de-flavio-com-ator-de-filme-sobre-jair-bolsonaro/",
+      "summary": "Senador aparece com Jim Caviezel em Mar-a-Lago, nos EUA; ator foi escalado para interpretar o ex-presidente em “Dark Horse”",
+      "source": "Poder360",
+      "origin": "brasil",
+      "image": "https://static.poder360.com.br/uploads/2026/11/flavio-cpac-5.nov_.2026-1200x675.jpg",
+      "published_at": "2026-11-06T02:13:38+00:00",
+      "region": "América do Sul",
+      "theme": "Cultura, Mídia e Sociedade"
+    },
+    {
+      "title": "White House denies Hegseth and Rubio to leave jobs after Republican election losses",
+      "url": "https://www.bbc.co.uk/news/articles/cqg7xxg4jdv5o?at_medium=RSS&at_campaign=rss",
+      "summary": "The Trump administration has downplayed reports the pair could be on their way out after heavy Republicans election losses.",
+      "source": "BBC News - World",
+      "origin": "internacional",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1ee7/live/6a397360-d97f-11f1-9ef8-af6a44fd33d8.jpg",
+      "published_at": "2026-11-06T02:08:57+00:00",
+      "region": "América do Norte",
+      "theme": "Política Internacional"
+    },
+    {
+      "title": "Gaza turns discarded cooking pots into seawalls",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/6/gaza-turns-discarded-cooking-pots-into-seawalls?traffic_source=rss",
+      "summary": "As winter approaches, Palestinians in Gaza are turning damaged cooking pots into makeshift seawalls to avoid flooding.",
+      "source": "Al Jazeera English",
+      "origin": "internacional",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1793930621.jpg?resize=1918%2C1080&quality=80",
+      "published_at": "2026-11-06T02:03:47+00:00",
+      "region": "Oriente Médio",
+      "theme": "Outros / Multitemático"
+    },
+    {
+      "title": "Eduardo Bolsonaro diz não temer expulsão dos EUA após vitória democrata",
+      "url": "https://www.poder360.com.br/poder-internacional/eduardo-bolsonaro-diz-nao-temer-expulsao-dos-eua-apos-vitoria-democrata/",
+      "summary": "Ex-deputado afirma que sua situação migratória e a de Flávio Bolsonaro são legais; partido de Trump perdeu o controle do Congresso",
+      "source": "Poder360",
+      "origin": "brasil",
+      "image": "https://static.poder360.com.br/uploads/2026/10/eduardo-bolsonaro-8out26-1200x675.jpg",
+      "published_at": "2026-11-06T02:02:11+00:00",
+      "region": "América do Sul",
+      "theme": "Cultura, Mídia e Sociedade"
+    },
+    {
+      "title": "Justiça libera operação de 3 casas de apostas no Brasil",
+      "url": "https://www.poder360.com.br/poder-justica/justica-libera-operacao-de-3-casas-de-apostas-no-brasil/",
+      "summary": "Sites pertencem ao grupo CDA, que obteve decisão favorável da desembargadora Adriana Pileggi",
+      "source": "Poder360",
+      "origin": "brasil",
+      "image": "https://static.poder360.com.br/uploads/2026/07/bets.jpg",
+      "published_at": "2026-11-06T02:00:23+00:00",
+      "region": "América do Sul",
+      "theme": "Direito Internacional e Instituições"
+    },
+    {
+      "title": "O que temos a aprender com as guinadas eleitorais, no Brasil e nos EUA",
+      "url": "https://redir.folha.com.br/redir/online/mundo/rss091/*https://www1.folha.uol.com.br/colunas/laura-greenhalgh/2026/11/o-que-temos-a-aprender-com-as-guinadas-eleitorais-no-brasil-e-nos-eua.shtml",
+      "summary": "\"Nós, o Povo\". Essas palavrinhas, que aparecem no preâmbulo da Constituição americana, ganham significado especial com a vitória democrata nas eleições de meio de mandato. Mas, antes, cabe perguntar: o que os constituintes de 1787 queriam dizer com \"povo\", essa coisa tão abstrata quanto concreta, re...",
+      "source": "Folha de S.Paulo - Mundo",
+      "origin": "brasil",
+      "image": "https://f.i.uol.com.br/fotografia/2026/11/05/17939268616aed26cd7f2c9_1793926861_3x2_rt.jpg",
+      "published_at": "2026-11-06T02:00:00+00:00",
+      "region": "América do Sul",
+      "theme": "Direito Internacional e Instituições"
+    },
+    {
+      "title": "Ala mais moderada dentro do Partido Democrata amplia bancada e influência após eleições nos EUA",
+      "url": "https://redir.folha.com.br/redir/online/mundo/rss091/*https://www1.folha.uol.com.br/mundo/2026/11/ala-mais-moderada-dentro-do-partido-democrata-amplia-bancada-e-influencia-apos-eleicoes-nos-eua.shtml",
+      "summary": "Durante boa parte da campanha para as eleições de meio de mandato, democratas mais à esquerda que desafiavam a cúpula do partido dominaram os holofotes na disputa para tomar o controle do Congresso, derrotando parlamentares experientes nas primárias e atraindo multidões, com promessas de reorganizar...",
+      "source": "Folha de S.Paulo - Mundo",
+      "origin": "brasil",
+      "image": "https://f.i.uol.com.br/fotografia/2026/11/05/17939137116aecf36fdae6a_1793913711_3x2_rt.jpg",
+      "published_at": "2026-11-06T02:00:00+00:00",
+      "region": "América do Sul",
+      "theme": "Política Internacional"
+    },
+    {
+      "title": "Peña renunciou para não ser preso e vice é parte da equipe que roubou Paraguai, diz opositor",
+      "url": "https://redir.folha.com.br/redir/online/mundo/rss091/*https://www1.folha.uol.com.br/mundo/2026/11/pena-renunciou-para-nao-ser-preso-e-vice-e-parte-da-equipe-que-roubou-paraguai-diz-opositor.shtml",
+      "summary": "O presidente do Paraguai, Santiago Peña, apresentou sua renúncia nesta quinta-feira (5) para não ser preso, e seu vice, Pedro Alliana, é parte da mesma equipe que roubou a população do país, afirma Efraín Alegre, opositor do governo de direita e um dos principais nomes do Partido Liberal.\nLeia mais ...",
+      "source": "Folha de S.Paulo - Mundo",
+      "origin": "brasil",
+      "image": "https://f.i.uol.com.br/fotografia/2023/04/20/1682014658644181c21be34_1682014658_3x2_rt.jpg",
+      "published_at": "2026-11-06T02:00:00+00:00",
+      "region": "América do Sul",
+      "theme": "Cultura, Mídia e Sociedade"
+    },
+    {
+      "title": "Papa Leão 14 desembarca na América Latina para viagem de 12 dias menos de um mês após diagnóstico de câncer",
+      "url": "https://redir.folha.com.br/redir/online/mundo/rss091/*https://www1.folha.uol.com.br/mundo/2026/11/papa-leao-14-desembarca-na-america-latina-para-viagem-de-12-dias-menos-de-um-mes-apos-diagnostico-de-cancer.shtml",
+      "summary": "Menos de um mês após receber um diagnóstico de câncer, Leão 14 embarca nesta sexta-feira (6) para a mais longa viagem de seu jovem papado. O destino é a América Latina, bastião do catolicismo e lar do americano por quase 20 anos.\nLeia mais (11/05/2026 - 23h00)",
+      "source": "Folha de S.Paulo - Mundo",
+      "origin": "brasil",
+      "image": "https://f.i.uol.com.br/fotografia/2026/11/05/17939216876aed1297b56aa_1793921687_3x2_rt.jpg",
+      "published_at": "2026-11-06T02:00:00+00:00",
+      "region": "América do Sul",
+      "theme": "Saúde"
+    },
+    {
+      "title": "Em viagem, Leão 14 deve encarar antagonistas, revisitar raízes e pagar dívida de Francisco",
+      "url": "https://redir.folha.com.br/redir/online/mundo/rss091/*https://www1.folha.uol.com.br/mundo/2026/11/em-viagem-leao-14-deve-encarar-antagonistas-revisitar-raizes-e-pagar-divida-de-francisco.shtml",
+      "summary": "A decisão de continuar enfrentando uma maratona de viagens (três países, numa média de um novo voo por dia, ao longo de 11 dias) menos de um mês depois da retirada de um tumor de pulmão parece uma demonstração de força por parte do papa Leão 14.\nLeia mais (11/05/2026 - 23h00)",
+      "source": "Folha de S.Paulo - Mundo",
+      "origin": "brasil",
+      "image": "https://f.i.uol.com.br/fotografia/2026/11/05/17939264176aed2511edf78_1793926417_3x2_rt.jpg",
+      "published_at": "2026-11-06T02:00:00+00:00",
+      "region": "América do Sul",
+      "theme": "Cultura, Mídia e Sociedade"
+    },
+    {
+      "title": "Congresso dos EUA terá recorde feminino e ao menos 24% de mulheres democratas",
+      "url": "https://redir.folha.com.br/redir/online/mundo/rss091/*https://www1.folha.uol.com.br/mundo/2026/11/congresso-dos-eua-tera-recorde-feminino-e-ao-menos-24-de-mulheres-democratas.shtml",
+      "summary": "O Congresso dos Estados Unidos terá recorde de parlamentares mulheres em 2027. É a segunda marca de representação feminina nas eleições de meio de mandato, que registraram o maior número de governadoras da história, 17 (34% do total).\nLeia mais (11/05/2026 - 23h00)",
+      "source": "Folha de S.Paulo - Mundo",
+      "origin": "brasil",
+      "image": "https://f.i.uol.com.br/fotografia/2026/11/05/17939030526aecc9cce1b09_1793903052_3x2_rt.jpg",
+      "published_at": "2026-11-06T02:00:00+00:00",
+      "region": "América do Sul",
+      "theme": "Política Internacional"
+    },
+    {
+      "title": "Após sediar a COP30, Brasil chega à COP31 com desafio de manter liderança",
+      "url": "https://www.cnnbrasil.com.br/infra/apos-sediar-a-cop30-brasil-chega-a-cop31-com-desafio-de-manter-lideranca/",
+      "summary": "Em debate no CNN Talks, especialistas afirmam que país tem potencial para liderar a agenda ambiental global, mas precisa avançar na implementação de compromissos e políticas climáticas",
+      "source": "CNN Brasil",
+      "origin": "brasil",
+      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/11/DSC03525_websize.jpg?w=1200&h=630&crop=1",
+      "published_at": "2026-11-06T01:58:59+00:00",
+      "region": "América do Sul",
+      "theme": "Outros / Multitemático"
+    },
+    {
+      "title": "Grande mancha de lixo do Pacífico pode conter tanto plástico que está mudando a cor do oceano",
+      "url": "https://www.cnnbrasil.com.br/ciencia/grande-mancha-de-lixo-do-pacifico-pode-conter-tanto-plastico-que-esta-mudando-a-cor-do-oceano/",
+      "summary": "Simulações em laboratório e dados de satélite mostram que partículas visíveis do espaço podem ajudar a monitorar a degradação ambiental",
+      "source": "CNN Brasil",
+      "origin": "brasil",
+      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/11/ciencia-lixo.png?w=1200&h=630&crop=1",
+      "published_at": "2026-11-06T01:58:24+00:00",
+      "region": "América do Sul",
+      "theme": "Economia Internacional"
+    },
+    {
+      "title": "Lula reage a memes: “Gosto de uns em que apareço dançando”",
+      "url": "https://www.poder360.com.br/poder-gente/lula-reage-a-memes-gosto-de-uns-em-que-apareco-dancando/",
+      "summary": "Presidente riu enquanto assistia a imagens sobre ele que se espalharam pela internet durante a campanha eleitoral",
+      "source": "Poder360",
+      "origin": "brasil",
+      "image": "https://static.poder360.com.br/uploads/2026/11/lula-reage-memes-1200x675.png",
+      "published_at": "2026-11-06T01:56:55+00:00",
+      "region": "América do Sul",
+      "theme": "Política Brasileira"
+    },
+    {
+      "title": "'Quase todo meu dinheiro está preso no banco': brasileiros que foram para o Paraguai são afetados pela crise no país",
+      "url": "https://www.bbc.com/portuguese/articles/c804064l5ppyo?at_medium=RSS&at_campaign=rss",
+      "summary": "Com a facilidade para abertura de contas, Ueno Bank atraiu brasileiros que se mudaram para a Paraguai para estudar ou abrir negócios.",
+      "source": "BBC News Brasil",
+      "origin": "brasil",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/bd7c/live/0b3dd8e0-d936-11f1-8bce-2396c9c50357.jpg",
+      "published_at": "2026-11-06T01:56:13+00:00",
+      "region": "América do Sul",
+      "theme": "Ciência, Tecnologia e Inovação"
+    },
+    {
+      "title": "Jantar de evento conservador com Flávio tem ingressos de até R$ 519 mil",
+      "url": "https://www.poder360.com.br/poder-internacional/jantar-de-evento-conservador-com-flavio-tem-ingressos-de-ate-r-519-mil/",
+      "summary": "Senador participa da Cpac na propriedade de Trump, na Flórida; ingressos começam em R$ 13 mil e estão esgotados",
+      "source": "Poder360",
+      "origin": "brasil",
+      "image": "https://static.poder360.com.br/uploads/2026/10/Flavio-Bolsonaro-1080-1-1200x675.png",
+      "published_at": "2026-11-06T01:52:33+00:00",
+      "region": "América do Sul",
+      "theme": "Política Internacional"
+    },
+    {
+      "title": "California governor commutes sentences of more than 500 people on death row",
+      "url": "https://www.aljazeera.com/news/2026/11/6/california-governor-commutes-sentences-of-more-than-500-people-on-death-row?traffic_source=rss",
+      "summary": "Gavin Newsom cites state values and flaws in the legal system as he grants largest mass clemency in US history.",
+      "source": "Al Jazeera English",
+      "origin": "internacional",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6aed064c51689-1793918540.jpg?resize=1920%2C1440",
+      "published_at": "2026-11-06T01:39:35+00:00",
+      "region": "América do Norte",
+      "theme": "Política Internacional"
+    },
+    {
+      "title": "Cinco tornados atingem a região Sul do Brasil em menos de uma semana",
+      "url": "https://www.cnnbrasil.com.br/nacional/sul/cinco-tornados-atingem-a-regiao-sul-do-brasil-em-menos-de-uma-semana/",
+      "summary": "Fenômenos provocaram duas mortes em Santa Catarina e deixaram rastros de destruição no Rio Grande do Sul e no Paraná; no estado gaúcho, dois óbitos estão sob investigação",
+      "source": "CNN Brasil",
+      "origin": "brasil",
+      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/11/CHAPECO-2.png?w=1172&h=630&crop=1",
+      "published_at": "2026-11-06T01:32:34+00:00",
+      "region": "América do Sul",
+      "theme": "Outros / Multitemático"
+    },
+    {
+      "title": "Banho frio pode reduzir em 26% os afastamentos por doença e diminuir a emissão de dióxido de carbono, aponta estudo",
+      "url": "https://www.cnnbrasil.com.br/curiosidades/banho-frio-pode-reduzir-em-26-os-afastamentos-por-doenca-e-diminuir-a-emissao-de-dioxido-de-carbono-aponta-estudo/",
+      "summary": "Pesquisa realizada com 719 pessoas também identificou menos faltas ao trabalho e possíveis benefícios ambientais com a redução da temperatura da água",
+      "source": "CNN Brasil",
+      "origin": "brasil",
+      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/11/Gemini_Generated_Image_hoo43thoo43thoo4.jpg?w=1200&h=630&crop=1",
+      "published_at": "2026-11-06T01:22:25+00:00",
+      "region": "América do Sul",
+      "theme": "Meio Ambiente e Clima"
+    },
+    {
+      "title": "Trump signs order preventing future presidents from changing Oval Office",
+      "url": "https://www.bbc.co.uk/news/articles/cmy0eeg101djo?at_medium=RSS&at_campaign=rss",
+      "summary": "The order comes after Trump made a series of big changes the Oval Office  decor and launched landmark construction projects across Washington.",
+      "source": "BBC News - World",
+      "origin": "internacional",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8beb/live/f899a990-d97f-11f1-bf3f-d5d9031d14b1.jpg",
+      "published_at": "2026-11-06T01:20:01+00:00",
+      "region": "América do Norte",
+      "theme": "Outros / Multitemático"
+    },
+    {
+      "title": "Palmeiras 6 x 1 Remo: veja os melhores momentos pelo Brasileirão",
+      "url": "https://www.cnnbrasil.com.br/esportes/brasileirao/palmeiras-6-x-1-remo-veja-os-melhores-momentos-pelo-brasileirao/",
+      "summary": "Time alviverde teve uma grande atuação e massacrou o adversário nesta quinta-feira (5), em jogo válido pela 34ª rodada do Campeonato Brasileiro",
+      "source": "CNN Brasil",
+      "origin": "brasil",
+      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/11/comeora.png?w=1200&h=630&crop=1",
+      "published_at": "2026-11-06T01:08:12+00:00",
+      "region": "América do Sul",
+      "theme": "Ciência, Tecnologia e Inovação"
+    },
+    {
+      "title": "Waack: Lula procura saída para um impasse que não reconhece",
+      "url": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/waack-lula-procura-saida-para-um-impasse-que-nao-reconhece/",
+      "summary": "No Alvorada, Lula reuniu 11 pessoas ligadas ao PT para ouvir sobre economia, com ideias já muito conhecidas",
+      "source": "CNN Brasil",
+      "origin": "brasil",
+      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/10/55587352288_1646f0bda4_k-e1791943020700.jpg?w=1200&h=630&crop=1",
+      "published_at": "2026-11-06T01:04:05+00:00",
+      "region": "América do Sul",
+      "theme": "Política Brasileira"
+    },
+    {
+      "title": "Eventos climáticos atingem 85% das cidades brasileiras, diz secretário",
+      "url": "https://www.cnnbrasil.com.br/infra/eventos-climaticos-atingem-85-das-cidades-brasileiras-diz-secretario/",
+      "summary": "Marcio Leão Coelho, secretário do Ministério das Cidades, afirma que prefeituras precisam acelerar projetos de prevenção e antecipar problemas",
+      "source": "CNN Brasil",
+      "origin": "brasil",
+      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/11/VR6_1062_websize.jpg?w=1200&h=630&crop=1",
+      "published_at": "2026-11-06T01:01:25+00:00",
+      "region": "América do Sul",
+      "theme": "Direito Internacional e Instituições"
+    },
+    {
+      "title": "Chapecó retoma aulas presenciais em parte das escolas municipais",
+      "url": "https://www.cnnbrasil.com.br/nacional/sul/sc/chapeco-retoma-aulas-presenciais-em-parte-das-escolas-municipais/",
+      "summary": "Instituições de ensino que não foram atingidas, ou foram parcialmente afetadas pelo tornado, reabrem nesta sexta-feira (6), enquanto locais afetados passam por reformas e, parte segue com ensino remoto",
+      "source": "CNN Brasil",
+      "origin": "brasil",
+      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/11/DJI_20261104135359_0452_D.jpg?w=1200&h=630&crop=1",
+      "published_at": "2026-11-06T01:00:48+00:00",
+      "region": "América do Sul",
+      "theme": "Cultura, Mídia e Sociedade"
+    },
+    {
+      "title": "DF pede ao STF que preserve ativos do Master para ressarcir o BRB",
+      "url": "https://www.cnnbrasil.com.br/politica/df-pede-ao-stf-que-preserve-ativos-do-master-para-ressarcir-o-brb/",
+      "summary": "Procuradoria quer evitar que parte dos R$ 12,2 bilhões repassados pelo banco público seja usada para pagar credores da instituição em liquidação",
+      "source": "CNN Brasil",
+      "origin": "brasil",
+      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/08/Banco-BRB.png?w=883&h=493&crop=1",
+      "published_at": "2026-11-06T00:59:16+00:00",
+      "region": "América do Sul",
+      "theme": "Cultura, Mídia e Sociedade"
+    },
+    {
+      "title": "Mulheres defendem articulação em rede para ampliar participação",
+      "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-11/mulheres-defendem-articulacao-em-rede-para-ampliar-participacao",
+      "summary": "Na conferência internacional “Mulheres que movem a justiça”, realizada até sexta-feira (6) em Brasília, comunicadoras defenderam a articulação de redes de apoio entre mulheres como estratégia para combater o machismo e ampliar a participação feminina nos espaços de poder. O evento promove debates so...",
+      "source": "Agência Brasil",
+      "origin": "brasil",
+      "image": "https://agenciabrasil.ebc.com.br/ebc.png?id=1707892&amp;o=rss",
+      "published_at": "2026-11-06T00:54:00+00:00",
+      "region": "América do Sul",
+      "theme": "Direitos Humanos, Sociedade e Migrações"
+    },
+    {
+      "title": "Yoani Sánchez, uma das principais repórteres independentes de Cuba, é solta após detenção",
+      "url": "https://redir.folha.com.br/redir/online/mundo/rss091/*https://www1.folha.uol.com.br/mundo/2026/11/yoani-sanchez-uma-das-principais-reporteres-independentes-de-cuba-e-solta-apos-detencao.shtml",
+      "summary": "Yoani Sánchez, uma das profissionais mais conhecidas do jornalismo independente em Cuba, foi detida nesta quinta-feira (6) em Havana, afirmou o jornal digital 14ymedio, fundado e dirigido por ela desde 2014. Horas depois, na noite desta quinta, ela foi solta após o que chamou de \"prisão arbitrária\"....",
+      "source": "Folha de S.Paulo - Mundo",
+      "origin": "brasil",
+      "image": "https://f.i.uol.com.br/fotografia/2026/11/05/17939105916aece73fc7a36_1793910591_3x2_xl.jpg",
+      "published_at": "2026-11-06T00:50:00+00:00",
+      "region": "América do Sul",
+      "theme": "Direito Internacional e Instituições"
+    },
+    {
+      "title": "Fachin mantém prisão de cunhado de Vorcaro",
+      "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-11/fachin-mantem-prisao-de-cunhado-de-vorcaro",
+      "summary": "\n                    \n\t\t\t\tO presidente do Supremo Tribunal Federal (STF), ministro Edson Fachin, negou nesta quinta-feira (5) pedido para soltar o empresário Fabiano Zettel, um dos investigados na Operação Compliance Zero, que apura fraudes no Banco Master.\n\nO ministro também rejeitou conceder prisã...",
+      "source": "Agência Brasil",
+      "origin": "brasil",
+      "image": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+      "published_at": "2026-11-06T00:43:00+00:00",
+      "region": "América do Sul",
+      "theme": "Política Brasileira"
+    },
+    {
+      "title": "Equipe da Agência Brasil vence Seleção Petrobras de Jornalismo",
+      "url": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-11/equipe-da-agencia-brasil-vence-selecao-petrobras-de-jornalismo",
+      "summary": "O repórter Rafael Cardoso e a fotógrafa Tânia Rêgo estão entre os vencedores da Seleção Petrobras de Jornalismo. Eles receberão uma bolsa para desenvolver reportagem com o tema Ciência e Energias do Futuro.\n\nO resultado da seleção foi divulgado nesta quinta-feira (5).  Ao todo, 14 propostas de repor...",
+      "source": "Agência Brasil",
+      "origin": "brasil",
+      "image": "https://agenciabrasil.ebc.com.br/ebc.png?id=1707889&amp;o=rss",
+      "published_at": "2026-11-06T00:30:00+00:00",
+      "region": "América do Sul",
+      "theme": "Ciência, Tecnologia e Inovação"
+    },
+    {
+      "title": "Marco Rubio denies plans to resign as 2028 speculation grows",
+      "url": "https://www.france24.com/en/americas/20261106-marco-rubio-denies-resignation-2028-white-house",
+      "summary": "US Secretary of State Marco Rubio dismissed reports on Thursday that he planned to leave the administration after Republican midterm losses, telling The New York Times he intended to serve through the end of President Donald Trump’s term. Rubio, a potential presidential candidate in 2028, declined t...",
+      "source": "France 24",
+      "origin": "internacional",
+      "image": "https://s.france24.com/media/display/a33023e8-cf3a-11f1-a4eb-5b4a75578ebb/w:1024/p:16x9/02e49a537cd5fadcdce9728406b6b4b733a6bcb5.jpg",
+      "published_at": "2026-11-06T00:24:59+00:00",
+      "region": "América do Norte",
+      "theme": "Outros / Multitemático"
+    },
+    {
+      "title": "Polícia de SP e Cruz Vermelha vão atuar para identificar desaparecidos",
+      "url": "https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-11/policia-de-sp-e-cruz-vermelha-vao-atuar-para-identificar-desaparecidos",
+      "summary": "\n                    \n\t\t\t\tA Polícia Técnico-Científica de São Paulo e o Comitê Internacional da Cruz Vermelha (CICV) firmaram, nesta quinta-feira (5), um acordo de cooperação para a identificação de 300 ossadas que estão sob responsabilidade do Instituto Médico Legal (IML) paulista. \n\nO trabalho, se...",
+      "source": "Agência Brasil",
+      "origin": "brasil",
+      "image": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+      "published_at": "2026-11-06T00:20:00+00:00",
+      "region": "América do Sul",
+      "theme": "Direitos Humanos, Sociedade e Migrações"
+    },
+    {
+      "title": "Israeli settlers set fire to Palestinian olive grove near Ramallah",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/6/israeli-settlers-set-fire-to-palestinian-olive-grove-near-ramallah?traffic_source=rss",
+      "summary": "Israeli settlers have set fire to olive trees belonging to Palestinian farmers in the village of Burqa, near Ramallah.",
+      "source": "Al Jazeera English",
+      "origin": "internacional",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1793924390.jpg?resize=1920%2C1080&quality=80",
+      "published_at": "2026-11-06T00:19:57+00:00",
+      "region": "Oriente Médio",
+      "theme": "Outros / Multitemático"
+    },
+    {
+      "title": "Turkiye’s parliament ratifies Mecca defence agreement",
+      "url": "https://www.aljazeera.com/news/2026/11/6/turkiyes-parliament-ratifies-mecca-defence-agreement?traffic_source=rss",
+      "summary": "Parliament&#039;s approval lays the groundwork for further Turkish involvement in Saudi Arabia&#039;s conflict with the Houthis.",
+      "source": "Al Jazeera English",
+      "origin": "internacional",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/AP26219433507335-1791229441.jpg?resize=1920%2C1440",
+      "published_at": "2026-11-06T00:15:22+00:00",
+      "region": "Global",
+      "theme": "Política Internacional"
+    },
+    {
+      "title": "Lula vai criar Ministério da Segurança Pública com Medida Provisória",
+      "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/lula-vai-criar-ministerio-da-seguranca-publica-com-medida-provisoria",
+      "summary": "\n                    \n\t\t\t\tO presidente Luiz Inácio Lula da Silva afirmou, nesta quinta-feira (5), que vai criar o Ministério da Segurança Pública por meio de uma Medida Provisória (MP). \n\nLula defende essa ideia desde fevereiro, e ela ganhou força durante a campanha eleitoral. A criação do ministéri...",
+      "source": "Agência Brasil",
+      "origin": "brasil",
+      "image": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+      "published_at": "2026-11-06T00:15:00+00:00",
+      "region": "América do Sul",
+      "theme": "Política Brasileira"
+    },
+    {
+      "title": "Trump says Russia-Ukraine deal is near after meeting Putin’s envoy",
+      "url": "https://www.aljazeera.com/news/2026/11/6/trump-met-russian-envoy-after-he-appeared-with-melania-trump-and-ukrainians?traffic_source=rss",
+      "summary": "Though the US president said deal was &#039;very close&#039;, he gave no specifics and did not meet visiting Ukrainian delegation.",
+      "source": "Al Jazeera English",
+      "origin": "internacional",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6aed076216140-1793918818.jpg?resize=1920%2C1440",
+      "published_at": "2026-11-06T00:06:31+00:00",
+      "region": "América do Norte",
+      "theme": "Outros / Multitemático"
+    },
+    {
+      "title": "Paraguai ignora pedido de renúncia e dá continuidade a processo de impeachment contra Santiago Peña",
+      "url": "https://g1.globo.com/mundo/noticia/2026/11/05/paraguai-ignora-pedido-de-renuncia-e-da-continuidade-a-processo-de-impeachment-contra-santiago-pena.ghtml",
+      "summary": "     Presidente do Paraguai, Santiago Peña, renuncia ao cargo\nO Senado do Paraguai ignorou o pedido de renúncia de Santiago Peña e deu continuidade a abertura de um processo de impeachment contra o presidente na noite desta quinta-feira (5).\n▶️ Contexto: O país vive uma profunda crise política após ...",
+      "source": "G1 - Mundo",
+      "origin": "brasil",
+      "image": "https://s2-g1.glbimg.com/WdGw-kI7tuoUnGq1V5rSDB8MPFs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/X/a/7L2FxXQbqAb9fBvBbZFg/fotojet-8-.jpg",
+      "published_at": "2026-11-06T00:05:12+00:00",
+      "region": "América do Sul",
+      "theme": "Ciência, Tecnologia e Inovação"
+    },
+    {
+      "title": "Pope begins lengthy trip to Latin America weeks after lung cancer surgery",
+      "url": "https://www.bbc.co.uk/news/articles/cqn06j0y61k6o?at_medium=RSS&at_campaign=rss",
+      "summary": "Pope Leo, who had part of a lung removed last month, will visit Uruguay, Argentina and Peru.",
+      "source": "BBC News - World",
+      "origin": "internacional",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d5f5/live/a7b86be0-d96d-11f1-9fd0-cdf612d1539f.jpg",
+      "published_at": "2026-11-06T00:02:57+00:00",
+      "region": "América do Sul",
+      "theme": "Saúde"
+    },
+    {
+      "title": "Iran war live: Trump warns US may have to ‘destroy’ rest of Iran",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/11/6/iran-war-live-trump-warns-us-may-have-to-destroy-rest-of-iran?traffic_source=rss",
+      "summary": "Trump says the US may have to &#039;destroy&#039; the rest of Iran, adding that people will &#039;know soon enough&#039;.",
+      "source": "Al Jazeera English",
+      "origin": "internacional",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/14414821-1793917435.jpg?resize=1920%2C1440",
+      "published_at": "2026-11-06T00:00:00+00:00",
+      "region": "América do Norte",
+      "theme": "Geopolítica e Segurança"
+    },
+    {
+      "title": "Mendonça concede prisão domiciliar a investigado por descontos no INSS",
+      "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-11/mendonca-concede-prisao-domiciliar-investigado-por-descontos-no-inss",
+      "summary": "\n                    \n\t\t\t\tO ministro André Mendonça, do Supremo Tribunal Federal (STF), decidiu nesta quinta-feira (5) conceder prisão domiciliar ao empresário Maurício Camisotti, um dos investigados pelos descontos irregulares nos benefícios do Instituto Nacional do Seguro Social (INSS).\n\nNa decisã...",
+      "source": "Agência Brasil",
+      "origin": "brasil",
+      "image": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+      "published_at": "2026-11-05T23:59:00+00:00",
+      "region": "América do Sul",
+      "theme": "Política Brasileira"
+    },
+    {
+      "title": "Nithya Raman wins LA mayoral race, becoming city’s first South Asian mayor",
+      "url": "https://www.aljazeera.com/news/2026/11/5/nithya-raman-wins-la-mayoral-race-becoming-citys-first-south-asian-mayor?traffic_source=rss",
+      "summary": "DSA-backed Raman will lead the second-largest US city, promising action on homelessness and affordable housing.",
+      "source": "Al Jazeera English",
+      "origin": "internacional",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/AP26308267485885-1793919011.jpg?resize=1920%2C1440",
+      "published_at": "2026-11-05T23:46:52+00:00",
+      "region": "América do Norte",
+      "theme": "Outros / Multitemático"
+    },
+    {
+      "title": "Jornalista Yoani Sánchez e líder oposicionista são presas em Cuba",
+      "url": "https://g1.globo.com/mundo/noticia/2026/11/05/jornalista-yoani-sanchez-e-lider-oposicionista-sao-presas-em-cuba.ghtml",
+      "summary": "     Blogueira cubana Yoani Sánchez\nReprodução Globo News\nYoani Sánchez, uma das figuras mais conhecidas do jornalismo independente em Cuba, e a líder do movimento oposicionista Damas de Branco, Berta Soler, foram detidas nesta quinta-feira (5) em Havana, segundo denúncias de veículos de comunicação...",
+      "source": "G1 - Mundo",
+      "origin": "brasil",
+      "image": "https://s2-g1.glbimg.com/u0uSgbJCixKACIr0OentqMnAD0E=/s.glbimg.com/jo/g1/f/original/2012/10/06/yoani_sanchez.jpeg",
+      "published_at": "2026-11-05T23:42:03+00:00",
+      "region": "América do Sul",
+      "theme": "Política Internacional"
+    },
+    {
+      "title": "Fachin pede parecer da PGR sobre pedido de liberdade para Vorcaro",
+      "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-11/fachin-pede-parecer-da-pgr-sobre-pedido-de-liberdade-para-vorcaro",
+      "summary": "\n                    \n\t\t\t\tO presidente do Supremo Tribunal Federal (STF), ministro Edson Fachin, pediu nesta quinta-feira (5) que a Procuradoria-Geral da República (PGR) se manifeste sobre o pedido de soltura protocolado pela defesa do ex-banqueiro Daniel Vorcaro. \n\nApós receber o parecer da PGR, Fa...",
+      "source": "Agência Brasil",
+      "origin": "brasil",
+      "image": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+      "published_at": "2026-11-05T23:42:00+00:00",
+      "region": "América do Sul",
+      "theme": "Política Brasileira"
+    },
+    {
+      "title": "Three in four displaced people live in climate danger zones, UN says",
+      "url": "https://www.france24.com/en/environment/20261105-un-displaced-people-climate-risks",
+      "summary": "Nearly 90 million forcibly displaced people, or three-quarters of the global total, live in countries highly exposed to climate hazards, the UN refugee agency said on Friday, urging action ahead of the COP31 climate summit in Turkey. It said droughts, floods and extreme heat were making lasting solu...",
+      "source": "France 24",
+      "origin": "internacional",
+      "image": "https://s.france24.com/media/display/27e91f36-c775-11f1-a8f0-53993c5f1f18/w:1024/p:16x9/3a4f044a28d5dcc6404274b250beb08ab8067c5f.jpg",
+      "published_at": "2026-11-05T23:34:08+00:00",
+      "region": "Global",
+      "theme": "Meio Ambiente e Clima"
+    },
+    {
+      "title": "Crise no Paraguai: Senado conclui primeira sessão do processo de impeachment contra o presidente Santiago Peña",
+      "url": "https://g1.globo.com/mundo/noticia/2026/11/05/crise-no-paraguai-senado-comeca-a-analisar-impeachment-contra-o-presidente-santiago-pena.ghtml",
+      "summary": "     Presidente do Paraguai renuncia ao cargo; veja íntegra do comunicado\nO Senado do Paraguai encerrou a primeira sessão de julgamento do processo de impeachment contra o presidente Santiago Peña nesta quinta-feira (5). O país vive uma profunda crise política após vir a tona um escândalo envolvendo...",
+      "source": "G1 - Mundo",
+      "origin": "brasil",
+      "image": "https://s2-g1.glbimg.com/Ewef4gBjRcFXUXPO9rLjpK0VtOk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/z/E/pVS555Rda9TEvDUzE49A/2023-04-28t003803z-825269029-rc2km0a5bbyr-rtrmadp-3-paraguay-election-pena.jpg",
+      "published_at": "2026-11-05T23:21:18+00:00",
+      "region": "América do Sul",
+      "theme": "Política Internacional"
+    },
+    {
+      "title": "'Não falei com Lula nem tenho nada marcado. Isso foi plantado para queimar alguém que defendeu a proposta', diz economista André Lara Resende",
+      "url": "https://www.bbc.com/portuguese/articles/cmly0jeq2q9no?at_medium=RSS&at_campaign=rss",
+      "summary": "Economista que presidiu o BNDES e fez parte da diretoria do Banco Central propôs criação de conselho que reduziria taxa Selic a longo prazo; proposta mobilizou mercado financeiro e discussão em Brasília.",
+      "source": "BBC News Brasil",
+      "origin": "brasil",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/760f/live/d558db00-d974-11f1-a701-fddedf244c16.jpg",
+      "published_at": "2026-11-05T23:19:37+00:00",
+      "region": "América do Sul",
+      "theme": "Economia Brasileira"
+    },
+    {
+      "title": "Em meio a processo de impeachment no Paraguai, Santiago Peña pede calma e diz que vai se defender",
+      "url": "https://redir.folha.com.br/redir/online/mundo/rss091/*https://www1.folha.uol.com.br/mundo/2026/11/em-meio-a-processo-de-impeachment-no-paraguai-santiago-pena-pede-calma-e-diz-que-vai-se-defender.shtml",
+      "summary": "Em meio ao escândalo do Ueno Bank que deixou metade da população do Paraguai sem acesso ao dinheiro guardado no banco, o presidente do país, Santiago Peña, disse em nova nota nesta quinta-feira (5) que vai apresentar sua defesa \"em respeito à Constituição\" -e pediu que os paraguaios preservem \"a cal...",
+      "source": "Folha de S.Paulo - Mundo",
+      "origin": "brasil",
+      "image": "https://f.i.uol.com.br/fotografia/2026/11/05/17939200286aed0c1c4f618_1793920028_3x2_rt.jpg",
+      "published_at": "2026-11-05T23:10:00+00:00",
+      "region": "América do Sul",
+      "theme": "Ciência, Tecnologia e Inovação"
     },
     {
       "title": "California governor commutes sentences for state's 548 death row inmates",
@@ -18,10 +667,76 @@
       "summary": "California has historically had the largest population of people on death row in the US.",
       "source": "BBC News - World",
       "origin": "internacional",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7e11/live/430c9930-d956-11f1-b7f4-8bd3c0617693.jpg",
-      "published_at": "2026-11-05T22:31:40+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6243/live/f34ef550-d982-11f1-9367-d509fddfe31c.jpg",
+      "published_at": "2026-11-05T23:09:33+00:00",
       "region": "América do Norte",
       "theme": "Política Internacional"
+    },
+    {
+      "title": "Por que Kim Kardashian voltou para o 'pior drama da história da TV'",
+      "url": "https://www.bbc.com/portuguese/articles/cqy0rz40zep0o?at_medium=RSS&at_campaign=rss",
+      "summary": "A empresária, celebridade e, agora, atriz está de volta à série 'Tudo É Justo', que recebeu críticas generalizadas em sua primeira temporada no ano passado.",
+      "source": "BBC News Brasil",
+      "origin": "brasil",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/8325/live/8fce9a20-d785-11f1-9440-953b82c8f55a.jpg",
+      "published_at": "2026-11-05T23:06:11+00:00",
+      "region": "América do Sul",
+      "theme": "Outros / Multitemático"
+    },
+    {
+      "title": "Governo define minerais críticos prioritários para investimentos",
+      "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/governo-define-minerais-criticos-prioritarios-para-investimentos",
+      "summary": "\n                    \n\t\t\t\tO Conselho Nacional para Industrialização de Minerais Críticos e Estratégicos se reuniu na tarde desta quinta-feira (5) para aprovar a lista de prioridades do governo federal para minerais críticos e estratégicos. São 27 minerais listados, em grupos de três prioridades – al...",
+      "source": "Agência Brasil",
+      "origin": "brasil",
+      "image": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+      "published_at": "2026-11-05T22:55:00+00:00",
+      "region": "América do Sul",
+      "theme": "Política Internacional"
+    },
+    {
+      "title": "Flávio Bolsonaro diz a jornal americano que fugiu sozinho do Brasil",
+      "url": "https://www.dw.com/pt-br/flávio-bolsonaro-diz-a-jornal-americano-que-fugiu-sozinho-do-brasil/a-79871184?maca=bra-rss-br-all-1030-xml-mrss",
+      "summary": "Candidato derrotado à Presidência afirma ao \"NYT\" que vai \"levar para o túmulo\" segredo sobre como chegou aos EUA: \"Não houve ajuda de absolutamente ninguém, nenhum governo.\"",
+      "source": "Deutsche Welle",
+      "origin": "internacional",
+      "image": "https://static.dw.com/image/79790316_6.jpg",
+      "published_at": "2026-11-05T22:50:00+00:00",
+      "region": "América do Norte",
+      "theme": "Ciência, Tecnologia e Inovação"
+    },
+    {
+      "title": "Skatista Duda Ribeiro é prata na Olimpíada da Juventude, em Dacar",
+      "url": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-11/skatista-duda-ribeiro-e-prata-na-olimpiada-da-juventude-em-dacar",
+      "summary": "\n                    \n\t\t\t\tA quinta-feira (5) foi prateada para a skatista brasileira Duda Ribeiro na Olimpíada da Juventude, em Dacar (Senegal). A atleta foi vice-campeã no skate street ao somar 138.28 pontos na final. Completaram o pódio a chinesa Zhu Yuanling (149.82 pontos) com o ouro e a canaden...",
+      "source": "Agência Brasil",
+      "origin": "brasil",
+      "image": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+      "published_at": "2026-11-05T22:47:00+00:00",
+      "region": "América do Sul",
+      "theme": "Direito Internacional e Instituições"
+    },
+    {
+      "title": "TSE aceita ação contra Lula e Alckmin por abuso de poder político",
+      "url": "https://www.dw.com/pt-br/tse-aceita-ação-contra-lula-e-alckmin-por-abuso-de-poder-político/a-79871343?maca=bra-rss-br-all-1030-xml-mrss",
+      "summary": "Partido Novo acusa o governo de usar a máquina estatal a seu favor para se reeleger. Ministro Villas Bôas Cueva deu à defesa prazo de cinco dias para que se manifeste.",
+      "source": "Deutsche Welle",
+      "origin": "internacional",
+      "image": "https://static.dw.com/image/79769729_6.jpg",
+      "published_at": "2026-11-05T22:47:00+00:00",
+      "region": "América do Norte",
+      "theme": "Geopolítica e Segurança"
+    },
+    {
+      "title": "Itamaraty: diplomatas indígenas e quilombolas tomam posse pela 1º vez",
+      "url": "https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-11/itamaraty-diplomatas-indigenas-e-quilombolas-tomam-posse-pela-1o-vez",
+      "summary": "\n                    \n\t\t\t\tOs indígenas Marcelo Kariri Menezes, do povo Kariri, e Idjahure Terena, do povo Terena, tomaram posse nesta quarta-feira (4), no Palácio Itamaraty, em Brasília, como diplomatas. É a primeira vez na história brasileira que representantes de povos originários entram para o cu...",
+      "source": "Agência Brasil",
+      "origin": "brasil",
+      "image": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+      "published_at": "2026-11-05T22:41:00+00:00",
+      "region": "América do Sul",
+      "theme": "Direitos Humanos, Sociedade e Migrações"
     },
     {
       "title": "Aborto, pessoas trans, armas e bilionários também estavam nas cédulas durante eleição nos EUA",
@@ -35,53 +750,20 @@
       "theme": "Política Internacional"
     },
     {
-      "title": "Santiago Peña tuita em meio a processo de impeachment e votação sobre renúncia",
+      "title": "Peña diz que vai se apresentar ao Senado em meio a processo de impeachment; porta-voz nega fuga do presidente",
       "url": "https://g1.globo.com/mundo/noticia/2026/11/05/santiago-pena-tuita-em-meio-a-processo-de-impeachment-e-votacao-sobre-renuncia.ghtml",
-      "summary": "\"Queridos compatriotas,\nSei que estamos vivendo momentos de preocupação e incerteza. Quero falar com vocês com clareza e serenidade.\nDiante da continuidade do processo de impeachment, vou me apresentar e exercer meu direito de defesa. Farei isso com argumentos e provas, em respeito à Constituição e ...",
+      "summary": "     Santiago Peña, presidente do Paraguai desde 2023 que renunciou ao cargo em 5 de novembro de 2026.\nREUTERS/Cesar Olmedo/File Photo\nO presidente do Paraguai, Santiago Peña, afirmou nesta quinta-feira (5), em publicação no X, que vai se colocar à disposição das autoridades para prestar esclarecime...",
       "source": "G1 - Mundo",
       "origin": "brasil",
-      "image": "None",
+      "image": "https://s2-g1.glbimg.com/931fvwvhca_M4XOgqnybEMDgDR8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/O/9/tvjNW7SseODUS6B9GLtQ/2026-11-05t162617z-2095193189-rc28k9aom5wk-rtrmadp-3-paraguay-politics.jpg",
       "published_at": "2026-11-05T22:25:47+00:00",
       "region": "América do Sul",
       "theme": "Política Internacional"
     },
     {
-      "title": "Oposição no Paraguai quer prisão de Peña: “Como um criminoso comum”",
-      "url": "https://www.poder360.com.br/poder-internacional/oposicao-no-paraguai-quer-prisao-de-pena-como-um-criminoso-comum/",
-      "summary": "Senadora paraguaia afirmou que renúncia anunciada por Santiago visava a preservar sua imunidade parlamentar",
-      "source": "Poder360",
-      "origin": "brasil",
-      "image": "https://static.poder360.com.br/uploads/2026/11/santiago-pena-yolanda-paredes-1200x675.jpg",
-      "published_at": "2026-11-05T22:21:41+00:00",
-      "region": "América do Sul",
-      "theme": "Ciência, Tecnologia e Inovação"
-    },
-    {
-      "title": "Major tech stocks plunge as US midterms add to fears of AI slowdown",
-      "url": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss",
-      "summary": "The market has been reacting to possible tougher scrutiny of data centre construction and the AI industry following the US midterms",
-      "source": "BBC News - World",
-      "origin": "internacional",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6e01/live/e1c54f70-d958-11f1-a800-d9dce9e5aa21.jpg",
-      "published_at": "2026-11-05T22:13:38+00:00",
-      "region": "América do Norte",
-      "theme": "Ciência, Tecnologia e Inovação"
-    },
-    {
-      "title": "BC do Paraguai inicia pagamentos a clientes do Ueno Bank",
-      "url": "https://www.poder360.com.br/poder-internacional/bc-do-paraguai-inicia-pagamentos-a-clientes-do-ueno-bank/",
-      "summary": "Plataforma do banco informa onde cada cliente receberá os recursos; 1ª etapa atende saldos de até 10 milhões de guaranis",
-      "source": "Poder360",
-      "origin": "brasil",
-      "image": "https://static.poder360.com.br/uploads/2026/11/ueno-bank-paraguai-1200x675.png",
-      "published_at": "2026-11-05T22:12:56+00:00",
-      "region": "América do Sul",
-      "theme": "Ciência, Tecnologia e Inovação"
-    },
-    {
-      "title": "Congresso do Paraguai suspende sessão que julgava renúncia de presidente",
+      "title": "Congresso do Paraguai suspende sessão que julgava renúncia de Peña; Senado segue com impeachment",
       "url": "https://redir.folha.com.br/redir/online/mundo/rss091/*https://www1.folha.uol.com.br/mundo/2026/11/congresso-do-paraguai-suspende-sessao-que-julgava-renuncia-de-presidente.shtml",
-      "summary": "Deputados governistas do Paraguai deixaram a sessão conjunta do Legislativo nacional nesta quinta-feira (5), deixando o plenário sem quórum para continuar a votação que decidiria se o Congresso aceita a renúncia do presidente Santiago Peña.\nLeia mais (11/05/2026 - 19h11)",
+      "summary": "Deputados governistas do Paraguai deixaram a sessão conjunta do Legislativo nacional nesta quinta-feira (5), esvaziando o plenário para evitar o fim da votação que decidiria se o Congresso aceita a renúncia do presidente Santiago Peña.\nLeia mais (11/05/2026 - 19h11)",
       "source": "Folha de S.Paulo - Mundo",
       "origin": "brasil",
       "image": "https://f.i.uol.com.br/fotografia/2026/11/05/17939162956aecfd87c3d16_1793916295_3x2_rt.jpg",
@@ -90,224 +772,26 @@
       "theme": "Política Internacional"
     },
     {
-      "title": "Economia precisa estar “arrumada” para atrair investimento, diz Lula",
-      "url": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/economia-precisa-estar-arrumada-para-atrair-investimento-diz-lula/",
-      "summary": "Durante reunião de minerais críticos e estratégicos, presidente reafirma organização para que pautas sejam tratadas com seriedade",
-      "source": "CNN Brasil",
-      "origin": "brasil",
-      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/10/presidente-lula_0ed7d4-e1792755501895.jpg?w=1200&h=630&crop=1",
-      "published_at": "2026-11-05T22:05:22+00:00",
-      "region": "América do Sul",
-      "theme": "Política Brasileira"
-    },
-    {
-      "title": "Lula cobra responsabilidade fiscal para atrair investimentos",
-      "url": "https://www.poder360.com.br/poder-governo/lula-cobra-responsabilidade-fiscal-para-atrair-investimentos/",
-      "summary": "No conselho de minerais críticos, presidente diz que ninguém põe dinheiro numa economia desordenada ou sem regras claras",
-      "source": "Poder360",
-      "origin": "brasil",
-      "image": "https://static.poder360.com.br/uploads/2026/11/IMG_8280-1200x675.jpg",
-      "published_at": "2026-11-05T22:01:15+00:00",
-      "region": "América do Sul",
-      "theme": "Política Brasileira"
-    },
-    {
-      "title": "Vídeo: temporal transforma ruas em “piscinão” e provoca transtornos em BH",
-      "url": "https://www.cnnbrasil.com.br/nacional/sudeste/mg/video-temporal-transforma-ruas-em-piscinao-e-provoca-transtornos-em-bh/",
-      "summary": "Município está em alerta para rajadas de vento de até 50km/h; região da Pampulha foi uma das mais afetadas pela tempestade",
-      "source": "CNN Brasil",
-      "origin": "brasil",
-      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/11/chuvas-belo-horizonte-05_11.jpg?w=1200&h=630&crop=1",
-      "published_at": "2026-11-05T22:00:28+00:00",
-      "region": "América do Sul",
-      "theme": "Outros / Multitemático"
-    },
-    {
-      "title": "Alta no imposto de cigarros favorece mercado ilegal, diz Abifumo",
-      "url": "https://www.poder360.com.br/conteudo-de-marca/alta-no-imposto-de-cigarros-favorece-mercado-ilegal-diz-abifumo/",
-      "summary": "Medida provisória aumenta alíquota em 55,6% e ampliará diferença com produto clandestino, que movimenta R$ 10 bi por ano",
-      "source": "Poder360",
-      "origin": "brasil",
-      "image": "https://static.poder360.com.br/uploads/2026/11/conteudo-marca-abifumo-imposto-seletivo-credito-ascom-alfandega-foz-poder360-1200x675.jpeg",
-      "published_at": "2026-11-05T22:00:17+00:00",
-      "region": "América do Sul",
-      "theme": "Economia Internacional"
-    },
-    {
-      "title": "Mestre dos Magos de Uberlândia recebe moção na Câmara Municipal",
-      "url": "https://www.cnnbrasil.com.br/nacional/sudeste/mg/mestre-dos-magos-de-uberlandia-recebe-mocao-na-camara-municipal/",
-      "summary": "Wilson Ferreira da Silva recebeu moção de aplausos entregue pelo vereador Elinho da Academia em reconhecimento ao seu trabalho como cosplayer",
-      "source": "CNN Brasil",
-      "origin": "brasil",
-      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/11/mestremagos.png?w=675&h=390&crop=1",
-      "published_at": "2026-11-05T21:59:14+00:00",
-      "region": "América do Sul",
-      "theme": "Política Brasileira"
-    },
-    {
-      "title": "Marseille surpreende o Bayer Leverkusen e vence a primeira na Europa League",
-      "url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/marseille-surpreende-o-bayer-leverkusen-e-vence-a-primeira-na-europa-league/",
-      "summary": "Time francês tinha sofrido três derrotas na competição, mas superou a equipe alemã nesta quinta-feira (5), na BayArena, pela quarta rodada do torneio",
-      "source": "CNN Brasil",
-      "origin": "brasil",
-      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/11/olympique.jpg?w=960&h=540&crop=1",
-      "published_at": "2026-11-05T21:58:20+00:00",
-      "region": "América do Sul",
-      "theme": "Cultura, Mídia e Sociedade"
-    },
-    {
-      "title": "Detentos sobem em caixa d’água no CDP II de Pinheiros em SP",
-      "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/detentos-sobem-em-caixa-dagua-no-cdp-ii-de-pinheiros-em-sp/",
-      "summary": "Secretaria da Administração Penitenciária informa que homens se aproveitaram de movimentação interna e serão transferidos após ato",
-      "source": "CNN Brasil",
-      "origin": "brasil",
-      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/11/Centro-de-Detencao-Provisoria-II-de-Pinheiros.png?w=1200&h=624&crop=1",
-      "published_at": "2026-11-05T21:57:42+00:00",
-      "region": "América do Sul",
-      "theme": "Outros / Multitemático"
-    },
-    {
-      "title": "Juventus supera ‘duelo de irmãos’ e vence o AZ Alkmaar pela Europa League",
-      "url": "https://www.cnnbrasil.com.br/esportes/juventus-supera-duelo-de-irmaos-e-vence-o-az-alkmaar-pela-europa-league/",
-      "summary": "Kolo Muani e Koopmeiners marcaram para os italianos e Meerdink diminuiu; partida foi marcada por encontro de irmãos",
-      "source": "CNN Brasil",
-      "origin": "brasil",
-      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/11/HWY37KEWkAAoNws-e1793913864141.jpg?w=1200&h=630&crop=1",
-      "published_at": "2026-11-05T21:57:36+00:00",
-      "region": "América do Sul",
-      "theme": "Cultura, Mídia e Sociedade"
-    },
-    {
-      "title": "Internautas pedem prisão de Santiago Peña",
-      "url": "https://www.poder360.com.br/poder-internacional/internautas-pedem-prisao-de-santiago-pena/",
-      "summary": "Usuários dizem que presidente do Paraguai descumpriu promessas de campanha e ignorou os problemas da população",
-      "source": "Poder360",
-      "origin": "brasil",
-      "image": "https://static.poder360.com.br/uploads/2026/11/santiago-pena-paraguai-renuncia-1200x675.jpg",
-      "published_at": "2026-11-05T21:56:14+00:00",
-      "region": "América do Sul",
-      "theme": "Direito Internacional e Instituições"
-    },
-    {
-      "title": "Refrigerante contra incêndio? Funcionário tenta apagar transformador em chamas na Venezuela",
-      "url": "https://www.cnnbrasil.com.br/ciencia/refrigerante-contra-incendio-funcionario-tenta-apagar-transformador-em-chamas-na-venezuela/",
-      "summary": "Flagrante aconteceu em Guárico, e chamou a atenção nas redes sociais pelo método inusitado utilizado durante a ocorrência",
-      "source": "CNN Brasil",
-      "origin": "brasil",
-      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/11/Divulgacao-3.jpg?w=805&h=608&crop=1",
-      "published_at": "2026-11-05T21:53:36+00:00",
-      "region": "América do Sul",
-      "theme": "Ciência, Tecnologia e Inovação"
-    },
-    {
-      "title": "Dólar sobe 0,67% e fecha a R$ 5,489; Ibovespa cai 0,82%",
-      "url": "https://www.poder360.com.br/poder-economia/dolar-sobe-067-e-fecha-a-r-5489-ibovespa-cai-082/",
-      "summary": "Bolsa fecha aos 166.191,45 pontos com queda de ações de tecnologia nos EUA e Selic mantida em 13,75%",
-      "source": "Poder360",
-      "origin": "brasil",
-      "image": "https://static.poder360.com.br/uploads/2026/11/valor-dolar-trajetoria-diaria-5-nov-2026-1-02-1200x675.png",
-      "published_at": "2026-11-05T21:50:15+00:00",
-      "region": "América do Sul",
-      "theme": "Economia Brasileira"
-    },
-    {
-      "title": "Generation Z and diversity redefine US politics in groundbreaking election",
+      "title": "Generation Z and young voters help redefine US politics after midterms",
       "url": "https://www.aljazeera.com/news/2026/11/5/generation-z-and-diversity-redefine-us-politics-in-groundbreaking-election?traffic_source=rss",
       "summary": "Melat Kiros becomes the first Generation Z woman elected to Congress, embodying a new era of political representation.",
       "source": "Al Jazeera English",
       "origin": "internacional",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6aeb90f5ad3ed-1793822965.jpg?resize=1920%2C1440",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6aeccf04a40eb-1793904388.jpg?resize=1920%2C1440",
       "published_at": "2026-11-05T21:49:31+00:00",
       "region": "América do Norte",
       "theme": "Política Internacional"
     },
     {
-      "title": "South Africa’s ANC on track for new lows in local polls",
-      "url": "https://www.aljazeera.com/news/2026/11/5/south-africas-anc-on-track-for-new-lows-in-local-polls?traffic_source=rss",
-      "summary": "The ANC was on about 32 percent of the vote with more than 60 percent of votes counted in municipal elections.",
-      "source": "Al Jazeera English",
-      "origin": "internacional",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6aeac6a727ef-1793771175.jpg?resize=1920%2C1440",
-      "published_at": "2026-11-05T21:48:16+00:00",
-      "region": "África",
-      "theme": "Política Internacional"
-    },
-    {
-      "title": "Bitcoin cai quase 5% com pressão negativa sobre ações de tecnologia nos EUA",
-      "url": "https://www.cnnbrasil.com.br/economia/money/mercado/bitcoin-cai-quase-5-com-pressao-negativa-sobre-acoes-de-tecnologia-nos-eua/",
-      "summary": "Na Coinbase, criptomoeda recuava 4,7%, a US$ 76.336,33, enquanto o ethereum caía 6,3%, a US$ 2.263,37",
-      "source": "CNN Brasil",
-      "origin": "brasil",
-      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/05/qndo-bitcoin-pizzaday-WirestockMagnific-e1784589526671.jpg?w=1200&h=630&crop=1",
-      "published_at": "2026-11-05T21:45:28+00:00",
-      "region": "América do Sul",
-      "theme": "Comércio e Finanças"
-    },
-    {
-      "title": "Suzano lucra R$ 2,08 bi no 3º tri de 2026, alta de 6%",
-      "url": "https://www.cnnbrasil.com.br/agro/suzano-lucra-r-208-bi-no-3o-tri-de-2026-alta-de-6/",
-      "summary": "Receita líquida da empresa alcançou R$ 16,5 bilhões no período com avanço de 36% frente ao ano anterior",
-      "source": "CNN Brasil",
-      "origin": "brasil",
-      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2021/06/37070_CDAB85B13EF569F1-1.jpg?w=1200&h=630&crop=1",
-      "published_at": "2026-11-05T21:44:56+00:00",
-      "region": "América do Sul",
-      "theme": "Outros / Multitemático"
-    },
-    {
-      "title": "Paraguai registra confusão em protesto perto do Congresso",
-      "url": "https://www.cnnbrasil.com.br/internacional/paraguai-registra-confusao-em-protesto-perto-do-congresso/",
-      "summary": "",
-      "source": "CNN Brasil",
-      "origin": "brasil",
-      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/11/protesto-congresso-santiago-pena-paraguai.jpeg-e1793915011119.png?w=647&h=364&crop=1",
-      "published_at": "2026-11-05T21:43:37+00:00",
-      "region": "América do Sul",
-      "theme": "Política Internacional"
-    },
-    {
-      "title": "Tarcísio recebe Ciro e presidente do PP-SP no Palácio dos Bandeirantes",
-      "url": "https://www.cnnbrasil.com.br/politica/tarcisio-recebe-ciro-e-presidente-do-pp-sp-no-palacio-dos-bandeirantes/",
-      "summary": "Governador recebeu sugestão de nomes para nova equipe de governo",
-      "source": "CNN Brasil",
-      "origin": "brasil",
-      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/11/tarcisio-e1793914152388.jpeg?w=1200&h=630&crop=1",
-      "published_at": "2026-11-05T21:43:16+00:00",
-      "region": "América do Sul",
-      "theme": "Política Internacional"
-    },
-    {
       "title": "Governo Lula vê tendência de normalização das relações com EUA após vitória democrata",
       "url": "https://redir.folha.com.br/redir/online/mundo/rss091/*https://www1.folha.uol.com.br/mundo/2026/11/governo-lula-ve-tendencia-de-normalizacao-das-relacoes-com-eua-apos-vitoria-democrata.shtml",
-      "summary": "O governo Lula (PT) avalia que há uma tendência de que a relação do Brasil com os Estados Unidos seja normalizada após a vitória de maioria democrata nas eleições para o Congresso americano.\nLeia mais (11/05/2026 - 18h43)",
+      "summary": "O governo Lula (PT) avalia que há uma tendência de que a relação do Brasil com os Estados Unidos seja normalizada após a vitória da maioria democrata nas eleições para o Congresso americano.\nLeia mais (11/05/2026 - 18h43)",
       "source": "Folha de S.Paulo - Mundo",
       "origin": "brasil",
       "image": "https://f.i.uol.com.br/fotografia/2026/11/04/17938295376aebaaa198a2a_1793829537_3x2_rt.jpg",
       "published_at": "2026-11-05T21:43:00+00:00",
       "region": "América do Sul",
       "theme": "Comércio e Finanças"
-    },
-    {
-      "title": "Zoetis registra lucro líquido ajustado de US$ 720 milhões no 3º trimestre",
-      "url": "https://www.cnnbrasil.com.br/agro/zoetis-registra-lucro-liquido-ajustado-de-us-720-milhoes-no-3o-trimestre/",
-      "summary": "Resultado representa queda operacional orgânica de 7% na comparação anual, enquanto receita no Brasil cresce 9% no período",
-      "source": "CNN Brasil",
-      "origin": "brasil",
-      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/08/zoetis09112022_eee987.avif?w=888&h=588&crop=1",
-      "published_at": "2026-11-05T21:43:00+00:00",
-      "region": "América do Sul",
-      "theme": "Outros / Multitemático"
-    },
-    {
-      "title": "Spanish footballer Jesus de Miguel mourned by family and friends",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/5/spanish-footballer-jesus-de-miguel-mourned-by-family-and-friends?traffic_source=rss",
-      "summary": "The 30-year-old striker suffered cardiac arrest following an on-field collision.",
-      "source": "Al Jazeera English",
-      "origin": "internacional",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1793914940.jpg?resize=1200%2C675",
-      "published_at": "2026-11-05T21:42:30+00:00",
-      "region": "América do Norte",
-      "theme": "Saúde"
     },
     {
       "title": "EUA anunciam que deixarão de usar disquetes no controle de tráfego aéreo até 2028",
@@ -332,17 +816,6 @@
       "theme": "Política Internacional"
     },
     {
-      "title": "Ação contra exploração sexual de brasileiras pede bloqueio de R$ 10 milhões",
-      "url": "https://www.cnnbrasil.com.br/nacional/brasil/acao-contra-exploracao-sexual-de-brasileiras-pede-bloqueio-de-r-10-milhoes/",
-      "summary": "Operação cumpriu mandados no Pará e em Goiás; Justiça determinou bloqueio de até R$ 10 milhões em bens e valores dos investigados.",
-      "source": "CNN Brasil",
-      "origin": "brasil",
-      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/11/WhatsApp-Image-2026-11-05-at-18.00.08.jpeg?w=1200&h=630&crop=1",
-      "published_at": "2026-11-05T21:40:34+00:00",
-      "region": "América do Sul",
-      "theme": "Direito Internacional e Instituições"
-    },
-    {
       "title": "Após culpar guerra no Irã por 'onda azul', Trump diz que talvez tenha que destruir 'o resto do país'",
       "url": "https://g1.globo.com/mundo/noticia/2026/11/05/apos-culpar-guerra-por-onda-azul-trump-diz-que-talvez-tenha-que-destruir-o-ira.ghtml",
       "summary": "     O presidente dos Estados Unidos, Donald Trump, discursa durante um comício de campanha para as eleições de meio de mandato, no Ocean Center, em Daytona Beach, na Flórida, em 30 de outubro de 2026.\nBrendan SMIALOWSKI / AFP\nO presidente dos Estados Unidos, Donald Trump, disse nesta quinta-feira (...",
@@ -350,28 +823,6 @@
       "origin": "brasil",
       "image": "https://s2-g1.glbimg.com/YZThxVFXoH6RN3GvP_aLNedryfQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/p/qDdnACSMGB4wATmGvbFg/afp-20261031-d4yu993-v1-midres-uspoliticstrump.jpg",
       "published_at": "2026-11-05T21:37:11+00:00",
-      "region": "América do Sul",
-      "theme": "Geopolítica e Segurança"
-    },
-    {
-      "title": "Itamaraty nega preocupação com crise no Paraguai",
-      "url": "https://www.poder360.com.br/poder-governo/itamaraty-descarta-preocupacao-com-crise-no-paraguai/",
-      "summary": "Integrantes do governo avaliam que destituição de Peña não apresenta riscos por ser conduzida dentro de via constitucional",
-      "source": "Poder360",
-      "origin": "brasil",
-      "image": "https://static.poder360.com.br/uploads/2025/07/palacio-itamaraty-flickr.jpeg",
-      "published_at": "2026-11-05T21:36:47+00:00",
-      "region": "América do Sul",
-      "theme": "Política Internacional"
-    },
-    {
-      "title": "Fachin pede parecer da PGR sobre soltura de Vorcaro no caso Master",
-      "url": "https://www.cnnbrasil.com.br/politica/fachin-pede-parecer-da-pgr-sobre-soltura-de-vorcaro-no-caso-master/",
-      "summary": "Defesa do ex-controlador do banco alega excesso de prazo na prisão preventiva, decretada em março, e demora na análise de seus requerimentos pelo Supremo",
-      "source": "CNN Brasil",
-      "origin": "brasil",
-      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/06/ministro-edson-fachin-plenario-stf_4af114.jpg?w=1200&h=630&crop=1",
-      "published_at": "2026-11-05T21:35:47+00:00",
       "region": "América do Sul",
       "theme": "Geopolítica e Segurança"
     },
@@ -387,50 +838,6 @@
       "theme": "Ciência, Tecnologia e Inovação"
     },
     {
-      "title": "Palmeiras x Remo: escalações e onde assistir ao jogo do Brasileirão",
-      "url": "https://www.cnnbrasil.com.br/esportes/brasileirao/palmeiras-x-remo-escalacoes-e-onde-assistir-ao-jogo-do-brasileirao/",
-      "summary": "Equipes se enfrentam nesta quinta-feira (5), a partir das 19h30 (de Brasília), pela 34ª rodada da competição nacional de pontos corridos",
-      "source": "CNN Brasil",
-      "origin": "brasil",
-      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/10/allianz-parque-e1760216989331.jpg?w=1200&h=630&crop=1",
-      "published_at": "2026-11-05T21:33:48+00:00",
-      "region": "América do Sul",
-      "theme": "Comércio e Finanças"
-    },
-    {
-      "title": "Israeli demolitions displace more than 100 Palestinians in Biddu",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/5/aje-onl-nf_israeli-demolitions-displace-palestinians-in-biddu-051126?traffic_source=rss",
-      "summary": "Israeli forces demolished five homes in Biddu, occupied West Bank, displacing more than 100 people.",
-      "source": "Al Jazeera English",
-      "origin": "internacional",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1793914414.jpg?resize=1920%2C1080&quality=80",
-      "published_at": "2026-11-05T21:33:40+00:00",
-      "region": "Oriente Médio",
-      "theme": "Outros / Multitemático"
-    },
-    {
-      "title": "Hoax bomb threats force emergency landings, evacuations across Europe",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/5/hoax-bomb-threats-force-emergency-landings-evacuations-across-europe?traffic_source=rss",
-      "summary": "Bomb threats are causing travel disruptions at airports across Europe, targeting at least 27 flights.",
-      "source": "Al Jazeera English",
-      "origin": "internacional",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1793913972.jpg?resize=1920%2C1080&quality=80",
-      "published_at": "2026-11-05T21:26:21+00:00",
-      "region": "América do Norte",
-      "theme": "Ciência, Tecnologia e Inovação"
-    },
-    {
-      "title": "Transparência definirá confiança do investidor no Paraguai, diz Frontexa",
-      "url": "https://www.poder360.com.br/poder-economia/transparencia-definira-confianca-do-investidor-no-paraguai-diz-frontexa/",
-      "summary": "Fundadora da consultoria especializada na instalação de empresas no país afirma que “solo fértil” para investimento continua, mas é preciso ter cautela após a quebra do Ueno Bank",
-      "source": "Poder360",
-      "origin": "brasil",
-      "image": "https://static.poder360.com.br/uploads/2026/11/ueno-bank-fachada-1200x675.jpg",
-      "published_at": "2026-11-05T21:25:07+00:00",
-      "region": "América do Sul",
-      "theme": "Economia Internacional"
-    },
-    {
       "title": "Nigeria court bars opposition candidate two months before election",
       "url": "https://www.france24.com/en/nigeria-court-bars-opposition-candidate-two-months-before-election",
       "summary": "In tonight's edition, a Nigerian court disqualifies a leading presidential candidate, adding fresh complications for the electoral process two months before the election. Also, tens of thousands have fled across the border into Kenya as deadly ethnic clashes in southern Ethiopia intensify. And havin...",
@@ -440,28 +847,6 @@
       "published_at": "2026-11-05T21:22:18+00:00",
       "region": "América do Norte",
       "theme": "Política Internacional"
-    },
-    {
-      "title": "Musa da Copa de 2010 diz que perdeu investimentos no Ueno",
-      "url": "https://www.poder360.com.br/poder-gente/musa-da-copa-de-2010-diz-que-perdeu-investimentos-no-ueno/",
-      "summary": "Modelo paraguaia Larissa Riquelme mantinha recursos na instituição e trabalhava em empresa ligada ao grupo financeiro",
-      "source": "Poder360",
-      "origin": "brasil",
-      "image": "https://static.poder360.com.br/uploads/2026/11/larissa-riquelme-1200x675.jpg",
-      "published_at": "2026-11-05T21:22:01+00:00",
-      "region": "América do Sul",
-      "theme": "Comércio e Finanças"
-    },
-    {
-      "title": "Dino marca audiência para discutir o fim da 6 X 1",
-      "url": "https://www.poder360.com.br/poder-justica/dino-marca-audiencia-para-discutir-o-fim-da-6-x-1/",
-      "summary": "Ministro é relator de uma ação da CNC no Supremo que questiona o prazo de implementação da redução da jornada de trabalho",
-      "source": "Poder360",
-      "origin": "brasil",
-      "image": "https://static.poder360.com.br/uploads/2026/09/flavio-dino-24set26-1200x675.jpg",
-      "published_at": "2026-11-05T21:16:20+00:00",
-      "region": "América do Sul",
-      "theme": "Ciência, Tecnologia e Inovação"
     },
     {
       "title": "Críticos de Santiago Peña questionam paradeiro de presidente e o comparam a Flávio Bolsonaro",
@@ -488,7 +873,7 @@
     {
       "title": "Rubio avalia renunciar e abandonar governo Trump após midterms, diz agência",
       "url": "https://redir.folha.com.br/redir/online/mundo/rss091/*https://www1.folha.uol.com.br/mundo/2026/11/rubio-avalia-renunciar-e-abandonar-governo-trump-apos-midterms-diz-agencia.shtml",
-      "summary": "A agência de notícias Bloomberg e o portal britânico The Independent afirmaram nesta quinta-feira (5), com base em conversas sob reserva com membros do governo dos Estados Unidos, que o secretário de Estado Marco Rubio avalia renunciar ao cargo.\nLeia mais (11/05/2026 - 18h04)",
+      "summary": "A agência de notícias Bloomberg e o portal britânico The Independent afirmaram nesta quinta-feira (5), com base em conversas sob reserva com membros do governo dos Estados Unidos, que o secretário de Estado americano, Marco Rubio, avalia renunciar ao cargo.\nLeia mais (11/05/2026 - 18h04)",
       "source": "Folha de S.Paulo - Mundo",
       "origin": "brasil",
       "image": "https://f.i.uol.com.br/fotografia/2026/11/05/17939116586aeceb6a3818d_1793911658_3x2_rt.jpg",
@@ -517,61 +902,6 @@
       "published_at": "2026-11-05T20:51:57+00:00",
       "region": "América do Sul",
       "theme": "Direito Internacional e Instituições"
-    },
-    {
-      "title": "Saudi coalition intercepts missile fired towards Medina",
-      "url": "https://www.aljazeera.com/news/2026/11/5/saudi-coalition-intercepts-missile-fired-towards-medina?traffic_source=rss",
-      "summary": "Interception comes after Saudi civil defence agency warned of potential danger near the strategic port of Yanbu.",
-      "source": "Al Jazeera English",
-      "origin": "internacional",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/AFP__20261103__D69F8JF__v2__HighRes__TopshotYemenSaudiUsIsraelIranWar-1793860005.jpg?resize=1920%2C1440",
-      "published_at": "2026-11-05T20:48:47+00:00",
-      "region": "Global",
-      "theme": "Geopolítica e Segurança"
-    },
-    {
-      "title": "Operação contra fraudes faz 34 prisões em dez estados e no DF",
-      "url": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-11/operacao-contra-fraudes-faz-34-prisoes-em-dez-estados-e-no-df",
-      "summary": "\n                    \n\t\t\t\tPoliciais civis prenderam nesta quinta-feira (5) 34 pessoas suspeitas de participar de uma organização criminosa investigada por fraudes eletrônicas e lavagem de dinheiro. A ação foi coordenada pela Polícia Civil do Rio Grande do Sul e deflagrada em dez estados e no Distrit...",
-      "source": "Agência Brasil",
-      "origin": "brasil",
-      "image": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-      "published_at": "2026-11-05T20:48:00+00:00",
-      "region": "América do Sul",
-      "theme": "Direitos Humanos, Sociedade e Migrações"
-    },
-    {
-      "title": "Why are wealthy countries failing developing nations?",
-      "url": "https://www.aljazeera.com/video/inside-story/2026/11/5/why-are-wealthy-countries-failing-developing-nations?traffic_source=rss",
-      "summary": "UN report warns climate adaptation funding is falling far short of needs.",
-      "source": "Al Jazeera English",
-      "origin": "internacional",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1793910187.jpg?resize=1920%2C1080&quality=80",
-      "published_at": "2026-11-05T20:45:47+00:00",
-      "region": "Global",
-      "theme": "Meio Ambiente e Clima"
-    },
-    {
-      "title": "Melania Trump hosts Russia-Ukraine meeting after Oleshky ceasefire",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/5/melania-trump-hosts-russia-ukraine-meeting-after-oleshky-ceasefire?traffic_source=rss",
-      "summary": "US First Lady Melania Trump has brought Russian and Ukrainian representatives together at the White House.",
-      "source": "Al Jazeera English",
-      "origin": "internacional",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/Screenshot-2026-11-05-at-20.37.21-1793911153.png?resize=1200%2C675",
-      "published_at": "2026-11-05T20:43:46+00:00",
-      "region": "América do Norte",
-      "theme": "Outros / Multitemático"
-    },
-    {
-      "title": "Durigan discutirá medidas fiscais com Lula após viagem à COP31",
-      "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/durigan-discutira-medidas-fiscais-com-lula-apos-viagem-cop31",
-      "summary": "\n                    \n\t\t\t\tO ministro da Fazenda, Dario Durigan, afirmou nesta quinta-feira (5) que discutirá com o presidente Luiz Inácio Lula da Silva medidas para a agenda fiscal do governo após o retorno do chefe do Executivo de uma viagem internacional, prevista para terminar em 15 de novembro. ...",
-      "source": "Agência Brasil",
-      "origin": "brasil",
-      "image": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-      "published_at": "2026-11-05T20:40:00+00:00",
-      "region": "América do Sul",
-      "theme": "Política Brasileira"
     },
     {
       "title": "French protests: 'It's only when public, private sector act together that you can make changes'",
@@ -618,17 +948,6 @@
       "theme": "Direito Internacional e Instituições"
     },
     {
-      "title": "Dino marca audiência de conciliação sobre fim da escala 6x1",
-      "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-11/dino-marca-audiencia-de-conciliacao-sobre-fim-da-escala-6x1",
-      "summary": "\n                    \n\t\t\t\tO ministro Flávio Dino, Supremo Tribunal Federal (STF), decidiu nesta quinta-feira (5) convocar uma audiência de conciliação para tratar das ações que contestam o fim da escala de trabalho 6x1.\n\nA audiência foi marcada para 10 de novembro, às 14h, na Primeira Turma do Supre...",
-      "source": "Agência Brasil",
-      "origin": "brasil",
-      "image": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-      "published_at": "2026-11-05T20:22:00+00:00",
-      "region": "América do Sul",
-      "theme": "Política Brasileira"
-    },
-    {
       "title": "Ministério Público do Paraguai abre investigação contra presidente por suspeita de corrupção",
       "url": "https://g1.globo.com/mundo/noticia/2026/11/05/ministerio-publico-do-paraguai-abre-investigacao-contra-santiago-pena-por-suspeita-de-corrupcao.ghtml",
       "summary": "     Brasileira relata dificuldades ao ter dinheiro retido em banco falido no Paraguai\nO Ministério Público do Paraguai abriu uma investigação criminal contra o presidente Santiago Peña para apurar suspeitas de irregularidades envolvendo recursos públicos depositados no banco Ueno e sua relação com ...",
@@ -638,17 +957,6 @@
       "published_at": "2026-11-05T20:17:07+00:00",
       "region": "América do Sul",
       "theme": "Ciência, Tecnologia e Inovação"
-    },
-    {
-      "title": "Imposto do pecado: entenda cobrança sobre cigarros, bebidas e veículos",
-      "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/imposto-do-pecado-entenda-cobranca-sobre-cigarros-bebidas-e-veiculos",
-      "summary": "\n                    \n\t\t\t\tApós meses de negociação com os setores atingidos, o governo federal publicou, na quarta-feira (4), a Medida Provisória (MP) 1.399/2026, que estabelece as alíquotas do Imposto Seletivo (IS), conhecido como “Imposto do Pecado”. \n\nCriado pela reforma tributária, o tributo inc...",
-      "source": "Agência Brasil",
-      "origin": "brasil",
-      "image": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-      "published_at": "2026-11-05T20:10:00+00:00",
-      "region": "América do Sul",
-      "theme": "Economia Brasileira"
     },
     {
       "title": "Governador da Califórnia cancela pena de morte de 548 pessoas",
@@ -662,12 +970,12 @@
       "theme": "Outros / Multitemático"
     },
     {
-      "title": "Senado do Paraguai suspende votação de renúncia de presidente; Santiago Peña continua no cargo",
+      "title": "Congresso do Paraguai suspende votação de renúncia de presidente; Santiago Peña continua no cargo",
       "url": "https://g1.globo.com/mundo/noticia/2026/11/05/senado-do-paraguai-inicia-julgamento-de-pedido-de-renuncia-de-presidente-veja-os-proximos-passos.ghtml",
-      "summary": "     Presidente do Paraguai renuncia ao cargo; veja íntegra do comunicado\nO Congresso do Paraguai interrompeu nesta quinta-feira (5) a sessão que decidiria sobre a renúncia do presidente Santiago Peña. A votação foi suspensa depois que deputados do Partido Colorado, ao qual o presidente é filiado, d...",
+      "summary": "     Presidente do Paraguai renuncia ao cargo; veja íntegra do comunicado\nO Congresso do Paraguai interrompeu nesta quinta-feira (5) a sessão que decidiria sobre a renúncia do presidente Santiago Peña. O país vive uma profunda crise política após vir a tona um escândalo envolvendo a quebra do banco ...",
       "source": "G1 - Mundo",
       "origin": "brasil",
-      "image": "https://s2-g1.glbimg.com/wyn-7dHJZPS91DIoeAi_hCvgjdY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/s/7/WW4B18Qqq7FPxN5qC1zw/pena.jpg",
+      "image": "https://s2-g1.glbimg.com/Ewef4gBjRcFXUXPO9rLjpK0VtOk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/z/E/pVS555Rda9TEvDUzE49A/2023-04-28t003803z-825269029-rc2km0a5bbyr-rtrmadp-3-paraguay-election-pena.jpg",
       "published_at": "2026-11-05T20:05:08+00:00",
       "region": "América do Sul",
       "theme": "Política Internacional"
@@ -684,37 +992,15 @@
       "theme": "Política Internacional"
     },
     {
-      "title": "Who could be behind hoax bomb threats to European air travel?",
-      "url": "https://www.bbc.co.uk/news/articles/cx8dzzjg3g9zo?at_medium=RSS&at_campaign=rss",
-      "summary": "There is no hard evidence so far linking airline bomb threats to Russia, Iran or any proxy groups.",
-      "source": "BBC News - World",
-      "origin": "internacional",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/feab/live/224ee450-d951-11f1-b441-2b33b063138f.jpg",
-      "published_at": "2026-11-05T19:58:40+00:00",
-      "region": "América do Norte",
-      "theme": "Ciência, Tecnologia e Inovação"
-    },
-    {
       "title": "Escândalo do Ueno Bank foi estopim, mas não causa da queda de Peña",
       "url": "https://redir.folha.com.br/redir/online/mundo/rss091/*https://www1.folha.uol.com.br/mundo/2026/11/escandalo-do-ueno-bank-foi-estopim-mas-nao-causa-da-queda-de-pena.shtml",
-      "summary": "A renúncia de Santiago Peña não foi apenas o desfecho do colapso do Ueno Bank. Foi, antes de tudo, o reconhecimento de que o presidente do Paraguai havia perdido o principal recurso de sobrevivência política de qualquer governante do país: o apoio do Partido Colorado.\nLeia mais (11/05/2026 - 16h58)",
+      "summary": "A renúncia de Santiago Peña não foi apenas o desfecho do colapso do Ueno Bank. Foi, antes de tudo, o reconhecimento de que o presidente do Paraguai havia perdido o principal recurso de sobrevivência política de qualquer governante do país: o apoio integral do Partido Colorado.\nLeia mais (11/05/2026 ...",
       "source": "Folha de S.Paulo - Mundo",
       "origin": "brasil",
       "image": "https://f.i.uol.com.br/fotografia/2026/11/05/17939076936aecdbedf1ff1_1793907693_3x2_rt.jpg",
       "published_at": "2026-11-05T19:58:00+00:00",
       "region": "América do Sul",
       "theme": "Política Internacional"
-    },
-    {
-      "title": "Mais de 2,4 milhões de casas precisam renovar desconto na conta de luz",
-      "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/mais-de-24-milhoes-de-casas-precisam-renovar-desconto-na-conta-de-luz",
-      "summary": "\n                    \n\t\t\t\tMais de 2,4 milhões de famílias de baixa renda precisam atualizar o cadastro junto a distribuidoras de energia elétrica para manter os benefícios do Programa Tarifa Social, que concede descontos e até isenção do pagamento da conta de luz.\n\nO número faz parte de um levantame...",
-      "source": "Agência Brasil",
-      "origin": "brasil",
-      "image": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-      "published_at": "2026-11-05T19:58:00+00:00",
-      "region": "América do Sul",
-      "theme": "Cultura, Mídia e Sociedade"
     },
     {
       "title": "Entenda o escândalo bancário que derrubou o presidente do Paraguai",
@@ -739,39 +1025,6 @@
       "theme": "Cultura, Mídia e Sociedade"
     },
     {
-      "title": "Derrota de Trump coloca em xeque relação histórica dos EUA com Israel",
-      "url": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-11/derrota-de-trump-coloca-em-xeque-relacao-historica-dos-eua-com-israel",
-      "summary": "\n                    \n\t\t\t\tA derrota histórica dos republicanos na eleição de meio de mandato do presidente dos Estados Unidos (EUA), Donald Trump, colocou em xeque a sólida relação entre o país norte-americano e Israel, que vem sendo alvo de críticas internas nos últimos anos.\n\nO vice-presidente dos...",
-      "source": "Agência Brasil",
-      "origin": "brasil",
-      "image": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-      "published_at": "2026-11-05T19:55:00+00:00",
-      "region": "América do Sul",
-      "theme": "Política Internacional"
-    },
-    {
-      "title": "Autoridades investigam quatro mortes relacionadas a temporais no Sul",
-      "url": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-11/autoridades-investigam-quatro-mortes-relacionadas-temporais-no-sul",
-      "summary": "\n                    \n\t\t\t\tAs defesas civis do Rio Grande do Sul e de Santa Catarina contabilizam ao menos quatro óbitos possivelmente relacionados aos temporais deste início de novembro. As mortes investigadas foram entre terça (3) e esta quinta-feira (5).\n\nNo Rio Grande do Sul, foi encontrado o cor...",
-      "source": "Agência Brasil",
-      "origin": "brasil",
-      "image": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-      "published_at": "2026-11-05T19:50:00+00:00",
-      "region": "América do Sul",
-      "theme": "Geopolítica e Segurança"
-    },
-    {
-      "title": "FGC alerta para vazamento de dados de investidores e risco de golpes",
-      "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/fgc-alerta-para-vazamento-de-dados-de-investidores-e-risco-de-golpes",
-      "summary": "O Fundo Garantidor de Créditos (FGC) informou nesta quinta-feira (5) que identificou acesso não autorizado a dados pessoais de investidores. O incidente, detectado em 26 de outubro, envolveu informações como nome, CPF, e-mail e data de nascimento. \n\nA entidade comunicou o caso à Agência Nacional de ...",
-      "source": "Agência Brasil",
-      "origin": "brasil",
-      "image": "https://agenciabrasil.ebc.com.br/ebc.png?id=1707843&amp;o=rss",
-      "published_at": "2026-11-05T19:40:00+00:00",
-      "region": "América do Sul",
-      "theme": "Economia Internacional"
-    },
-    {
       "title": "Bomb Threats Disrupt European Flights and Rattle Passengers",
       "url": "https://www.nytimes.com/2026/11/05/world/europe/bomb-threats-airline-passengers.html",
       "summary": "Passengers recounted landing at a military base and being subjected to security checks and travel delays after threats that turned out to be hoaxes affected planes in Italy, Poland and Spain.",
@@ -794,17 +1047,6 @@
       "theme": "Direito Internacional e Instituições"
     },
     {
-      "title": "Eight killed in series of shootings in western Turkey",
-      "url": "https://www.bbc.co.uk/news/articles/cvj6jj21pd2ko?at_medium=RSS&at_campaign=rss",
-      "summary": "Victims are found in several locations in three separate vehicles, according to local reports.",
-      "source": "BBC News - World",
-      "origin": "internacional",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/06a9/live/afaf1b30-d947-11f1-93e1-3b657b665bcf.jpg",
-      "published_at": "2026-11-05T19:32:54+00:00",
-      "region": "Global",
-      "theme": "Outros / Multitemático"
-    },
-    {
       "title": "Aliada de Trump que investigou universidades nos EUA pede demissão",
       "url": "https://g1.globo.com/mundo/noticia/2026/11/05/aliada-de-trump-que-chefiava-a-unidade-de-direitos-civis-do-departamento-de-justica-pede-demissao.ghtml",
       "summary": "     Harmeet Dhillon após depor em audiência da Comissão de Administração da Câmara dos Representantes, no Capitólio, em Washington, em 11 de maio de 2023\nAndrew Harnik/AP\nA funcionária do Departamento de Justiça dos EUA Harmeet Dhillon, que chefiava a Divisão de Direitos Civis e supervisionou inves...",
@@ -816,61 +1058,6 @@
       "theme": "Meio Ambiente e Clima"
     },
     {
-      "title": "Principais partidos árabes anunciam apoio a Gadi Eisenkot para formar governo em Israel",
-      "url": "https://redir.folha.com.br/redir/online/mundo/rss091/*https://www1.folha.uol.com.br/mundo/2026/11/principais-partidos-arabes-anunciam-apoio-a-gadi-eisenkot-para-formar-governo-em-israel.shtml",
-      "summary": "O principal partido árabe de Israel, a Lista Unificada, anunciou nesta quinta-feira (5) o apoio ao candidato Gadi Eisenkot para tentar formar um governo, reforçando sua posição frente ao primeiro-ministro Binyamin Netanyahu, fragilizado após perder o apoio de um aliado ultraortodoxo crucial.\nLeia ma...",
-      "source": "Folha de S.Paulo - Mundo",
-      "origin": "brasil",
-      "image": "https://f.i.uol.com.br/fotografia/2026/11/05/17939043776aeccef92f4b5_1793904377_3x2_rt.jpg",
-      "published_at": "2026-11-05T19:12:00+00:00",
-      "region": "América do Sul",
-      "theme": "Política Internacional"
-    },
-    {
-      "title": "Melania Trump calls for lasting Ukraine truce as she hosts Russian and Ukrainian officials",
-      "url": "https://www.bbc.co.uk/news/articles/c9p8g085mz07o?at_medium=RSS&at_campaign=rss",
-      "summary": "The US first lady was credited by all for playing a key though unspecified role in the ceasefire.",
-      "source": "BBC News - World",
-      "origin": "internacional",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a4b7/live/4ad22690-d955-11f1-b7f4-8bd3c0617693.jpg",
-      "published_at": "2026-11-05T19:08:08+00:00",
-      "region": "América do Norte",
-      "theme": "Outros / Multitemático"
-    },
-    {
-      "title": "Prêmio TV Brasil Petrobras Para Elas indica destaques da temporada",
-      "url": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-11/premio-tv-brasil-petrobras-para-elas-indica-destaques-da-temporada",
-      "summary": "\n                    \n\t\t\t\tQuem foi a melhor jogadora da temporada no futebol feminino brasileiro? No Prêmio TV Brasil Petrobras Para Elas, três atletas estão na disputa da categoria que consagra o destaque das competições nacionais em 2026. As finalistas, reveladas nesta quinta-feira (5), são a gole...",
-      "source": "Agência Brasil",
-      "origin": "brasil",
-      "image": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-      "published_at": "2026-11-05T19:04:00+00:00",
-      "region": "América do Sul",
-      "theme": "Direito Internacional e Instituições"
-    },
-    {
-      "title": "Com impeachment pós-massacre e assassinato de vice, Paraguai teve outros dois líderes que não terminaram mandato",
-      "url": "https://redir.folha.com.br/redir/online/mundo/rss091/*https://www1.folha.uol.com.br/mundo/2026/11/com-impeachment-pos-massacre-e-assassinato-de-vice-paraguai-teve-outros-dois-lideres-que-nao-terminaram-mandato.shtml",
-      "summary": "O presidente do Paraguai, Santiago Peña, renunciou nesta quinta-feira (5) após o colapso financeiro do país devido ao escândalo do Ueno Bank, instituição financeira com a qual o presidente manteve vínculos como investidor até 2025.\nLeia mais (11/05/2026 - 16h03)",
-      "source": "Folha de S.Paulo - Mundo",
-      "origin": "brasil",
-      "image": "https://f.i.uol.com.br/fotografia/2026/11/05/17938997766aecbd0047707_1793899776_3x2_rt.jpg",
-      "published_at": "2026-11-05T19:03:00+00:00",
-      "region": "América do Sul",
-      "theme": "Geopolítica e Segurança"
-    },
-    {
-      "title": "TSE altera entendimento sobre cota de gênero e mantém mandato",
-      "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-11/tse-altera-entendimento-sobre-cota-de-genero-e-mantem-mandato",
-      "summary": "\n                    \n\t\t\t\tO plenário do Tribunal Superior Eleitoral (TSE) decidiu nesta quinta-feira (5), por 6 a 1, alterar um entendimento sobre cassação de chapa por fraude à cota de gênero. A decisão vai permitir que candidatas eleitas mantenham o cargo mesmo após a cassação da chapa. \n\nDesde 20...",
-      "source": "Agência Brasil",
-      "origin": "brasil",
-      "image": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-      "published_at": "2026-11-05T19:02:00+00:00",
-      "region": "América do Sul",
-      "theme": "Política Brasileira"
-    },
-    {
       "title": "Iran is Reviewing ‘Concrete Proposals’ on Nuclear Program, Officials Say",
       "url": "https://www.nytimes.com/2026/11/05/world/middleeast/peace-talks-iran-united-states-qatar-nuclear-program.html",
       "summary": "Iran’s willingness to re-engage on the issue suggests that Qatar-led diplomatic efforts to avert full-blown war between the U.S. and Iran have had some success.",
@@ -880,28 +1067,6 @@
       "published_at": "2026-11-05T18:27:59+00:00",
       "region": "Oriente Médio",
       "theme": "Geopolítica e Segurança"
-    },
-    {
-      "title": "'Quase todo meu dinheiro está preso no banco': brasileiros que foram para o Paraguai são afetados pela crise no país",
-      "url": "https://www.bbc.com/portuguese/articles/c804064l5ppyo?at_medium=RSS&at_campaign=rss",
-      "summary": "Com a facilidade para abertura de contas, Ueno Bank atraiu brasileiros que se mudaram para a Paraguai para estudar ou abrir negócios.",
-      "source": "BBC News Brasil",
-      "origin": "brasil",
-      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/bd7c/live/0b3dd8e0-d936-11f1-8bce-2396c9c50357.jpg",
-      "published_at": "2026-11-05T18:24:40+00:00",
-      "region": "América do Sul",
-      "theme": "Ciência, Tecnologia e Inovação"
-    },
-    {
-      "title": "Alvo de mandado de prisão por tráfico de drogas, presidente do Supremo da Bolívia foge do país",
-      "url": "https://redir.folha.com.br/redir/online/mundo/rss091/*https://www1.folha.uol.com.br/mundo/2026/11/alvo-de-mandado-de-prisao-por-trafico-de-drogas-presidente-do-supremo-da-bolivia-foge-do-pais.shtml",
-      "summary": "O presidente da mais alta corte de Justiça da Bolívia, Romer Saucedo, fugiu do país nesta quinta-feira (5) após a emissão de um mandado de prisão por tráfico de drogas contra si. O Ministério Público disse que vai acionar a Interpol para que haja uma busca internacional pelo juiz.\nLeia mais (11/05/2...",
-      "source": "Folha de S.Paulo - Mundo",
-      "origin": "brasil",
-      "image": "https://f.i.uol.com.br/fotografia/2026/11/05/17939044316aeccf2f1e636_1793904431_3x2_xl.jpg",
-      "published_at": "2026-11-05T18:19:00+00:00",
-      "region": "América do Sul",
-      "theme": "Direito Internacional e Instituições"
     },
     {
       "title": "Portugal: Cristiano Ronaldo announces his international retirement",
@@ -924,17 +1089,6 @@
       "published_at": "2026-11-05T18:11:00+00:00",
       "region": "Global",
       "theme": "Política Internacional"
-    },
-    {
-      "title": "Vice que deve assumir Presidência do Paraguai também é acusado de envolvimento em escândalo",
-      "url": "https://redir.folha.com.br/redir/online/mundo/rss091/*https://www1.folha.uol.com.br/mundo/2026/11/vice-que-deve-assumir-presidencia-do-paraguai-tambem-e-acusado-de-envolvimento-em-escandalo.shtml",
-      "summary": "Vice de Santiago Peña, que renunciou à Presidência do Paraguai nesta quinta-feira (5), Pedro Alliana deve assumir o comando do país mesmo sendo acusado de cumplicidade no escândalo que levou à queda de seu correligionário no Partido Colorado, legenda conservadora que domina a política paraguaia há d...",
-      "source": "Folha de S.Paulo - Mundo",
-      "origin": "brasil",
-      "image": "https://f.i.uol.com.br/fotografia/2026/11/05/17939011846aecc28051947_1793901184_3x2_xl.jpg",
-      "published_at": "2026-11-05T18:08:00+00:00",
-      "region": "América do Sul",
-      "theme": "Ciência, Tecnologia e Inovação"
     },
     {
       "title": "French protests see numbers surge as unions join strikes over high cost of living",
@@ -1014,17 +1168,6 @@
       "theme": "Direitos Humanos, Sociedade e Migrações"
     },
     {
-      "title": "Paraguay's president Peña impeached moments after resigning over banking scandal",
-      "url": "https://www.france24.com/en/americas/20261105-paraguay-s-president-pe%C3%B1a-impeached-moments-after-resigning-amid-banking-scandal",
-      "summary": "Paraguay’s lower house voted unanimously to impeach President Santiago Peña on Thursday, just minutes after he announced his resignation on X. Protesters have rallied in the streets since the takeover of a bank linked to Peña blocked millions of people, including pensioners, from accessing their mon...",
-      "source": "France 24",
-      "origin": "internacional",
-      "image": "https://s.france24.com/media/display/1198d560-d93f-11f1-a118-a575454bc579/w:1024/p:16x9/c4afdd54ed24b995ef94ec7e5393b007e83d233c.jpg",
-      "published_at": "2026-11-05T17:33:53+00:00",
-      "region": "América do Norte",
-      "theme": "Política Internacional"
-    },
-    {
       "title": "Câmara paraguaia aprova seguir com processo de impeachment do  presidente do Paraguai, mesmo após renúncia",
       "url": "https://g1.globo.com/mundo/noticia/2026/11/05/congresso-paraguaio-aprova-seguir-com-processo-impeachment-do-presidente-do-paraguai-mesmo-apos-renuncia.ghtml",
       "summary": "     Presidente do Paraguai, Santiago Peña, renuncia após crise bancária\nA Câmara de Deputados do Paraguai aprovou nesta quinta-feira (5) dar seguimento do processo de impeachment do presidente do país,  Santiago Peña.\nOs deputados também rejeitaram a carta de renúncia apresentada por Peña — a Const...",
@@ -1047,50 +1190,6 @@
       "theme": "Política Brasileira"
     },
     {
-      "title": "🔴 Live: Interior ministry says 600,000 protest across France as unions claim 'close to 1.6 million'",
-      "url": "https://www.france24.com/en/france/20261105-live-france-nationwide-strikes-living-costs",
-      "summary": "",
-      "source": "France 24",
-      "origin": "internacional",
-      "image": "https://loremflickr.com/800/450/society,people?lock=817",
-      "published_at": "2026-11-05T17:05:44+00:00",
-      "region": "Global",
-      "theme": "Direitos Humanos, Sociedade e Migrações"
-    },
-    {
-      "title": "Santiago Peña tentou se blindar da Justiça com renúncia, diz Ariel Palácios",
-      "url": "https://g1.globo.com/mundo/noticia/2026/11/05/com-renuncia-santiago-pena-ganha-cargo-de-senador-vitalicio-no-paraguai.ghtml",
-      "summary": "     Presidente do Paraguai renuncia ao cargo em meio a crise política e econômica\nO presidente do Paraguai, Santiago Peña, tentou se blindar e manter seu foro privilegiado ao anunciar sua decisão de renunciar nesta quinta-feira (5), afirma Ariel Palácios.\n✅ Siga o canal de notícias internacionais d...",
-      "source": "G1 - Mundo",
-      "origin": "brasil",
-      "image": "https://s2-g1.glbimg.com/931fvwvhca_M4XOgqnybEMDgDR8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/O/9/tvjNW7SseODUS6B9GLtQ/2026-11-05t162617z-2095193189-rc28k9aom5wk-rtrmadp-3-paraguay-politics.jpg",
-      "published_at": "2026-11-05T17:04:26+00:00",
-      "region": "América do Sul",
-      "theme": "Direito Internacional e Instituições"
-    },
-    {
-      "title": "4 pontos para entender a crise de banco no Paraguai que derrubou Santiago Peña",
-      "url": "https://www.bbc.com/portuguese/articles/cmq8njl81978o?at_medium=RSS&at_campaign=rss",
-      "summary": "A intervenção no Ueno Bank, uma das maiores instituições financeiras do Paraguai, abalou o sistema bancário do país e os mais altos escalões do poder político.",
-      "source": "BBC News Brasil",
-      "origin": "brasil",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4f7e/live/ef935710-d939-11f1-b441-2b33b063138f.jpg",
-      "published_at": "2026-11-05T16:51:39+00:00",
-      "region": "América do Sul",
-      "theme": "Ciência, Tecnologia e Inovação"
-    },
-    {
-      "title": "Santiago Peña, presidente do Paraguai que renunciou ao cargo, é de direita ou esquerda? Entenda a posição política",
-      "url": "https://g1.globo.com/mundo/noticia/2026/11/05/santiago-pena-presidente-do-paraguai-que-renunciou-ao-cargo-e-de-direita-ou-esquerda-entenda-a-posicao-politica.ghtml",
-      "summary": "     Santiago Peña reconhece que a saúde continua sendo um dos principais desafios do país\nEPA\nO presidente do Paraguai, Santiago Peña, que renunciou ao cargo nesta quinta-feira (5), é do filiado ao Partido Colorado, de direita. \nParaguai: entenda a crise que colocou banco sob suspeita e levou à ren...",
-      "source": "G1 - Mundo",
-      "origin": "brasil",
-      "image": "https://s2-g1.glbimg.com/WdGw-kI7tuoUnGq1V5rSDB8MPFs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/X/a/7L2FxXQbqAb9fBvBbZFg/fotojet-8-.jpg",
-      "published_at": "2026-11-05T16:38:18+00:00",
-      "region": "América do Sul",
-      "theme": "Ciência, Tecnologia e Inovação"
-    },
-    {
       "title": "American Is Convicted of Murder in Case That Gripped Italy",
       "url": "https://www.nytimes.com/2026/11/05/world/europe/italy-american-murder-case.html",
       "summary": "A TV program helped to identify the victims, a Russian woman and her young daughter, who were found dead in a Rome park.",
@@ -1102,28 +1201,6 @@
       "theme": "Saúde"
     },
     {
-      "title": "Em mensagem de renúncia, Peña pede desculpas e diz que 'nenhuma pessoa está acima do Paraguai'; leia a íntegra",
-      "url": "https://g1.globo.com/mundo/noticia/2026/11/05/paraguai-leia-na-integra-o-comunicado-da-renuncia-de-santiago-pena.ghtml",
-      "summary": "     Presidente do Paraguai renuncia ao cargo; veja íntegra do comunicado\nO presidente do Paraguai, Santiago Peña, renunciou ao cargo nesta quinta-feira (5), em meio a uma crise política. \n✅ Siga o canal de notícias internacionais do g1 no WhatsApp\nEm comunicado divulgado em suas redes sociais, Penã...",
-      "source": "G1 - Mundo",
-      "origin": "brasil",
-      "image": "https://s2-g1.glbimg.com/wyn-7dHJZPS91DIoeAi_hCvgjdY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/s/7/WW4B18Qqq7FPxN5qC1zw/pena.jpg",
-      "published_at": "2026-11-05T16:26:39+00:00",
-      "region": "América do Sul",
-      "theme": "Ciência, Tecnologia e Inovação"
-    },
-    {
-      "title": "Santiago Peña, presidente do Paraguai, renuncia após escândalo financeiro, mas pode sofrer impeachment",
-      "url": "https://redir.folha.com.br/redir/online/mundo/rss091/*https://www1.folha.uol.com.br/mundo/2026/11/santiago-pena-presidente-do-paraguai-renuncia-apos-escandalo-financeiro.shtml",
-      "summary": "O presidente do Paraguai, Santiago Peña, renunciou nesta quinta-feira (5) em meio a denúncias de fraude envolvendo o Ueno Bank, um dos principais bancos digitais do país, com 2,9 milhões de clientes.\nLeia mais (11/05/2026 - 13h24)",
-      "source": "Folha de S.Paulo - Mundo",
-      "origin": "brasil",
-      "image": "https://f.i.uol.com.br/fotografia/2026/11/05/17938984736aecb7e98563b_1793898473_3x2_rt.jpg",
-      "published_at": "2026-11-05T16:24:00+00:00",
-      "region": "América do Sul",
-      "theme": "Direito Internacional e Instituições"
-    },
-    {
       "title": "Comediante britânico Russell Brand é condenado por estupro e agressão sexual",
       "url": "https://www.dw.com/pt-br/comediante-britânico-russell-brand-é-condenado-por-estupro-e-agressão-sexual/a-79868452?maca=bra-rss-br-all-1030-xml-mrss",
       "summary": "Tribunal em Londres reconheceu um caso de estupro e outros três de agressão sexual perpetrados por ator e influenciador, ex-marido da cantora Katy Perry.",
@@ -1133,28 +1210,6 @@
       "published_at": "2026-11-05T16:01:00+00:00",
       "region": "América do Norte",
       "theme": "Outros / Multitemático"
-    },
-    {
-      "title": "Após derrota nas midterms, republicanos podem apoiar impeachment de secretário da Defesa, diz CNN",
-      "url": "https://redir.folha.com.br/redir/online/mundo/rss091/*https://www1.folha.uol.com.br/mundo/2026/11/apos-derrota-nas-midterms-republicanos-podem-votar-impeachment-de-secretario-da-defesa-diz-cnn.shtml",
-      "summary": "A derrota expressiva do Partido Republicano nas eleições de meio de mandato dos Estados Unidos acelerou uma articulação dentro da legenda para responsabilizar o secretário de Defesa, Pete Hegseth, pelo desgaste político provocado pela guerra contra o Irã, segundo a rede americana CNN.\nLeia mais (11/...",
-      "source": "Folha de S.Paulo - Mundo",
-      "origin": "brasil",
-      "image": "https://f.i.uol.com.br/fotografia/2026/03/12/177335552269b342028f928_1773355522_3x2_rt.jpg",
-      "published_at": "2026-11-05T15:51:00+00:00",
-      "region": "América do Sul",
-      "theme": "Geopolítica e Segurança"
-    },
-    {
-      "title": "Logo antes de renúncia, base do presidente do Paraguai anunciou apoio a impeachment",
-      "url": "https://redir.folha.com.br/redir/online/mundo/rss091/*https://www1.folha.uol.com.br/mundo/2026/11/base-governista-do-paraguai-diz-que-apoiara-impeachment-de-santiago-pena.shtml",
-      "summary": "A base governista do presidente do Paraguai, Santiago Peña, anunciou nesta quinta-feira (5) que votaria a favor do pedido de impeachment contra ele na Câmara dos Deputados, cuja sessão para analisar o caso havia começado nesta manhã. Com a decisão, a acusação poderia ser aprovada por unanimidade.\nLe...",
-      "source": "Folha de S.Paulo - Mundo",
-      "origin": "brasil",
-      "image": "https://f.i.uol.com.br/fotografia/2026/11/05/17938863136aec88691c7d7_1793886313_3x2_rt.jpg",
-      "published_at": "2026-11-05T15:31:00+00:00",
-      "region": "América do Sul",
-      "theme": "Ciência, Tecnologia e Inovação"
     },
     {
       "title": "Cristiano Ronaldo se aposenta da seleção de Portugal: veja os momentos mais icônicos do jogador",
@@ -1188,39 +1243,6 @@
       "published_at": "2026-11-05T14:57:00+00:00",
       "region": "América do Norte",
       "theme": "Comércio e Finanças"
-    },
-    {
-      "title": "Brasileiro eleito na Flórida critica abrigo a Flávio Bolsonaro e diz se espelhar em Erika Hilton",
-      "url": "https://redir.folha.com.br/redir/online/mundo/rss091/*https://www1.folha.uol.com.br/mundo/2026/11/brasileiro-eleito-na-florida-critica-abrigo-a-flavio-bolsonaro-e-diz-se-espelhar-em-erika-hilton.shtml",
-      "summary": "Felipe Sousa-Lazaballet, 40 anos, gargalhou quando soube que virou meme por ser de Duque de Caxias, na Baixada Fluminense. Eleito deputado estadual na Flórida, nos Estados Unidos, ele será o primeiro brasileiro a integrar o legislativo do estado.\nLeia mais (11/05/2026 - 11h48)",
-      "source": "Folha de S.Paulo - Mundo",
-      "origin": "brasil",
-      "image": "https://f.i.uol.com.br/fotografia/2026/10/14/17920061046acfd7d8e60fd_1792006104_3x2_rt.jpg",
-      "published_at": "2026-11-05T14:48:00+00:00",
-      "region": "América do Sul",
-      "theme": "Direito Internacional e Instituições"
-    },
-    {
-      "title": "Por que a doença de Newcastle voltou a preocupar a avicultura no Brasil e no mundo",
-      "url": "https://www.dw.com/pt-br/por-que-a-doença-de-newcastle-voltou-a-preocupar-a-avicultura-no-brasil-e-no-mundo/a-79867131?maca=bra-rss-br-all-1030-xml-mrss",
-      "summary": "Focos em granjas de Santa Catarina levaram 37 países a restringir compras do Brasil. Notificações globais bateram recorde em 2025, com a Europa à frente.",
-      "source": "Deutsche Welle",
-      "origin": "internacional",
-      "image": "https://static.dw.com/image/79866471_6.jpg",
-      "published_at": "2026-11-05T14:33:00+00:00",
-      "region": "América do Sul",
-      "theme": "Saúde"
-    },
-    {
-      "title": "Latinos se voltaram contra Trump nas eleições de meio de mandato",
-      "url": "https://www.dw.com/pt-br/latinos-se-voltaram-contra-trump-nas-eleições-de-meio-de-mandato/a-79862226?maca=bra-rss-br-all-1030-xml-mrss",
-      "summary": "Presidente americano perdeu apoio entre parcela da população que o ajudou a se eleger. Atual política de deportação pode ter impulsionado este cenário.",
-      "source": "Deutsche Welle",
-      "origin": "internacional",
-      "image": "https://static.dw.com/image/71608915_6.jpg",
-      "published_at": "2026-11-05T13:50:00+00:00",
-      "region": "América do Norte",
-      "theme": "Direito Internacional e Instituições"
     },
     {
       "title": "Ameaças de bomba obrigam voos na Europa a fazer pousos de emergência; o que se sabe",
@@ -1333,17 +1355,6 @@
       "theme": "Política Internacional"
     },
     {
-      "title": "'Minha filha de 13 anos sofreu ofensas racistas, sexuais e religiosas após resultado das eleições'",
-      "url": "https://www.bbc.com/portuguese/articles/c6kg7ej7e73ko?at_medium=RSS&at_campaign=rss",
-      "summary": "Áudios enviados a bolsista de colégio particular de BH criticam religião de matriz africana, humilham família por ser de baixa renda e dirigem conteúdo sexual à menina. Escola diz que não compactua com casos de discriminação.",
-      "source": "BBC News Brasil",
-      "origin": "brasil",
-      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/6df2/live/30576f10-d891-11f1-a97c-0fc6527f3052.jpg",
-      "published_at": "2026-11-04T20:52:50+00:00",
-      "region": "América do Sul",
-      "theme": "Política Brasileira"
-    },
-    {
       "title": "Talarico, Hinojosa y Pulido: la combinación con la que los demócratas comienzan a pintar Texas de púrpura",
       "url": "https://elpais.com/us/2026-11-04/talarico-hinojosa-y-pulido-la-combinacion-con-la-que-los-democratas-comienzan-a-pintar-texas-de-purpura.html",
       "summary": "Por primera vez desde hace 30 años, los demócratas alcanzan todos los cargos clave del Estado, en un cambio de fuerzas que el partido había perseguido por años",
@@ -1364,17 +1375,6 @@
       "published_at": "2026-11-04T18:01:54+00:00",
       "region": "América do Norte",
       "theme": "Saúde"
-    },
-    {
-      "title": "Anvisa aprova versão da caneta Wegovy em comprimido:  o que falta para  chegar às farmácias?",
-      "url": "https://www.bbc.com/portuguese/articles/cjn5vdkk0gelo?at_medium=RSS&at_campaign=rss",
-      "summary": "Versão oral da semaglutida, tomada uma vez por dia, já é vendida nos Estados Unidos, no Reino Unido, na Alemanha e nos Emirados Árabes.",
-      "source": "BBC News Brasil",
-      "origin": "brasil",
-      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/703f/live/b81cdd10-d862-11f1-85ab-b3cc3b5498c6.jpg",
-      "published_at": "2026-11-04T18:00:26+00:00",
-      "region": "América do Sul",
-      "theme": "Outros / Multitemático"
     },
     {
       "title": "5 razões para o desastre do partido de Trump nas eleições nos EUA",
